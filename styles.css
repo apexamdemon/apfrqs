@@ -154,3 +154,9 @@ details[open] .summary::after {
   display: flex;
   align-items: center;
 }
+.seo-link {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-top: 6px;
+}

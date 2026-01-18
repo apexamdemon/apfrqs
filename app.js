@@ -32,6 +32,15 @@ function navigateTo(path) {
 }
 
 // ---------- SEO helpers ----------
+function setCanonical(url) {
+  let link = document.querySelector('link[rel="canonical"]');
+  if (!link) {
+    link = document.createElement("link");
+    link.rel = "canonical";
+    document.head.appendChild(link);
+  }
+  link.href = url;
+}
 function prettyTypeLabel(type) {
   const map = {
     "frq": "Free-Response Questions (FRQs)",
@@ -129,20 +138,24 @@ async function renderCourse(slug, yearFilter = null, typeFilter = null) {
   const typeLabel = typeFilter ? prettyTypeLabel(typeFilter) : null;
 
   app.innerHTML = `
-    <div class="breadcrumbs">
-      <a class="link" href="/" data-link>Home</a>
-      <span> / </span>
-      <span>${escapeHtml(slug)}</span>
-      ${yearFilter ? `<span> / </span><span>${escapeHtml(yearFilter)}</span>` : ""}
-      ${typeLabel ? `<span> / </span><span>${escapeHtml(typeLabel)}</span>` : ""}
-    </div>
+  <div class="breadcrumbs">
+    <a class="link" href="/" data-link>Home</a>
+    <span> / </span>
+    <span>${escapeHtml(slug)}</span>
+  </div>
 
-    <section class="card">
-      <h1 class="h1">${escapeHtml(slug)}</h1>
-      ${typeLabel ? `<p class="p">${escapeHtml(typeLabel)}${yearFilter ? ` (${escapeHtml(yearFilter)})` : ""}</p>` : ""}
-      <div id="course-content" style="margin-top: 14px;"></div>
-    </section>
-  `;
+  <section class="card">
+    <h1 class="h1">${escapeHtml(slug)}</h1>
+
+    <p class="p seo-blurb">
+      This page contains archived AP ${escapeHtml(slug)} free-response questions,
+      scoring guidelines, and related exam materials from past years, including
+      resources that are no longer prominently linked on the College Board website.
+    </p>
+
+    <div id="course-content" style="margin-top: 14px;"></div>
+  </section>
+`;
 
   const mount = document.getElementById("course-content");
 
@@ -222,13 +235,26 @@ async function renderCourse(slug, yearFilter = null, typeFilter = null) {
         }
 
         return `
-          <details class="details" ${yearFilter ? "open" : ""}>
-            <summary class="summary">${escapeHtml(y.year)}</summary>
-            <ul class="file-list">
-              ${filesHtml || `<li class="p" style="color: var(--muted);">No allowed files found in this year folder.</li>`}
-            </ul>
-          </details>
-        `;
+  <details class="details">
+    <summary class="summary">${escapeHtml(y.year)}</summary>
+
+    <!-- SEO internal link for this year -->
+    <a
+      href="/course/${encodeURIComponent(slug)}/${encodeURIComponent(y.year)}"
+      data-link
+      class="seo-link"
+    >
+      ${escapeHtml(courseTitle)} ${escapeHtml(y.year)} FRQs
+    </a>
+
+    <ul class="file-list">
+      ${
+        filesHtml ||
+        `<li class="p" style="color: var(--muted);">No allowed files found in this year folder.</li>`
+      }
+    </ul>
+  </details>
+`;
       })
       .join("");
 
@@ -302,7 +328,7 @@ function router() {
     `;
     return;
   }
-
+  setCanonical(window.location.origin + window.location.pathname);
   matched.route.render();
 }
 
