@@ -284,13 +284,9 @@ async function renderCourse(slug, yearFilter = null, typeFilter = null) {
           <details class="details">
             <summary class="summary">${escapeHtml(y.year)}</summary>
 
-            <a
-              href="/course/${encodeURIComponent(slug)}/${encodeURIComponent(y.year)}"
-              data-link
-              class="seo-link"
-            >
+            <div class="seo-link">
               ${escapeHtml(courseTitle)} ${escapeHtml(y.year)} FRQs
-            </a>
+            </div>
 
             <ul class="file-list">
               ${
