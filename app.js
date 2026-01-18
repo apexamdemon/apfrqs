@@ -325,12 +325,10 @@ function matchRoute(pathname) {
   }
 
   // /course/<slug>[/<year>[/<type>]]
-  const m = pathname.match(/^\/course\/([^/]+)(?:\/(\d{4})(?:\/([^/]+))?)?$/);
+  const m = pathname.match(/^\/course\/([^/]+)$/);
   if (m) {
     const slug = decodeURIComponent(m[1]);
-    const year = m[2] ? decodeURIComponent(m[2]) : null;
-    const type = m[3] ? decodeURIComponent(m[3]) : null;
-    return { route: { render: () => renderCourse(slug, year, type) }, params: { slug, year, type } };
+return { route: { render: () => renderCourse(slug) }, params: { slug } }
   }
 
   return null;
