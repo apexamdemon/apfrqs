@@ -88,6 +88,25 @@ async function renderHome() {
     const data = await res.json();
 
     const courses = data.courses || [];
+    // Put AP 2-D and 3-D Art and Design last (they sort first because of "2" and "3")
+const LAST_COURSES = new Set([
+  "AP 2-D Art and Design",
+  "AP 3-D Art and Design"
+]);
+
+courses.sort((a, b) => {
+  const aTitle = COURSE_TITLE_OVERRIDES[a.title] ?? a.title;
+  const bTitle = COURSE_TITLE_OVERRIDES[b.title] ?? b.title;
+
+  const aLast = LAST_COURSES.has(aTitle);
+  const bLast = LAST_COURSES.has(bTitle);
+
+  if (aLast && !bLast) return 1;
+  if (!aLast && bLast) return -1;
+
+  // Otherwise keep normal alphabetical order
+  return aTitle.localeCompare(bTitle);
+});
     if (courses.length === 0) {
       mount.innerHTML = `<p class="p">No courses found. Add folders under /courses and run <code>npm run build:indexes</code>.</p>`;
       return;
