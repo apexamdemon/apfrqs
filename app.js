@@ -33,7 +33,7 @@ function navigateTo(path) {
  */
 async function renderHome() {
   setMeta({
-  title: "AP FRQ Archive | Free Response Questions by Year",
+  title: "AP FRQ Archive | Free Response Questions",
   description: "Browse AP exam free-response questions, scoring guidelines, and sample responses by course and year."
   });
   app.innerHTML = `
@@ -91,7 +91,7 @@ async function renderHome() {
  */
 async function renderCourse(slug) {
   setMeta({
-  title: `${slug} FRQs | Free Response Questions`,
+  title: `${slug} FRQs | Free Response Questions & Scoring Guidelines`,
   description: `Free-response questions and scoring guidelines for ${slug}, organized by year.`
   });
   app.innerHTML = `
@@ -118,7 +118,7 @@ async function renderCourse(slug) {
     h1.textContent = courseTitle;
 
     setMeta({
-      title: `${courseTitle} FRQs | Free Response Questions & Scoring`,
+      title: `${courseTitle} FRQs | Free Response Questions & Scoring Guidelines`,
       description: `All ${courseTitle} free-response questions, scoring guidelines, and sample responses organized by year.`
     });
 }
