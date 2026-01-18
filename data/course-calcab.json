@@ -1,0 +1,1598 @@
+{
+  "slug": "calcab",
+  "title": "AP Calculus AB",
+  "basePath": "/courses/calcab",
+  "generatedAt": "2026-01-17T07:59:31.104Z",
+  "years": [
+    {
+      "year": "2025",
+      "files": [
+        {
+          "name": "ap25-apc-calculus-ab-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2025/ap25-apc-calculus-ab-q1.pdf"
+        },
+        {
+          "name": "ap25-apc-calculus-ab-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2025/ap25-apc-calculus-ab-q2.pdf"
+        },
+        {
+          "name": "ap25-apc-calculus-ab-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2025/ap25-apc-calculus-ab-q3.pdf"
+        },
+        {
+          "name": "ap25-apc-calculus-ab-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2025/ap25-apc-calculus-ab-q4.pdf"
+        },
+        {
+          "name": "ap25-apc-calculus-ab-q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2025/ap25-apc-calculus-ab-q5.pdf"
+        },
+        {
+          "name": "ap25-apc-calculus-ab-q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2025/ap25-apc-calculus-ab-q6.pdf"
+        },
+        {
+          "name": "ap25-calculus-ab-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/calcab/2025/ap25-calculus-ab-score-distributions.pdf"
+        },
+        {
+          "name": "ap25-calculus-ab-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/calcab/2025/ap25-calculus-ab-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap25-cr-report-calculus-ab-bc.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/calcab/2025/ap25-cr-report-calculus-ab-bc.pdf"
+        },
+        {
+          "name": "ap25-frq-calculus-ab.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2025/ap25-frq-calculus-ab.pdf"
+        },
+        {
+          "name": "ap25-sg-calculus-ab.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2025/ap25-sg-calculus-ab.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "files": [
+        {
+          "name": "ap24-apc-calculus-ab-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2024/ap24-apc-calculus-ab-q1.pdf"
+        },
+        {
+          "name": "ap24-apc-calculus-ab-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2024/ap24-apc-calculus-ab-q2.pdf"
+        },
+        {
+          "name": "ap24-apc-calculus-ab-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2024/ap24-apc-calculus-ab-q3.pdf"
+        },
+        {
+          "name": "ap24-apc-calculus-ab-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2024/ap24-apc-calculus-ab-q4.pdf"
+        },
+        {
+          "name": "ap24-apc-calculus-ab-q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2024/ap24-apc-calculus-ab-q5.pdf"
+        },
+        {
+          "name": "ap24-apc-calculus-ab-q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2024/ap24-apc-calculus-ab-q6.pdf"
+        },
+        {
+          "name": "ap24-calculus-ab-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/calcab/2024/ap24-calculus-ab-score-distributions.pdf"
+        },
+        {
+          "name": "ap24-calculus-ab-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/calcab/2024/ap24-calculus-ab-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap24-calculus-bc-ab-subscore-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/calcab/2024/ap24-calculus-bc-ab-subscore-score-distributions.pdf"
+        },
+        {
+          "name": "ap24-cr-report-calculus.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/calcab/2024/ap24-cr-report-calculus.pdf"
+        },
+        {
+          "name": "ap24-frq-calculus-ab.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2024/ap24-frq-calculus-ab.pdf"
+        },
+        {
+          "name": "ap24-sg-calculus-ab.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2024/ap24-sg-calculus-ab.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "files": [
+        {
+          "name": "ap23-apc-calculus-ab-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2023/ap23-apc-calculus-ab-q1.pdf"
+        },
+        {
+          "name": "ap23-apc-calculus-ab-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2023/ap23-apc-calculus-ab-q2.pdf"
+        },
+        {
+          "name": "ap23-apc-calculus-ab-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2023/ap23-apc-calculus-ab-q3.pdf"
+        },
+        {
+          "name": "ap23-apc-calculus-ab-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2023/ap23-apc-calculus-ab-q4.pdf"
+        },
+        {
+          "name": "ap23-apc-calculus-ab-q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2023/ap23-apc-calculus-ab-q5.pdf"
+        },
+        {
+          "name": "ap23-apc-calculus-ab-q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2023/ap23-apc-calculus-ab-q6.pdf"
+        },
+        {
+          "name": "ap23-calculus-ab-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/calcab/2023/ap23-calculus-ab-score-distributions.pdf"
+        },
+        {
+          "name": "ap23-calculus-ab-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/calcab/2023/ap23-calculus-ab-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap23-cr-report-calculus.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/calcab/2023/ap23-cr-report-calculus.pdf"
+        },
+        {
+          "name": "ap23-frq-calculus-ab.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2023/ap23-frq-calculus-ab.pdf"
+        },
+        {
+          "name": "ap23-sg-calculus-ab.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2023/ap23-sg-calculus-ab.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "files": [
+        {
+          "name": "ap22-apc-calculus-ab-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2022/ap22-apc-calculus-ab-q1.pdf"
+        },
+        {
+          "name": "ap22-apc-calculus-ab-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2022/ap22-apc-calculus-ab-q2.pdf"
+        },
+        {
+          "name": "ap22-apc-calculus-ab-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2022/ap22-apc-calculus-ab-q3.pdf"
+        },
+        {
+          "name": "ap22-apc-calculus-ab-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2022/ap22-apc-calculus-ab-q4.pdf"
+        },
+        {
+          "name": "ap22-apc-calculus-ab-q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2022/ap22-apc-calculus-ab-q5.pdf"
+        },
+        {
+          "name": "ap22-apc-calculus-ab-q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2022/ap22-apc-calculus-ab-q6.pdf"
+        },
+        {
+          "name": "ap22-calculus-ab-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/calcab/2022/ap22-calculus-ab-score-distributions.pdf"
+        },
+        {
+          "name": "ap22-calculus-ab-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/calcab/2022/ap22-calculus-ab-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap22-cr-report-calculus.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/calcab/2022/ap22-cr-report-calculus.pdf"
+        },
+        {
+          "name": "ap22-frq-calculus-ab.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2022/ap22-frq-calculus-ab.pdf"
+        },
+        {
+          "name": "ap22-sg-calculus-ab.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2022/ap22-sg-calculus-ab.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "files": [
+        {
+          "name": "ap21-apc-calculus-ab_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2021/ap21-apc-calculus-ab_q5.pdf"
+        },
+        {
+          "name": "ap21-apc-calculus-ab-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2021/ap21-apc-calculus-ab-q1.pdf"
+        },
+        {
+          "name": "ap21-apc-calculus-ab-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2021/ap21-apc-calculus-ab-q2.pdf"
+        },
+        {
+          "name": "ap21-apc-calculus-ab-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2021/ap21-apc-calculus-ab-q3.pdf"
+        },
+        {
+          "name": "ap21-apc-calculus-ab-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2021/ap21-apc-calculus-ab-q4.pdf"
+        },
+        {
+          "name": "ap21-apc-calculus-ab-q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2021/ap21-apc-calculus-ab-q6.pdf"
+        },
+        {
+          "name": "ap21-calculus-ab-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/calcab/2021/ap21-calculus-ab-score-distributions.pdf"
+        },
+        {
+          "name": "ap21-calculus-ab-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/calcab/2021/ap21-calculus-ab-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap21-chief-reader-report-calculus-ab-bc.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/calcab/2021/ap21-chief-reader-report-calculus-ab-bc.pdf"
+        },
+        {
+          "name": "ap21-frq-calculus-ab.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2021/ap21-frq-calculus-ab.pdf"
+        },
+        {
+          "name": "ap21-sg-calculus-ab.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2021/ap21-sg-calculus-ab.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "files": [
+        {
+          "name": "ap2012_calculusab_frq.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2020/ap2012_calculusab_frq.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "files": [
+        {
+          "name": "ap19-apc-calculus-ab-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2019/ap19-apc-calculus-ab-q1.pdf"
+        },
+        {
+          "name": "ap19-apc-calculus-ab-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2019/ap19-apc-calculus-ab-q2.pdf"
+        },
+        {
+          "name": "ap19-apc-calculus-ab-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2019/ap19-apc-calculus-ab-q3.pdf"
+        },
+        {
+          "name": "ap19-apc-calculus-ab-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2019/ap19-apc-calculus-ab-q4.pdf"
+        },
+        {
+          "name": "ap19-apc-calculus-ab-q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2019/ap19-apc-calculus-ab-q5.pdf"
+        },
+        {
+          "name": "ap19-apc-calculus-ab-q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2019/ap19-apc-calculus-ab-q6.pdf"
+        },
+        {
+          "name": "ap19-calculus-ab-bc-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/calcab/2019/ap19-calculus-ab-bc-score-distributions.pdf"
+        },
+        {
+          "name": "ap19-calculus-ab-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/calcab/2019/ap19-calculus-ab-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap19-chief-reader-report-calculus-ab-bc.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/calcab/2019/ap19-chief-reader-report-calculus-ab-bc.pdf"
+        },
+        {
+          "name": "ap19-frq-calculus-ab.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2019/ap19-frq-calculus-ab.pdf"
+        },
+        {
+          "name": "ap19-sg-calculus-ab.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2019/ap19-sg-calculus-ab.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "files": [
+        {
+          "name": "ap18-calculus-ab-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2018/ap18-calculus-ab-q1.pdf"
+        },
+        {
+          "name": "ap18-calculus-ab-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2018/ap18-calculus-ab-q2.pdf"
+        },
+        {
+          "name": "ap18-calculus-ab-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2018/ap18-calculus-ab-q3.pdf"
+        },
+        {
+          "name": "ap18-calculus-ab-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2018/ap18-calculus-ab-q4.pdf"
+        },
+        {
+          "name": "ap18-calculus-ab-q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2018/ap18-calculus-ab-q5.pdf"
+        },
+        {
+          "name": "ap18-calculus-ab-q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2018/ap18-calculus-ab-q6.pdf"
+        },
+        {
+          "name": "ap18-calculus-ab-score-distribution.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/calcab/2018/ap18-calculus-ab-score-distribution.pdf"
+        },
+        {
+          "name": "ap18-calculus-ab-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/calcab/2018/ap18-calculus-ab-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap18-chief-reader-report-calculus-ab-bc.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/calcab/2018/ap18-chief-reader-report-calculus-ab-bc.pdf"
+        },
+        {
+          "name": "ap18-frq-calculus-ab.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2018/ap18-frq-calculus-ab.pdf"
+        },
+        {
+          "name": "ap18-sg-calculus-ab.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2018/ap18-sg-calculus-ab.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "files": [
+        {
+          "name": "ap17-calculus-ab-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2017/ap17-calculus-ab-q1.pdf"
+        },
+        {
+          "name": "ap17-calculus-ab-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2017/ap17-calculus-ab-q2.pdf"
+        },
+        {
+          "name": "ap17-calculus-ab-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2017/ap17-calculus-ab-q3.pdf"
+        },
+        {
+          "name": "ap17-calculus-ab-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2017/ap17-calculus-ab-q4.pdf"
+        },
+        {
+          "name": "ap17-calculus-ab-q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2017/ap17-calculus-ab-q5.pdf"
+        },
+        {
+          "name": "ap17-calculus-ab-q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2017/ap17-calculus-ab-q6.pdf"
+        },
+        {
+          "name": "ap17-calculus-ab-scoring-global.pdf",
+          "displayText": "ap17-calculus-ab-scoring-global.pdf",
+          "url": "/courses/calcab/2017/ap17-calculus-ab-scoring-global.pdf"
+        },
+        {
+          "name": "ap17-calculus-ab-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/calcab/2017/ap17-calculus-ab-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap17-chief-reader-report-calculus.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/calcab/2017/ap17-chief-reader-report-calculus.pdf"
+        },
+        {
+          "name": "ap17-sg-calclus-ab.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2017/ap17-sg-calclus-ab.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "files": [
+        {
+          "name": "ap16_calculus_ab_bc_student_performance_qa.pdf",
+          "displayText": "ap16_calculus_ab_bc_student_performance_qa.pdf",
+          "url": "/courses/calcab/2016/ap16_calculus_ab_bc_student_performance_qa.pdf"
+        },
+        {
+          "name": "ap16_calculus_ab_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2016/ap16_calculus_ab_q1.pdf"
+        },
+        {
+          "name": "ap16_calculus_ab_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2016/ap16_calculus_ab_q2.pdf"
+        },
+        {
+          "name": "ap16_calculus_ab_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2016/ap16_calculus_ab_q3.pdf"
+        },
+        {
+          "name": "ap16_calculus_ab_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2016/ap16_calculus_ab_q4.pdf"
+        },
+        {
+          "name": "ap16_calculus_ab_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2016/ap16_calculus_ab_q5.pdf"
+        },
+        {
+          "name": "ap16_calculus_ab_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2016/ap16_calculus_ab_q6.pdf"
+        },
+        {
+          "name": "ap16_calculus_ab_scoring_global.pdf",
+          "displayText": "ap16_calculus_ab_scoring_global.pdf",
+          "url": "/courses/calcab/2016/ap16_calculus_ab_scoring_global.pdf"
+        },
+        {
+          "name": "ap16_calculus_ab_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/calcab/2016/ap16_calculus_ab_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap16_calculus_ab_sg.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2016/ap16_calculus_ab_sg.pdf"
+        },
+        {
+          "name": "ap16_frq_calculus_ab.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2016/ap16_frq_calculus_ab.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2015",
+      "files": [
+        {
+          "name": "ap15_calculus_ab_bc_student_performance_qa.pdf",
+          "displayText": "ap15_calculus_ab_bc_student_performance_qa.pdf",
+          "url": "/courses/calcab/2015/ap15_calculus_ab_bc_student_performance_qa.pdf"
+        },
+        {
+          "name": "ap15_calculus_ab_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2015/ap15_calculus_ab_q1.pdf"
+        },
+        {
+          "name": "ap15_calculus_ab_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2015/ap15_calculus_ab_q2.pdf"
+        },
+        {
+          "name": "ap15_calculus_ab_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2015/ap15_calculus_ab_q3.pdf"
+        },
+        {
+          "name": "ap15_calculus_ab_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2015/ap15_calculus_ab_q4.pdf"
+        },
+        {
+          "name": "ap15_calculus_ab_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2015/ap15_calculus_ab_q5.pdf"
+        },
+        {
+          "name": "ap15_calculus_ab_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2015/ap15_calculus_ab_q6.pdf"
+        },
+        {
+          "name": "ap15_calculus_ab_sg.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2015/ap15_calculus_ab_sg.pdf"
+        },
+        {
+          "name": "ap15_frq_calculus_ab.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2015/ap15_frq_calculus_ab.pdf"
+        },
+        {
+          "name": "ap15-calculus-ab-score-dist.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/calcab/2015/ap15-calculus-ab-score-dist.pdf"
+        },
+        {
+          "name": "ap15-calculus-ab-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/calcab/2015/ap15-calculus-ab-scoring-statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "files": [
+        {
+          "name": "ap14_calc_ab_scoring_guidelines.pdf",
+          "displayText": "ap14_calc_ab_scoring_guidelines.pdf",
+          "url": "/courses/calcab/2014/ap14_calc_ab_scoring_guidelines.pdf"
+        },
+        {
+          "name": "ap14_calculus_ab_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2014/ap14_calculus_ab_q1.pdf"
+        },
+        {
+          "name": "ap14_calculus_ab_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2014/ap14_calculus_ab_q2.pdf"
+        },
+        {
+          "name": "ap14_calculus_ab_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2014/ap14_calculus_ab_q3.pdf"
+        },
+        {
+          "name": "ap14_calculus_ab_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2014/ap14_calculus_ab_q4.pdf"
+        },
+        {
+          "name": "ap14_calculus_ab_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2014/ap14_calculus_ab_q5.pdf"
+        },
+        {
+          "name": "ap14_calculus_ab_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2014/ap14_calculus_ab_q6.pdf"
+        },
+        {
+          "name": "ap14_frq_calculus_ab.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2014/ap14_frq_calculus_ab.pdf"
+        },
+        {
+          "name": "ap14-calculus-ab-score-dist.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/calcab/2014/ap14-calculus-ab-score-dist.pdf"
+        },
+        {
+          "name": "ap14-calculus-ab-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/calcab/2014/ap14-calculus-ab-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap14-calculus-qa.pdf",
+          "displayText": "ap14-calculus-qa.pdf",
+          "url": "/courses/calcab/2014/ap14-calculus-qa.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2013",
+      "files": [
+        {
+          "name": "ap13_calc_ab_scoring_guidelines.pdf",
+          "displayText": "ap13_calc_ab_scoring_guidelines.pdf",
+          "url": "/courses/calcab/2013/ap13_calc_ab_scoring_guidelines.pdf"
+        },
+        {
+          "name": "ap13_calculus_ab_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2013/ap13_calculus_ab_q1.pdf"
+        },
+        {
+          "name": "ap13_calculus_ab_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2013/ap13_calculus_ab_q2.pdf"
+        },
+        {
+          "name": "ap13_calculus_ab_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2013/ap13_calculus_ab_q3.pdf"
+        },
+        {
+          "name": "ap13_calculus_ab_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2013/ap13_calculus_ab_q4.pdf"
+        },
+        {
+          "name": "ap13_calculus_ab_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2013/ap13_calculus_ab_q5.pdf"
+        },
+        {
+          "name": "ap13_calculus_ab_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2013/ap13_calculus_ab_q6.pdf"
+        },
+        {
+          "name": "ap13_calculus_ab_scoring_dist.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/calcab/2013/ap13_calculus_ab_scoring_dist.pdf"
+        },
+        {
+          "name": "ap13_calculus_AB_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/calcab/2013/ap13_calculus_AB_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap13_calculus_qa.pdf",
+          "displayText": "ap13_calculus_qa.pdf",
+          "url": "/courses/calcab/2013/ap13_calculus_qa.pdf"
+        },
+        {
+          "name": "ap13_frq_calculus_ab.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2013/ap13_frq_calculus_ab.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2012",
+      "files": [
+        {
+          "name": "ap12_calculus_ab_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2012/ap12_calculus_ab_q1.pdf"
+        },
+        {
+          "name": "ap12_calculus_ab_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2012/ap12_calculus_ab_q2.pdf"
+        },
+        {
+          "name": "ap12_calculus_ab_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2012/ap12_calculus_ab_q3.pdf"
+        },
+        {
+          "name": "ap12_calculus_ab_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2012/ap12_calculus_ab_q4.pdf"
+        },
+        {
+          "name": "ap12_calculus_ab_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2012/ap12_calculus_ab_q5.pdf"
+        },
+        {
+          "name": "ap12_calculus_ab_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2012/ap12_calculus_ab_q6.pdf"
+        },
+        {
+          "name": "ap12_calculus_ab_scoring_guidelines.pdf",
+          "displayText": "ap12_calculus_ab_scoring_guidelines.pdf",
+          "url": "/courses/calcab/2012/ap12_calculus_ab_scoring_guidelines.pdf"
+        },
+        {
+          "name": "ap12_calculus_ab_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/calcab/2012/ap12_calculus_ab_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap12_calculus_AB_ScoringDist.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/calcab/2012/ap12_calculus_AB_ScoringDist.pdf"
+        },
+        {
+          "name": "ap12_calculus_qa.pdf",
+          "displayText": "ap12_calculus_qa.pdf",
+          "url": "/courses/calcab/2012/ap12_calculus_qa.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2011",
+      "files": [
+        {
+          "name": "ap11_calc_ab_form_b_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2011/ap11_calc_ab_form_b_q1.pdf"
+        },
+        {
+          "name": "ap11_calc_ab_form_b_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2011/ap11_calc_ab_form_b_q2.pdf"
+        },
+        {
+          "name": "ap11_calc_ab_form_b_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2011/ap11_calc_ab_form_b_q3.pdf"
+        },
+        {
+          "name": "ap11_calc_ab_form_b_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2011/ap11_calc_ab_form_b_q4.pdf"
+        },
+        {
+          "name": "ap11_calc_ab_form_b_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2011/ap11_calc_ab_form_b_q5.pdf"
+        },
+        {
+          "name": "ap11_calc_ab_form_b_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2011/ap11_calc_ab_form_b_q6.pdf"
+        },
+        {
+          "name": "ap11_calculus_ab_form_b_scoring_guideline.pdf",
+          "displayText": "ap11_calculus_ab_form_b_scoring_guideline.pdf",
+          "url": "/courses/calcab/2011/ap11_calculus_ab_form_b_scoring_guideline.pdf"
+        },
+        {
+          "name": "ap11_calculus_ab_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2011/ap11_calculus_ab_q1.pdf"
+        },
+        {
+          "name": "ap11_calculus_ab_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2011/ap11_calculus_ab_q2.pdf"
+        },
+        {
+          "name": "ap11_calculus_ab_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2011/ap11_calculus_ab_q3.pdf"
+        },
+        {
+          "name": "ap11_calculus_ab_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2011/ap11_calculus_ab_q4.pdf"
+        },
+        {
+          "name": "ap11_calculus_ab_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2011/ap11_calculus_ab_q5.pdf"
+        },
+        {
+          "name": "ap11_calculus_ab_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2011/ap11_calculus_ab_q6.pdf"
+        },
+        {
+          "name": "ap11_calculus_ab_scoring_guidelines.pdf",
+          "displayText": "ap11_calculus_ab_scoring_guidelines.pdf",
+          "url": "/courses/calcab/2011/ap11_calculus_ab_scoring_guidelines.pdf"
+        },
+        {
+          "name": "ap11_calculus_ab_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/calcab/2011/ap11_calculus_ab_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap11_calculus_qa.pdf",
+          "displayText": "ap11_calculus_qa.pdf",
+          "url": "/courses/calcab/2011/ap11_calculus_qa.pdf"
+        },
+        {
+          "name": "ap11_frq_calculus_ab_formb.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2011/ap11_frq_calculus_ab_formb.pdf"
+        },
+        {
+          "name": "ap11_frq_calculus_ab.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2011/ap11_frq_calculus_ab.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2010",
+      "files": [
+        {
+          "name": "ap10_calculus_ab_form_b_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2010/ap10_calculus_ab_form_b_q1.pdf"
+        },
+        {
+          "name": "ap10_calculus_ab_form_b_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2010/ap10_calculus_ab_form_b_q2.pdf"
+        },
+        {
+          "name": "ap10_calculus_ab_form_b_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2010/ap10_calculus_ab_form_b_q3.pdf"
+        },
+        {
+          "name": "ap10_calculus_ab_form_b_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2010/ap10_calculus_ab_form_b_q4.pdf"
+        },
+        {
+          "name": "ap10_calculus_ab_form_b_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2010/ap10_calculus_ab_form_b_q5.pdf"
+        },
+        {
+          "name": "ap10_calculus_ab_form_b_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2010/ap10_calculus_ab_form_b_q6.pdf"
+        },
+        {
+          "name": "ap10_calculus_ab_form_b_sgs.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2010/ap10_calculus_ab_form_b_sgs.pdf"
+        },
+        {
+          "name": "ap10_calculus_ab_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2010/ap10_calculus_ab_q1.pdf"
+        },
+        {
+          "name": "ap10_calculus_ab_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2010/ap10_calculus_ab_q2.pdf"
+        },
+        {
+          "name": "ap10_calculus_ab_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2010/ap10_calculus_ab_q3.pdf"
+        },
+        {
+          "name": "ap10_calculus_ab_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2010/ap10_calculus_ab_q4.pdf"
+        },
+        {
+          "name": "ap10_calculus_ab_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2010/ap10_calculus_ab_q5.pdf"
+        },
+        {
+          "name": "ap10_calculus_ab_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2010/ap10_calculus_ab_q6.pdf"
+        },
+        {
+          "name": "ap10_calculus_ab_scoring_guidelines.pdf",
+          "displayText": "ap10_calculus_ab_scoring_guidelines.pdf",
+          "url": "/courses/calcab/2010/ap10_calculus_ab_scoring_guidelines.pdf"
+        },
+        {
+          "name": "ap10_calculus_ab_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/calcab/2010/ap10_calculus_ab_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap10_calculus_qa.pdf",
+          "displayText": "ap10_calculus_qa.pdf",
+          "url": "/courses/calcab/2010/ap10_calculus_qa.pdf"
+        },
+        {
+          "name": "ap10_frq_calculus_ab_formb.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2010/ap10_frq_calculus_ab_formb.pdf"
+        },
+        {
+          "name": "ap10_frq_calculus_ab.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2010/ap10_frq_calculus_ab.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2009",
+      "files": [
+        {
+          "name": "ap09_calculus_ab_form_b_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2009/ap09_calculus_ab_form_b_q1.pdf"
+        },
+        {
+          "name": "ap09_calculus_ab_form_b_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2009/ap09_calculus_ab_form_b_q2.pdf"
+        },
+        {
+          "name": "ap09_calculus_ab_form_b_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2009/ap09_calculus_ab_form_b_q3.pdf"
+        },
+        {
+          "name": "ap09_calculus_ab_form_b_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2009/ap09_calculus_ab_form_b_q4.pdf"
+        },
+        {
+          "name": "ap09_calculus_ab_form_b_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2009/ap09_calculus_ab_form_b_q5.pdf"
+        },
+        {
+          "name": "ap09_calculus_ab_form_b_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2009/ap09_calculus_ab_form_b_q6.pdf"
+        },
+        {
+          "name": "ap09_calculus_ab_form_b_sgs.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2009/ap09_calculus_ab_form_b_sgs.pdf"
+        },
+        {
+          "name": "ap09_calculus_ab_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2009/ap09_calculus_ab_q1.pdf"
+        },
+        {
+          "name": "ap09_calculus_ab_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2009/ap09_calculus_ab_q2.pdf"
+        },
+        {
+          "name": "ap09_calculus_ab_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2009/ap09_calculus_ab_q3.pdf"
+        },
+        {
+          "name": "ap09_calculus_ab_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2009/ap09_calculus_ab_q4.pdf"
+        },
+        {
+          "name": "ap09_calculus_ab_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2009/ap09_calculus_ab_q5.pdf"
+        },
+        {
+          "name": "ap09_calculus_ab_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2009/ap09_calculus_ab_q6.pdf"
+        },
+        {
+          "name": "ap09_calculus_ab_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/calcab/2009/ap09_calculus_ab_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap09_calculus_ab_sgs.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2009/ap09_calculus_ab_sgs.pdf"
+        },
+        {
+          "name": "ap09_calculus_qa.pdf",
+          "displayText": "ap09_calculus_qa.pdf",
+          "url": "/courses/calcab/2009/ap09_calculus_qa.pdf"
+        },
+        {
+          "name": "ap09_CalculusAB_GradeDistributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/calcab/2009/ap09_CalculusAB_GradeDistributions.pdf"
+        },
+        {
+          "name": "ap09_frq_calculus_ab_formb.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2009/ap09_frq_calculus_ab_formb.pdf"
+        },
+        {
+          "name": "ap09_frq_calculus_ab.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2009/ap09_frq_calculus_ab.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2008",
+      "files": [
+        {
+          "name": "ap08_calculus_ab_form_b_frq.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2008/ap08_calculus_ab_form_b_frq.pdf"
+        },
+        {
+          "name": "ap08_calculus_ab_form_b_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2008/ap08_calculus_ab_form_b_q1.pdf"
+        },
+        {
+          "name": "ap08_calculus_ab_form_b_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2008/ap08_calculus_ab_form_b_q2.pdf"
+        },
+        {
+          "name": "ap08_calculus_ab_form_b_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2008/ap08_calculus_ab_form_b_q3.pdf"
+        },
+        {
+          "name": "ap08_calculus_ab_form_b_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2008/ap08_calculus_ab_form_b_q4.pdf"
+        },
+        {
+          "name": "ap08_calculus_ab_form_b_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2008/ap08_calculus_ab_form_b_q5.pdf"
+        },
+        {
+          "name": "ap08_calculus_ab_form_b_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2008/ap08_calculus_ab_form_b_q6.pdf"
+        },
+        {
+          "name": "ap08_calculus_ab_form_b_sgs.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2008/ap08_calculus_ab_form_b_sgs.pdf"
+        },
+        {
+          "name": "ap08_calculus_ab_frq.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2008/ap08_calculus_ab_frq.pdf"
+        },
+        {
+          "name": "ap08_calculus_ab_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2008/ap08_calculus_ab_q1.pdf"
+        },
+        {
+          "name": "ap08_calculus_ab_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2008/ap08_calculus_ab_q2.pdf"
+        },
+        {
+          "name": "ap08_calculus_ab_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2008/ap08_calculus_ab_q3.pdf"
+        },
+        {
+          "name": "ap08_calculus_ab_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2008/ap08_calculus_ab_q4.pdf"
+        },
+        {
+          "name": "ap08_calculus_ab_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2008/ap08_calculus_ab_q5.pdf"
+        },
+        {
+          "name": "ap08_calculus_ab_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2008/ap08_calculus_ab_q6.pdf"
+        },
+        {
+          "name": "ap08_calculus_ab_sgs.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2008/ap08_calculus_ab_sgs.pdf"
+        },
+        {
+          "name": "ap08_calculus_qa.pdf",
+          "displayText": "ap08_calculus_qa.pdf",
+          "url": "/courses/calcab/2008/ap08_calculus_qa.pdf"
+        },
+        {
+          "name": "ap08_CalculusAB_GradeDistributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/calcab/2008/ap08_CalculusAB_GradeDistributions.pdf"
+        },
+        {
+          "name": "ap08_CalculusAB_ScoringStatistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/calcab/2008/ap08_CalculusAB_ScoringStatistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2007",
+      "files": [
+        {
+          "name": "_ap07_calculus_ab_sgs_final.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2007/_ap07_calculus_ab_sgs_final.pdf"
+        },
+        {
+          "name": "ap07_calculus_ab_form_b_frq.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2007/ap07_calculus_ab_form_b_frq.pdf"
+        },
+        {
+          "name": "ap07_calculus_ab_form_b_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2007/ap07_calculus_ab_form_b_q1.pdf"
+        },
+        {
+          "name": "ap07_calculus_ab_form_b_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2007/ap07_calculus_ab_form_b_q2.pdf"
+        },
+        {
+          "name": "ap07_calculus_ab_form_b_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2007/ap07_calculus_ab_form_b_q3.pdf"
+        },
+        {
+          "name": "ap07_calculus_ab_form_b_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2007/ap07_calculus_ab_form_b_q4.pdf"
+        },
+        {
+          "name": "ap07_calculus_ab_form_b_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2007/ap07_calculus_ab_form_b_q5.pdf"
+        },
+        {
+          "name": "ap07_calculus_ab_form_b_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2007/ap07_calculus_ab_form_b_q6.pdf"
+        },
+        {
+          "name": "ap07_calculus_ab_form_b_sgs.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2007/ap07_calculus_ab_form_b_sgs.pdf"
+        },
+        {
+          "name": "ap07_calculus_ab_frq.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2007/ap07_calculus_ab_frq.pdf"
+        },
+        {
+          "name": "ap07_calculus_ab_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2007/ap07_calculus_ab_q1.pdf"
+        },
+        {
+          "name": "ap07_calculus_ab_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2007/ap07_calculus_ab_q2.pdf"
+        },
+        {
+          "name": "ap07_calculus_ab_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2007/ap07_calculus_ab_q3.pdf"
+        },
+        {
+          "name": "ap07_calculus_ab_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2007/ap07_calculus_ab_q4.pdf"
+        },
+        {
+          "name": "ap07_calculus_ab_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2007/ap07_calculus_ab_q5.pdf"
+        },
+        {
+          "name": "ap07_calculus_ab_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2007/ap07_calculus_ab_q6.pdf"
+        },
+        {
+          "name": "ap07_calculus_q_a.pdf",
+          "displayText": "ap07_calculus_q_a.pdf",
+          "url": "/courses/calcab/2007/ap07_calculus_q_a.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2006",
+      "files": [
+        {
+          "name": "_ap06_calcab_formb_sg.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2006/_ap06_calcab_formb_sg.pdf"
+        },
+        {
+          "name": "_ap06_calcab_sg.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2006/_ap06_calcab_sg.pdf"
+        },
+        {
+          "name": "_ap06_frq_calculus_ab_51709.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2006/_ap06_frq_calculus_ab_51709.pdf"
+        },
+        {
+          "name": "_ap06_frq_calculusab_51707.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2006/_ap06_frq_calculusab_51707.pdf"
+        },
+        {
+          "name": "ap06_calcAB_formB_samples_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2006/ap06_calcAB_formB_samples_q1.pdf"
+        },
+        {
+          "name": "ap06_calcAB_formB_samples_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2006/ap06_calcAB_formB_samples_q2.pdf"
+        },
+        {
+          "name": "ap06_calcAB_formB_samples_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2006/ap06_calcAB_formB_samples_q3.pdf"
+        },
+        {
+          "name": "ap06_calcAB_formB_samples_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2006/ap06_calcAB_formB_samples_q4.pdf"
+        },
+        {
+          "name": "ap06_calcAB_formB_samples_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2006/ap06_calcAB_formB_samples_q5.pdf"
+        },
+        {
+          "name": "ap06_calcAB_formB_samples_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2006/ap06_calcAB_formB_samples_q6.pdf"
+        },
+        {
+          "name": "ap06_calcAB_samples_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2006/ap06_calcAB_samples_q1.pdf"
+        },
+        {
+          "name": "ap06_calcAB_samples_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2006/ap06_calcAB_samples_q2.pdf"
+        },
+        {
+          "name": "ap06_calcAB_samples_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2006/ap06_calcAB_samples_q3.pdf"
+        },
+        {
+          "name": "ap06_calcAB_samples_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2006/ap06_calcAB_samples_q4.pdf"
+        },
+        {
+          "name": "ap06_calcAB_samples_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2006/ap06_calcAB_samples_q5.pdf"
+        },
+        {
+          "name": "ap06_calcAB_samples_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2006/ap06_calcAB_samples_q6.pdf"
+        },
+        {
+          "name": "ap06_calculus_q_26a_final.pdf",
+          "displayText": "ap06_calculus_q_26a_final.pdf",
+          "url": "/courses/calcab/2006/ap06_calculus_q_26a_final.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2005",
+      "files": [
+        {
+          "name": "_ap05_comm_calculus_a_46894.pdf",
+          "displayText": "_ap05_comm_calculus_a_46894.pdf",
+          "url": "/courses/calcab/2005/_ap05_comm_calculus_a_46894.pdf"
+        },
+        {
+          "name": "_ap05_comm_calculus_a_46895.pdf",
+          "displayText": "_ap05_comm_calculus_a_46895.pdf",
+          "url": "/courses/calcab/2005/_ap05_comm_calculus_a_46895.pdf"
+        },
+        {
+          "name": "_ap05_frq_calculus_ab_45480.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2005/_ap05_frq_calculus_ab_45480.pdf"
+        },
+        {
+          "name": "_ap05_frq_calculus_ab_45483.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2005/_ap05_frq_calculus_ab_45483.pdf"
+        },
+        {
+          "name": "_ap05_sg_calculus_ab__46570.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2005/_ap05_sg_calculus_ab__46570.pdf"
+        },
+        {
+          "name": "_ap05_sg_calculus_ab_46569.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2005/_ap05_sg_calculus_ab_46569.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2004",
+      "files": [
+        {
+          "name": "_ap04_qa_calculus_38531.pdf",
+          "displayText": "_ap04_qa_calculus_38531.pdf",
+          "url": "/courses/calcab/2004/_ap04_qa_calculus_38531.pdf"
+        },
+        {
+          "name": "ap04_calculusab_formb_38575.pdf",
+          "displayText": "ap04_calculusab_formb_38575.pdf",
+          "url": "/courses/calcab/2004/ap04_calculusab_formb_38575.pdf"
+        },
+        {
+          "name": "ap04_calculusab_formb_38576.pdf",
+          "displayText": "ap04_calculusab_formb_38576.pdf",
+          "url": "/courses/calcab/2004/ap04_calculusab_formb_38576.pdf"
+        },
+        {
+          "name": "ap04_calculusab_formb_38577.pdf",
+          "displayText": "ap04_calculusab_formb_38577.pdf",
+          "url": "/courses/calcab/2004/ap04_calculusab_formb_38577.pdf"
+        },
+        {
+          "name": "ap04_calculusab_formb_38578.pdf",
+          "displayText": "ap04_calculusab_formb_38578.pdf",
+          "url": "/courses/calcab/2004/ap04_calculusab_formb_38578.pdf"
+        },
+        {
+          "name": "ap04_calculusab_formb_38579.pdf",
+          "displayText": "ap04_calculusab_formb_38579.pdf",
+          "url": "/courses/calcab/2004/ap04_calculusab_formb_38579.pdf"
+        },
+        {
+          "name": "ap04_calculusab_formb_38580.pdf",
+          "displayText": "ap04_calculusab_formb_38580.pdf",
+          "url": "/courses/calcab/2004/ap04_calculusab_formb_38580.pdf"
+        },
+        {
+          "name": "ap04_calculusab_opera_38581.pdf",
+          "displayText": "ap04_calculusab_opera_38581.pdf",
+          "url": "/courses/calcab/2004/ap04_calculusab_opera_38581.pdf"
+        },
+        {
+          "name": "ap04_calculusab_opera_38582.pdf",
+          "displayText": "ap04_calculusab_opera_38582.pdf",
+          "url": "/courses/calcab/2004/ap04_calculusab_opera_38582.pdf"
+        },
+        {
+          "name": "ap04_calculusab_opera_38583.pdf",
+          "displayText": "ap04_calculusab_opera_38583.pdf",
+          "url": "/courses/calcab/2004/ap04_calculusab_opera_38583.pdf"
+        },
+        {
+          "name": "ap04_calculusab_opera_38584.pdf",
+          "displayText": "ap04_calculusab_opera_38584.pdf",
+          "url": "/courses/calcab/2004/ap04_calculusab_opera_38584.pdf"
+        },
+        {
+          "name": "ap04_calculusab_opera_38585.pdf",
+          "displayText": "ap04_calculusab_opera_38585.pdf",
+          "url": "/courses/calcab/2004/ap04_calculusab_opera_38585.pdf"
+        },
+        {
+          "name": "ap04_calculusab_opera_38586.pdf",
+          "displayText": "ap04_calculusab_opera_38586.pdf",
+          "url": "/courses/calcab/2004/ap04_calculusab_opera_38586.pdf"
+        },
+        {
+          "name": "ap04_comm_b_calc_ab_38436.pdf",
+          "displayText": "ap04_comm_b_calc_ab_38436.pdf",
+          "url": "/courses/calcab/2004/ap04_comm_b_calc_ab_38436.pdf"
+        },
+        {
+          "name": "ap04_comm_calc_ab_38460.pdf",
+          "displayText": "ap04_comm_calc_ab_38460.pdf",
+          "url": "/courses/calcab/2004/ap04_comm_calc_ab_38460.pdf"
+        },
+        {
+          "name": "ap04_frq_calculus_ab__36107.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2004/ap04_frq_calculus_ab__36107.pdf"
+        },
+        {
+          "name": "ap04_frq_calculus_ab_36102.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2004/ap04_frq_calculus_ab_36102.pdf"
+        },
+        {
+          "name": "ap04_sg_b_calculus_ab_36994.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2004/ap04_sg_b_calculus_ab_36994.pdf"
+        },
+        {
+          "name": "ap04_sg_calculus_ab_36998.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2004/ap04_sg_calculus_ab_36998.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2003",
+      "files": [
+        {
+          "name": "ap03_calculusab_formb_27985.pdf",
+          "displayText": "ap03_calculusab_formb_27985.pdf",
+          "url": "/courses/calcab/2003/ap03_calculusab_formb_27985.pdf"
+        },
+        {
+          "name": "ap03_calculusab_formb_27986.pdf",
+          "displayText": "ap03_calculusab_formb_27986.pdf",
+          "url": "/courses/calcab/2003/ap03_calculusab_formb_27986.pdf"
+        },
+        {
+          "name": "ap03_calculusab_formb_27987.pdf",
+          "displayText": "ap03_calculusab_formb_27987.pdf",
+          "url": "/courses/calcab/2003/ap03_calculusab_formb_27987.pdf"
+        },
+        {
+          "name": "ap03_calculusab_formb_27988.pdf",
+          "displayText": "ap03_calculusab_formb_27988.pdf",
+          "url": "/courses/calcab/2003/ap03_calculusab_formb_27988.pdf"
+        },
+        {
+          "name": "ap03_calculusab_formb_27989.pdf",
+          "displayText": "ap03_calculusab_formb_27989.pdf",
+          "url": "/courses/calcab/2003/ap03_calculusab_formb_27989.pdf"
+        },
+        {
+          "name": "ap03_calculusab_formb_27990.pdf",
+          "displayText": "ap03_calculusab_formb_27990.pdf",
+          "url": "/courses/calcab/2003/ap03_calculusab_formb_27990.pdf"
+        },
+        {
+          "name": "ap03_calculusab_q1_27979.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/calcab/2003/ap03_calculusab_q1_27979.pdf"
+        },
+        {
+          "name": "ap03_calculusab_q2_27980.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/calcab/2003/ap03_calculusab_q2_27980.pdf"
+        },
+        {
+          "name": "ap03_calculusab_q3_27981.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/calcab/2003/ap03_calculusab_q3_27981.pdf"
+        },
+        {
+          "name": "ap03_calculusab_q4_27982.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/calcab/2003/ap03_calculusab_q4_27982.pdf"
+        },
+        {
+          "name": "ap03_calculusab_q5_27983.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/calcab/2003/ap03_calculusab_q5_27983.pdf"
+        },
+        {
+          "name": "ap03_calculusab_q6_27984.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/calcab/2003/ap03_calculusab_q6_27984.pdf"
+        },
+        {
+          "name": "ap03_comment_calculus_27949.pdf",
+          "displayText": "ap03_comment_calculus_27949.pdf",
+          "url": "/courses/calcab/2003/ap03_comment_calculus_27949.pdf"
+        },
+        {
+          "name": "ap03_comment_calculus_27951.pdf",
+          "displayText": "ap03_comment_calculus_27951.pdf",
+          "url": "/courses/calcab/2003/ap03_comment_calculus_27951.pdf"
+        },
+        {
+          "name": "ap03_frq_calculus_ab__23063.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2003/ap03_frq_calculus_ab__23063.pdf"
+        },
+        {
+          "name": "ap03_frq_calculus_ab_23062.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/calcab/2003/ap03_frq_calculus_ab_23062.pdf"
+        },
+        {
+          "name": "ap03_qa_calculus_27856.pdf",
+          "displayText": "ap03_qa_calculus_27856.pdf",
+          "url": "/courses/calcab/2003/ap03_qa_calculus_27856.pdf"
+        },
+        {
+          "name": "ap03_sg_calculus_ab_26472.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2003/ap03_sg_calculus_ab_26472.pdf"
+        },
+        {
+          "name": "ap03_sg_calculus_ab_b_26473.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/calcab/2003/ap03_sg_calculus_ab_b_26473.pdf"
+        }
+      ]
+    }
+  ]
+}

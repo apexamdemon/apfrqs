@@ -1,0 +1,457 @@
+{
+  "slug": "AP Computer Science Principles",
+  "title": "AP Computer Science Principles",
+  "basePath": "/courses/AP%20Computer%20Science%20Principles",
+  "generatedAt": "2026-01-18T00:04:02.728Z",
+  "years": [
+    {
+      "year": "2025",
+      "files": [
+        {
+          "name": "Chief Reader Report - Set 1.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2025/Chief%20Reader%20Report%20-%20Set%201.pdf"
+        },
+        {
+          "name": "Chief Reader Report - Set 2.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2025/Chief%20Reader%20Report%20-%20Set%202.pdf"
+        },
+        {
+          "name": "Free-Response Questions, Set 1.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2025/Free-Response%20Questions%2C%20Set%201.pdf"
+        },
+        {
+          "name": "Free-Response Questions, Set 2.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2025/Free-Response%20Questions%2C%20Set%202.pdf"
+        },
+        {
+          "name": "Scoring Distributions.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2025/Scoring%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - Set 1.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2025/Scoring%20Guidelines%20-%20Set%201.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - Set 2.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2025/Scoring%20Guidelines%20-%20Set%202.pdf"
+        },
+        {
+          "name": "Scoring Statistics - Set 1.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2025/Scoring%20Statistics%20-%20Set%201.pdf"
+        },
+        {
+          "name": "Scoring Statistics - Set 2.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2025/Scoring%20Statistics%20-%20Set%202.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "files": [
+        {
+          "name": "Chief Reader Report, Set 1.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2024/Chief%20Reader%20Report%2C%20Set%201.pdf"
+        },
+        {
+          "name": "Chief Reader Report, Set 2.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2024/Chief%20Reader%20Report%2C%20Set%202.pdf"
+        },
+        {
+          "name": "Free-Response Questions, Set 1.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2024/Free-Response%20Questions%2C%20Set%201.pdf"
+        },
+        {
+          "name": "Free-Response Questions, Set 2.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2024/Free-Response%20Questions%2C%20Set%202.pdf"
+        },
+        {
+          "name": "Scoring Distributions.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2024/Scoring%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines, Set 1.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2024/Scoring%20Guidelines%2C%20Set%201.pdf"
+        },
+        {
+          "name": "Scoring Guidelines, Set 2.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2024/Scoring%20Guidelines%2C%20Set%202.pdf"
+        },
+        {
+          "name": "Scoring Statistics, Set 1.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2024/Scoring%20Statistics%2C%20Set%201.pdf"
+        },
+        {
+          "name": "Scoring Statistics. Set 2.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2024/Scoring%20Statistics.%20Set%202.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2023/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Create Scoring Commentary.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2023/Create%20Scoring%20Commentary.pdf"
+        },
+        {
+          "name": "Sample A Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2023/Sample%20A%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample B Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2023/Sample%20B%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample C Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2023/Sample%20C%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample D Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2023/Sample%20D%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample E Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2023/Sample%20E%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample F Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2023/Sample%20F%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample G Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2023/Sample%20G%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample H Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2023/Sample%20H%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample I Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2023/Sample%20I%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample J Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2023/Sample%20J%20Written%20Response.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2023/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2023/Scoring%20Guidelines.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2022/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Create Scoring Commentary.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2022/Create%20Scoring%20Commentary.pdf"
+        },
+        {
+          "name": "Sample A Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2022/Sample%20A%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample B Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2022/Sample%20B%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample C Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2022/Sample%20C%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample D Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2022/Sample%20D%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample E Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2022/Sample%20E%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample F Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2022/Sample%20F%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample G Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2022/Sample%20G%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample H Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2022/Sample%20H%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample I Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2022/Sample%20I%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample J Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2022/Sample%20J%20Written%20Response.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2022/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2022/Scoring%20Guidelines.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2021/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Sample A Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2021/Sample%20A%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample B Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2021/Sample%20B%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample C Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2021/Sample%20C%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample D Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2021/Sample%20D%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample E Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2021/Sample%20E%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample F Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2021/Sample%20F%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample H Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2021/Sample%20H%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample I Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2021/Sample%20I%20Written%20Response.pdf"
+        },
+        {
+          "name": "Sample J Written Response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2021/Sample%20J%20Written%20Response.pdf"
+        },
+        {
+          "name": "Scoring Commentaries.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2021/Scoring%20Commentaries.pdf"
+        },
+        {
+          "name": "Scoring Distributions.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2021/Scoring%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2021/Scoring%20Guidelines.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2020/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2020/Score%20Distributions.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2019/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Create A Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2019/Create%20A%20Written%20response.pdf"
+        },
+        {
+          "name": "Create B Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2019/Create%20B%20Written%20response.pdf"
+        },
+        {
+          "name": "Create C Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2019/Create%20C%20Written%20response.pdf"
+        },
+        {
+          "name": "Create Commentary.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2019/Create%20Commentary.pdf"
+        },
+        {
+          "name": "Create D Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2019/Create%20D%20Written%20response.pdf"
+        },
+        {
+          "name": "Create E Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2019/Create%20E%20Written%20response.pdf"
+        },
+        {
+          "name": "Create F Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2019/Create%20F%20Written%20response.pdf"
+        },
+        {
+          "name": "Create G Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2019/Create%20G%20Written%20response.pdf"
+        },
+        {
+          "name": "Create H Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2019/Create%20H%20Written%20response.pdf"
+        },
+        {
+          "name": "Create I Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2019/Create%20I%20Written%20response.pdf"
+        },
+        {
+          "name": "Create J Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2019/Create%20J%20Written%20response.pdf"
+        },
+        {
+          "name": "Scoring Distribution.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2019/Scoring%20Distribution.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2019/Scoring%20Guidelines.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2018/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Create A Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2018/Create%20A%20Written%20response.pdf"
+        },
+        {
+          "name": "Create B Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2018/Create%20B%20Written%20response.pdf"
+        },
+        {
+          "name": "Create C Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2018/Create%20C%20Written%20response.pdf"
+        },
+        {
+          "name": "Create Commentary.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2018/Create%20Commentary.pdf"
+        },
+        {
+          "name": "Create D Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2018/Create%20D%20Written%20response.pdf"
+        },
+        {
+          "name": "Create E Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2018/Create%20E%20Written%20response.pdf"
+        },
+        {
+          "name": "Create F Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2018/Create%20F%20Written%20response.pdf"
+        },
+        {
+          "name": "Create G Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2018/Create%20G%20Written%20response.pdf"
+        },
+        {
+          "name": "Create H Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2018/Create%20H%20Written%20response.pdf"
+        },
+        {
+          "name": "Create I Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2018/Create%20I%20Written%20response.pdf"
+        },
+        {
+          "name": "Create J Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2018/Create%20J%20Written%20response.pdf"
+        },
+        {
+          "name": "Create Scoring Guidelines and Notes.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2018/Create%20Scoring%20Guidelines%20and%20Notes.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2018/Score%20Distributions.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "files": [
+        {
+          "name": "Create A Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2017/Create%20A%20Written%20response.pdf"
+        },
+        {
+          "name": "Create B Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2017/Create%20B%20Written%20response.pdf"
+        },
+        {
+          "name": "Create C Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2017/Create%20C%20Written%20response.pdf"
+        },
+        {
+          "name": "Create Commentary.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2017/Create%20Commentary.pdf"
+        },
+        {
+          "name": "Create D Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2017/Create%20D%20Written%20response.pdf"
+        },
+        {
+          "name": "Create E Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2017/Create%20E%20Written%20response.pdf"
+        },
+        {
+          "name": "Create F Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2017/Create%20F%20Written%20response.pdf"
+        },
+        {
+          "name": "Create G Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2017/Create%20G%20Written%20response.pdf"
+        },
+        {
+          "name": "Create H Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2017/Create%20H%20Written%20response.pdf"
+        },
+        {
+          "name": "Create I Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2017/Create%20I%20Written%20response.pdf"
+        },
+        {
+          "name": "Create J Written response.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2017/Create%20J%20Written%20response.pdf"
+        },
+        {
+          "name": "Create Scoring Guidelines and Notes.pdf",
+          "url": "/courses/AP%20Computer%20Science%20Principles/2017/Create%20Scoring%20Guidelines%20and%20Notes.pdf"
+        }
+      ]
+    }
+  ]
+}

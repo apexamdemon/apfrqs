@@ -1,0 +1,465 @@
+{
+  "slug": "AP Seminar",
+  "title": "AP Seminar",
+  "basePath": "/courses/AP%20Seminar",
+  "generatedAt": "2026-01-18T00:04:02.920Z",
+  "years": [
+    {
+      "year": "2025",
+      "files": [
+        {
+          "name": "Chief Reader Report - Set 1.pdf",
+          "url": "/courses/AP%20Seminar/2025/Chief%20Reader%20Report%20-%20Set%201.pdf"
+        },
+        {
+          "name": "Chief Reader Report - Set 2.pdf",
+          "url": "/courses/AP%20Seminar/2025/Chief%20Reader%20Report%20-%20Set%202.pdf"
+        },
+        {
+          "name": "End-Of-Course Exam - Part A Set - 1.pdf",
+          "url": "/courses/AP%20Seminar/2025/End-Of-Course%20Exam%20-%20Part%20A%20Set%20-%201.pdf"
+        },
+        {
+          "name": "End-Of-Course Exam - Part A Set - 2.pdf",
+          "url": "/courses/AP%20Seminar/2025/End-Of-Course%20Exam%20-%20Part%20A%20Set%20-%202.pdf"
+        },
+        {
+          "name": "End-Of-Course Exam - Part B Set - 1.pdf",
+          "url": "/courses/AP%20Seminar/2025/End-Of-Course%20Exam%20-%20Part%20B%20Set%20-%201.pdf"
+        },
+        {
+          "name": "End-Of-Course Exam - Part B Set - 2.pdf",
+          "url": "/courses/AP%20Seminar/2025/End-Of-Course%20Exam%20-%20Part%20B%20Set%20-%202.pdf"
+        },
+        {
+          "name": "Free-Response Questions – Set 1.pdf",
+          "url": "/courses/AP%20Seminar/2025/Free-Response%20Questions%20%E2%80%93%20Set%201.pdf"
+        },
+        {
+          "name": "Free-Response Questions – Set 2.pdf",
+          "url": "/courses/AP%20Seminar/2025/Free-Response%20Questions%20%E2%80%93%20Set%202.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20Seminar/2025/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - End-of-Course Exam – Set 1.pdf",
+          "url": "/courses/AP%20Seminar/2025/Scoring%20Guidelines%20-%20End-of-Course%20Exam%20%E2%80%93%20Set%201.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - End-of-Course Exam – Set 2.pdf",
+          "url": "/courses/AP%20Seminar/2025/Scoring%20Guidelines%20-%20End-of-Course%20Exam%20%E2%80%93%20Set%202.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - Performance Task 1 Team Project and Presentation.pdf",
+          "url": "/courses/AP%20Seminar/2025/Scoring%20Guidelines%20-%20Performance%20Task%201%20Team%20Project%20and%20Presentation.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - Performance Task 2 Individual Research-Based Essay and Presentation.pdf",
+          "url": "/courses/AP%20Seminar/2025/Scoring%20Guidelines%20-%20Performance%20Task%202%20Individual%20Research-Based%20Essay%20and%20Presentation.pdf"
+        },
+        {
+          "name": "Scoring Statistics – Set 1.pdf",
+          "url": "/courses/AP%20Seminar/2025/Scoring%20Statistics%20%E2%80%93%20Set%201.pdf"
+        },
+        {
+          "name": "Scoring Statistics – Set 2.pdf",
+          "url": "/courses/AP%20Seminar/2025/Scoring%20Statistics%20%E2%80%93%20Set%202.pdf"
+        },
+        {
+          "name": "Task 1 - Individual Research Report.pdf",
+          "url": "/courses/AP%20Seminar/2025/Task%201%20-%20Individual%20Research%20Report.pdf"
+        },
+        {
+          "name": "Task 2 - Individual Written Argument.pdf",
+          "url": "/courses/AP%20Seminar/2025/Task%202%20-%20Individual%20Written%20Argument.pdf"
+        },
+        {
+          "name": "Task 2 Directions and Stimulus Materials.pdf",
+          "url": "/courses/AP%20Seminar/2025/Task%202%20Directions%20and%20Stimulus%20Materials.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "files": [
+        {
+          "name": "Chief Reader Report – Set 1.pdf",
+          "url": "/courses/AP%20Seminar/2024/Chief%20Reader%20Report%20%E2%80%93%20Set%201.pdf"
+        },
+        {
+          "name": "Chief Reader Report – Set 2.pdf",
+          "url": "/courses/AP%20Seminar/2024/Chief%20Reader%20Report%20%E2%80%93%20Set%202.pdf"
+        },
+        {
+          "name": "End-Of-Course Exam - Part A Set - 1.pdf",
+          "url": "/courses/AP%20Seminar/2024/End-Of-Course%20Exam%20-%20Part%20A%20Set%20-%201.pdf"
+        },
+        {
+          "name": "End-Of-Course Exam - Part A Set - 2.pdf",
+          "url": "/courses/AP%20Seminar/2024/End-Of-Course%20Exam%20-%20Part%20A%20Set%20-%202.pdf"
+        },
+        {
+          "name": "End-Of-Course Exam - Part B Set - 1.pdf",
+          "url": "/courses/AP%20Seminar/2024/End-Of-Course%20Exam%20-%20Part%20B%20Set%20-%201.pdf"
+        },
+        {
+          "name": "End-Of-Course Exam - Part B Set - 2.pdf",
+          "url": "/courses/AP%20Seminar/2024/End-Of-Course%20Exam%20-%20Part%20B%20Set%20-%202.pdf"
+        },
+        {
+          "name": "Free-Response Questions – Set 1.pdf",
+          "url": "/courses/AP%20Seminar/2024/Free-Response%20Questions%20%E2%80%93%20Set%201.pdf"
+        },
+        {
+          "name": "Free-Response Questions – Set 2.pdf",
+          "url": "/courses/AP%20Seminar/2024/Free-Response%20Questions%20%E2%80%93%20Set%202.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20Seminar/2024/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - End-of-Course Exam – Set 1.pdf",
+          "url": "/courses/AP%20Seminar/2024/Scoring%20Guidelines%20-%20End-of-Course%20Exam%20%E2%80%93%20Set%201.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - End-of-Course Exam – Set 2.pdf",
+          "url": "/courses/AP%20Seminar/2024/Scoring%20Guidelines%20-%20End-of-Course%20Exam%20%E2%80%93%20Set%202.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - Performance Task 1 Team Project and Presentation.pdf",
+          "url": "/courses/AP%20Seminar/2024/Scoring%20Guidelines%20-%20Performance%20Task%201%20Team%20Project%20and%20Presentation.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - Performance Task 2 Individual Research-Based Essay and Presentation.pdf",
+          "url": "/courses/AP%20Seminar/2024/Scoring%20Guidelines%20-%20Performance%20Task%202%20Individual%20Research-Based%20Essay%20and%20Presentation.pdf"
+        },
+        {
+          "name": "Scoring Statistics – Set 1.pdf",
+          "url": "/courses/AP%20Seminar/2024/Scoring%20Statistics%20%E2%80%93%20Set%201.pdf"
+        },
+        {
+          "name": "Scoring Statistics – Set 2.pdf",
+          "url": "/courses/AP%20Seminar/2024/Scoring%20Statistics%20%E2%80%93%20Set%202.pdf"
+        },
+        {
+          "name": "Task 1 - Individual Research Report.pdf",
+          "url": "/courses/AP%20Seminar/2024/Task%201%20-%20Individual%20Research%20Report.pdf"
+        },
+        {
+          "name": "Task 2 - Individual Written Argument.pdf",
+          "url": "/courses/AP%20Seminar/2024/Task%202%20-%20Individual%20Written%20Argument.pdf"
+        },
+        {
+          "name": "Task 2 Directions and Stimulus Materials.pdf",
+          "url": "/courses/AP%20Seminar/2024/Task%202%20Directions%20and%20Stimulus%20Materials.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "files": [
+        {
+          "name": "Chief Reader Report – Set 1.pdf",
+          "url": "/courses/AP%20Seminar/2023/Chief%20Reader%20Report%20%E2%80%93%20Set%201.pdf"
+        },
+        {
+          "name": "Chief Reader Report – Set 2.pdf",
+          "url": "/courses/AP%20Seminar/2023/Chief%20Reader%20Report%20%E2%80%93%20Set%202.pdf"
+        },
+        {
+          "name": "End-Of-Course Exam - Part A Set - 1.pdf",
+          "url": "/courses/AP%20Seminar/2023/End-Of-Course%20Exam%20-%20Part%20A%20Set%20-%201.pdf"
+        },
+        {
+          "name": "End-Of-Course Exam - Part A Set - 2.pdf",
+          "url": "/courses/AP%20Seminar/2023/End-Of-Course%20Exam%20-%20Part%20A%20Set%20-%202.pdf"
+        },
+        {
+          "name": "End-Of-Course Exam - Part B Set - 1.pdf",
+          "url": "/courses/AP%20Seminar/2023/End-Of-Course%20Exam%20-%20Part%20B%20Set%20-%201.pdf"
+        },
+        {
+          "name": "End-Of-Course Exam - Part B Set - 2.pdf",
+          "url": "/courses/AP%20Seminar/2023/End-Of-Course%20Exam%20-%20Part%20B%20Set%20-%202.pdf"
+        },
+        {
+          "name": "Free-Response Questions – Set 1.pdf",
+          "url": "/courses/AP%20Seminar/2023/Free-Response%20Questions%20%E2%80%93%20Set%201.pdf"
+        },
+        {
+          "name": "Free-Response Questions – Set 2.pdf",
+          "url": "/courses/AP%20Seminar/2023/Free-Response%20Questions%20%E2%80%93%20Set%202.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20Seminar/2023/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - End-of-Course Exam – Set 1.pdf",
+          "url": "/courses/AP%20Seminar/2023/Scoring%20Guidelines%20-%20End-of-Course%20Exam%20%E2%80%93%20Set%201.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - End-of-Course Exam – Set 2.pdf",
+          "url": "/courses/AP%20Seminar/2023/Scoring%20Guidelines%20-%20End-of-Course%20Exam%20%E2%80%93%20Set%202.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - Performance Task 1 Team Project and Presentation.pdf",
+          "url": "/courses/AP%20Seminar/2023/Scoring%20Guidelines%20-%20Performance%20Task%201%20Team%20Project%20and%20Presentation.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - Performance Task 2 Individual Research-Based Essay and Presentation.pdf",
+          "url": "/courses/AP%20Seminar/2023/Scoring%20Guidelines%20-%20Performance%20Task%202%20Individual%20Research-Based%20Essay%20and%20Presentation.pdf"
+        },
+        {
+          "name": "Scoring Statistics – Set 1.pdf",
+          "url": "/courses/AP%20Seminar/2023/Scoring%20Statistics%20%E2%80%93%20Set%201.pdf"
+        },
+        {
+          "name": "Scoring Statistics – Set 2.pdf",
+          "url": "/courses/AP%20Seminar/2023/Scoring%20Statistics%20%E2%80%93%20Set%202.pdf"
+        },
+        {
+          "name": "Task 1 - Individual Research Report.pdf",
+          "url": "/courses/AP%20Seminar/2023/Task%201%20-%20Individual%20Research%20Report.pdf"
+        },
+        {
+          "name": "Task 2 - Individual Written Argument.pdf",
+          "url": "/courses/AP%20Seminar/2023/Task%202%20-%20Individual%20Written%20Argument.pdf"
+        },
+        {
+          "name": "Task 2 Directions and Stimulus Materials.pdf",
+          "url": "/courses/AP%20Seminar/2023/Task%202%20Directions%20and%20Stimulus%20Materials.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Seminar/2022/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "End-Of-Course Exam - Part A.pdf",
+          "url": "/courses/AP%20Seminar/2022/End-Of-Course%20Exam%20-%20Part%20A.pdf"
+        },
+        {
+          "name": "End-Of-Course Exam - Part B.pdf",
+          "url": "/courses/AP%20Seminar/2022/End-Of-Course%20Exam%20-%20Part%20B.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20Seminar/2022/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20Seminar/2022/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - End-of-Course Exam.pdf",
+          "url": "/courses/AP%20Seminar/2022/Scoring%20Guidelines%20-%20End-of-Course%20Exam.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - Performance Task 1 Team Project and Presentation.pdf",
+          "url": "/courses/AP%20Seminar/2022/Scoring%20Guidelines%20-%20Performance%20Task%201%20Team%20Project%20and%20Presentation.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - Performance Task 2 Individual Research-Based Essay and Presentation.pdf",
+          "url": "/courses/AP%20Seminar/2022/Scoring%20Guidelines%20-%20Performance%20Task%202%20Individual%20Research-Based%20Essay%20and%20Presentation.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20Seminar/2022/Scoring%20Statistics.pdf"
+        },
+        {
+          "name": "Task 1 - Individual Research Report.pdf",
+          "url": "/courses/AP%20Seminar/2022/Task%201%20-%20Individual%20Research%20Report.pdf"
+        },
+        {
+          "name": "Task 2 - Individual Written Argument.pdf",
+          "url": "/courses/AP%20Seminar/2022/Task%202%20-%20Individual%20Written%20Argument.pdf"
+        },
+        {
+          "name": "Task 2 Directions and Stimulus Materials.pdf",
+          "url": "/courses/AP%20Seminar/2022/Task%202%20Directions%20and%20Stimulus%20Materials.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Seminar/2021/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "End-Of-Course Exam - Part A.pdf",
+          "url": "/courses/AP%20Seminar/2021/End-Of-Course%20Exam%20-%20Part%20A.pdf"
+        },
+        {
+          "name": "End-Of-Course Exam - Part B.pdf",
+          "url": "/courses/AP%20Seminar/2021/End-Of-Course%20Exam%20-%20Part%20B.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20Seminar/2021/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Scoring Distribution.pdf",
+          "url": "/courses/AP%20Seminar/2021/Scoring%20Distribution.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - End-of-Course Exam.pdf",
+          "url": "/courses/AP%20Seminar/2021/Scoring%20Guidelines%20-%20End-of-Course%20Exam.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20Seminar/2021/Scoring%20Statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Seminar/2020/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Scoring Distributions.pdf",
+          "url": "/courses/AP%20Seminar/2020/Scoring%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - Task 1.pdf",
+          "url": "/courses/AP%20Seminar/2020/Scoring%20Guidelines%20-%20Task%201.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - Task 2.pdf",
+          "url": "/courses/AP%20Seminar/2020/Scoring%20Guidelines%20-%20Task%202.pdf"
+        },
+        {
+          "name": "Task 1 - Individual Research Report.pdf",
+          "url": "/courses/AP%20Seminar/2020/Task%201%20-%20Individual%20Research%20Report.pdf"
+        },
+        {
+          "name": "Task 2 - Individual Written Argument.pdf",
+          "url": "/courses/AP%20Seminar/2020/Task%202%20-%20Individual%20Written%20Argument.pdf"
+        },
+        {
+          "name": "Task 2 Directions and Stimulus Materials.pdf",
+          "url": "/courses/AP%20Seminar/2020/Task%202%20Directions%20and%20Stimulus%20Materials.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Seminar/2019/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "End-Of-Course Exam - Part A.pdf",
+          "url": "/courses/AP%20Seminar/2019/End-Of-Course%20Exam%20-%20Part%20A.pdf"
+        },
+        {
+          "name": "End-Of-Course Exam - Part B.pdf",
+          "url": "/courses/AP%20Seminar/2019/End-Of-Course%20Exam%20-%20Part%20B.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20Seminar/2019/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Scoring Distribution.pdf",
+          "url": "/courses/AP%20Seminar/2019/Scoring%20Distribution.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20Seminar/2019/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20Seminar/2019/Scoring%20Statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Seminar/2018/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Scoring Distributions.pdf",
+          "url": "/courses/AP%20Seminar/2018/Scoring%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - PT 1.pdf",
+          "url": "/courses/AP%20Seminar/2018/Scoring%20Guidelines%20-%20PT%201.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - PT 2.pdf",
+          "url": "/courses/AP%20Seminar/2018/Scoring%20Guidelines%20-%20PT%202.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20Seminar/2018/Scoring%20Statistics.pdf"
+        },
+        {
+          "name": "Task 1—Individual Research and Reflection.pdf",
+          "url": "/courses/AP%20Seminar/2018/Task%201%E2%80%94Individual%20Research%20and%20Reflection.pdf"
+        },
+        {
+          "name": "Task 2 Directions and Stimulus Materials.pdf",
+          "url": "/courses/AP%20Seminar/2018/Task%202%20Directions%20and%20Stimulus%20Materials.pdf"
+        },
+        {
+          "name": "Task 2—Individual Written Argument.pdf",
+          "url": "/courses/AP%20Seminar/2018/Task%202%E2%80%94Individual%20Written%20Argument.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Seminar/2017/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Scoring Distributions.pdf",
+          "url": "/courses/AP%20Seminar/2017/Scoring%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - PT 1.pdf",
+          "url": "/courses/AP%20Seminar/2017/Scoring%20Guidelines%20-%20PT%201.pdf"
+        },
+        {
+          "name": "Scoring Guidelines - PT 2.pdf",
+          "url": "/courses/AP%20Seminar/2017/Scoring%20Guidelines%20-%20PT%202.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20Seminar/2017/Scoring%20Statistics.pdf"
+        },
+        {
+          "name": "Task 1—Individual Research and Reflection.pdf",
+          "url": "/courses/AP%20Seminar/2017/Task%201%E2%80%94Individual%20Research%20and%20Reflection.pdf"
+        },
+        {
+          "name": "Task 2 Directions and Stimulus Materials.pdf",
+          "url": "/courses/AP%20Seminar/2017/Task%202%20Directions%20and%20Stimulus%20Materials.pdf"
+        },
+        {
+          "name": "Task 2—Individual Written Argument.pdf",
+          "url": "/courses/AP%20Seminar/2017/Task%202%E2%80%94Individual%20Written%20Argument.pdf"
+        }
+      ]
+    }
+  ]
+}

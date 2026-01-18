@@ -1,0 +1,333 @@
+{
+  "slug": "csp",
+  "title": "CSP",
+  "basePath": "/courses/csp",
+  "generatedAt": "2026-01-17T07:59:31.140Z",
+  "years": [
+    {
+      "year": "2025",
+      "files": [
+        {
+          "name": "ap25-computer-science-principles-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/csp/2025/ap25-computer-science-principles-score-distributions.pdf"
+        },
+        {
+          "name": "ap25-computer-science-principles-scoring-statistics-set-1.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/csp/2025/ap25-computer-science-principles-scoring-statistics-set-1.pdf"
+        },
+        {
+          "name": "ap25-computer-science-principles-scoring-statistics-set-2.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/csp/2025/ap25-computer-science-principles-scoring-statistics-set-2.pdf"
+        },
+        {
+          "name": "ap25-cr-report-computer-science-principles-set-1.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/csp/2025/ap25-cr-report-computer-science-principles-set-1.pdf"
+        },
+        {
+          "name": "ap25-cr-report-computer-science-principles-set-2.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/csp/2025/ap25-cr-report-computer-science-principles-set-2.pdf"
+        },
+        {
+          "name": "ap25-frq-computer-science-principles-set-1.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csp/2025/ap25-frq-computer-science-principles-set-1.pdf"
+        },
+        {
+          "name": "ap25-frq-computer-science-principles-set-2.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csp/2025/ap25-frq-computer-science-principles-set-2.pdf"
+        },
+        {
+          "name": "ap25-sg-computer-science-principles-set-1.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csp/2025/ap25-sg-computer-science-principles-set-1.pdf"
+        },
+        {
+          "name": "ap25-sg-computer-science-principles-set-2.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csp/2025/ap25-sg-computer-science-principles-set-2.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "files": [
+        {
+          "name": "ap24-computer-science-principles-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/csp/2024/ap24-computer-science-principles-score-distributions.pdf"
+        },
+        {
+          "name": "ap24-computer-science-principles-scoring-statistics-set-1.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/csp/2024/ap24-computer-science-principles-scoring-statistics-set-1.pdf"
+        },
+        {
+          "name": "ap24-computer-science-principles-scoring-statistics-set-2.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/csp/2024/ap24-computer-science-principles-scoring-statistics-set-2.pdf"
+        },
+        {
+          "name": "ap24-cr-report-computer-science-principles-set-1.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/csp/2024/ap24-cr-report-computer-science-principles-set-1.pdf"
+        },
+        {
+          "name": "ap24-cr-report-computer-science-principles-set-2.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/csp/2024/ap24-cr-report-computer-science-principles-set-2.pdf"
+        },
+        {
+          "name": "ap24-frq-csp-set-1.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csp/2024/ap24-frq-csp-set-1.pdf"
+        },
+        {
+          "name": "ap24-frq-csp-set-2.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csp/2024/ap24-frq-csp-set-2.pdf"
+        },
+        {
+          "name": "ap24-sg-computer-science-principles-set-1.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csp/2024/ap24-sg-computer-science-principles-set-1.pdf"
+        },
+        {
+          "name": "ap24-sg-computer-science-principles-set-2.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csp/2024/ap24-sg-computer-science-principles-set-2.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "files": [
+        {
+          "name": "ap23-apc-computer-science-principles-create.pdf",
+          "displayText": "ap23-apc-computer-science-principles-create.pdf",
+          "url": "/courses/csp/2023/ap23-apc-computer-science-principles-create.pdf"
+        },
+        {
+          "name": "ap23-computer-science-principles-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/csp/2023/ap23-computer-science-principles-score-distributions.pdf"
+        },
+        {
+          "name": "ap23-cr-report-computer-science-principles.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/csp/2023/ap23-cr-report-computer-science-principles.pdf"
+        },
+        {
+          "name": "ap23-csp-create-sample-a-written.pdf",
+          "displayText": "ap23-csp-create-sample-a-written.pdf",
+          "url": "/courses/csp/2023/ap23-csp-create-sample-a-written.pdf"
+        },
+        {
+          "name": "ap23-csp-create-sample-b-written.pdf",
+          "displayText": "ap23-csp-create-sample-b-written.pdf",
+          "url": "/courses/csp/2023/ap23-csp-create-sample-b-written.pdf"
+        },
+        {
+          "name": "ap23-csp-create-sample-c-written.pdf",
+          "displayText": "ap23-csp-create-sample-c-written.pdf",
+          "url": "/courses/csp/2023/ap23-csp-create-sample-c-written.pdf"
+        },
+        {
+          "name": "ap23-csp-create-sample-d-written.pdf",
+          "displayText": "ap23-csp-create-sample-d-written.pdf",
+          "url": "/courses/csp/2023/ap23-csp-create-sample-d-written.pdf"
+        },
+        {
+          "name": "ap23-csp-create-sample-e-written.pdf",
+          "displayText": "ap23-csp-create-sample-e-written.pdf",
+          "url": "/courses/csp/2023/ap23-csp-create-sample-e-written.pdf"
+        },
+        {
+          "name": "ap23-csp-create-sample-f-written.pdf",
+          "displayText": "ap23-csp-create-sample-f-written.pdf",
+          "url": "/courses/csp/2023/ap23-csp-create-sample-f-written.pdf"
+        },
+        {
+          "name": "ap23-csp-create-sample-g-written.pdf",
+          "displayText": "ap23-csp-create-sample-g-written.pdf",
+          "url": "/courses/csp/2023/ap23-csp-create-sample-g-written.pdf"
+        },
+        {
+          "name": "ap23-csp-create-sample-h-written.pdf",
+          "displayText": "ap23-csp-create-sample-h-written.pdf",
+          "url": "/courses/csp/2023/ap23-csp-create-sample-h-written.pdf"
+        },
+        {
+          "name": "ap23-csp-create-sample-i-written.pdf",
+          "displayText": "ap23-csp-create-sample-i-written.pdf",
+          "url": "/courses/csp/2023/ap23-csp-create-sample-i-written.pdf"
+        },
+        {
+          "name": "ap23-csp-create-sample-j-written.pdf",
+          "displayText": "ap23-csp-create-sample-j-written.pdf",
+          "url": "/courses/csp/2023/ap23-csp-create-sample-j-written.pdf"
+        },
+        {
+          "name": "ap23-sg-computer-science-principles.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csp/2023/ap23-sg-computer-science-principles.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "files": [
+        {
+          "name": "ap22-apc-computer-science-principles-create.pdf",
+          "displayText": "ap22-apc-computer-science-principles-create.pdf",
+          "url": "/courses/csp/2022/ap22-apc-computer-science-principles-create.pdf"
+        },
+        {
+          "name": "ap22-computer-science-principles-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/csp/2022/ap22-computer-science-principles-score-distributions.pdf"
+        },
+        {
+          "name": "ap22-cr-report-computer-science-principles.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/csp/2022/ap22-cr-report-computer-science-principles.pdf"
+        },
+        {
+          "name": "ap22-sg-computer-science-principles.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csp/2022/ap22-sg-computer-science-principles.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "files": [
+        {
+          "name": "ap21-apc-computer-science-principles-create-performance-task-sample-a.pdf",
+          "displayText": "ap21-apc-computer-science-principles-create-performance-task-sample-a.pdf",
+          "url": "/courses/csp/2021/ap21-apc-computer-science-principles-create-performance-task-sample-a.pdf"
+        },
+        {
+          "name": "ap21-apc-computer-science-principles-create-performance-task-sample-b.pdf",
+          "displayText": "ap21-apc-computer-science-principles-create-performance-task-sample-b.pdf",
+          "url": "/courses/csp/2021/ap21-apc-computer-science-principles-create-performance-task-sample-b.pdf"
+        },
+        {
+          "name": "ap21-apc-computer-science-principles-create-performance-task-sample-c.pdf",
+          "displayText": "ap21-apc-computer-science-principles-create-performance-task-sample-c.pdf",
+          "url": "/courses/csp/2021/ap21-apc-computer-science-principles-create-performance-task-sample-c.pdf"
+        },
+        {
+          "name": "ap21-apc-computer-science-principles-create-performance-task-sample-d.pdf",
+          "displayText": "ap21-apc-computer-science-principles-create-performance-task-sample-d.pdf",
+          "url": "/courses/csp/2021/ap21-apc-computer-science-principles-create-performance-task-sample-d.pdf"
+        },
+        {
+          "name": "ap21-apc-computer-science-principles-create-performance-task-sample-e.pdf",
+          "displayText": "ap21-apc-computer-science-principles-create-performance-task-sample-e.pdf",
+          "url": "/courses/csp/2021/ap21-apc-computer-science-principles-create-performance-task-sample-e.pdf"
+        },
+        {
+          "name": "ap21-apc-computer-science-principles-create-performance-task-sample-f.pdf",
+          "displayText": "ap21-apc-computer-science-principles-create-performance-task-sample-f.pdf",
+          "url": "/courses/csp/2021/ap21-apc-computer-science-principles-create-performance-task-sample-f.pdf"
+        },
+        {
+          "name": "ap21-apc-computer-science-principles-create-performance-task-sample-h.pdf",
+          "displayText": "ap21-apc-computer-science-principles-create-performance-task-sample-h.pdf",
+          "url": "/courses/csp/2021/ap21-apc-computer-science-principles-create-performance-task-sample-h.pdf"
+        },
+        {
+          "name": "ap21-apc-computer-science-principles-create-performance-task-sample-i.pdf",
+          "displayText": "ap21-apc-computer-science-principles-create-performance-task-sample-i.pdf",
+          "url": "/courses/csp/2021/ap21-apc-computer-science-principles-create-performance-task-sample-i.pdf"
+        },
+        {
+          "name": "ap21-apc-computer-science-principles-create-performance-task-sample-j.pdf",
+          "displayText": "ap21-apc-computer-science-principles-create-performance-task-sample-j.pdf",
+          "url": "/courses/csp/2021/ap21-apc-computer-science-principles-create-performance-task-sample-j.pdf"
+        },
+        {
+          "name": "ap21-apc-csp-create-scoring-commentary.pdf",
+          "displayText": "ap21-apc-csp-create-scoring-commentary.pdf",
+          "url": "/courses/csp/2021/ap21-apc-csp-create-scoring-commentary.pdf"
+        },
+        {
+          "name": "ap21-chief-reader-report-computer-science-principles.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/csp/2021/ap21-chief-reader-report-computer-science-principles.pdf"
+        },
+        {
+          "name": "ap21-computer-science-principles-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/csp/2021/ap21-computer-science-principles-score-distributions.pdf"
+        },
+        {
+          "name": "ap21-sg-computer-science-principles.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csp/2021/ap21-sg-computer-science-principles.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "files": [
+        {
+          "name": "ap20-computer-science-principles-chief-reader-report.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/csp/2020/ap20-computer-science-principles-chief-reader-report.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "files": [
+        {
+          "name": "ap19-apc-csp-create.pdf",
+          "displayText": "ap19-apc-csp-create.pdf",
+          "url": "/courses/csp/2019/ap19-apc-csp-create.pdf"
+        },
+        {
+          "name": "ap19-chief-reader-report-computer-science-principles.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/csp/2019/ap19-chief-reader-report-computer-science-principles.pdf"
+        },
+        {
+          "name": "ap19-computer-science-principles-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/csp/2019/ap19-computer-science-principles-score-distributions.pdf"
+        },
+        {
+          "name": "ap19-sg-csp.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csp/2019/ap19-sg-csp.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "files": [
+        {
+          "name": "ap18-create-sample-a-written.pdf",
+          "displayText": "ap18-create-sample-a-written.pdf",
+          "url": "/courses/csp/2018/ap18-create-sample-a-written.pdf"
+        },
+        {
+          "name": "ap18-create-sample-b-written.pdf",
+          "displayText": "ap18-create-sample-b-written.pdf",
+          "url": "/courses/csp/2018/ap18-create-sample-b-written.pdf"
+        },
+        {
+          "name": "ap18-create-sample-c-written.pdf",
+          "displayText": "ap18-create-sample-c-written.pdf",
+          "url": "/courses/csp/2018/ap18-create-sample-c-written.pdf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1318 @@
+{
+  "slug": "lit",
+  "title": "LIT",
+  "basePath": "/courses/lit",
+  "generatedAt": "2026-01-17T07:59:31.155Z",
+  "years": [
+    {
+      "year": "2025",
+      "files": [
+        {
+          "name": "ap25-apc-english-literature-q1-set-1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2025/ap25-apc-english-literature-q1-set-1.pdf"
+        },
+        {
+          "name": "ap25-apc-english-literature-q1-set-2.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2025/ap25-apc-english-literature-q1-set-2.pdf"
+        },
+        {
+          "name": "ap25-apc-english-literature-q2-set-1.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2025/ap25-apc-english-literature-q2-set-1.pdf"
+        },
+        {
+          "name": "ap25-apc-english-literature-q2-set-2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2025/ap25-apc-english-literature-q2-set-2.pdf"
+        },
+        {
+          "name": "ap25-apc-english-literature-q3-set-1.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2025/ap25-apc-english-literature-q3-set-1.pdf"
+        },
+        {
+          "name": "ap25-apc-english-literature-q3-set-2.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2025/ap25-apc-english-literature-q3-set-2.pdf"
+        },
+        {
+          "name": "ap25-cr-report-english-literature-set-1.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/lit/2025/ap25-cr-report-english-literature-set-1.pdf"
+        },
+        {
+          "name": "ap25-cr-report-english-literature-set-2.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/lit/2025/ap25-cr-report-english-literature-set-2.pdf"
+        },
+        {
+          "name": "ap25-english-literature-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/lit/2025/ap25-english-literature-score-distributions.pdf"
+        },
+        {
+          "name": "ap25-english-literature-scoring-statistics-set-1.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/lit/2025/ap25-english-literature-scoring-statistics-set-1.pdf"
+        },
+        {
+          "name": "ap25-english-literature-scoring-statistics-set-2.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/lit/2025/ap25-english-literature-scoring-statistics-set-2.pdf"
+        },
+        {
+          "name": "ap25-frq-english-literature-set-1.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2025/ap25-frq-english-literature-set-1.pdf"
+        },
+        {
+          "name": "ap25-frq-english-literature-set-2.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2025/ap25-frq-english-literature-set-2.pdf"
+        },
+        {
+          "name": "ap25-sg-english-literature-set-1.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2025/ap25-sg-english-literature-set-1.pdf"
+        },
+        {
+          "name": "ap25-sg-english-literature-set-2.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2025/ap25-sg-english-literature-set-2.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "files": [
+        {
+          "name": "ap24-apc-english-literature-q1-set-1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2024/ap24-apc-english-literature-q1-set-1.pdf"
+        },
+        {
+          "name": "ap24-apc-english-literature-q1-set-2.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2024/ap24-apc-english-literature-q1-set-2.pdf"
+        },
+        {
+          "name": "ap24-apc-english-literature-q2-set-1.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2024/ap24-apc-english-literature-q2-set-1.pdf"
+        },
+        {
+          "name": "ap24-apc-english-literature-q2-set-2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2024/ap24-apc-english-literature-q2-set-2.pdf"
+        },
+        {
+          "name": "ap24-apc-english-literature-q3-set-1.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2024/ap24-apc-english-literature-q3-set-1.pdf"
+        },
+        {
+          "name": "ap24-apc-english-literature-q3-set-2.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2024/ap24-apc-english-literature-q3-set-2.pdf"
+        },
+        {
+          "name": "ap24-cr-report-english-literature-set-1.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/lit/2024/ap24-cr-report-english-literature-set-1.pdf"
+        },
+        {
+          "name": "ap24-cr-report-english-literature-set-2.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/lit/2024/ap24-cr-report-english-literature-set-2.pdf"
+        },
+        {
+          "name": "ap24-english-literature-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/lit/2024/ap24-english-literature-score-distributions.pdf"
+        },
+        {
+          "name": "ap24-english-literature-scoring-statistics-set-1.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/lit/2024/ap24-english-literature-scoring-statistics-set-1.pdf"
+        },
+        {
+          "name": "ap24-english-literature-scoring-statistics-set-2.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/lit/2024/ap24-english-literature-scoring-statistics-set-2.pdf"
+        },
+        {
+          "name": "ap24-frq-english-lit-set-1.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2024/ap24-frq-english-lit-set-1.pdf"
+        },
+        {
+          "name": "ap24-frq-english-lit-set-2.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2024/ap24-frq-english-lit-set-2.pdf"
+        },
+        {
+          "name": "ap24-sg-english-literature-set-1.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2024/ap24-sg-english-literature-set-1.pdf"
+        },
+        {
+          "name": "ap24-sg-english-literature-set-2.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2024/ap24-sg-english-literature-set-2.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "files": [
+        {
+          "name": "ap23-apc-english-literature-q1-set-1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2023/ap23-apc-english-literature-q1-set-1.pdf"
+        },
+        {
+          "name": "ap23-apc-english-literature-q1-set-2.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2023/ap23-apc-english-literature-q1-set-2.pdf"
+        },
+        {
+          "name": "ap23-apc-english-literature-q2-set-1.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2023/ap23-apc-english-literature-q2-set-1.pdf"
+        },
+        {
+          "name": "ap23-apc-english-literature-q2-set-2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2023/ap23-apc-english-literature-q2-set-2.pdf"
+        },
+        {
+          "name": "ap23-apc-english-literature-q3-set-1.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2023/ap23-apc-english-literature-q3-set-1.pdf"
+        },
+        {
+          "name": "ap23-apc-english-literature-q3-set-2.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2023/ap23-apc-english-literature-q3-set-2.pdf"
+        },
+        {
+          "name": "ap23-cr-report-english-literature-set-1.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/lit/2023/ap23-cr-report-english-literature-set-1.pdf"
+        },
+        {
+          "name": "ap23-cr-report-english-literature-set-2.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/lit/2023/ap23-cr-report-english-literature-set-2.pdf"
+        },
+        {
+          "name": "ap23-english-literature-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/lit/2023/ap23-english-literature-score-distributions.pdf"
+        },
+        {
+          "name": "ap23-english-literature-scoring-statistics-set-1.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/lit/2023/ap23-english-literature-scoring-statistics-set-1.pdf"
+        },
+        {
+          "name": "ap23-english-literature-scoring-statistics-set-2.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/lit/2023/ap23-english-literature-scoring-statistics-set-2.pdf"
+        },
+        {
+          "name": "ap23-frq-english-lit-set-1.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2023/ap23-frq-english-lit-set-1.pdf"
+        },
+        {
+          "name": "ap23-frq-english-lit-set-2.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2023/ap23-frq-english-lit-set-2.pdf"
+        },
+        {
+          "name": "ap23-sg-english-literature-set-1.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2023/ap23-sg-english-literature-set-1.pdf"
+        },
+        {
+          "name": "ap23-sg-english-literature-set-2.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2023/ap23-sg-english-literature-set-2.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "files": [
+        {
+          "name": "ap22-apc-english-literature-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2022/ap22-apc-english-literature-q1.pdf"
+        },
+        {
+          "name": "ap22-apc-english-literature-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2022/ap22-apc-english-literature-q2.pdf"
+        },
+        {
+          "name": "ap22-apc-english-literature-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2022/ap22-apc-english-literature-q3.pdf"
+        },
+        {
+          "name": "ap22-cr-report-english-literature.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/lit/2022/ap22-cr-report-english-literature.pdf"
+        },
+        {
+          "name": "ap22-english-lit-comp-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/lit/2022/ap22-english-lit-comp-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap22-english-literature-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/lit/2022/ap22-english-literature-score-distributions.pdf"
+        },
+        {
+          "name": "ap22-frq-english-literature.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2022/ap22-frq-english-literature.pdf"
+        },
+        {
+          "name": "ap22-sg-english-literature.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2022/ap22-sg-english-literature.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "files": [
+        {
+          "name": "ap21-apc-english-literature-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2021/ap21-apc-english-literature-q1.pdf"
+        },
+        {
+          "name": "ap21-apc-english-literature-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2021/ap21-apc-english-literature-q2.pdf"
+        },
+        {
+          "name": "ap21-apc-english-literature-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2021/ap21-apc-english-literature-q3.pdf"
+        },
+        {
+          "name": "ap21-chief-reader-report-english-literature.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/lit/2021/ap21-chief-reader-report-english-literature.pdf"
+        },
+        {
+          "name": "ap21-english-literature-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/lit/2021/ap21-english-literature-score-distributions.pdf"
+        },
+        {
+          "name": "ap21-english-literature-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/lit/2021/ap21-english-literature-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap21-frq-english-literature.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2021/ap21-frq-english-literature.pdf"
+        },
+        {
+          "name": "ap21-sg-english-literature.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2021/ap21-sg-english-literature.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "files": [
+        {
+          "name": "ap20-english-literature-and-composition-E1-frq-prompt-eng.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2020/ap20-english-literature-and-composition-E1-frq-prompt-eng.pdf"
+        },
+        {
+          "name": "ap20-english-literature-and-composition-E1-scoring-guidelines-eng.pdf",
+          "displayText": "ap20-english-literature-and-composition-E1-scoring-guidelines-eng.pdf",
+          "url": "/courses/lit/2020/ap20-english-literature-and-composition-E1-scoring-guidelines-eng.pdf"
+        },
+        {
+          "name": "ap20-english-literature-and-composition-F2-frq-prompt-johnson.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2020/ap20-english-literature-and-composition-F2-frq-prompt-johnson.pdf"
+        },
+        {
+          "name": "ap20-english-literature-and-composition-F2-scoring-guidelines-johnson.pdf",
+          "displayText": "ap20-english-literature-and-composition-F2-scoring-guidelines-johnson.pdf",
+          "url": "/courses/lit/2020/ap20-english-literature-and-composition-F2-scoring-guidelines-johnson.pdf"
+        },
+        {
+          "name": "ap20-english-literature-and-composition-K1-frq-prompt-porter.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2020/ap20-english-literature-and-composition-K1-frq-prompt-porter.pdf"
+        },
+        {
+          "name": "ap20-english-literature-and-composition-K1-scoring-guidelines-porter.pdf",
+          "displayText": "ap20-english-literature-and-composition-K1-scoring-guidelines-porter.pdf",
+          "url": "/courses/lit/2020/ap20-english-literature-and-composition-K1-scoring-guidelines-porter.pdf"
+        },
+        {
+          "name": "ap20-english-literature-and-composition-scoring-commentaries-eng.pdf",
+          "displayText": "ap20-english-literature-and-composition-scoring-commentaries-eng.pdf",
+          "url": "/courses/lit/2020/ap20-english-literature-and-composition-scoring-commentaries-eng.pdf"
+        },
+        {
+          "name": "ap20-english-literature-and-composition-scoring-commentaries-johnson.pdf",
+          "displayText": "ap20-english-literature-and-composition-scoring-commentaries-johnson.pdf",
+          "url": "/courses/lit/2020/ap20-english-literature-and-composition-scoring-commentaries-johnson.pdf"
+        },
+        {
+          "name": "ap20-english-literature-and-composition-scoring-commentaries-porter.pdf",
+          "displayText": "ap20-english-literature-and-composition-scoring-commentaries-porter.pdf",
+          "url": "/courses/lit/2020/ap20-english-literature-and-composition-scoring-commentaries-porter.pdf"
+        },
+        {
+          "name": "ap20-english-literature-and-composition-student-samples-eng.pdf",
+          "displayText": "ap20-english-literature-and-composition-student-samples-eng.pdf",
+          "url": "/courses/lit/2020/ap20-english-literature-and-composition-student-samples-eng.pdf"
+        },
+        {
+          "name": "ap20-english-literature-and-composition-student-samples-johnson.pdf",
+          "displayText": "ap20-english-literature-and-composition-student-samples-johnson.pdf",
+          "url": "/courses/lit/2020/ap20-english-literature-and-composition-student-samples-johnson.pdf"
+        },
+        {
+          "name": "ap20-english-literature-and-composition-student-samples-porter.pdf",
+          "displayText": "ap20-english-literature-and-composition-student-samples-porter.pdf",
+          "url": "/courses/lit/2020/ap20-english-literature-and-composition-student-samples-porter.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "files": [
+        {
+          "name": "ap19-apc-english-literature-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2019/ap19-apc-english-literature-q1.pdf"
+        },
+        {
+          "name": "ap19-apc-english-literature-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2019/ap19-apc-english-literature-q2.pdf"
+        },
+        {
+          "name": "ap19-apc-english-literature-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2019/ap19-apc-english-literature-q3.pdf"
+        },
+        {
+          "name": "ap19-chief-reader-report-english-literature.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/lit/2019/ap19-chief-reader-report-english-literature.pdf"
+        },
+        {
+          "name": "ap19-english-literature-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/lit/2019/ap19-english-literature-score-distributions.pdf"
+        },
+        {
+          "name": "ap19-english-literature-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/lit/2019/ap19-english-literature-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap19-frq-english-literature.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2019/ap19-frq-english-literature.pdf"
+        },
+        {
+          "name": "ap19-sg-english-literature.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2019/ap19-sg-english-literature.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "files": [
+        {
+          "name": "ap18-chief-reader-report-english-literature.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/lit/2018/ap18-chief-reader-report-english-literature.pdf"
+        },
+        {
+          "name": "ap18-english-literature-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2018/ap18-english-literature-q1.pdf"
+        },
+        {
+          "name": "ap18-english-literature-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2018/ap18-english-literature-q2.pdf"
+        },
+        {
+          "name": "ap18-english-literature-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2018/ap18-english-literature-q3.pdf"
+        },
+        {
+          "name": "ap18-english-literature-score-distribution.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/lit/2018/ap18-english-literature-score-distribution.pdf"
+        },
+        {
+          "name": "ap18-english-literature-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/lit/2018/ap18-english-literature-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap18-frq-english-literature.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2018/ap18-frq-english-literature.pdf"
+        },
+        {
+          "name": "ap18-sg-english-literature.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2018/ap18-sg-english-literature.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "files": [
+        {
+          "name": "ap17-chief-reader-report-english-literature.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/lit/2017/ap17-chief-reader-report-english-literature.pdf"
+        },
+        {
+          "name": "ap17-english-literature-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2017/ap17-english-literature-q1.pdf"
+        },
+        {
+          "name": "ap17-english-literature-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2017/ap17-english-literature-q2.pdf"
+        },
+        {
+          "name": "ap17-english-literature-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2017/ap17-english-literature-q3.pdf"
+        },
+        {
+          "name": "ap17-english-literature-scoring-global.pdf",
+          "displayText": "ap17-english-literature-scoring-global.pdf",
+          "url": "/courses/lit/2017/ap17-english-literature-scoring-global.pdf"
+        },
+        {
+          "name": "ap17-english-literature-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/lit/2017/ap17-english-literature-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap17-sg-english-literature.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2017/ap17-sg-english-literature.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "files": [
+        {
+          "name": "ap16_eng_lit_scoring_global.pdf",
+          "displayText": "ap16_eng_lit_scoring_global.pdf",
+          "url": "/courses/lit/2016/ap16_eng_lit_scoring_global.pdf"
+        },
+        {
+          "name": "ap16_english_lit_comp_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/lit/2016/ap16_english_lit_comp_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap16_english_lit_student_performance_qa.pdf",
+          "displayText": "ap16_english_lit_student_performance_qa.pdf",
+          "url": "/courses/lit/2016/ap16_english_lit_student_performance_qa.pdf"
+        },
+        {
+          "name": "ap16_english_literature_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2016/ap16_english_literature_q1.pdf"
+        },
+        {
+          "name": "ap16_english_literature_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2016/ap16_english_literature_q2.pdf"
+        },
+        {
+          "name": "ap16_english_literature_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2016/ap16_english_literature_q3.pdf"
+        },
+        {
+          "name": "ap16_english_literature_sg.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2016/ap16_english_literature_sg.pdf"
+        },
+        {
+          "name": "ap16_frq_english_literature.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2016/ap16_frq_english_literature.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2015",
+      "files": [
+        {
+          "name": "ap15_english_lit_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2015/ap15_english_lit_q1.pdf"
+        },
+        {
+          "name": "ap15_english_lit_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2015/ap15_english_lit_q2.pdf"
+        },
+        {
+          "name": "ap15_english_lit_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2015/ap15_english_lit_q3.pdf"
+        },
+        {
+          "name": "ap15_english_lit_student_performance_qa.pdf",
+          "displayText": "ap15_english_lit_student_performance_qa.pdf",
+          "url": "/courses/lit/2015/ap15_english_lit_student_performance_qa.pdf"
+        },
+        {
+          "name": "ap15_english_literature_sg.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2015/ap15_english_literature_sg.pdf"
+        },
+        {
+          "name": "ap15_frq_english_literature.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2015/ap15_frq_english_literature.pdf"
+        },
+        {
+          "name": "ap15-eng-lit-score-dist.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/lit/2015/ap15-eng-lit-score-dist.pdf"
+        },
+        {
+          "name": "ap15-english-lit-comp-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/lit/2015/ap15-english-lit-comp-scoring-statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "files": [
+        {
+          "name": "ap14_english_literature_and_composition_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2014/ap14_english_literature_and_composition_q1.pdf"
+        },
+        {
+          "name": "ap14_english_literature_and_composition_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2014/ap14_english_literature_and_composition_q2.pdf"
+        },
+        {
+          "name": "ap14_english_literature_and_composition_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2014/ap14_english_literature_and_composition_q3.pdf"
+        },
+        {
+          "name": "ap14_english_literature_scoring_guidelines.pdf",
+          "displayText": "ap14_english_literature_scoring_guidelines.pdf",
+          "url": "/courses/lit/2014/ap14_english_literature_scoring_guidelines.pdf"
+        },
+        {
+          "name": "ap14_frq_english_literature.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2014/ap14_frq_english_literature.pdf"
+        },
+        {
+          "name": "ap14-eng-lit-score-dist.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/lit/2014/ap14-eng-lit-score-dist.pdf"
+        },
+        {
+          "name": "ap14-english-lit-comp-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/lit/2014/ap14-english-lit-comp-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap14-english-literature-qa.pdf",
+          "displayText": "ap14-english-literature-qa.pdf",
+          "url": "/courses/lit/2014/ap14-english-literature-qa.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2013",
+      "files": [
+        {
+          "name": "ap13_eng_lit_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2013/ap13_eng_lit_q1.pdf"
+        },
+        {
+          "name": "ap13_eng_lit_ScoringDist.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/lit/2013/ap13_eng_lit_ScoringDist.pdf"
+        },
+        {
+          "name": "ap13_engl_lit_comp_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/lit/2013/ap13_engl_lit_comp_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap13_engl_lit_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2013/ap13_engl_lit_q2.pdf"
+        },
+        {
+          "name": "ap13_engl_lit_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2013/ap13_engl_lit_q3.pdf"
+        },
+        {
+          "name": "ap13_english_literature_qa.pdf",
+          "displayText": "ap13_english_literature_qa.pdf",
+          "url": "/courses/lit/2013/ap13_english_literature_qa.pdf"
+        },
+        {
+          "name": "ap13_english_literature_scoring_guidelines.pdf",
+          "displayText": "ap13_english_literature_scoring_guidelines.pdf",
+          "url": "/courses/lit/2013/ap13_english_literature_scoring_guidelines.pdf"
+        },
+        {
+          "name": "ap13_frq_eng_lit.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2013/ap13_frq_eng_lit.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2012",
+      "files": [
+        {
+          "name": "ap12_engl_lit_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/lit/2012/ap12_engl_lit_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap12_engl_lit_ScoringDist.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/lit/2012/ap12_engl_lit_ScoringDist.pdf"
+        },
+        {
+          "name": "ap12_english_lit_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2012/ap12_english_lit_q1.pdf"
+        },
+        {
+          "name": "ap12_english_lit_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2012/ap12_english_lit_q2.pdf"
+        },
+        {
+          "name": "ap12_english_lit_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2012/ap12_english_lit_q3.pdf"
+        },
+        {
+          "name": "ap12_english_literature_qa.pdf",
+          "displayText": "ap12_english_literature_qa.pdf",
+          "url": "/courses/lit/2012/ap12_english_literature_qa.pdf"
+        },
+        {
+          "name": "ap12_english_literature_scoring_guidelines.pdf",
+          "displayText": "ap12_english_literature_scoring_guidelines.pdf",
+          "url": "/courses/lit/2012/ap12_english_literature_scoring_guidelines.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2011",
+      "files": [
+        {
+          "name": "ap11_engl_lit_scoring_guidelines.pdf",
+          "displayText": "ap11_engl_lit_scoring_guidelines.pdf",
+          "url": "/courses/lit/2011/ap11_engl_lit_scoring_guidelines.pdf"
+        },
+        {
+          "name": "ap11_english_lit_form_b_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2011/ap11_english_lit_form_b_q1.pdf"
+        },
+        {
+          "name": "ap11_english_lit_form_b_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2011/ap11_english_lit_form_b_q2.pdf"
+        },
+        {
+          "name": "ap11_english_lit_form_b_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2011/ap11_english_lit_form_b_q3.pdf"
+        },
+        {
+          "name": "ap11_english_lit_form_b_scoring_guidelines.pdf",
+          "displayText": "ap11_english_lit_form_b_scoring_guidelines.pdf",
+          "url": "/courses/lit/2011/ap11_english_lit_form_b_scoring_guidelines.pdf"
+        },
+        {
+          "name": "ap11_english_lit_qa.pdf",
+          "displayText": "ap11_english_lit_qa.pdf",
+          "url": "/courses/lit/2011/ap11_english_lit_qa.pdf"
+        },
+        {
+          "name": "ap11_english_literature_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2011/ap11_english_literature_q1.pdf"
+        },
+        {
+          "name": "ap11_english_literature_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2011/ap11_english_literature_q2.pdf"
+        },
+        {
+          "name": "ap11_english_literature_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2011/ap11_english_literature_q3.pdf"
+        },
+        {
+          "name": "ap11_english_literature_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/lit/2011/ap11_english_literature_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap11_frq_english_lit_formb.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2011/ap11_frq_english_lit_formb.pdf"
+        },
+        {
+          "name": "ap11_frq_english_lit.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2011/ap11_frq_english_lit.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2010",
+      "files": [
+        {
+          "name": "ap10_english_lit_qa.pdf",
+          "displayText": "ap10_english_lit_qa.pdf",
+          "url": "/courses/lit/2010/ap10_english_lit_qa.pdf"
+        },
+        {
+          "name": "ap10_english_literature_form_b_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2010/ap10_english_literature_form_b_q1.pdf"
+        },
+        {
+          "name": "ap10_english_literature_form_b_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2010/ap10_english_literature_form_b_q2.pdf"
+        },
+        {
+          "name": "ap10_english_literature_form_b_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2010/ap10_english_literature_form_b_q3.pdf"
+        },
+        {
+          "name": "ap10_english_literature_form_b_sgs.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2010/ap10_english_literature_form_b_sgs.pdf"
+        },
+        {
+          "name": "ap10_english_literature_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2010/ap10_english_literature_q1.pdf"
+        },
+        {
+          "name": "ap10_english_literature_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2010/ap10_english_literature_q2.pdf"
+        },
+        {
+          "name": "ap10_english_literature_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2010/ap10_english_literature_q3.pdf"
+        },
+        {
+          "name": "ap10_english_literature_scoring_guidelines.pdf",
+          "displayText": "ap10_english_literature_scoring_guidelines.pdf",
+          "url": "/courses/lit/2010/ap10_english_literature_scoring_guidelines.pdf"
+        },
+        {
+          "name": "ap10_english_literature_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/lit/2010/ap10_english_literature_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap10_frq_eng_lit_formb.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2010/ap10_frq_eng_lit_formb.pdf"
+        },
+        {
+          "name": "ap10_frq_eng_lit.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2010/ap10_frq_eng_lit.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2009",
+      "files": [
+        {
+          "name": "ap09_eng_lit_qa.pdf",
+          "displayText": "ap09_eng_lit_qa.pdf",
+          "url": "/courses/lit/2009/ap09_eng_lit_qa.pdf"
+        },
+        {
+          "name": "ap09_eng_lit_sgs.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2009/ap09_eng_lit_sgs.pdf"
+        },
+        {
+          "name": "ap09_english_lit_form_b_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2009/ap09_english_lit_form_b_q1.pdf"
+        },
+        {
+          "name": "ap09_english_lit_form_b_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2009/ap09_english_lit_form_b_q2.pdf"
+        },
+        {
+          "name": "ap09_english_lit_form_b_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2009/ap09_english_lit_form_b_q3.pdf"
+        },
+        {
+          "name": "ap09_english_lit_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2009/ap09_english_lit_q1.pdf"
+        },
+        {
+          "name": "ap09_english_lit_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2009/ap09_english_lit_q2.pdf"
+        },
+        {
+          "name": "ap09_english_lit_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2009/ap09_english_lit_q3.pdf"
+        },
+        {
+          "name": "ap09_english_literature_form_b_sgs.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2009/ap09_english_literature_form_b_sgs.pdf"
+        },
+        {
+          "name": "ap09_english_literature_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/lit/2009/ap09_english_literature_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap09_EnglishLit_GradeDistributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/lit/2009/ap09_EnglishLit_GradeDistributions.pdf"
+        },
+        {
+          "name": "ap09_frq_english_literature_formb.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2009/ap09_frq_english_literature_formb.pdf"
+        },
+        {
+          "name": "ap09_frq_english_literature.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2009/ap09_frq_english_literature.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2008",
+      "files": [
+        {
+          "name": "ap08_eng_lit_form_b_frq.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2008/ap08_eng_lit_form_b_frq.pdf"
+        },
+        {
+          "name": "ap08_eng_lit_frq.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2008/ap08_eng_lit_frq.pdf"
+        },
+        {
+          "name": "ap08_eng_lit_op_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2008/ap08_eng_lit_op_q1.pdf"
+        },
+        {
+          "name": "ap08_eng_lit_op_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2008/ap08_eng_lit_op_q2.pdf"
+        },
+        {
+          "name": "ap08_eng_lit_op_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2008/ap08_eng_lit_op_q3.pdf"
+        },
+        {
+          "name": "ap08_eng_lit_qa.pdf",
+          "displayText": "ap08_eng_lit_qa.pdf",
+          "url": "/courses/lit/2008/ap08_eng_lit_qa.pdf"
+        },
+        {
+          "name": "ap08_eng_lit_sgs.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2008/ap08_eng_lit_sgs.pdf"
+        },
+        {
+          "name": "ap08_english_lit_b_sgs.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2008/ap08_english_lit_b_sgs.pdf"
+        },
+        {
+          "name": "ap08_english_lit_form_b_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2008/ap08_english_lit_form_b_q1.pdf"
+        },
+        {
+          "name": "ap08_english_lit_form_b_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2008/ap08_english_lit_form_b_q2.pdf"
+        },
+        {
+          "name": "ap08_english_lit_form_b_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2008/ap08_english_lit_form_b_q3.pdf"
+        },
+        {
+          "name": "ap08_EnglishLit_GradeDistributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/lit/2008/ap08_EnglishLit_GradeDistributions.pdf"
+        },
+        {
+          "name": "ap08_EnglishLit_ScoringStatistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/lit/2008/ap08_EnglishLit_ScoringStatistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2007",
+      "files": [
+        {
+          "name": "_ap07_eng_lit_sgs_final.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2007/_ap07_eng_lit_sgs_final.pdf"
+        },
+        {
+          "name": "ap07_eng_lit_form_b_frq.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2007/ap07_eng_lit_form_b_frq.pdf"
+        },
+        {
+          "name": "ap07_eng_lit_form_b_sgs_complete.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2007/ap07_eng_lit_form_b_sgs_complete.pdf"
+        },
+        {
+          "name": "ap07_eng_lit_frq.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2007/ap07_eng_lit_frq.pdf"
+        },
+        {
+          "name": "ap07_eng_lit_q_a.pdf",
+          "displayText": "ap07_eng_lit_q_a.pdf",
+          "url": "/courses/lit/2007/ap07_eng_lit_q_a.pdf"
+        },
+        {
+          "name": "ap07_englit_formb_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2007/ap07_englit_formb_q1.pdf"
+        },
+        {
+          "name": "ap07_englit_formb_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2007/ap07_englit_formb_q2.pdf"
+        },
+        {
+          "name": "ap07_englit_formb_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2007/ap07_englit_formb_q3.pdf"
+        },
+        {
+          "name": "ap07_englit_operational_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2007/ap07_englit_operational_q1.pdf"
+        },
+        {
+          "name": "ap07_englit_operational_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2007/ap07_englit_operational_q2.pdf"
+        },
+        {
+          "name": "ap07_englit_operational_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2007/ap07_englit_operational_q3.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2006",
+      "files": [
+        {
+          "name": "_ap06_englit_sg_formb.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2006/_ap06_englit_sg_formb.pdf"
+        },
+        {
+          "name": "_ap06_englit_sg.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2006/_ap06_englit_sg.pdf"
+        },
+        {
+          "name": "_ap06_frq_english_lit_51754.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2006/_ap06_frq_english_lit_51754.pdf"
+        },
+        {
+          "name": "_ap06_frq_englishlit_51753.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2006/_ap06_frq_englishlit_51753.pdf"
+        },
+        {
+          "name": "ap06_english_lit_q_26a_final.pdf",
+          "displayText": "ap06_english_lit_q_26a_final.pdf",
+          "url": "/courses/lit/2006/ap06_english_lit_q_26a_final.pdf"
+        },
+        {
+          "name": "ap06_englishlit_formB_samples_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2006/ap06_englishlit_formB_samples_q1.pdf"
+        },
+        {
+          "name": "ap06_englishlit_formB_samples_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2006/ap06_englishlit_formB_samples_q2.pdf"
+        },
+        {
+          "name": "ap06_englishlit_formB_samples_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2006/ap06_englishlit_formB_samples_q3.pdf"
+        },
+        {
+          "name": "ap06_englishlit_samples_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2006/ap06_englishlit_samples_q1.pdf"
+        },
+        {
+          "name": "ap06_englishlit_samples_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2006/ap06_englishlit_samples_q2.pdf"
+        },
+        {
+          "name": "ap06_englishlit_samples_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2006/ap06_englishlit_samples_q3.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2005",
+      "files": [
+        {
+          "name": "_ap05_comm_englishlit_46900.pdf",
+          "displayText": "_ap05_comm_englishlit_46900.pdf",
+          "url": "/courses/lit/2005/_ap05_comm_englishlit_46900.pdf"
+        },
+        {
+          "name": "_ap05_comm_englishlit_46901.pdf",
+          "displayText": "_ap05_comm_englishlit_46901.pdf",
+          "url": "/courses/lit/2005/_ap05_comm_englishlit_46901.pdf"
+        },
+        {
+          "name": "_ap05_frq_englishlit__45550.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2005/_ap05_frq_englishlit__45550.pdf"
+        },
+        {
+          "name": "_ap05_frq_englishlit_45549.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2005/_ap05_frq_englishlit_45549.pdf"
+        },
+        {
+          "name": "_ap05_sg_englishlit_46580.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2005/_ap05_sg_englishlit_46580.pdf"
+        },
+        {
+          "name": "_ap05_sg_englishlit_f_46581.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2005/_ap05_sg_englishlit_f_46581.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2004",
+      "files": [
+        {
+          "name": "_ap04_qa_eng_lit_38536.pdf",
+          "displayText": "_ap04_qa_eng_lit_38536.pdf",
+          "url": "/courses/lit/2004/_ap04_qa_eng_lit_38536.pdf"
+        },
+        {
+          "name": "ap04_comm_b_eng_lit_38450.pdf",
+          "displayText": "ap04_comm_b_eng_lit_38450.pdf",
+          "url": "/courses/lit/2004/ap04_comm_b_eng_lit_38450.pdf"
+        },
+        {
+          "name": "ap04_comm_eng_lit_38466.pdf",
+          "displayText": "ap04_comm_eng_lit_38466.pdf",
+          "url": "/courses/lit/2004/ap04_comm_eng_lit_38466.pdf"
+        },
+        {
+          "name": "ap04_english_lit_form_38642.pdf",
+          "displayText": "ap04_english_lit_form_38642.pdf",
+          "url": "/courses/lit/2004/ap04_english_lit_form_38642.pdf"
+        },
+        {
+          "name": "ap04_english_lit_form_38643.pdf",
+          "displayText": "ap04_english_lit_form_38643.pdf",
+          "url": "/courses/lit/2004/ap04_english_lit_form_38643.pdf"
+        },
+        {
+          "name": "ap04_english_lit_form_38644.pdf",
+          "displayText": "ap04_english_lit_form_38644.pdf",
+          "url": "/courses/lit/2004/ap04_english_lit_form_38644.pdf"
+        },
+        {
+          "name": "ap04_english_lit_oper_38645.pdf",
+          "displayText": "ap04_english_lit_oper_38645.pdf",
+          "url": "/courses/lit/2004/ap04_english_lit_oper_38645.pdf"
+        },
+        {
+          "name": "ap04_english_lit_oper_38646.pdf",
+          "displayText": "ap04_english_lit_oper_38646.pdf",
+          "url": "/courses/lit/2004/ap04_english_lit_oper_38646.pdf"
+        },
+        {
+          "name": "ap04_english_lit_operational_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2004/ap04_english_lit_operational_q2.pdf"
+        },
+        {
+          "name": "ap04_frq_english_lit__36152.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2004/ap04_frq_english_lit__36152.pdf"
+        },
+        {
+          "name": "ap04_frq_english_lit_36149.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2004/ap04_frq_english_lit_36149.pdf"
+        },
+        {
+          "name": "ap04_sg_b_english_lit_36976.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2004/ap04_sg_b_english_lit_36976.pdf"
+        },
+        {
+          "name": "ap04_sg_english_lit_36980.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2004/ap04_sg_english_lit_36980.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2003",
+      "files": [
+        {
+          "name": "ap03_comment_english__27945.pdf",
+          "displayText": "ap03_comment_english__27945.pdf",
+          "url": "/courses/lit/2003/ap03_comment_english__27945.pdf"
+        },
+        {
+          "name": "ap03_comment_english__27946.pdf",
+          "displayText": "ap03_comment_english__27946.pdf",
+          "url": "/courses/lit/2003/ap03_comment_english__27946.pdf"
+        },
+        {
+          "name": "ap03_english_lit_form_28070.pdf",
+          "displayText": "ap03_english_lit_form_28070.pdf",
+          "url": "/courses/lit/2003/ap03_english_lit_form_28070.pdf"
+        },
+        {
+          "name": "ap03_english_lit_form_28071.pdf",
+          "displayText": "ap03_english_lit_form_28071.pdf",
+          "url": "/courses/lit/2003/ap03_english_lit_form_28071.pdf"
+        },
+        {
+          "name": "ap03_english_lit_form_28072.pdf",
+          "displayText": "ap03_english_lit_form_28072.pdf",
+          "url": "/courses/lit/2003/ap03_english_lit_form_28072.pdf"
+        },
+        {
+          "name": "ap03_english_lit_q1_28066.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/lit/2003/ap03_english_lit_q1_28066.pdf"
+        },
+        {
+          "name": "ap03_english_lit_q2_28067.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/lit/2003/ap03_english_lit_q2_28067.pdf"
+        },
+        {
+          "name": "ap03_english_lit_q3_28069.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/lit/2003/ap03_english_lit_q3_28069.pdf"
+        },
+        {
+          "name": "ap03_frq_english_lit__22957.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2003/ap03_frq_english_lit__22957.pdf"
+        },
+        {
+          "name": "ap03_frq_english_lit_22956.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/lit/2003/ap03_frq_english_lit_22956.pdf"
+        },
+        {
+          "name": "ap03_qa_eng_lit_27861.pdf",
+          "displayText": "ap03_qa_eng_lit_27861.pdf",
+          "url": "/courses/lit/2003/ap03_qa_eng_lit_27861.pdf"
+        },
+        {
+          "name": "ap03_sg_english_lit_26432.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2003/ap03_sg_english_lit_26432.pdf"
+        },
+        {
+          "name": "ap03_sg_english_lit_b_26433.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/lit/2003/ap03_sg_english_lit_b_26433.pdf"
+        }
+      ]
+    }
+  ]
+}

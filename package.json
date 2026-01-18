@@ -1,0 +1,8 @@
+{
+  "name": "ap-frq-archive",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:indexes": "node scripts/build-course-indexes.js"
+  }
+}

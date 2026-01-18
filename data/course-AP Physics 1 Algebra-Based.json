@@ -1,0 +1,454 @@
+{
+  "slug": "AP Physics 1 Algebra-Based",
+  "title": "AP Physics 1 Algebra-Based",
+  "basePath": "/courses/AP%20Physics%201%20Algebra-Based",
+  "generatedAt": "2026-01-18T00:04:02.871Z",
+  "years": [
+    {
+      "year": "2025",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2025/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2025/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Sample Responses Q1.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2025/Sample%20Responses%20Q1.pdf"
+        },
+        {
+          "name": "Sample Responses Q2.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2025/Sample%20Responses%20Q2.pdf"
+        },
+        {
+          "name": "Sample Responses Q3.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2025/Sample%20Responses%20Q3.pdf"
+        },
+        {
+          "name": "Sample Responses Q4.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2025/Sample%20Responses%20Q4.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2025/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2025/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2025/Scoring%20Statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2024/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2024/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Sample Responses Q1.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2024/Sample%20Responses%20Q1.pdf"
+        },
+        {
+          "name": "Sample Responses Q2.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2024/Sample%20Responses%20Q2.pdf"
+        },
+        {
+          "name": "Sample Responses Q3.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2024/Sample%20Responses%20Q3.pdf"
+        },
+        {
+          "name": "Sample Responses Q4.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2024/Sample%20Responses%20Q4.pdf"
+        },
+        {
+          "name": "Sample Responses Q5.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2024/Sample%20Responses%20Q5.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2024/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2024/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2024/Scoring%20Statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2023/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2023/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Sample Responses Q1.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2023/Sample%20Responses%20Q1.pdf"
+        },
+        {
+          "name": "Sample Responses Q2.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2023/Sample%20Responses%20Q2.pdf"
+        },
+        {
+          "name": "Sample Responses Q3.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2023/Sample%20Responses%20Q3.pdf"
+        },
+        {
+          "name": "Sample Responses Q4.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2023/Sample%20Responses%20Q4.pdf"
+        },
+        {
+          "name": "Sample Responses Q5.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2023/Sample%20Responses%20Q5.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2023/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2023/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2023/Scoring%20Statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2022/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2022/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Sample Responses Q1.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2022/Sample%20Responses%20Q1.pdf"
+        },
+        {
+          "name": "Sample Responses Q2.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2022/Sample%20Responses%20Q2.pdf"
+        },
+        {
+          "name": "Sample Responses Q3.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2022/Sample%20Responses%20Q3.pdf"
+        },
+        {
+          "name": "Sample Responses Q4.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2022/Sample%20Responses%20Q4.pdf"
+        },
+        {
+          "name": "Sample Responses Q5.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2022/Sample%20Responses%20Q5.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2022/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2022/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2022/Scoring%20Statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2021/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2021/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Sample Responses Q1.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2021/Sample%20Responses%20Q1.pdf"
+        },
+        {
+          "name": "Sample Responses Q2.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2021/Sample%20Responses%20Q2.pdf"
+        },
+        {
+          "name": "Sample Responses Q3.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2021/Sample%20Responses%20Q3.pdf"
+        },
+        {
+          "name": "Sample Responses Q4.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2021/Sample%20Responses%20Q4.pdf"
+        },
+        {
+          "name": "Sample Responses Q5.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2021/Sample%20Responses%20Q5.pdf"
+        },
+        {
+          "name": "Scoring Distribution.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2021/Scoring%20Distribution.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2021/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2021/Scoring%20Statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2019/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2019/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Sample Responses Q1.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2019/Sample%20Responses%20Q1.pdf"
+        },
+        {
+          "name": "Sample Responses Q2.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2019/Sample%20Responses%20Q2.pdf"
+        },
+        {
+          "name": "Sample Responses Q3.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2019/Sample%20Responses%20Q3.pdf"
+        },
+        {
+          "name": "Sample Responses Q4.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2019/Sample%20Responses%20Q4.pdf"
+        },
+        {
+          "name": "Sample Responses Q5.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2019/Sample%20Responses%20Q5.pdf"
+        },
+        {
+          "name": "Scoring Distribution.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2019/Scoring%20Distribution.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2019/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2019/Scoring%20Statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2018/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2018/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Sample Responses Q1.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2018/Sample%20Responses%20Q1.pdf"
+        },
+        {
+          "name": "Sample Responses Q2.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2018/Sample%20Responses%20Q2.pdf"
+        },
+        {
+          "name": "Sample Responses Q3.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2018/Sample%20Responses%20Q3.pdf"
+        },
+        {
+          "name": "Sample Responses Q4.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2018/Sample%20Responses%20Q4.pdf"
+        },
+        {
+          "name": "Sample Responses Q5.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2018/Sample%20Responses%20Q5.pdf"
+        },
+        {
+          "name": "Scoring Distributions.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2018/Scoring%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2018/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2018/Scoring%20Statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2017/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2017/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Sample Responses Q1.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2017/Sample%20Responses%20Q1.pdf"
+        },
+        {
+          "name": "Sample Responses Q2.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2017/Sample%20Responses%20Q2.pdf"
+        },
+        {
+          "name": "Sample Responses Q3.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2017/Sample%20Responses%20Q3.pdf"
+        },
+        {
+          "name": "Sample Responses Q4.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2017/Sample%20Responses%20Q4.pdf"
+        },
+        {
+          "name": "Sample Responses Q5.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2017/Sample%20Responses%20Q5.pdf"
+        },
+        {
+          "name": "Scoring Distributions.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2017/Scoring%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2017/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2017/Scoring%20Statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "files": [
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2016/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Sample Responses Q1.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2016/Sample%20Responses%20Q1.pdf"
+        },
+        {
+          "name": "Sample Responses Q2.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2016/Sample%20Responses%20Q2.pdf"
+        },
+        {
+          "name": "Sample Responses Q3.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2016/Sample%20Responses%20Q3.pdf"
+        },
+        {
+          "name": "Sample Responses Q4.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2016/Sample%20Responses%20Q4.pdf"
+        },
+        {
+          "name": "Sample Responses Q5.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2016/Sample%20Responses%20Q5.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2016/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2016/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2016/Scoring%20Statistics.pdf"
+        },
+        {
+          "name": "Student Performance Q&A.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2016/Student%20Performance%20Q%26A.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2015",
+      "files": [
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2015/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Sample Responses Q1.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2015/Sample%20Responses%20Q1.pdf"
+        },
+        {
+          "name": "Sample Responses Q2.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2015/Sample%20Responses%20Q2.pdf"
+        },
+        {
+          "name": "Sample Responses Q3.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2015/Sample%20Responses%20Q3.pdf"
+        },
+        {
+          "name": "Sample Responses Q4.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2015/Sample%20Responses%20Q4.pdf"
+        },
+        {
+          "name": "Sample Responses Q5.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2015/Sample%20Responses%20Q5.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2015/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2015/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2015/Scoring%20Statistics.pdf"
+        },
+        {
+          "name": "Student Performance Q&A.pdf",
+          "url": "/courses/AP%20Physics%201%20Algebra-Based/2015/Student%20Performance%20Q%26A.pdf"
+        }
+      ]
+    }
+  ]
+}

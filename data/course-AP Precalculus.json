@@ -1,0 +1,90 @@
+{
+  "slug": "AP Precalculus",
+  "title": "AP Precalculus",
+  "basePath": "/courses/AP%20Precalculus",
+  "generatedAt": "2026-01-18T00:04:02.904Z",
+  "years": [
+    {
+      "year": "2025",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Precalculus/2025/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20Precalculus/2025/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Sample Responses Q1.pdf",
+          "url": "/courses/AP%20Precalculus/2025/Sample%20Responses%20Q1.pdf"
+        },
+        {
+          "name": "Sample Responses Q2.pdf",
+          "url": "/courses/AP%20Precalculus/2025/Sample%20Responses%20Q2.pdf"
+        },
+        {
+          "name": "Sample Responses Q3.pdf",
+          "url": "/courses/AP%20Precalculus/2025/Sample%20Responses%20Q3.pdf"
+        },
+        {
+          "name": "Sample Responses Q4.pdf",
+          "url": "/courses/AP%20Precalculus/2025/Sample%20Responses%20Q4.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20Precalculus/2025/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20Precalculus/2025/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20Precalculus/2025/Scoring%20Statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "files": [
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20Precalculus/2024/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20Precalculus/2024/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Sample Responses Q1.pdf",
+          "url": "/courses/AP%20Precalculus/2024/Sample%20Responses%20Q1.pdf"
+        },
+        {
+          "name": "Sample Responses Q2.pdf",
+          "url": "/courses/AP%20Precalculus/2024/Sample%20Responses%20Q2.pdf"
+        },
+        {
+          "name": "Sample Responses Q3.pdf",
+          "url": "/courses/AP%20Precalculus/2024/Sample%20Responses%20Q3.pdf"
+        },
+        {
+          "name": "Sample Responses Q4.pdf",
+          "url": "/courses/AP%20Precalculus/2024/Sample%20Responses%20Q4.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20Precalculus/2024/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20Precalculus/2024/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20Precalculus/2024/Scoring%20Statistics.pdf"
+        }
+      ]
+    }
+  ]
+}

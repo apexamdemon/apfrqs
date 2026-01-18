@@ -1,0 +1,1038 @@
+{
+  "slug": "csa",
+  "title": "CSA",
+  "basePath": "/courses/csa",
+  "generatedAt": "2026-01-17T07:59:31.132Z",
+  "years": [
+    {
+      "year": "2025",
+      "files": [
+        {
+          "name": "ap25-apc-computer-science-a-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/csa/2025/ap25-apc-computer-science-a-q1.pdf"
+        },
+        {
+          "name": "ap25-apc-computer-science-a-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/csa/2025/ap25-apc-computer-science-a-q2.pdf"
+        },
+        {
+          "name": "ap25-apc-computer-science-a-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/csa/2025/ap25-apc-computer-science-a-q3.pdf"
+        },
+        {
+          "name": "ap25-apc-computer-science-a-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/csa/2025/ap25-apc-computer-science-a-q4.pdf"
+        },
+        {
+          "name": "ap25-computer-science-a-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/csa/2025/ap25-computer-science-a-score-distributions.pdf"
+        },
+        {
+          "name": "ap25-computer-science-a-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/csa/2025/ap25-computer-science-a-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap25-cr-report-computer-science-a.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/csa/2025/ap25-cr-report-computer-science-a.pdf"
+        },
+        {
+          "name": "ap25-frq-computer-science-a.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csa/2025/ap25-frq-computer-science-a.pdf"
+        },
+        {
+          "name": "ap25-sg-computer-science-a.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csa/2025/ap25-sg-computer-science-a.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "files": [
+        {
+          "name": "ap24-apc-computer-science-a-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/csa/2024/ap24-apc-computer-science-a-q1.pdf"
+        },
+        {
+          "name": "ap24-apc-computer-science-a-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/csa/2024/ap24-apc-computer-science-a-q2.pdf"
+        },
+        {
+          "name": "ap24-apc-computer-science-a-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/csa/2024/ap24-apc-computer-science-a-q3.pdf"
+        },
+        {
+          "name": "ap24-apc-computer-science-a-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/csa/2024/ap24-apc-computer-science-a-q4.pdf"
+        },
+        {
+          "name": "ap24-computer-science-a-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/csa/2024/ap24-computer-science-a-score-distributions.pdf"
+        },
+        {
+          "name": "ap24-computer-science-a-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/csa/2024/ap24-computer-science-a-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap24-cr-report-computer-science-a.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/csa/2024/ap24-cr-report-computer-science-a.pdf"
+        },
+        {
+          "name": "ap24-frq-comp-sci-a.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csa/2024/ap24-frq-comp-sci-a.pdf"
+        },
+        {
+          "name": "ap24-sg-computer-science-a.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csa/2024/ap24-sg-computer-science-a.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "files": [
+        {
+          "name": "ap23-apc-computer-science-a-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/csa/2023/ap23-apc-computer-science-a-q1.pdf"
+        },
+        {
+          "name": "ap23-apc-computer-science-a-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/csa/2023/ap23-apc-computer-science-a-q2.pdf"
+        },
+        {
+          "name": "ap23-apc-computer-science-a-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/csa/2023/ap23-apc-computer-science-a-q3.pdf"
+        },
+        {
+          "name": "ap23-apc-computer-science-a-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/csa/2023/ap23-apc-computer-science-a-q4.pdf"
+        },
+        {
+          "name": "ap23-computer-science-a-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/csa/2023/ap23-computer-science-a-score-distributions.pdf"
+        },
+        {
+          "name": "ap23-computer-science-a-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/csa/2023/ap23-computer-science-a-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap23-cr-report-computer-science-a.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/csa/2023/ap23-cr-report-computer-science-a.pdf"
+        },
+        {
+          "name": "ap23-frq-comp-sci-a.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csa/2023/ap23-frq-comp-sci-a.pdf"
+        },
+        {
+          "name": "ap23-sg-computer-science-a.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csa/2023/ap23-sg-computer-science-a.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "files": [
+        {
+          "name": "ap22-apc-computer-science-a-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/csa/2022/ap22-apc-computer-science-a-q1.pdf"
+        },
+        {
+          "name": "ap22-apc-computer-science-a-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/csa/2022/ap22-apc-computer-science-a-q2.pdf"
+        },
+        {
+          "name": "ap22-apc-computer-science-a-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/csa/2022/ap22-apc-computer-science-a-q3.pdf"
+        },
+        {
+          "name": "ap22-apc-computer-science-a-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/csa/2022/ap22-apc-computer-science-a-q4.pdf"
+        },
+        {
+          "name": "ap22-computer-science-a-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/csa/2022/ap22-computer-science-a-score-distributions.pdf"
+        },
+        {
+          "name": "ap22-computer-science-a-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/csa/2022/ap22-computer-science-a-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap22-cr-report-computer-science-a.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/csa/2022/ap22-cr-report-computer-science-a.pdf"
+        },
+        {
+          "name": "ap22-frq-computer-science-a.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csa/2022/ap22-frq-computer-science-a.pdf"
+        },
+        {
+          "name": "ap22-sg-computer-science-a.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csa/2022/ap22-sg-computer-science-a.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "files": [
+        {
+          "name": "ap21-apc-computer-science-a-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/csa/2021/ap21-apc-computer-science-a-q1.pdf"
+        },
+        {
+          "name": "ap21-apc-computer-science-a-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/csa/2021/ap21-apc-computer-science-a-q2.pdf"
+        },
+        {
+          "name": "ap21-apc-computer-science-a-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/csa/2021/ap21-apc-computer-science-a-q3.pdf"
+        },
+        {
+          "name": "ap21-apc-computer-science-a-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/csa/2021/ap21-apc-computer-science-a-q4.pdf"
+        },
+        {
+          "name": "ap21-chief-reader-report-computer-science-a.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/csa/2021/ap21-chief-reader-report-computer-science-a.pdf"
+        },
+        {
+          "name": "ap21-computer-science-a-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/csa/2021/ap21-computer-science-a-score-distributions.pdf"
+        },
+        {
+          "name": "ap21-computer-science-a-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/csa/2021/ap21-computer-science-a-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap21-frq-computer-science-a.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csa/2021/ap21-frq-computer-science-a.pdf"
+        },
+        {
+          "name": "ap21-sg-computer-science-a.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csa/2021/ap21-sg-computer-science-a.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "files": [
+        {
+          "name": "ap19-apc-computer-science-a-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/csa/2019/ap19-apc-computer-science-a-q1.pdf"
+        },
+        {
+          "name": "ap19-apc-computer-science-a-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/csa/2019/ap19-apc-computer-science-a-q2.pdf"
+        },
+        {
+          "name": "ap19-apc-computer-science-a-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/csa/2019/ap19-apc-computer-science-a-q3.pdf"
+        },
+        {
+          "name": "ap19-apc-computer-science-a-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/csa/2019/ap19-apc-computer-science-a-q4.pdf"
+        },
+        {
+          "name": "ap19-chief-reader-report-computer-science-a.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/csa/2019/ap19-chief-reader-report-computer-science-a.pdf"
+        },
+        {
+          "name": "ap19-computer-science-a-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/csa/2019/ap19-computer-science-a-score-distributions.pdf"
+        },
+        {
+          "name": "ap19-computer-science-a-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/csa/2019/ap19-computer-science-a-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap19-frq-computer-science-a.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csa/2019/ap19-frq-computer-science-a.pdf"
+        },
+        {
+          "name": "ap19-sg-computer-science-a.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csa/2019/ap19-sg-computer-science-a.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "files": [
+        {
+          "name": "ap18-computer-science-a-chief-reader-report.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/csa/2018/ap18-computer-science-a-chief-reader-report.pdf"
+        },
+        {
+          "name": "ap18-computer-science-a-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/csa/2018/ap18-computer-science-a-q1.pdf"
+        },
+        {
+          "name": "ap18-computer-science-a-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/csa/2018/ap18-computer-science-a-q2.pdf"
+        },
+        {
+          "name": "ap18-computer-science-a-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/csa/2018/ap18-computer-science-a-q3.pdf"
+        },
+        {
+          "name": "ap18-computer-science-a-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/csa/2018/ap18-computer-science-a-q4.pdf"
+        },
+        {
+          "name": "ap18-computer-science-a-score-distribution.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/csa/2018/ap18-computer-science-a-score-distribution.pdf"
+        },
+        {
+          "name": "ap18-computer-science-a-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/csa/2018/ap18-computer-science-a-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap18-frq-computer-science-a.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csa/2018/ap18-frq-computer-science-a.pdf"
+        },
+        {
+          "name": "ap18-sg-comp-sci-a.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csa/2018/ap18-sg-comp-sci-a.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "files": [
+        {
+          "name": "ap-computer-science-a-frq-2017.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csa/2017/ap-computer-science-a-frq-2017.pdf"
+        },
+        {
+          "name": "ap17-chief-reader-report-computer-science-a.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/csa/2017/ap17-chief-reader-report-computer-science-a.pdf"
+        },
+        {
+          "name": "ap17-comp-sci-a-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/csa/2017/ap17-comp-sci-a-q1.pdf"
+        },
+        {
+          "name": "ap17-comp-sci-a-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/csa/2017/ap17-comp-sci-a-q2.pdf"
+        },
+        {
+          "name": "ap17-comp-sci-a-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/csa/2017/ap17-comp-sci-a-q3.pdf"
+        },
+        {
+          "name": "ap17-comp-sci-a-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/csa/2017/ap17-comp-sci-a-q4.pdf"
+        },
+        {
+          "name": "ap17-computer-science-a-scoring-global.pdf",
+          "displayText": "ap17-computer-science-a-scoring-global.pdf",
+          "url": "/courses/csa/2017/ap17-computer-science-a-scoring-global.pdf"
+        },
+        {
+          "name": "ap17-computer-science-a-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/csa/2017/ap17-computer-science-a-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap17-sg-comp-sci-a.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csa/2017/ap17-sg-comp-sci-a.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "files": [
+        {
+          "name": "ap16_compsci_a_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/csa/2016/ap16_compsci_a_q1.pdf"
+        },
+        {
+          "name": "ap16_compsci_a_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/csa/2016/ap16_compsci_a_q2.pdf"
+        },
+        {
+          "name": "ap16_compsci_a_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/csa/2016/ap16_compsci_a_q3.pdf"
+        },
+        {
+          "name": "ap16_compsci_a_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/csa/2016/ap16_compsci_a_q4.pdf"
+        },
+        {
+          "name": "ap16_compsci_student_performance_qa.pdf",
+          "displayText": "ap16_compsci_student_performance_qa.pdf",
+          "url": "/courses/csa/2016/ap16_compsci_student_performance_qa.pdf"
+        },
+        {
+          "name": "ap16_computer_science _a_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/csa/2016/ap16_computer_science%20_a_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap16_computer_science_a_scoring_global.pdf",
+          "displayText": "ap16_computer_science_a_scoring_global.pdf",
+          "url": "/courses/csa/2016/ap16_computer_science_a_scoring_global.pdf"
+        },
+        {
+          "name": "ap16_computer_science_a_sg.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csa/2016/ap16_computer_science_a_sg.pdf"
+        },
+        {
+          "name": "ap16_frq_computer_science_a.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csa/2016/ap16_frq_computer_science_a.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2015",
+      "files": [
+        {
+          "name": "ap15_comp_sci_sg.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csa/2015/ap15_comp_sci_sg.pdf"
+        },
+        {
+          "name": "ap15_compsci_a_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/csa/2015/ap15_compsci_a_q1.pdf"
+        },
+        {
+          "name": "ap15_compsci_a_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/csa/2015/ap15_compsci_a_q2.pdf"
+        },
+        {
+          "name": "ap15_compsci_a_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/csa/2015/ap15_compsci_a_q3.pdf"
+        },
+        {
+          "name": "ap15_compsci_a_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/csa/2015/ap15_compsci_a_q4.pdf"
+        },
+        {
+          "name": "ap15_frq_computer_science_a.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csa/2015/ap15_frq_computer_science_a.pdf"
+        },
+        {
+          "name": "ap15-comp-sci-a-student-performance-qa.pdf",
+          "displayText": "ap15-comp-sci-a-student-performance-qa.pdf",
+          "url": "/courses/csa/2015/ap15-comp-sci-a-student-performance-qa.pdf"
+        },
+        {
+          "name": "ap15-computer-science-a-score-dist.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/csa/2015/ap15-computer-science-a-score-dist.pdf"
+        },
+        {
+          "name": "ap15-computer-science-a-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/csa/2015/ap15-computer-science-a-scoring-statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "files": [
+        {
+          "name": "ap14_comp_sci_scoring_guidelines.pdf",
+          "displayText": "ap14_comp_sci_scoring_guidelines.pdf",
+          "url": "/courses/csa/2014/ap14_comp_sci_scoring_guidelines.pdf"
+        },
+        {
+          "name": "ap14_computer_science_a_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/csa/2014/ap14_computer_science_a_q1.pdf"
+        },
+        {
+          "name": "ap14_computer_science_a_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/csa/2014/ap14_computer_science_a_q2.pdf"
+        },
+        {
+          "name": "ap14_computer_science_a_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/csa/2014/ap14_computer_science_a_q3.pdf"
+        },
+        {
+          "name": "ap14_computer_science_a_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/csa/2014/ap14_computer_science_a_q4.pdf"
+        },
+        {
+          "name": "ap14_frq_computer_science_a.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csa/2014/ap14_frq_computer_science_a.pdf"
+        },
+        {
+          "name": "ap14-comp-sci-qa.pdf",
+          "displayText": "ap14-comp-sci-qa.pdf",
+          "url": "/courses/csa/2014/ap14-comp-sci-qa.pdf"
+        },
+        {
+          "name": "ap14-computer-science-a-score-dist.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/csa/2014/ap14-computer-science-a-score-dist.pdf"
+        },
+        {
+          "name": "ap14-computer-science-a-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/csa/2014/ap14-computer-science-a-scoring-statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2013",
+      "files": [
+        {
+          "name": "ap13_comp_sci_a_scoring_guidelines.pdf",
+          "displayText": "ap13_comp_sci_a_scoring_guidelines.pdf",
+          "url": "/courses/csa/2013/ap13_comp_sci_a_scoring_guidelines.pdf"
+        },
+        {
+          "name": "ap13_comp_sci_A_ScoringDist.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/csa/2013/ap13_comp_sci_A_ScoringDist.pdf"
+        },
+        {
+          "name": "ap13_comp_science_A_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/csa/2013/ap13_comp_science_A_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap13_compute_science_20a_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/csa/2013/ap13_compute_science_20a_q2.pdf"
+        },
+        {
+          "name": "ap13_computer_science_20a_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/csa/2013/ap13_computer_science_20a_q1.pdf"
+        },
+        {
+          "name": "ap13_computer_science_20a_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/csa/2013/ap13_computer_science_20a_q3.pdf"
+        },
+        {
+          "name": "ap13_computer_science_20a_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/csa/2013/ap13_computer_science_20a_q4.pdf"
+        },
+        {
+          "name": "ap13_computer_science_a_qa.pdf",
+          "displayText": "ap13_computer_science_a_qa.pdf",
+          "url": "/courses/csa/2013/ap13_computer_science_a_qa.pdf"
+        },
+        {
+          "name": "ap13_frq_comp_sci.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csa/2013/ap13_frq_comp_sci.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2012",
+      "files": [
+        {
+          "name": "ap12_comp_sci_A_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/csa/2012/ap12_comp_sci_A_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap12_comp_sci_A_ScoringDist.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/csa/2012/ap12_comp_sci_A_ScoringDist.pdf"
+        },
+        {
+          "name": "ap12_computer_science_a_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/csa/2012/ap12_computer_science_a_q1.pdf"
+        },
+        {
+          "name": "ap12_computer_science_a_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/csa/2012/ap12_computer_science_a_q2.pdf"
+        },
+        {
+          "name": "ap12_computer_science_a_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/csa/2012/ap12_computer_science_a_q3.pdf"
+        },
+        {
+          "name": "ap12_computer_science_a_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/csa/2012/ap12_computer_science_a_q4.pdf"
+        },
+        {
+          "name": "ap12_computer_science_a_scoring_guidelines.pdf",
+          "displayText": "ap12_computer_science_a_scoring_guidelines.pdf",
+          "url": "/courses/csa/2012/ap12_computer_science_a_scoring_guidelines.pdf"
+        },
+        {
+          "name": "ap12_computer_science_qa.pdf",
+          "displayText": "ap12_computer_science_qa.pdf",
+          "url": "/courses/csa/2012/ap12_computer_science_qa.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2011",
+      "files": [
+        {
+          "name": "ap11_comp_sci_a_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/csa/2011/ap11_comp_sci_a_q1.pdf"
+        },
+        {
+          "name": "ap11_comp_sci_a_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/csa/2011/ap11_comp_sci_a_q2.pdf"
+        },
+        {
+          "name": "ap11_comp_sci_a_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/csa/2011/ap11_comp_sci_a_q3.pdf"
+        },
+        {
+          "name": "ap11_comp_sci_a_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/csa/2011/ap11_comp_sci_a_q4.pdf"
+        },
+        {
+          "name": "ap11_comp_sci_a_scoring_guidelines.pdf",
+          "displayText": "ap11_comp_sci_a_scoring_guidelines.pdf",
+          "url": "/courses/csa/2011/ap11_comp_sci_a_scoring_guidelines.pdf"
+        },
+        {
+          "name": "ap11_comp_sci_qa.pdf",
+          "displayText": "ap11_comp_sci_qa.pdf",
+          "url": "/courses/csa/2011/ap11_comp_sci_qa.pdf"
+        },
+        {
+          "name": "ap11_comp_sci_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/csa/2011/ap11_comp_sci_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap11_frq_comp_sci_a.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csa/2011/ap11_frq_comp_sci_a.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2010",
+      "files": [
+        {
+          "name": "ap10_comp_sci_a_scoring_guidelines.pdf",
+          "displayText": "ap10_comp_sci_a_scoring_guidelines.pdf",
+          "url": "/courses/csa/2010/ap10_comp_sci_a_scoring_guidelines.pdf"
+        },
+        {
+          "name": "ap10_comp_science_qa.pdf",
+          "displayText": "ap10_comp_science_qa.pdf",
+          "url": "/courses/csa/2010/ap10_comp_science_qa.pdf"
+        },
+        {
+          "name": "ap10_computer_science_a_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/csa/2010/ap10_computer_science_a_q1.pdf"
+        },
+        {
+          "name": "ap10_computer_science_a_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/csa/2010/ap10_computer_science_a_q2.pdf"
+        },
+        {
+          "name": "ap10_computer_science_a_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/csa/2010/ap10_computer_science_a_q3.pdf"
+        },
+        {
+          "name": "ap10_computer_science_a_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/csa/2010/ap10_computer_science_a_q4.pdf"
+        },
+        {
+          "name": "ap10_computer_science_a_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/csa/2010/ap10_computer_science_a_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap10_frq_computer_science_a.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csa/2010/ap10_frq_computer_science_a.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2009",
+      "files": [
+        {
+          "name": "ap09_comp_sci_a_qa.pdf",
+          "displayText": "ap09_comp_sci_a_qa.pdf",
+          "url": "/courses/csa/2009/ap09_comp_sci_a_qa.pdf"
+        },
+        {
+          "name": "ap09_CompSciA_GradeDistributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/csa/2009/ap09_CompSciA_GradeDistributions.pdf"
+        },
+        {
+          "name": "ap09_computer_science_a_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/csa/2009/ap09_computer_science_a_q1.pdf"
+        },
+        {
+          "name": "ap09_computer_science_a_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/csa/2009/ap09_computer_science_a_q2.pdf"
+        },
+        {
+          "name": "ap09_computer_science_a_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/csa/2009/ap09_computer_science_a_q3.pdf"
+        },
+        {
+          "name": "ap09_computer_science_a_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/csa/2009/ap09_computer_science_a_q4.pdf"
+        },
+        {
+          "name": "ap09_computer_science_a_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/csa/2009/ap09_computer_science_a_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap09_computer_science_a_sgs.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csa/2009/ap09_computer_science_a_sgs.pdf"
+        },
+        {
+          "name": "ap09_frq_computer_science_a.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csa/2009/ap09_frq_computer_science_a.pdf"
+        },
+        {
+          "name": "ap09-comp-sci-a-canonicals.pdf",
+          "displayText": "ap09-comp-sci-a-canonicals.pdf",
+          "url": "/courses/csa/2009/ap09-comp-sci-a-canonicals.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2008",
+      "files": [
+        {
+          "name": "ap08_comp_sci_a_frq.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csa/2008/ap08_comp_sci_a_frq.pdf"
+        },
+        {
+          "name": "ap08_comp_sci_a_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/csa/2008/ap08_comp_sci_a_q1.pdf"
+        },
+        {
+          "name": "ap08_comp_sci_a_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/csa/2008/ap08_comp_sci_a_q2.pdf"
+        },
+        {
+          "name": "ap08_comp_sci_a_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/csa/2008/ap08_comp_sci_a_q3.pdf"
+        },
+        {
+          "name": "ap08_comp_sci_a_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/csa/2008/ap08_comp_sci_a_q4.pdf"
+        },
+        {
+          "name": "ap08_comp_sci_a_qa.pdf",
+          "displayText": "ap08_comp_sci_a_qa.pdf",
+          "url": "/courses/csa/2008/ap08_comp_sci_a_qa.pdf"
+        },
+        {
+          "name": "ap08_comp_sci_a_sgs.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csa/2008/ap08_comp_sci_a_sgs.pdf"
+        },
+        {
+          "name": "ap08_ComputerSciA_GradeDistributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/csa/2008/ap08_ComputerSciA_GradeDistributions.pdf"
+        },
+        {
+          "name": "ap08_ComputerSciA_ScoringStatistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/csa/2008/ap08_ComputerSciA_ScoringStatistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2007",
+      "files": [
+        {
+          "name": "_ap07_comp_sci_a_sgs_final.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csa/2007/_ap07_comp_sci_a_sgs_final.pdf"
+        },
+        {
+          "name": "ap07_comp_sci_a_frq.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csa/2007/ap07_comp_sci_a_frq.pdf"
+        },
+        {
+          "name": "ap07_compsci_a_q_a.pdf",
+          "displayText": "ap07_compsci_a_q_a.pdf",
+          "url": "/courses/csa/2007/ap07_compsci_a_q_a.pdf"
+        },
+        {
+          "name": "ap07_compscia_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/csa/2007/ap07_compscia_q1.pdf"
+        },
+        {
+          "name": "ap07_compscia_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/csa/2007/ap07_compscia_q2.pdf"
+        },
+        {
+          "name": "ap07_compscia_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/csa/2007/ap07_compscia_q3.pdf"
+        },
+        {
+          "name": "ap07_compscia_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/csa/2007/ap07_compscia_q4.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2006",
+      "files": [
+        {
+          "name": "_ap06_compsci_a_sg.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csa/2006/_ap06_compsci_a_sg.pdf"
+        },
+        {
+          "name": "_ap06_frq_computer_sc_51649.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csa/2006/_ap06_frq_computer_sc_51649.pdf"
+        },
+        {
+          "name": "ap06_compsci_a_qa_final.pdf",
+          "displayText": "ap06_compsci_a_qa_final.pdf",
+          "url": "/courses/csa/2006/ap06_compsci_a_qa_final.pdf"
+        },
+        {
+          "name": "ap06_compsciA_samples_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/csa/2006/ap06_compsciA_samples_q1.pdf"
+        },
+        {
+          "name": "ap06_compsciA_samples_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/csa/2006/ap06_compsciA_samples_q2.pdf"
+        },
+        {
+          "name": "ap06_compsciA_samples_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/csa/2006/ap06_compsciA_samples_q3.pdf"
+        },
+        {
+          "name": "ap06_compsciA_samples_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/csa/2006/ap06_compsciA_samples_q4.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2005",
+      "files": [
+        {
+          "name": "_ap05_comm_comp_sci_a_47185.pdf",
+          "displayText": "_ap05_comm_comp_sci_a_47185.pdf",
+          "url": "/courses/csa/2005/_ap05_comm_comp_sci_a_47185.pdf"
+        },
+        {
+          "name": "_ap05_frq_comp_sci_a_45544.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csa/2005/_ap05_frq_comp_sci_a_45544.pdf"
+        },
+        {
+          "name": "_ap05_sg_comp_sci_a_r_46630.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csa/2005/_ap05_sg_comp_sci_a_r_46630.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2004",
+      "files": [
+        {
+          "name": "_ap04_qa_compsci_a_38793.pdf",
+          "displayText": "_ap04_qa_compsci_a_38793.pdf",
+          "url": "/courses/csa/2004/_ap04_qa_compsci_a_38793.pdf"
+        },
+        {
+          "name": "ap04_comm_comp_sci_a_38463.pdf",
+          "displayText": "ap04_comm_comp_sci_a_38463.pdf",
+          "url": "/courses/csa/2004/ap04_comm_comp_sci_a_38463.pdf"
+        },
+        {
+          "name": "ap04_computer_science_38628.pdf",
+          "displayText": "ap04_computer_science_38628.pdf",
+          "url": "/courses/csa/2004/ap04_computer_science_38628.pdf"
+        },
+        {
+          "name": "ap04_computer_science_38629.pdf",
+          "displayText": "ap04_computer_science_38629.pdf",
+          "url": "/courses/csa/2004/ap04_computer_science_38629.pdf"
+        },
+        {
+          "name": "ap04_computer_science_38630.pdf",
+          "displayText": "ap04_computer_science_38630.pdf",
+          "url": "/courses/csa/2004/ap04_computer_science_38630.pdf"
+        },
+        {
+          "name": "ap04_computer_science_38631.pdf",
+          "displayText": "ap04_computer_science_38631.pdf",
+          "url": "/courses/csa/2004/ap04_computer_science_38631.pdf"
+        },
+        {
+          "name": "ap04_frq_compsci_a_35988.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csa/2004/ap04_frq_compsci_a_35988.pdf"
+        },
+        {
+          "name": "ap04_sg_computerscien_37086.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csa/2004/ap04_sg_computerscien_37086.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2003",
+      "files": [
+        {
+          "name": "ap03_comment_comp_sci_27940.pdf",
+          "displayText": "ap03_comment_comp_sci_27940.pdf",
+          "url": "/courses/csa/2003/ap03_comment_comp_sci_27940.pdf"
+        },
+        {
+          "name": "ap03_computer_science_28022.pdf",
+          "displayText": "ap03_computer_science_28022.pdf",
+          "url": "/courses/csa/2003/ap03_computer_science_28022.pdf"
+        },
+        {
+          "name": "ap03_computer_science_28023.pdf",
+          "displayText": "ap03_computer_science_28023.pdf",
+          "url": "/courses/csa/2003/ap03_computer_science_28023.pdf"
+        },
+        {
+          "name": "ap03_computer_science_28025.pdf",
+          "displayText": "ap03_computer_science_28025.pdf",
+          "url": "/courses/csa/2003/ap03_computer_science_28025.pdf"
+        },
+        {
+          "name": "ap03_computer_science-a_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/csa/2003/ap03_computer_science-a_q4.pdf"
+        },
+        {
+          "name": "ap03_frq_comp_sci_a_23025.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/csa/2003/ap03_frq_comp_sci_a_23025.pdf"
+        },
+        {
+          "name": "ap03_qa_comp_science__27858.pdf",
+          "displayText": "ap03_qa_comp_science__27858.pdf",
+          "url": "/courses/csa/2003/ap03_qa_comp_science__27858.pdf"
+        },
+        {
+          "name": "ap03_sg_comp_science__29352.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/csa/2003/ap03_sg_comp_science__29352.pdf"
+        }
+      ]
+    }
+  ]
+}

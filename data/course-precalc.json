@@ -1,0 +1,108 @@
+{
+  "slug": "precalc",
+  "title": "PRECALC",
+  "basePath": "/courses/precalc",
+  "generatedAt": "2026-01-17T07:59:31.165Z",
+  "years": [
+    {
+      "year": "2025",
+      "files": [
+        {
+          "name": "ap25-apc-precalculus-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/precalc/2025/ap25-apc-precalculus-q1.pdf"
+        },
+        {
+          "name": "ap25-apc-precalculus-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/precalc/2025/ap25-apc-precalculus-q2.pdf"
+        },
+        {
+          "name": "ap25-apc-precalculus-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/precalc/2025/ap25-apc-precalculus-q3.pdf"
+        },
+        {
+          "name": "ap25-apc-precalculus-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/precalc/2025/ap25-apc-precalculus-q4.pdf"
+        },
+        {
+          "name": "ap25-cr-report-precalculus.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/precalc/2025/ap25-cr-report-precalculus.pdf"
+        },
+        {
+          "name": "ap25-frq-precalculus.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/precalc/2025/ap25-frq-precalculus.pdf"
+        },
+        {
+          "name": "ap25-precalculus-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/precalc/2025/ap25-precalculus-score-distributions.pdf"
+        },
+        {
+          "name": "ap25-precalculus-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/precalc/2025/ap25-precalculus-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap25-sg-precalculus.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/precalc/2025/ap25-sg-precalculus.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "files": [
+        {
+          "name": "ap24-cr-report-precalculus.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/precalc/2024/ap24-cr-report-precalculus.pdf"
+        },
+        {
+          "name": "ap24-frq-precalculus.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/precalc/2024/ap24-frq-precalculus.pdf"
+        },
+        {
+          "name": "ap24-precalculus-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/precalc/2024/ap24-precalculus-score-distributions.pdf"
+        },
+        {
+          "name": "ap24-precalculus-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/precalc/2024/ap24-precalculus-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap24-precalculus-student-samples-frq-1.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/precalc/2024/ap24-precalculus-student-samples-frq-1.pdf"
+        },
+        {
+          "name": "ap24-precalculus-student-samples-frq-2.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/precalc/2024/ap24-precalculus-student-samples-frq-2.pdf"
+        },
+        {
+          "name": "ap24-precalculus-student-samples-frq-3.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/precalc/2024/ap24-precalculus-student-samples-frq-3.pdf"
+        },
+        {
+          "name": "ap24-precalculus-student-samples-frq-4.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/precalc/2024/ap24-precalculus-student-samples-frq-4.pdf"
+        },
+        {
+          "name": "ap24-sg-precalculus.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/precalc/2024/ap24-sg-precalculus.pdf"
+        }
+      ]
+    }
+  ]
+}

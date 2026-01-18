@@ -1,0 +1,165 @@
+{
+  "generatedAt": "2026-01-18T00:04:02.985Z",
+  "courses": [
+    {
+      "slug": "AP 2-D Art and Design",
+      "title": "AP 2-D Art and Design"
+    },
+    {
+      "slug": "AP 3-D Art and Design",
+      "title": "AP 3-D Art and Design"
+    },
+    {
+      "slug": "AP African American Studies",
+      "title": "AP African American Studies"
+    },
+    {
+      "slug": "AP Art History",
+      "title": "AP Art History"
+    },
+    {
+      "slug": "AP Biology",
+      "title": "AP Biology"
+    },
+    {
+      "slug": "AP Calculus AB",
+      "title": "AP Calculus AB"
+    },
+    {
+      "slug": "AP Calculus BC",
+      "title": "AP Calculus BC"
+    },
+    {
+      "slug": "AP Chemistry",
+      "title": "AP Chemistry"
+    },
+    {
+      "slug": "AP Chinese Language and Culture",
+      "title": "AP Chinese Language and Culture"
+    },
+    {
+      "slug": "AP Comparative Government and Politics",
+      "title": "AP Comparative Government and Politics"
+    },
+    {
+      "slug": "AP Computer Science A",
+      "title": "AP Computer Science A"
+    },
+    {
+      "slug": "AP Computer Science Principles",
+      "title": "AP Computer Science Principles"
+    },
+    {
+      "slug": "AP Drawing",
+      "title": "AP Drawing"
+    },
+    {
+      "slug": "AP English Language and Composition",
+      "title": "AP English Language and Composition"
+    },
+    {
+      "slug": "AP English Literature and Composition",
+      "title": "AP English Literature and Composition"
+    },
+    {
+      "slug": "AP Environmental Science",
+      "title": "AP Environmental Science"
+    },
+    {
+      "slug": "AP European History",
+      "title": "AP European History"
+    },
+    {
+      "slug": "AP French Language and Culture",
+      "title": "AP French Language and Culture"
+    },
+    {
+      "slug": "AP German Language and Culture",
+      "title": "AP German Language and Culture"
+    },
+    {
+      "slug": "AP Human Geography",
+      "title": "AP Human Geography"
+    },
+    {
+      "slug": "AP Italian Language and Culture",
+      "title": "AP Italian Language and Culture"
+    },
+    {
+      "slug": "AP Japanese Language and Culture",
+      "title": "AP Japanese Language and Culture"
+    },
+    {
+      "slug": "AP Latin",
+      "title": "AP Latin"
+    },
+    {
+      "slug": "AP Macroeconomics",
+      "title": "AP Macroeconomics"
+    },
+    {
+      "slug": "AP Microeconomics",
+      "title": "AP Microeconomics"
+    },
+    {
+      "slug": "AP Music Theory",
+      "title": "AP Music Theory"
+    },
+    {
+      "slug": "AP Physics 1 Algebra-Based",
+      "title": "AP Physics 1 Algebra-Based"
+    },
+    {
+      "slug": "AP Physics 2 Algebra-Based",
+      "title": "AP Physics 2 Algebra-Based"
+    },
+    {
+      "slug": "AP Physics C Electricity and Magnetism",
+      "title": "AP Physics C Electricity and Magnetism"
+    },
+    {
+      "slug": "AP Physics C Mechanics",
+      "title": "AP Physics C Mechanics"
+    },
+    {
+      "slug": "AP Precalculus",
+      "title": "AP Precalculus"
+    },
+    {
+      "slug": "AP Psychology",
+      "title": "AP Psychology"
+    },
+    {
+      "slug": "AP Research",
+      "title": "AP Research"
+    },
+    {
+      "slug": "AP Seminar",
+      "title": "AP Seminar"
+    },
+    {
+      "slug": "AP Spanish Language and Culture",
+      "title": "AP Spanish Language and Culture"
+    },
+    {
+      "slug": "AP Spanish Literature and Culture",
+      "title": "AP Spanish Literature and Culture"
+    },
+    {
+      "slug": "AP Statistics",
+      "title": "AP Statistics"
+    },
+    {
+      "slug": "AP United States Government and Politics",
+      "title": "AP United States Government and Politics"
+    },
+    {
+      "slug": "AP United States History",
+      "title": "AP United States History"
+    },
+    {
+      "slug": "AP World History Modern",
+      "title": "AP World History Modern"
+    }
+  ]
+}

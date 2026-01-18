@@ -1,0 +1,808 @@
+{
+  "slug": "research",
+  "title": "RESEARCH",
+  "basePath": "/courses/research",
+  "generatedAt": "2026-01-17T07:59:31.167Z",
+  "years": [
+    {
+      "year": "2025",
+      "files": [
+        {
+          "name": "ap25-apc-research-sample-a.pdf",
+          "displayText": "ap25-apc-research-sample-a.pdf",
+          "url": "/courses/research/2025/ap25-apc-research-sample-a.pdf"
+        },
+        {
+          "name": "ap25-apc-research-sample-b.pdf",
+          "displayText": "ap25-apc-research-sample-b.pdf",
+          "url": "/courses/research/2025/ap25-apc-research-sample-b.pdf"
+        },
+        {
+          "name": "ap25-apc-research-sample-c.pdf",
+          "displayText": "ap25-apc-research-sample-c.pdf",
+          "url": "/courses/research/2025/ap25-apc-research-sample-c.pdf"
+        },
+        {
+          "name": "ap25-apc-research-sample-d.pdf",
+          "displayText": "ap25-apc-research-sample-d.pdf",
+          "url": "/courses/research/2025/ap25-apc-research-sample-d.pdf"
+        },
+        {
+          "name": "ap25-apc-research-sample-e.pdf",
+          "displayText": "ap25-apc-research-sample-e.pdf",
+          "url": "/courses/research/2025/ap25-apc-research-sample-e.pdf"
+        },
+        {
+          "name": "ap25-apc-research-sample-f.pdf",
+          "displayText": "ap25-apc-research-sample-f.pdf",
+          "url": "/courses/research/2025/ap25-apc-research-sample-f.pdf"
+        },
+        {
+          "name": "ap25-apc-research-sample-g.pdf",
+          "displayText": "ap25-apc-research-sample-g.pdf",
+          "url": "/courses/research/2025/ap25-apc-research-sample-g.pdf"
+        },
+        {
+          "name": "ap25-apc-research-sample-h.pdf",
+          "displayText": "ap25-apc-research-sample-h.pdf",
+          "url": "/courses/research/2025/ap25-apc-research-sample-h.pdf"
+        },
+        {
+          "name": "ap25-apc-research-sample-i.pdf",
+          "displayText": "ap25-apc-research-sample-i.pdf",
+          "url": "/courses/research/2025/ap25-apc-research-sample-i.pdf"
+        },
+        {
+          "name": "ap25-apc-research-sample-j.pdf",
+          "displayText": "ap25-apc-research-sample-j.pdf",
+          "url": "/courses/research/2025/ap25-apc-research-sample-j.pdf"
+        },
+        {
+          "name": "ap25-cr-report-research.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/research/2025/ap25-cr-report-research.pdf"
+        },
+        {
+          "name": "ap25-research-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/research/2025/ap25-research-score-distributions.pdf"
+        },
+        {
+          "name": "ap25-research-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/research/2025/ap25-research-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap25-sg-research-academic-paper.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/research/2025/ap25-sg-research-academic-paper.pdf"
+        },
+        {
+          "name": "ap25-sg-research-oral-presentation.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/research/2025/ap25-sg-research-oral-presentation.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "files": [
+        {
+          "name": "ap24-apc-research-sample-a.pdf",
+          "displayText": "ap24-apc-research-sample-a.pdf",
+          "url": "/courses/research/2024/ap24-apc-research-sample-a.pdf"
+        },
+        {
+          "name": "ap24-apc-research-sample-b.pdf",
+          "displayText": "ap24-apc-research-sample-b.pdf",
+          "url": "/courses/research/2024/ap24-apc-research-sample-b.pdf"
+        },
+        {
+          "name": "ap24-apc-research-sample-c.pdf",
+          "displayText": "ap24-apc-research-sample-c.pdf",
+          "url": "/courses/research/2024/ap24-apc-research-sample-c.pdf"
+        },
+        {
+          "name": "ap24-apc-research-sample-d.pdf",
+          "displayText": "ap24-apc-research-sample-d.pdf",
+          "url": "/courses/research/2024/ap24-apc-research-sample-d.pdf"
+        },
+        {
+          "name": "ap24-apc-research-sample-e.pdf",
+          "displayText": "ap24-apc-research-sample-e.pdf",
+          "url": "/courses/research/2024/ap24-apc-research-sample-e.pdf"
+        },
+        {
+          "name": "ap24-apc-research-sample-f.pdf",
+          "displayText": "ap24-apc-research-sample-f.pdf",
+          "url": "/courses/research/2024/ap24-apc-research-sample-f.pdf"
+        },
+        {
+          "name": "ap24-apc-research-sample-g.pdf",
+          "displayText": "ap24-apc-research-sample-g.pdf",
+          "url": "/courses/research/2024/ap24-apc-research-sample-g.pdf"
+        },
+        {
+          "name": "ap24-apc-research-sample-h.pdf",
+          "displayText": "ap24-apc-research-sample-h.pdf",
+          "url": "/courses/research/2024/ap24-apc-research-sample-h.pdf"
+        },
+        {
+          "name": "ap24-apc-research-sample-i.pdf",
+          "displayText": "ap24-apc-research-sample-i.pdf",
+          "url": "/courses/research/2024/ap24-apc-research-sample-i.pdf"
+        },
+        {
+          "name": "ap24-apc-research-sample-j.pdf",
+          "displayText": "ap24-apc-research-sample-j.pdf",
+          "url": "/courses/research/2024/ap24-apc-research-sample-j.pdf"
+        },
+        {
+          "name": "ap24-cr-report-research.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/research/2024/ap24-cr-report-research.pdf"
+        },
+        {
+          "name": "ap24-research-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/research/2024/ap24-research-score-distributions.pdf"
+        },
+        {
+          "name": "ap24-research-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/research/2024/ap24-research-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap24-sg-research-academic-paper.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/research/2024/ap24-sg-research-academic-paper.pdf"
+        },
+        {
+          "name": "ap24-sg-research-oral-defense.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/research/2024/ap24-sg-research-oral-defense.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "files": [
+        {
+          "name": "ap23-apc-research-sample-a.pdf",
+          "displayText": "ap23-apc-research-sample-a.pdf",
+          "url": "/courses/research/2023/ap23-apc-research-sample-a.pdf"
+        },
+        {
+          "name": "ap23-apc-research-sample-b.pdf",
+          "displayText": "ap23-apc-research-sample-b.pdf",
+          "url": "/courses/research/2023/ap23-apc-research-sample-b.pdf"
+        },
+        {
+          "name": "ap23-apc-research-sample-c.pdf",
+          "displayText": "ap23-apc-research-sample-c.pdf",
+          "url": "/courses/research/2023/ap23-apc-research-sample-c.pdf"
+        },
+        {
+          "name": "ap23-apc-research-sample-d.pdf",
+          "displayText": "ap23-apc-research-sample-d.pdf",
+          "url": "/courses/research/2023/ap23-apc-research-sample-d.pdf"
+        },
+        {
+          "name": "ap23-apc-research-sample-e.pdf",
+          "displayText": "ap23-apc-research-sample-e.pdf",
+          "url": "/courses/research/2023/ap23-apc-research-sample-e.pdf"
+        },
+        {
+          "name": "ap23-apc-research-sample-f.pdf",
+          "displayText": "ap23-apc-research-sample-f.pdf",
+          "url": "/courses/research/2023/ap23-apc-research-sample-f.pdf"
+        },
+        {
+          "name": "ap23-apc-research-sample-g.pdf",
+          "displayText": "ap23-apc-research-sample-g.pdf",
+          "url": "/courses/research/2023/ap23-apc-research-sample-g.pdf"
+        },
+        {
+          "name": "ap23-apc-research-sample-h.pdf",
+          "displayText": "ap23-apc-research-sample-h.pdf",
+          "url": "/courses/research/2023/ap23-apc-research-sample-h.pdf"
+        },
+        {
+          "name": "ap23-apc-research-sample-i.pdf",
+          "displayText": "ap23-apc-research-sample-i.pdf",
+          "url": "/courses/research/2023/ap23-apc-research-sample-i.pdf"
+        },
+        {
+          "name": "ap23-apc-research-sample-j.pdf",
+          "displayText": "ap23-apc-research-sample-j.pdf",
+          "url": "/courses/research/2023/ap23-apc-research-sample-j.pdf"
+        },
+        {
+          "name": "ap23-cr-report-research.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/research/2023/ap23-cr-report-research.pdf"
+        },
+        {
+          "name": "ap23-research-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/research/2023/ap23-research-score-distributions.pdf"
+        },
+        {
+          "name": "ap23-research-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/research/2023/ap23-research-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap23-sg-research-academic-paper.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/research/2023/ap23-sg-research-academic-paper.pdf"
+        },
+        {
+          "name": "ap23-sg-research-oral-presentation.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/research/2023/ap23-sg-research-oral-presentation.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "files": [
+        {
+          "name": "ap22-apc-research-sample-a.pdf",
+          "displayText": "ap22-apc-research-sample-a.pdf",
+          "url": "/courses/research/2022/ap22-apc-research-sample-a.pdf"
+        },
+        {
+          "name": "ap22-apc-research-sample-b.pdf",
+          "displayText": "ap22-apc-research-sample-b.pdf",
+          "url": "/courses/research/2022/ap22-apc-research-sample-b.pdf"
+        },
+        {
+          "name": "ap22-apc-research-sample-c.pdf",
+          "displayText": "ap22-apc-research-sample-c.pdf",
+          "url": "/courses/research/2022/ap22-apc-research-sample-c.pdf"
+        },
+        {
+          "name": "ap22-apc-research-sample-d.pdf",
+          "displayText": "ap22-apc-research-sample-d.pdf",
+          "url": "/courses/research/2022/ap22-apc-research-sample-d.pdf"
+        },
+        {
+          "name": "ap22-apc-research-sample-e.pdf",
+          "displayText": "ap22-apc-research-sample-e.pdf",
+          "url": "/courses/research/2022/ap22-apc-research-sample-e.pdf"
+        },
+        {
+          "name": "ap22-apc-research-sample-f.pdf",
+          "displayText": "ap22-apc-research-sample-f.pdf",
+          "url": "/courses/research/2022/ap22-apc-research-sample-f.pdf"
+        },
+        {
+          "name": "ap22-apc-research-sample-g.pdf",
+          "displayText": "ap22-apc-research-sample-g.pdf",
+          "url": "/courses/research/2022/ap22-apc-research-sample-g.pdf"
+        },
+        {
+          "name": "ap22-apc-research-sample-h.pdf",
+          "displayText": "ap22-apc-research-sample-h.pdf",
+          "url": "/courses/research/2022/ap22-apc-research-sample-h.pdf"
+        },
+        {
+          "name": "ap22-apc-research-sample-i.pdf",
+          "displayText": "ap22-apc-research-sample-i.pdf",
+          "url": "/courses/research/2022/ap22-apc-research-sample-i.pdf"
+        },
+        {
+          "name": "ap22-apc-research-sample-j.pdf",
+          "displayText": "ap22-apc-research-sample-j.pdf",
+          "url": "/courses/research/2022/ap22-apc-research-sample-j.pdf"
+        },
+        {
+          "name": "ap22-cr-report-research.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/research/2022/ap22-cr-report-research.pdf"
+        },
+        {
+          "name": "ap22-research-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/research/2022/ap22-research-score-distributions.pdf"
+        },
+        {
+          "name": "ap22-research-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/research/2022/ap22-research-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap22-sg-research-academic-paper.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/research/2022/ap22-sg-research-academic-paper.pdf"
+        },
+        {
+          "name": "ap22-sg-research-presentation.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/research/2022/ap22-sg-research-presentation.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "files": [
+        {
+          "name": "ap21-apc-research-sample-a.pdf",
+          "displayText": "ap21-apc-research-sample-a.pdf",
+          "url": "/courses/research/2021/ap21-apc-research-sample-a.pdf"
+        },
+        {
+          "name": "ap21-apc-research-sample-b.pdf",
+          "displayText": "ap21-apc-research-sample-b.pdf",
+          "url": "/courses/research/2021/ap21-apc-research-sample-b.pdf"
+        },
+        {
+          "name": "ap21-apc-research-sample-c.pdf",
+          "displayText": "ap21-apc-research-sample-c.pdf",
+          "url": "/courses/research/2021/ap21-apc-research-sample-c.pdf"
+        },
+        {
+          "name": "ap21-apc-research-sample-d.pdf",
+          "displayText": "ap21-apc-research-sample-d.pdf",
+          "url": "/courses/research/2021/ap21-apc-research-sample-d.pdf"
+        },
+        {
+          "name": "ap21-apc-research-sample-e.pdf",
+          "displayText": "ap21-apc-research-sample-e.pdf",
+          "url": "/courses/research/2021/ap21-apc-research-sample-e.pdf"
+        },
+        {
+          "name": "ap21-apc-research-sample-f.pdf",
+          "displayText": "ap21-apc-research-sample-f.pdf",
+          "url": "/courses/research/2021/ap21-apc-research-sample-f.pdf"
+        },
+        {
+          "name": "ap21-apc-research-sample-g.pdf",
+          "displayText": "ap21-apc-research-sample-g.pdf",
+          "url": "/courses/research/2021/ap21-apc-research-sample-g.pdf"
+        },
+        {
+          "name": "ap21-apc-research-sample-h_3.pdf",
+          "displayText": "ap21-apc-research-sample-h_3.pdf",
+          "url": "/courses/research/2021/ap21-apc-research-sample-h_3.pdf"
+        },
+        {
+          "name": "ap21-apc-research-sample-i_1.pdf",
+          "displayText": "ap21-apc-research-sample-i_1.pdf",
+          "url": "/courses/research/2021/ap21-apc-research-sample-i_1.pdf"
+        },
+        {
+          "name": "ap21-apc-research-sample-j.pdf",
+          "displayText": "ap21-apc-research-sample-j.pdf",
+          "url": "/courses/research/2021/ap21-apc-research-sample-j.pdf"
+        },
+        {
+          "name": "ap21-chief-reader-report-research.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/research/2021/ap21-chief-reader-report-research.pdf"
+        },
+        {
+          "name": "ap21-research-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/research/2021/ap21-research-score-distributions.pdf"
+        },
+        {
+          "name": "ap21-research-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/research/2021/ap21-research-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap21-sg-research-academic-paper.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/research/2021/ap21-sg-research-academic-paper.pdf"
+        },
+        {
+          "name": "ap21-sg-research-presentation.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/research/2021/ap21-sg-research-presentation.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "files": [
+        {
+          "name": "ap20-research-chief-reader-report.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/research/2020/ap20-research-chief-reader-report.pdf"
+        },
+        {
+          "name": "ap20-research-sample-a.pdf",
+          "displayText": "ap20-research-sample-a.pdf",
+          "url": "/courses/research/2020/ap20-research-sample-a.pdf"
+        },
+        {
+          "name": "ap20-research-sample-b.pdf",
+          "displayText": "ap20-research-sample-b.pdf",
+          "url": "/courses/research/2020/ap20-research-sample-b.pdf"
+        },
+        {
+          "name": "ap20-research-sample-c_2.pdf",
+          "displayText": "ap20-research-sample-c_2.pdf",
+          "url": "/courses/research/2020/ap20-research-sample-c_2.pdf"
+        },
+        {
+          "name": "ap20-research-sample-d.pdf",
+          "displayText": "ap20-research-sample-d.pdf",
+          "url": "/courses/research/2020/ap20-research-sample-d.pdf"
+        },
+        {
+          "name": "ap20-research-sample-e.pdf",
+          "displayText": "ap20-research-sample-e.pdf",
+          "url": "/courses/research/2020/ap20-research-sample-e.pdf"
+        },
+        {
+          "name": "ap20-research-sample-f.pdf",
+          "displayText": "ap20-research-sample-f.pdf",
+          "url": "/courses/research/2020/ap20-research-sample-f.pdf"
+        },
+        {
+          "name": "ap20-research-sample-g.pdf",
+          "displayText": "ap20-research-sample-g.pdf",
+          "url": "/courses/research/2020/ap20-research-sample-g.pdf"
+        },
+        {
+          "name": "ap20-research-sample-h.pdf",
+          "displayText": "ap20-research-sample-h.pdf",
+          "url": "/courses/research/2020/ap20-research-sample-h.pdf"
+        },
+        {
+          "name": "ap20-research-sample-i.pdf",
+          "displayText": "ap20-research-sample-i.pdf",
+          "url": "/courses/research/2020/ap20-research-sample-i.pdf"
+        },
+        {
+          "name": "ap20-research-sample-j.pdf",
+          "displayText": "ap20-research-sample-j.pdf",
+          "url": "/courses/research/2020/ap20-research-sample-j.pdf"
+        },
+        {
+          "name": "ap20-research-scoring-guidelines.pdf",
+          "displayText": "ap20-research-scoring-guidelines.pdf",
+          "url": "/courses/research/2020/ap20-research-scoring-guidelines.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "files": [
+        {
+          "name": "ap19-apc-research-sample-a.pdf",
+          "displayText": "ap19-apc-research-sample-a.pdf",
+          "url": "/courses/research/2019/ap19-apc-research-sample-a.pdf"
+        },
+        {
+          "name": "ap19-apc-research-sample-b.pdf",
+          "displayText": "ap19-apc-research-sample-b.pdf",
+          "url": "/courses/research/2019/ap19-apc-research-sample-b.pdf"
+        },
+        {
+          "name": "ap19-apc-research-sample-c.pdf",
+          "displayText": "ap19-apc-research-sample-c.pdf",
+          "url": "/courses/research/2019/ap19-apc-research-sample-c.pdf"
+        },
+        {
+          "name": "ap19-apc-research-sample-d.pdf",
+          "displayText": "ap19-apc-research-sample-d.pdf",
+          "url": "/courses/research/2019/ap19-apc-research-sample-d.pdf"
+        },
+        {
+          "name": "ap19-apc-research-sample-e.pdf",
+          "displayText": "ap19-apc-research-sample-e.pdf",
+          "url": "/courses/research/2019/ap19-apc-research-sample-e.pdf"
+        },
+        {
+          "name": "ap19-apc-research-sample-f.pdf",
+          "displayText": "ap19-apc-research-sample-f.pdf",
+          "url": "/courses/research/2019/ap19-apc-research-sample-f.pdf"
+        },
+        {
+          "name": "ap19-apc-research-sample-g.pdf",
+          "displayText": "ap19-apc-research-sample-g.pdf",
+          "url": "/courses/research/2019/ap19-apc-research-sample-g.pdf"
+        },
+        {
+          "name": "ap19-apc-research-sample-h.pdf",
+          "displayText": "ap19-apc-research-sample-h.pdf",
+          "url": "/courses/research/2019/ap19-apc-research-sample-h.pdf"
+        },
+        {
+          "name": "ap19-apc-research-sample-i.pdf",
+          "displayText": "ap19-apc-research-sample-i.pdf",
+          "url": "/courses/research/2019/ap19-apc-research-sample-i.pdf"
+        },
+        {
+          "name": "ap19-apc-research-sample-j.pdf",
+          "displayText": "ap19-apc-research-sample-j.pdf",
+          "url": "/courses/research/2019/ap19-apc-research-sample-j.pdf"
+        },
+        {
+          "name": "ap19-chief-reader-report-capstone-research.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/research/2019/ap19-chief-reader-report-capstone-research.pdf"
+        },
+        {
+          "name": "ap19-research-score-distributions.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/research/2019/ap19-research-score-distributions.pdf"
+        },
+        {
+          "name": "ap19-research-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/research/2019/ap19-research-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap19-sg-research-academic-paper.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/research/2019/ap19-sg-research-academic-paper.pdf"
+        },
+        {
+          "name": "ap19-sg-research-presentation.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/research/2019/ap19-sg-research-presentation.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "files": [
+        {
+          "name": "ap18-research-chief-reader-report.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/research/2018/ap18-research-chief-reader-report.pdf"
+        },
+        {
+          "name": "ap18-research-sample-a.pdf",
+          "displayText": "ap18-research-sample-a.pdf",
+          "url": "/courses/research/2018/ap18-research-sample-a.pdf"
+        },
+        {
+          "name": "ap18-research-sample-b.pdf",
+          "displayText": "ap18-research-sample-b.pdf",
+          "url": "/courses/research/2018/ap18-research-sample-b.pdf"
+        },
+        {
+          "name": "ap18-research-sample-c.pdf",
+          "displayText": "ap18-research-sample-c.pdf",
+          "url": "/courses/research/2018/ap18-research-sample-c.pdf"
+        },
+        {
+          "name": "ap18-research-sample-d.pdf",
+          "displayText": "ap18-research-sample-d.pdf",
+          "url": "/courses/research/2018/ap18-research-sample-d.pdf"
+        },
+        {
+          "name": "ap18-research-sample-e.pdf",
+          "displayText": "ap18-research-sample-e.pdf",
+          "url": "/courses/research/2018/ap18-research-sample-e.pdf"
+        },
+        {
+          "name": "ap18-research-sample-f.pdf",
+          "displayText": "ap18-research-sample-f.pdf",
+          "url": "/courses/research/2018/ap18-research-sample-f.pdf"
+        },
+        {
+          "name": "ap18-research-sample-g.pdf",
+          "displayText": "ap18-research-sample-g.pdf",
+          "url": "/courses/research/2018/ap18-research-sample-g.pdf"
+        },
+        {
+          "name": "ap18-research-sample-h.pdf",
+          "displayText": "ap18-research-sample-h.pdf",
+          "url": "/courses/research/2018/ap18-research-sample-h.pdf"
+        },
+        {
+          "name": "ap18-research-sample-i.pdf",
+          "displayText": "ap18-research-sample-i.pdf",
+          "url": "/courses/research/2018/ap18-research-sample-i.pdf"
+        },
+        {
+          "name": "ap18-research-sample-j.pdf",
+          "displayText": "ap18-research-sample-j.pdf",
+          "url": "/courses/research/2018/ap18-research-sample-j.pdf"
+        },
+        {
+          "name": "ap18-research-score-distribution.pdf",
+          "displayText": "Scoring Distribution",
+          "url": "/courses/research/2018/ap18-research-score-distribution.pdf"
+        },
+        {
+          "name": "ap18-research-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/research/2018/ap18-research-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap18-sg-research-academic-paper.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/research/2018/ap18-sg-research-academic-paper.pdf"
+        },
+        {
+          "name": "ap18-sg-research-presentation-oral-defense.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/research/2018/ap18-sg-research-presentation-oral-defense.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "files": [
+        {
+          "name": "ap17-chief-reader-report-research.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/research/2017/ap17-chief-reader-report-research.pdf"
+        },
+        {
+          "name": "ap17-research-sample-a-high.pdf",
+          "displayText": "ap17-research-sample-a-high.pdf",
+          "url": "/courses/research/2017/ap17-research-sample-a-high.pdf"
+        },
+        {
+          "name": "ap17-research-sample-b-high.pdf",
+          "displayText": "ap17-research-sample-b-high.pdf",
+          "url": "/courses/research/2017/ap17-research-sample-b-high.pdf"
+        },
+        {
+          "name": "ap17-research-sample-c-high.pdf",
+          "displayText": "ap17-research-sample-c-high.pdf",
+          "url": "/courses/research/2017/ap17-research-sample-c-high.pdf"
+        },
+        {
+          "name": "ap17-research-sample-d-high.pdf",
+          "displayText": "ap17-research-sample-d-high.pdf",
+          "url": "/courses/research/2017/ap17-research-sample-d-high.pdf"
+        },
+        {
+          "name": "ap17-research-sample-e-medium.pdf",
+          "displayText": "ap17-research-sample-e-medium.pdf",
+          "url": "/courses/research/2017/ap17-research-sample-e-medium.pdf"
+        },
+        {
+          "name": "ap17-research-sample-f-medium.pdf",
+          "displayText": "ap17-research-sample-f-medium.pdf",
+          "url": "/courses/research/2017/ap17-research-sample-f-medium.pdf"
+        },
+        {
+          "name": "ap17-research-sample-g-medium.pdf",
+          "displayText": "ap17-research-sample-g-medium.pdf",
+          "url": "/courses/research/2017/ap17-research-sample-g-medium.pdf"
+        },
+        {
+          "name": "ap17-research-sample-h-medium.pdf",
+          "displayText": "ap17-research-sample-h-medium.pdf",
+          "url": "/courses/research/2017/ap17-research-sample-h-medium.pdf"
+        },
+        {
+          "name": "ap17-research-sample-i-low.pdf",
+          "displayText": "ap17-research-sample-i-low.pdf",
+          "url": "/courses/research/2017/ap17-research-sample-i-low.pdf"
+        },
+        {
+          "name": "ap17-research-sample-j-low.pdf",
+          "displayText": "ap17-research-sample-j-low.pdf",
+          "url": "/courses/research/2017/ap17-research-sample-j-low.pdf"
+        },
+        {
+          "name": "ap17-research-sample-k-low.pdf",
+          "displayText": "ap17-research-sample-k-low.pdf",
+          "url": "/courses/research/2017/ap17-research-sample-k-low.pdf"
+        },
+        {
+          "name": "ap17-research-sample-l-low.pdf",
+          "displayText": "ap17-research-sample-l-low.pdf",
+          "url": "/courses/research/2017/ap17-research-sample-l-low.pdf"
+        },
+        {
+          "name": "ap17-research-scoring-global.pdf",
+          "displayText": "ap17-research-scoring-global.pdf",
+          "url": "/courses/research/2017/ap17-research-scoring-global.pdf"
+        },
+        {
+          "name": "ap17-research-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/research/2017/ap17-research-scoring-statistics.pdf"
+        },
+        {
+          "name": "ap17-sg-research-academic-paper.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/research/2017/ap17-sg-research-academic-paper.pdf"
+        },
+        {
+          "name": "ap17-sg-research-presentation.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/research/2017/ap17-sg-research-presentation.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "files": [
+        {
+          "name": "ap16_research_academic_paper_sg.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/research/2016/ap16_research_academic_paper_sg.pdf"
+        },
+        {
+          "name": "ap16_research_high_sample_c_topic_history_humanities_.pdf",
+          "displayText": "ap16_research_high_sample_c_topic_history_humanities_.pdf",
+          "url": "/courses/research/2016/ap16_research_high_sample_c_topic_history_humanities_.pdf"
+        },
+        {
+          "name": "ap16_research_high_sample_g_topic_social_science.pdf",
+          "displayText": "ap16_research_high_sample_g_topic_social_science.pdf",
+          "url": "/courses/research/2016/ap16_research_high_sample_g_topic_social_science.pdf"
+        },
+        {
+          "name": "ap16_research_high_sample_i_topic_arts_humanities.pdf",
+          "displayText": "ap16_research_high_sample_i_topic_arts_humanities.pdf",
+          "url": "/courses/research/2016/ap16_research_high_sample_i_topic_arts_humanities.pdf"
+        },
+        {
+          "name": "ap16_research_high_sample_k_topic_stem.pdf",
+          "displayText": "ap16_research_high_sample_k_topic_stem.pdf",
+          "url": "/courses/research/2016/ap16_research_high_sample_k_topic_stem.pdf"
+        },
+        {
+          "name": "ap16_research_low_sample_d_topic_stem_social_science.pdf",
+          "displayText": "ap16_research_low_sample_d_topic_stem_social_science.pdf",
+          "url": "/courses/research/2016/ap16_research_low_sample_d_topic_stem_social_science.pdf"
+        },
+        {
+          "name": "ap16_research_low_sample_f_topic_arts_humanities.pdf",
+          "displayText": "ap16_research_low_sample_f_topic_arts_humanities.pdf",
+          "url": "/courses/research/2016/ap16_research_low_sample_f_topic_arts_humanities.pdf"
+        },
+        {
+          "name": "ap16_research_low_sample_j_topic_history_humanities.pdf",
+          "displayText": "ap16_research_low_sample_j_topic_history_humanities.pdf",
+          "url": "/courses/research/2016/ap16_research_low_sample_j_topic_history_humanities.pdf"
+        },
+        {
+          "name": "ap16_research_med_sample_a_topic_social_science.pdf",
+          "displayText": "ap16_research_med_sample_a_topic_social_science.pdf",
+          "url": "/courses/research/2016/ap16_research_med_sample_a_topic_social_science.pdf"
+        },
+        {
+          "name": "ap16_research_med_sample_b_topic_arts_humanities.pdf",
+          "displayText": "ap16_research_med_sample_b_topic_arts_humanities.pdf",
+          "url": "/courses/research/2016/ap16_research_med_sample_b_topic_arts_humanities.pdf"
+        },
+        {
+          "name": "ap16_research_med_sample_e_topic_history_humanities.pdf",
+          "displayText": "ap16_research_med_sample_e_topic_history_humanities.pdf",
+          "url": "/courses/research/2016/ap16_research_med_sample_e_topic_history_humanities.pdf"
+        },
+        {
+          "name": "ap16_research_med_sample_h_topic_stem.pdf",
+          "displayText": "ap16_research_med_sample_h_topic_stem.pdf",
+          "url": "/courses/research/2016/ap16_research_med_sample_h_topic_stem.pdf"
+        },
+        {
+          "name": "ap16_research_presentation_sg.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/research/2016/ap16_research_presentation_sg.pdf"
+        },
+        {
+          "name": "ap16_research_scoring_global.pdf",
+          "displayText": "ap16_research_scoring_global.pdf",
+          "url": "/courses/research/2016/ap16_research_scoring_global.pdf"
+        },
+        {
+          "name": "ap16_research_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/research/2016/ap16_research_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap16_research_student_performance_qa.pdf",
+          "displayText": "ap16_research_student_performance_qa.pdf",
+          "url": "/courses/research/2016/ap16_research_student_performance_qa.pdf"
+        }
+      ]
+    }
+  ]
+}

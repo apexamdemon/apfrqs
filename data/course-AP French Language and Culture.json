@@ -1,0 +1,593 @@
+{
+  "slug": "AP French Language and Culture",
+  "title": "AP French Language and Culture",
+  "basePath": "/courses/AP%20French%20Language%20and%20Culture",
+  "generatedAt": "2026-01-18T00:04:02.791Z",
+  "years": [
+    {
+      "year": "2025",
+      "files": [
+        {
+          "name": "AP French Language and Culture 225 Audio Scripts.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2025/AP%20French%20Language%20and%20Culture%20225%20Audio%20Scripts.pdf"
+        },
+        {
+          "name": "Argumentative Essay.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2025/Argumentative%20Essay.pdf"
+        },
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2025/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Conversation.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2025/Conversation.pdf"
+        },
+        {
+          "name": "Cultural Presentation.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2025/Cultural%20Presentation.pdf"
+        },
+        {
+          "name": "Email Reply.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2025/Email%20Reply.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2025/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2025/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2025/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2025/Scoring%20Statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "files": [
+        {
+          "name": "AP French Language and Culture 224 Audio Scripts.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2024/AP%20French%20Language%20and%20Culture%20224%20Audio%20Scripts.pdf"
+        },
+        {
+          "name": "Argumentative Essay.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2024/Argumentative%20Essay.pdf"
+        },
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2024/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Conversation.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2024/Conversation.pdf"
+        },
+        {
+          "name": "Cultural Presentation.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2024/Cultural%20Presentation.pdf"
+        },
+        {
+          "name": "Email Reply.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2024/Email%20Reply.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2024/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2024/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2024/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2024/Scoring%20Statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "files": [
+        {
+          "name": "AP French Language and Culture 223 Audio Scripts.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2023/AP%20French%20Language%20and%20Culture%20223%20Audio%20Scripts.pdf"
+        },
+        {
+          "name": "Argumentative Essay.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2023/Argumentative%20Essay.pdf"
+        },
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2023/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Conversation.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2023/Conversation.pdf"
+        },
+        {
+          "name": "Cultural Presentation.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2023/Cultural%20Presentation.pdf"
+        },
+        {
+          "name": "Email Reply.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2023/Email%20Reply.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2023/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2023/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2023/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2023/Scoring%20Statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "files": [
+        {
+          "name": "AP French Language and Culture 222 Audio Scripts.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2022/AP%20French%20Language%20and%20Culture%20222%20Audio%20Scripts.pdf"
+        },
+        {
+          "name": "Argumentative Essay.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2022/Argumentative%20Essay.pdf"
+        },
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2022/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Conversation.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2022/Conversation.pdf"
+        },
+        {
+          "name": "Cultural Presentation.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2022/Cultural%20Presentation.pdf"
+        },
+        {
+          "name": "Email Reply.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2022/Email%20Reply.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2022/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2022/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2022/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2022/Scoring%20Statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "files": [
+        {
+          "name": "AP French Language and Culture 221 Audio Scripts.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2021/AP%20French%20Language%20and%20Culture%20221%20Audio%20Scripts.pdf"
+        },
+        {
+          "name": "Argumentative Essay.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2021/Argumentative%20Essay.pdf"
+        },
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2021/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Conversation.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2021/Conversation.pdf"
+        },
+        {
+          "name": "Cultural Comparison.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2021/Cultural%20Comparison.pdf"
+        },
+        {
+          "name": "E-mail Reply.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2021/E-mail%20Reply.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2021/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Scoring Distribution.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2021/Scoring%20Distribution.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2021/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2021/Scoring%20Statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "files": [
+        {
+          "name": "AP French Language and Culture 219 Audio Scripts.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2019/AP%20French%20Language%20and%20Culture%20219%20Audio%20Scripts.pdf"
+        },
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2019/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Conversation.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2019/Conversation.pdf"
+        },
+        {
+          "name": "Cultural Comparison.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2019/Cultural%20Comparison.pdf"
+        },
+        {
+          "name": "E-mail Reply.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2019/E-mail%20Reply.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2019/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Persuasive Essay.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2019/Persuasive%20Essay.pdf"
+        },
+        {
+          "name": "Scoring Distribution.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2019/Scoring%20Distribution.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2019/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2019/Scoring%20Statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "files": [
+        {
+          "name": "AP French Language 218 Audio Scripts.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2018/AP%20French%20Language%20218%20Audio%20Scripts.pdf"
+        },
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2018/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2018/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Samples Responses Q1.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2018/Samples%20Responses%20Q1.pdf"
+        },
+        {
+          "name": "Samples Responses Q2.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2018/Samples%20Responses%20Q2.pdf"
+        },
+        {
+          "name": "Samples Responses Q3.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2018/Samples%20Responses%20Q3.pdf"
+        },
+        {
+          "name": "Samples Responses Q4.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2018/Samples%20Responses%20Q4.pdf"
+        },
+        {
+          "name": "Scoring Distributions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2018/Scoring%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2018/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2018/Scoring%20Statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "files": [
+        {
+          "name": "AP French Language 217 Audio Scripts.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2017/AP%20French%20Language%20217%20Audio%20Scripts.pdf"
+        },
+        {
+          "name": "Chief Reader Report.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2017/Chief%20Reader%20Report.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2017/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Samples Responses Q1.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2017/Samples%20Responses%20Q1.pdf"
+        },
+        {
+          "name": "Samples Responses Q2.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2017/Samples%20Responses%20Q2.pdf"
+        },
+        {
+          "name": "Samples Responses Q3.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2017/Samples%20Responses%20Q3.pdf"
+        },
+        {
+          "name": "Samples Responses Q4.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2017/Samples%20Responses%20Q4.pdf"
+        },
+        {
+          "name": "Scoring Distributions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2017/Scoring%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2017/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2017/Scoring%20Statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "files": [
+        {
+          "name": "AP French Language 216 Audio Scripts.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2016/AP%20French%20Language%20216%20Audio%20Scripts.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2016/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Samples Responses Q1.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2016/Samples%20Responses%20Q1.pdf"
+        },
+        {
+          "name": "Samples Responses Q2.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2016/Samples%20Responses%20Q2.pdf"
+        },
+        {
+          "name": "Samples Responses Q3.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2016/Samples%20Responses%20Q3.pdf"
+        },
+        {
+          "name": "Samples Responses Q4.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2016/Samples%20Responses%20Q4.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2016/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2016/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2016/Scoring%20Statistics.pdf"
+        },
+        {
+          "name": "Student Performance Q&A.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2016/Student%20Performance%20Q%26A.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2015",
+      "files": [
+        {
+          "name": "AP French Language 215 Audio Scripts.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2015/AP%20French%20Language%20215%20Audio%20Scripts.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2015/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Samples Responses Q1.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2015/Samples%20Responses%20Q1.pdf"
+        },
+        {
+          "name": "Samples Responses Q2.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2015/Samples%20Responses%20Q2.pdf"
+        },
+        {
+          "name": "Samples Responses Q3.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2015/Samples%20Responses%20Q3.pdf"
+        },
+        {
+          "name": "Samples Responses Q4.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2015/Samples%20Responses%20Q4.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2015/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2015/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2015/Scoring%20Statistics.pdf"
+        },
+        {
+          "name": "Student Performance Q&A.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2015/Student%20Performance%20Q%26A.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "files": [
+        {
+          "name": "AP French Language 214 Audio Scripts.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2014/AP%20French%20Language%20214%20Audio%20Scripts.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2014/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Samples Responses Q1.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2014/Samples%20Responses%20Q1.pdf"
+        },
+        {
+          "name": "Samples Responses Q2.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2014/Samples%20Responses%20Q2.pdf"
+        },
+        {
+          "name": "Samples Responses Q3.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2014/Samples%20Responses%20Q3.pdf"
+        },
+        {
+          "name": "Samples Responses Q4.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2014/Samples%20Responses%20Q4.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2014/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2014/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2014/Scoring%20Statistics.pdf"
+        },
+        {
+          "name": "Student Performance Q&A.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2014/Student%20Performance%20Q%26A.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2013",
+      "files": [
+        {
+          "name": "AP French Language 213 Audio Scripts.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2013/AP%20French%20Language%20213%20Audio%20Scripts.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2013/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Samples Responses Q1.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2013/Samples%20Responses%20Q1.pdf"
+        },
+        {
+          "name": "Samples Responses Q2.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2013/Samples%20Responses%20Q2.pdf"
+        },
+        {
+          "name": "Samples Responses Q3.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2013/Samples%20Responses%20Q3.pdf"
+        },
+        {
+          "name": "Samples Responses Q4.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2013/Samples%20Responses%20Q4.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2013/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2013/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2013/Scoring%20Statistics.pdf"
+        },
+        {
+          "name": "Student Performance Q&A.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2013/Student%20Performance%20Q%26A.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2012",
+      "files": [
+        {
+          "name": "AP French Language 212 Audio Scripts.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2012/AP%20French%20Language%20212%20Audio%20Scripts.pdf"
+        },
+        {
+          "name": "Free-Response Questions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2012/Free-Response%20Questions.pdf"
+        },
+        {
+          "name": "Samples Responses Q1.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2012/Samples%20Responses%20Q1.pdf"
+        },
+        {
+          "name": "Samples Responses Q2.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2012/Samples%20Responses%20Q2.pdf"
+        },
+        {
+          "name": "Samples Responses Q3.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2012/Samples%20Responses%20Q3.pdf"
+        },
+        {
+          "name": "Samples Responses Q4.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2012/Samples%20Responses%20Q4.pdf"
+        },
+        {
+          "name": "Score Distributions.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2012/Score%20Distributions.pdf"
+        },
+        {
+          "name": "Scoring Guidelines.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2012/Scoring%20Guidelines.pdf"
+        },
+        {
+          "name": "Scoring Statistics.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2012/Scoring%20Statistics.pdf"
+        },
+        {
+          "name": "Student Performance Q&A.pdf",
+          "url": "/courses/AP%20French%20Language%20and%20Culture/2012/Student%20Performance%20Q%26A.pdf"
+        }
+      ]
+    }
+  ]
+}

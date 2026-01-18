@@ -1,0 +1,1593 @@
+{
+  "slug": "stats",
+  "title": "STATS",
+  "basePath": "/courses/stats",
+  "generatedAt": "2026-01-17T07:59:31.174Z",
+  "years": [
+    {
+      "year": "2025",
+      "files": [
+        {
+          "name": "ap25-apc-statistics-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2025/ap25-apc-statistics-q1.pdf"
+        },
+        {
+          "name": "ap25-apc-statistics-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2025/ap25-apc-statistics-q2.pdf"
+        },
+        {
+          "name": "ap25-apc-statistics-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2025/ap25-apc-statistics-q3.pdf"
+        },
+        {
+          "name": "ap25-apc-statistics-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2025/ap25-apc-statistics-q4.pdf"
+        },
+        {
+          "name": "ap25-apc-statistics-q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2025/ap25-apc-statistics-q5.pdf"
+        },
+        {
+          "name": "ap25-apc-statistics-q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2025/ap25-apc-statistics-q6.pdf"
+        },
+        {
+          "name": "ap25-cr-report-statistics.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/stats/2025/ap25-cr-report-statistics.pdf"
+        },
+        {
+          "name": "ap25-frq-statistics.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2025/ap25-frq-statistics.pdf"
+        },
+        {
+          "name": "ap25-sg-statistics.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2025/ap25-sg-statistics.pdf"
+        },
+        {
+          "name": "ap25-statistics-score-distributions.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2025/ap25-statistics-score-distributions.pdf"
+        },
+        {
+          "name": "ap25-statistics-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2025/ap25-statistics-scoring-statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "files": [
+        {
+          "name": "ap24-apc-statistics-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2024/ap24-apc-statistics-q1.pdf"
+        },
+        {
+          "name": "ap24-apc-statistics-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2024/ap24-apc-statistics-q2.pdf"
+        },
+        {
+          "name": "ap24-apc-statistics-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2024/ap24-apc-statistics-q3.pdf"
+        },
+        {
+          "name": "ap24-apc-statistics-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2024/ap24-apc-statistics-q4.pdf"
+        },
+        {
+          "name": "ap24-apc-statistics-q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2024/ap24-apc-statistics-q5.pdf"
+        },
+        {
+          "name": "ap24-apc-statistics-q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2024/ap24-apc-statistics-q6.pdf"
+        },
+        {
+          "name": "ap24-cr-report-statistics.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/stats/2024/ap24-cr-report-statistics.pdf"
+        },
+        {
+          "name": "ap24-frq-statistics.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2024/ap24-frq-statistics.pdf"
+        },
+        {
+          "name": "ap24-sg-statistics.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2024/ap24-sg-statistics.pdf"
+        },
+        {
+          "name": "ap24-statistics-score-distributions.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2024/ap24-statistics-score-distributions.pdf"
+        },
+        {
+          "name": "ap24-statistics-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2024/ap24-statistics-scoring-statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "files": [
+        {
+          "name": "ap23-apc-statistics-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2023/ap23-apc-statistics-q1.pdf"
+        },
+        {
+          "name": "ap23-apc-statistics-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2023/ap23-apc-statistics-q2.pdf"
+        },
+        {
+          "name": "ap23-apc-statistics-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2023/ap23-apc-statistics-q3.pdf"
+        },
+        {
+          "name": "ap23-apc-statistics-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2023/ap23-apc-statistics-q4.pdf"
+        },
+        {
+          "name": "ap23-apc-statistics-q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2023/ap23-apc-statistics-q5.pdf"
+        },
+        {
+          "name": "ap23-apc-statistics-q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2023/ap23-apc-statistics-q6.pdf"
+        },
+        {
+          "name": "ap23-cr-report-statistics.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/stats/2023/ap23-cr-report-statistics.pdf"
+        },
+        {
+          "name": "ap23-frq-statistics.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2023/ap23-frq-statistics.pdf"
+        },
+        {
+          "name": "ap23-sg-statistics.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2023/ap23-sg-statistics.pdf"
+        },
+        {
+          "name": "ap23-statistics-score-distributions.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2023/ap23-statistics-score-distributions.pdf"
+        },
+        {
+          "name": "ap23-statistics-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2023/ap23-statistics-scoring-statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "files": [
+        {
+          "name": "ap22-apc-statistics-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2022/ap22-apc-statistics-q1.pdf"
+        },
+        {
+          "name": "ap22-apc-statistics-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2022/ap22-apc-statistics-q2.pdf"
+        },
+        {
+          "name": "ap22-apc-statistics-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2022/ap22-apc-statistics-q3.pdf"
+        },
+        {
+          "name": "ap22-apc-statistics-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2022/ap22-apc-statistics-q4.pdf"
+        },
+        {
+          "name": "ap22-apc-statistics-q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2022/ap22-apc-statistics-q5.pdf"
+        },
+        {
+          "name": "ap22-apc-statistics-q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2022/ap22-apc-statistics-q6.pdf"
+        },
+        {
+          "name": "ap22-cr-report-statistics.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/stats/2022/ap22-cr-report-statistics.pdf"
+        },
+        {
+          "name": "ap22-frq-statistics.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2022/ap22-frq-statistics.pdf"
+        },
+        {
+          "name": "ap22-sg-statistics.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2022/ap22-sg-statistics.pdf"
+        },
+        {
+          "name": "ap22-statistics-score-distributions.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2022/ap22-statistics-score-distributions.pdf"
+        },
+        {
+          "name": "ap22-statistics-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2022/ap22-statistics-scoring-statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "files": [
+        {
+          "name": "ap21-apc-statistics-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2021/ap21-apc-statistics-q1.pdf"
+        },
+        {
+          "name": "ap21-apc-statistics-q2_1.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2021/ap21-apc-statistics-q2_1.pdf"
+        },
+        {
+          "name": "ap21-apc-statistics-q3_1.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2021/ap21-apc-statistics-q3_1.pdf"
+        },
+        {
+          "name": "ap21-apc-statistics-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2021/ap21-apc-statistics-q4.pdf"
+        },
+        {
+          "name": "ap21-apc-statistics-q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2021/ap21-apc-statistics-q5.pdf"
+        },
+        {
+          "name": "ap21-apc-statistics-q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2021/ap21-apc-statistics-q6.pdf"
+        },
+        {
+          "name": "ap21-chief-reader-report-statistics_2.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/stats/2021/ap21-chief-reader-report-statistics_2.pdf"
+        },
+        {
+          "name": "ap21-frq-statistics.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2021/ap21-frq-statistics.pdf"
+        },
+        {
+          "name": "ap21-sg-statistics.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2021/ap21-sg-statistics.pdf"
+        },
+        {
+          "name": "ap21-statistics-score-distributions.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2021/ap21-statistics-score-distributions.pdf"
+        },
+        {
+          "name": "ap21-statistics-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2021/ap21-statistics-scoring-statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "files": [
+        {
+          "name": "ap2012_frq_statistics.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2020/ap2012_frq_statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "files": [
+        {
+          "name": "ap19-apc-statistics-q1_1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2019/ap19-apc-statistics-q1_1.pdf"
+        },
+        {
+          "name": "ap19-apc-statistics-q2_1.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2019/ap19-apc-statistics-q2_1.pdf"
+        },
+        {
+          "name": "ap19-apc-statistics-q3_1.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2019/ap19-apc-statistics-q3_1.pdf"
+        },
+        {
+          "name": "ap19-apc-statistics-q4_1.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2019/ap19-apc-statistics-q4_1.pdf"
+        },
+        {
+          "name": "ap19-apc-statistics-q5_1.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2019/ap19-apc-statistics-q5_1.pdf"
+        },
+        {
+          "name": "ap19-apc-statistics-q6_1.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2019/ap19-apc-statistics-q6_1.pdf"
+        },
+        {
+          "name": "ap19-chief-reader-report-statistics.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/stats/2019/ap19-chief-reader-report-statistics.pdf"
+        },
+        {
+          "name": "ap19-frq-statistics.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2019/ap19-frq-statistics.pdf"
+        },
+        {
+          "name": "ap19-sg-statistics_1.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2019/ap19-sg-statistics_1.pdf"
+        },
+        {
+          "name": "ap19-statistics-score-distributions.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2019/ap19-statistics-score-distributions.pdf"
+        },
+        {
+          "name": "ap19-statistics-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2019/ap19-statistics-scoring-statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "files": [
+        {
+          "name": "ap18-chief-reader-report-statistics.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/stats/2018/ap18-chief-reader-report-statistics.pdf"
+        },
+        {
+          "name": "ap18-frq-statistics.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2018/ap18-frq-statistics.pdf"
+        },
+        {
+          "name": "ap18-sg-statistics.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2018/ap18-sg-statistics.pdf"
+        },
+        {
+          "name": "ap18-statistics-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2018/ap18-statistics-q1.pdf"
+        },
+        {
+          "name": "ap18-statistics-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2018/ap18-statistics-q2.pdf"
+        },
+        {
+          "name": "ap18-statistics-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2018/ap18-statistics-q3.pdf"
+        },
+        {
+          "name": "ap18-statistics-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2018/ap18-statistics-q4.pdf"
+        },
+        {
+          "name": "ap18-statistics-q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2018/ap18-statistics-q5.pdf"
+        },
+        {
+          "name": "ap18-statistics-q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2018/ap18-statistics-q6.pdf"
+        },
+        {
+          "name": "ap18-statistics-score-distribution.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2018/ap18-statistics-score-distribution.pdf"
+        },
+        {
+          "name": "ap18-statistics-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2018/ap18-statistics-scoring-statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "files": [
+        {
+          "name": "ap17-chief-reader-report-statistics.pdf",
+          "displayText": "Chief Reader Report",
+          "url": "/courses/stats/2017/ap17-chief-reader-report-statistics.pdf"
+        },
+        {
+          "name": "ap17-sg-statistics.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2017/ap17-sg-statistics.pdf"
+        },
+        {
+          "name": "ap17-statistics-q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2017/ap17-statistics-q1.pdf"
+        },
+        {
+          "name": "ap17-statistics-q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2017/ap17-statistics-q2.pdf"
+        },
+        {
+          "name": "ap17-statistics-q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2017/ap17-statistics-q3.pdf"
+        },
+        {
+          "name": "ap17-statistics-q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2017/ap17-statistics-q4.pdf"
+        },
+        {
+          "name": "ap17-statistics-q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2017/ap17-statistics-q5.pdf"
+        },
+        {
+          "name": "ap17-statistics-q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2017/ap17-statistics-q6.pdf"
+        },
+        {
+          "name": "ap17-statistics-scoring-global.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2017/ap17-statistics-scoring-global.pdf"
+        },
+        {
+          "name": "ap17-statistics-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2017/ap17-statistics-scoring-statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "files": [
+        {
+          "name": "ap16_frq_statistics.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2016/ap16_frq_statistics.pdf"
+        },
+        {
+          "name": "ap16_statistics_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2016/ap16_statistics_q1.pdf"
+        },
+        {
+          "name": "ap16_statistics_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2016/ap16_statistics_q2.pdf"
+        },
+        {
+          "name": "ap16_statistics_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2016/ap16_statistics_q3.pdf"
+        },
+        {
+          "name": "ap16_statistics_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2016/ap16_statistics_q4.pdf"
+        },
+        {
+          "name": "ap16_statistics_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2016/ap16_statistics_q5.pdf"
+        },
+        {
+          "name": "ap16_statistics_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2016/ap16_statistics_q6.pdf"
+        },
+        {
+          "name": "ap16_statistics_scoring_global.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2016/ap16_statistics_scoring_global.pdf"
+        },
+        {
+          "name": "ap16_statistics_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2016/ap16_statistics_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap16_statistics_sg.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2016/ap16_statistics_sg.pdf"
+        },
+        {
+          "name": "ap16_statistics_student_performance_qa.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2016/ap16_statistics_student_performance_qa.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2015",
+      "files": [
+        {
+          "name": "ap15_frq_statistics.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2015/ap15_frq_statistics.pdf"
+        },
+        {
+          "name": "ap15_statistics_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2015/ap15_statistics_q1.pdf"
+        },
+        {
+          "name": "ap15_statistics_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2015/ap15_statistics_q2.pdf"
+        },
+        {
+          "name": "ap15_statistics_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2015/ap15_statistics_q3.pdf"
+        },
+        {
+          "name": "ap15_statistics_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2015/ap15_statistics_q4.pdf"
+        },
+        {
+          "name": "ap15_statistics_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2015/ap15_statistics_q5.pdf"
+        },
+        {
+          "name": "ap15_statistics_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2015/ap15_statistics_q6.pdf"
+        },
+        {
+          "name": "ap15_statistics_sg.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2015/ap15_statistics_sg.pdf"
+        },
+        {
+          "name": "ap15_statistics_student_performance_qa.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2015/ap15_statistics_student_performance_qa.pdf"
+        },
+        {
+          "name": "ap15-statistics-score-dist.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2015/ap15-statistics-score-dist.pdf"
+        },
+        {
+          "name": "ap15-statistics-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2015/ap15-statistics-scoring-statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "files": [
+        {
+          "name": "ap14_frq_statistics.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2014/ap14_frq_statistics.pdf"
+        },
+        {
+          "name": "ap14_statistics_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2014/ap14_statistics_q1.pdf"
+        },
+        {
+          "name": "ap14_statistics_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2014/ap14_statistics_q2.pdf"
+        },
+        {
+          "name": "ap14_statistics_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2014/ap14_statistics_q3.pdf"
+        },
+        {
+          "name": "ap14_statistics_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2014/ap14_statistics_q4.pdf"
+        },
+        {
+          "name": "ap14_statistics_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2014/ap14_statistics_q5.pdf"
+        },
+        {
+          "name": "ap14_statistics_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2014/ap14_statistics_q6.pdf"
+        },
+        {
+          "name": "ap14_statistics_scoring_guidelines.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2014/ap14_statistics_scoring_guidelines.pdf"
+        },
+        {
+          "name": "ap14-statistics-qa.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2014/ap14-statistics-qa.pdf"
+        },
+        {
+          "name": "ap14-statistics-score-dist.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2014/ap14-statistics-score-dist.pdf"
+        },
+        {
+          "name": "ap14-statistics-scoring-statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2014/ap14-statistics-scoring-statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2013",
+      "files": [
+        {
+          "name": "ap13_frq_statistics.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2013/ap13_frq_statistics.pdf"
+        },
+        {
+          "name": "ap13_statistics_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2013/ap13_statistics_q1.pdf"
+        },
+        {
+          "name": "ap13_statistics_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2013/ap13_statistics_q2.pdf"
+        },
+        {
+          "name": "ap13_statistics_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2013/ap13_statistics_q3.pdf"
+        },
+        {
+          "name": "ap13_statistics_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2013/ap13_statistics_q4.pdf"
+        },
+        {
+          "name": "ap13_statistics_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2013/ap13_statistics_q5.pdf"
+        },
+        {
+          "name": "ap13_statistics_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2013/ap13_statistics_q6.pdf"
+        },
+        {
+          "name": "ap13_statistics_qa.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2013/ap13_statistics_qa.pdf"
+        },
+        {
+          "name": "ap13_statistics_scoring_guidelines.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2013/ap13_statistics_scoring_guidelines.pdf"
+        },
+        {
+          "name": "ap13_statistics_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2013/ap13_statistics_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap13_statistics_ScoringDist.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2013/ap13_statistics_ScoringDist.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2012",
+      "files": [
+        {
+          "name": "ap12_statistics_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2012/ap12_statistics_q1.pdf"
+        },
+        {
+          "name": "ap12_statistics_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2012/ap12_statistics_q2.pdf"
+        },
+        {
+          "name": "ap12_statistics_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2012/ap12_statistics_q3.pdf"
+        },
+        {
+          "name": "ap12_statistics_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2012/ap12_statistics_q4.pdf"
+        },
+        {
+          "name": "ap12_statistics_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2012/ap12_statistics_q5.pdf"
+        },
+        {
+          "name": "ap12_statistics_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2012/ap12_statistics_q6.pdf"
+        },
+        {
+          "name": "ap12_statistics_qa.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2012/ap12_statistics_qa.pdf"
+        },
+        {
+          "name": "ap12_statistics_scoring_guidelines.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2012/ap12_statistics_scoring_guidelines.pdf"
+        },
+        {
+          "name": "ap12_statistics_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2012/ap12_statistics_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap12_statistics_ScoringDist.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2012/ap12_statistics_ScoringDist.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2011",
+      "files": [
+        {
+          "name": "ap11_frq_statistics_formb.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2011/ap11_frq_statistics_formb.pdf"
+        },
+        {
+          "name": "ap11_frq_statistics.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2011/ap11_frq_statistics.pdf"
+        },
+        {
+          "name": "ap11_statistics_form_b_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2011/ap11_statistics_form_b_q1.pdf"
+        },
+        {
+          "name": "ap11_statistics_form_b_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2011/ap11_statistics_form_b_q2.pdf"
+        },
+        {
+          "name": "ap11_statistics_form_b_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2011/ap11_statistics_form_b_q3.pdf"
+        },
+        {
+          "name": "ap11_statistics_form_b_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2011/ap11_statistics_form_b_q4.pdf"
+        },
+        {
+          "name": "ap11_statistics_form_b_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2011/ap11_statistics_form_b_q5.pdf"
+        },
+        {
+          "name": "ap11_statistics_form_b_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2011/ap11_statistics_form_b_q6.pdf"
+        },
+        {
+          "name": "ap11_statistics_form_b_scoring_guidelines.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2011/ap11_statistics_form_b_scoring_guidelines.pdf"
+        },
+        {
+          "name": "ap11_statistics_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2011/ap11_statistics_q1.pdf"
+        },
+        {
+          "name": "ap11_statistics_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2011/ap11_statistics_q2.pdf"
+        },
+        {
+          "name": "ap11_statistics_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2011/ap11_statistics_q3.pdf"
+        },
+        {
+          "name": "ap11_statistics_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2011/ap11_statistics_q4.pdf"
+        },
+        {
+          "name": "ap11_statistics_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2011/ap11_statistics_q5.pdf"
+        },
+        {
+          "name": "ap11_statistics_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2011/ap11_statistics_q6.pdf"
+        },
+        {
+          "name": "ap11_statistics_qa.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2011/ap11_statistics_qa.pdf"
+        },
+        {
+          "name": "ap11_statistics_scoring_guidelines.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2011/ap11_statistics_scoring_guidelines.pdf"
+        },
+        {
+          "name": "ap11_statistics_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2011/ap11_statistics_scoring_statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2010",
+      "files": [
+        {
+          "name": "ap10_frq_statistics_formb.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2010/ap10_frq_statistics_formb.pdf"
+        },
+        {
+          "name": "ap10_frq_statistics.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2010/ap10_frq_statistics.pdf"
+        },
+        {
+          "name": "ap10_statistics_form_b_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2010/ap10_statistics_form_b_q1.pdf"
+        },
+        {
+          "name": "ap10_statistics_form_b_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2010/ap10_statistics_form_b_q2.pdf"
+        },
+        {
+          "name": "ap10_statistics_form_b_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2010/ap10_statistics_form_b_q3.pdf"
+        },
+        {
+          "name": "ap10_statistics_form_b_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2010/ap10_statistics_form_b_q4.pdf"
+        },
+        {
+          "name": "ap10_statistics_form_b_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2010/ap10_statistics_form_b_q5.pdf"
+        },
+        {
+          "name": "ap10_statistics_form_b_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2010/ap10_statistics_form_b_q6.pdf"
+        },
+        {
+          "name": "ap10_statistics_form_b_sgs.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2010/ap10_statistics_form_b_sgs.pdf"
+        },
+        {
+          "name": "ap10_statistics_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2010/ap10_statistics_q1.pdf"
+        },
+        {
+          "name": "ap10_statistics_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2010/ap10_statistics_q2.pdf"
+        },
+        {
+          "name": "ap10_statistics_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2010/ap10_statistics_q3.pdf"
+        },
+        {
+          "name": "ap10_statistics_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2010/ap10_statistics_q4.pdf"
+        },
+        {
+          "name": "ap10_statistics_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2010/ap10_statistics_q5.pdf"
+        },
+        {
+          "name": "ap10_statistics_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2010/ap10_statistics_q6.pdf"
+        },
+        {
+          "name": "ap10_statistics_qa.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2010/ap10_statistics_qa.pdf"
+        },
+        {
+          "name": "ap10_statistics_scoring_guidelines.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2010/ap10_statistics_scoring_guidelines.pdf"
+        },
+        {
+          "name": "ap10_statistics_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2010/ap10_statistics_scoring_statistics.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2009",
+      "files": [
+        {
+          "name": "ap09_frq_statistics_formb.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2009/ap09_frq_statistics_formb.pdf"
+        },
+        {
+          "name": "ap09_frq_statistics.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2009/ap09_frq_statistics.pdf"
+        },
+        {
+          "name": "ap09_statistics_form_b_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2009/ap09_statistics_form_b_q1.pdf"
+        },
+        {
+          "name": "ap09_statistics_form_b_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2009/ap09_statistics_form_b_q2.pdf"
+        },
+        {
+          "name": "ap09_statistics_form_b_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2009/ap09_statistics_form_b_q3.pdf"
+        },
+        {
+          "name": "ap09_statistics_form_b_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2009/ap09_statistics_form_b_q4.pdf"
+        },
+        {
+          "name": "ap09_statistics_form_b_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2009/ap09_statistics_form_b_q5.pdf"
+        },
+        {
+          "name": "ap09_statistics_form_b_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2009/ap09_statistics_form_b_q6.pdf"
+        },
+        {
+          "name": "ap09_statistics_form_b_sgs.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2009/ap09_statistics_form_b_sgs.pdf"
+        },
+        {
+          "name": "ap09_Statistics_GradeDistributions.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2009/ap09_Statistics_GradeDistributions.pdf"
+        },
+        {
+          "name": "ap09_statistics_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2009/ap09_statistics_q1.pdf"
+        },
+        {
+          "name": "ap09_statistics_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2009/ap09_statistics_q2.pdf"
+        },
+        {
+          "name": "ap09_statistics_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2009/ap09_statistics_q3.pdf"
+        },
+        {
+          "name": "ap09_statistics_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2009/ap09_statistics_q4.pdf"
+        },
+        {
+          "name": "ap09_statistics_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2009/ap09_statistics_q5.pdf"
+        },
+        {
+          "name": "ap09_statistics_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2009/ap09_statistics_q6.pdf"
+        },
+        {
+          "name": "ap09_statistics_qa.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2009/ap09_statistics_qa.pdf"
+        },
+        {
+          "name": "ap09_statistics_scoring_statistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2009/ap09_statistics_scoring_statistics.pdf"
+        },
+        {
+          "name": "ap09_statistics_sgs.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2009/ap09_statistics_sgs.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2008",
+      "files": [
+        {
+          "name": "ap08_stat_form_b_frq.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2008/ap08_stat_form_b_frq.pdf"
+        },
+        {
+          "name": "ap08_stat_frq.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2008/ap08_stat_frq.pdf"
+        },
+        {
+          "name": "ap08_statistics_form_b_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2008/ap08_statistics_form_b_q1.pdf"
+        },
+        {
+          "name": "ap08_statistics_form_b_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2008/ap08_statistics_form_b_q2.pdf"
+        },
+        {
+          "name": "ap08_statistics_form_b_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2008/ap08_statistics_form_b_q3.pdf"
+        },
+        {
+          "name": "ap08_statistics_form_b_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2008/ap08_statistics_form_b_q4.pdf"
+        },
+        {
+          "name": "ap08_statistics_form_b_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2008/ap08_statistics_form_b_q5.pdf"
+        },
+        {
+          "name": "ap08_statistics_form_b_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2008/ap08_statistics_form_b_q6.pdf"
+        },
+        {
+          "name": "ap08_statistics_form_b_sgs.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2008/ap08_statistics_form_b_sgs.pdf"
+        },
+        {
+          "name": "ap08_Statistics_GradeDistributions.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2008/ap08_Statistics_GradeDistributions.pdf"
+        },
+        {
+          "name": "ap08_statistics_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2008/ap08_statistics_q1.pdf"
+        },
+        {
+          "name": "ap08_statistics_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2008/ap08_statistics_q2.pdf"
+        },
+        {
+          "name": "ap08_statistics_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2008/ap08_statistics_q3.pdf"
+        },
+        {
+          "name": "ap08_statistics_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2008/ap08_statistics_q4.pdf"
+        },
+        {
+          "name": "ap08_statistics_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2008/ap08_statistics_q5.pdf"
+        },
+        {
+          "name": "ap08_statistics_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2008/ap08_statistics_q6.pdf"
+        },
+        {
+          "name": "ap08_statistics_qa.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2008/ap08_statistics_qa.pdf"
+        },
+        {
+          "name": "ap08_Statistics_ScoringStatistics.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2008/ap08_Statistics_ScoringStatistics.pdf"
+        },
+        {
+          "name": "ap08_statistics_sgs.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2008/ap08_statistics_sgs.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2007",
+      "files": [
+        {
+          "name": "_ap07_statistics_sgs_final.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2007/_ap07_statistics_sgs_final.pdf"
+        },
+        {
+          "name": "ap07_stat_formb_frq_kw.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2007/ap07_stat_formb_frq_kw.pdf"
+        },
+        {
+          "name": "ap07_stat_frq.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2007/ap07_stat_frq.pdf"
+        },
+        {
+          "name": "ap07_statistics_form_b_sgs_complete.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2007/ap07_statistics_form_b_sgs_complete.pdf"
+        },
+        {
+          "name": "ap07_statistics_formb_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2007/ap07_statistics_formb_q1.pdf"
+        },
+        {
+          "name": "ap07_statistics_formb_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2007/ap07_statistics_formb_q2.pdf"
+        },
+        {
+          "name": "ap07_statistics_formb_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2007/ap07_statistics_formb_q3.pdf"
+        },
+        {
+          "name": "ap07_statistics_formb_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2007/ap07_statistics_formb_q4.pdf"
+        },
+        {
+          "name": "ap07_statistics_formb_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2007/ap07_statistics_formb_q5.pdf"
+        },
+        {
+          "name": "ap07_statistics_formb_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2007/ap07_statistics_formb_q6.pdf"
+        },
+        {
+          "name": "ap07_statistics_op_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2007/ap07_statistics_op_q1.pdf"
+        },
+        {
+          "name": "ap07_statistics_op_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2007/ap07_statistics_op_q2.pdf"
+        },
+        {
+          "name": "ap07_statistics_op_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2007/ap07_statistics_op_q3.pdf"
+        },
+        {
+          "name": "ap07_statistics_op_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2007/ap07_statistics_op_q4.pdf"
+        },
+        {
+          "name": "ap07_statistics_op_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2007/ap07_statistics_op_q5.pdf"
+        },
+        {
+          "name": "ap07_statistics_op_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2007/ap07_statistics_op_q6.pdf"
+        },
+        {
+          "name": "ap07_statistics_q_a.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2007/ap07_statistics_q_a.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2006",
+      "files": [
+        {
+          "name": "_ap06_frq_statistics__51654.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2006/_ap06_frq_statistics__51654.pdf"
+        },
+        {
+          "name": "_ap06_frq_statistics_51653.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2006/_ap06_frq_statistics_51653.pdf"
+        },
+        {
+          "name": "_ap06_statistics_sg_formb.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2006/_ap06_statistics_sg_formb.pdf"
+        },
+        {
+          "name": "_ap06_statistics_sg_revised.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2006/_ap06_statistics_sg_revised.pdf"
+        },
+        {
+          "name": "ap06_statistics_form_b_samples_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2006/ap06_statistics_form_b_samples_q3.pdf"
+        },
+        {
+          "name": "ap06_statistics_formb_samples_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2006/ap06_statistics_formb_samples_q1.pdf"
+        },
+        {
+          "name": "ap06_statistics_formb_samples_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2006/ap06_statistics_formb_samples_q2.pdf"
+        },
+        {
+          "name": "ap06_statistics_formb_samples_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2006/ap06_statistics_formb_samples_q4.pdf"
+        },
+        {
+          "name": "ap06_statistics_formb_samples_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2006/ap06_statistics_formb_samples_q5.pdf"
+        },
+        {
+          "name": "ap06_statistics_formb_samples_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2006/ap06_statistics_formb_samples_q6.pdf"
+        },
+        {
+          "name": "ap06_statistics_qa_final.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2006/ap06_statistics_qa_final.pdf"
+        },
+        {
+          "name": "ap06_statistics_samples_q1.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2006/ap06_statistics_samples_q1.pdf"
+        },
+        {
+          "name": "ap06_statistics_samples_q2.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2006/ap06_statistics_samples_q2.pdf"
+        },
+        {
+          "name": "ap06_statistics_samples_q3.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2006/ap06_statistics_samples_q3.pdf"
+        },
+        {
+          "name": "ap06_statistics_samples_q4.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2006/ap06_statistics_samples_q4.pdf"
+        },
+        {
+          "name": "ap06_statistics_samples_q5.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2006/ap06_statistics_samples_q5.pdf"
+        },
+        {
+          "name": "ap06_statistics_samples_q6.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2006/ap06_statistics_samples_q6.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2005",
+      "files": [
+        {
+          "name": "_ap05_comm_statistics_47188.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2005/_ap05_comm_statistics_47188.pdf"
+        },
+        {
+          "name": "_ap05_comm_statistics_47197.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2005/_ap05_comm_statistics_47197.pdf"
+        },
+        {
+          "name": "_ap05_frq_statistics_45546.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2005/_ap05_frq_statistics_45546.pdf"
+        },
+        {
+          "name": "_ap05_frq_statisticsb_45547.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2005/_ap05_frq_statisticsb_45547.pdf"
+        },
+        {
+          "name": "_ap05_sg_statistics_46663.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2005/_ap05_sg_statistics_46663.pdf"
+        },
+        {
+          "name": "_ap05_sg_statisticsb__46664.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2005/_ap05_sg_statisticsb__46664.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2004",
+      "files": [
+        {
+          "name": "_ap04_qa_statistics_38554.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2004/_ap04_qa_statistics_38554.pdf"
+        },
+        {
+          "name": "ap04_comm_b_statistic_38457.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2004/ap04_comm_b_statistic_38457.pdf"
+        },
+        {
+          "name": "ap04_comm_statistics_38487.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2004/ap04_comm_statistics_38487.pdf"
+        },
+        {
+          "name": "ap04_frq_statistics_36000.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2004/ap04_frq_statistics_36000.pdf"
+        },
+        {
+          "name": "ap04_frq_statistics_b_36001.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2004/ap04_frq_statistics_b_36001.pdf"
+        },
+        {
+          "name": "ap04_sg_stat_37096.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2004/ap04_sg_stat_37096.pdf"
+        },
+        {
+          "name": "ap04_sg_stat_b_37097.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2004/ap04_sg_stat_b_37097.pdf"
+        },
+        {
+          "name": "ap04_statistics_formb_38750.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2004/ap04_statistics_formb_38750.pdf"
+        },
+        {
+          "name": "ap04_statistics_formb_38751.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2004/ap04_statistics_formb_38751.pdf"
+        },
+        {
+          "name": "ap04_statistics_formb_38752.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2004/ap04_statistics_formb_38752.pdf"
+        },
+        {
+          "name": "ap04_statistics_formb_38753.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2004/ap04_statistics_formb_38753.pdf"
+        },
+        {
+          "name": "ap04_statistics_formb_38754.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2004/ap04_statistics_formb_38754.pdf"
+        },
+        {
+          "name": "ap04_statistics_formb_38755.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2004/ap04_statistics_formb_38755.pdf"
+        },
+        {
+          "name": "ap04_statistics_opera_38756.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2004/ap04_statistics_opera_38756.pdf"
+        },
+        {
+          "name": "ap04_statistics_opera_38757.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2004/ap04_statistics_opera_38757.pdf"
+        },
+        {
+          "name": "ap04_statistics_opera_38758.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2004/ap04_statistics_opera_38758.pdf"
+        },
+        {
+          "name": "ap04_statistics_opera_38759.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2004/ap04_statistics_opera_38759.pdf"
+        },
+        {
+          "name": "ap04_statistics_opera_38760.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2004/ap04_statistics_opera_38760.pdf"
+        },
+        {
+          "name": "ap04_statistics_opera_38761.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2004/ap04_statistics_opera_38761.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2003",
+      "files": [
+        {
+          "name": "ap03_comment_statisti_27903.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2003/ap03_comment_statisti_27903.pdf"
+        },
+        {
+          "name": "ap03_comment_statisti_27905.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2003/ap03_comment_statisti_27905.pdf"
+        },
+        {
+          "name": "ap03_frq_statistics_23029.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2003/ap03_frq_statistics_23029.pdf"
+        },
+        {
+          "name": "ap03_frq_statistics_b_23030.pdf",
+          "displayText": "Free Response Questions",
+          "url": "/courses/stats/2003/ap03_frq_statistics_b_23030.pdf"
+        },
+        {
+          "name": "ap03_qa_statistics_27886.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2003/ap03_qa_statistics_27886.pdf"
+        },
+        {
+          "name": "ap03_sg_statistics_26493.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2003/ap03_sg_statistics_26493.pdf"
+        },
+        {
+          "name": "ap03_sg_statistics_b_26495.pdf",
+          "displayText": "Scoring Guidelines",
+          "url": "/courses/stats/2003/ap03_sg_statistics_b_26495.pdf"
+        },
+        {
+          "name": "ap03_statistics_formb_28214.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2003/ap03_statistics_formb_28214.pdf"
+        },
+        {
+          "name": "ap03_statistics_formb_28215.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2003/ap03_statistics_formb_28215.pdf"
+        },
+        {
+          "name": "ap03_statistics_formb_28216.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2003/ap03_statistics_formb_28216.pdf"
+        },
+        {
+          "name": "ap03_statistics_formb_28217.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2003/ap03_statistics_formb_28217.pdf"
+        },
+        {
+          "name": "ap03_statistics_formb_28218.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2003/ap03_statistics_formb_28218.pdf"
+        },
+        {
+          "name": "ap03_statistics_formb_28219.pdf",
+          "displayText": "Scoring Statistics",
+          "url": "/courses/stats/2003/ap03_statistics_formb_28219.pdf"
+        },
+        {
+          "name": "ap03_statistics_q1_28207.pdf",
+          "displayText": "Question 1",
+          "url": "/courses/stats/2003/ap03_statistics_q1_28207.pdf"
+        },
+        {
+          "name": "ap03_statistics_q2_28208.pdf",
+          "displayText": "Question 2",
+          "url": "/courses/stats/2003/ap03_statistics_q2_28208.pdf"
+        },
+        {
+          "name": "ap03_statistics_q3_28209.pdf",
+          "displayText": "Question 3",
+          "url": "/courses/stats/2003/ap03_statistics_q3_28209.pdf"
+        },
+        {
+          "name": "ap03_statistics_q4_28210.pdf",
+          "displayText": "Question 4",
+          "url": "/courses/stats/2003/ap03_statistics_q4_28210.pdf"
+        },
+        {
+          "name": "ap03_statistics_q5_28211.pdf",
+          "displayText": "Question 5",
+          "url": "/courses/stats/2003/ap03_statistics_q5_28211.pdf"
+        },
+        {
+          "name": "ap03_statistics_q6_28213.pdf",
+          "displayText": "Question 6",
+          "url": "/courses/stats/2003/ap03_statistics_q6_28213.pdf"
+        }
+      ]
+    }
+  ]
+}
