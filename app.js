@@ -249,4 +249,21 @@ document.addEventListener("click", (e) => {
 window.addEventListener("hashchange", router);
 
 // Initial render
-router();
+app.innerHTML = `
+  <section class="card">
+    <h1 class="h1">Loading…</h1>
+    <p class="p" style="color: var(--muted);">Initializing application.</p>
+  </section>
+`;
+
+try {
+  router();
+} catch (e) {
+  app.innerHTML = `
+    <section class="card">
+      <h1 class="h1">App crashed</h1>
+      <p class="p">There is a JavaScript error preventing the site from loading.</p>
+      <pre style="white-space: pre-wrap; color: var(--muted);">${escapeHtml(String(e && e.stack ? e.stack : e))}</pre>
+    </section>
+  `;
+}
