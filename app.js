@@ -12,9 +12,33 @@ function setMeta({ title, description }) {
   desc.content = description;
 }
 
-// Works on GitHub Pages + custom domain + local dev
-// If you ever move to a subpath, this still resolves correctly.
-const BASE_URL = "/";
+// ---------- SEO helpers ----------
+function setCanonical(url) {
+  let link = document.querySelector('link[rel="canonical"]');
+  if (!link) {
+    link = document.createElement("link");
+    link.rel = "canonical";
+    document.head.appendChild(link);
+  }
+  link.href = url;
+}
+
+// ---------- Robust JSON fetch ----------
+async function fetchJsonFirstOk(urls) {
+  let lastErr = null;
+
+  for (const url of urls) {
+    try {
+      const res = await fetch(url, { cache: "no-store" });
+      if (res.ok) return await res.json();
+      lastErr = new Error(`Tried ${url} -> ${res.status}`);
+    } catch (e) {
+      lastErr = e;
+    }
+  }
+
+  throw lastErr || new Error("All JSON fetch attempts failed.");
+}
 
 // COURSE title overrides (not file overrides).
 const COURSE_TITLE_OVERRIDES = {
@@ -31,25 +55,15 @@ function navigateTo(path) {
   router();
 }
 
-// ---------- SEO helpers ----------
-function setCanonical(url) {
-  let link = document.querySelector('link[rel="canonical"]');
-  if (!link) {
-    link = document.createElement("link");
-    link.rel = "canonical";
-    document.head.appendChild(link);
-  }
-  link.href = url;
-}
 function prettyTypeLabel(type) {
   const map = {
-    "frq": "Free-Response Questions (FRQs)",
+    frq: "Free-Response Questions (FRQs)",
     "scoring-guidelines": "Scoring Guidelines",
     "chief-reader-report": "Chief Reader Report",
     "scoring-statistics": "Scoring Statistics",
     "scoring-distribution": "Scoring Distribution",
     "sample-responses": "Sample Responses",
-    "other": "Resources",
+    other: "Resources",
   };
   return map[type] || "Resources";
 }
@@ -60,9 +74,26 @@ function fileTypeFromName(name) {
   if (n.includes("scoring guidelines")) return "scoring-guidelines";
   if (n.includes("chief reader report") || n.includes("chief-reader report")) return "chief-reader-report";
   if (n.includes("scoring statistics")) return "scoring-statistics";
-  if (n.includes("scoring distribution") || n.includes("score distributions") || n.includes("scoring distributions")) return "scoring-distribution";
+  if (n.includes("scoring distribution") || n.includes("score distributions") || n.includes("scoring distributions"))
+    return "scoring-distribution";
   if (n.includes("sample")) return "sample-responses";
   return "other";
+}
+
+// Remove the final file extension from a filename (e.g., ".pdf")
+function stripExtension(filename) {
+  const name = String(filename || "");
+  return name.replace(/\.[^/.]+$/, "");
+}
+
+// Simple HTML escaping for file names
+function escapeHtml(str) {
+  return String(str)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
 }
 
 // ---------- Pages ----------
@@ -88,29 +119,26 @@ async function renderHome() {
     const data = await res.json();
 
     const courses = data.courses || [];
-    // Put AP 2-D and 3-D Art and Design last (they sort first because of "2" and "3")
-const LAST_COURSES = new Set([
-  "AP 2-D Art and Design",
-  "AP 3-D Art and Design"
-]);
-
-courses.sort((a, b) => {
-  const aTitle = COURSE_TITLE_OVERRIDES[a.title] ?? a.title;
-  const bTitle = COURSE_TITLE_OVERRIDES[b.title] ?? b.title;
-
-  const aLast = LAST_COURSES.has(aTitle);
-  const bLast = LAST_COURSES.has(bTitle);
-
-  if (aLast && !bLast) return 1;
-  if (!aLast && bLast) return -1;
-
-  // Otherwise keep normal alphabetical order
-  return aTitle.localeCompare(bTitle);
-});
     if (courses.length === 0) {
-      mount.innerHTML = `<p class="p">No courses found. Add folders under /courses and run <code>npm run build:indexes</code>.</p>`;
+      mount.innerHTML = `<p class="p">No courses found. Run <code>npm run build:indexes</code>.</p>`;
       return;
     }
+
+    // Put AP 2-D and 3-D Art and Design last (they sort first because of "2" and "3")
+    const LAST_COURSES = new Set(["AP 2-D Art and Design", "AP 3-D Art and Design"]);
+
+    courses.sort((a, b) => {
+      const aTitle = COURSE_TITLE_OVERRIDES[a.title] ?? a.title;
+      const bTitle = COURSE_TITLE_OVERRIDES[b.title] ?? b.title;
+
+      const aLast = LAST_COURSES.has(aTitle);
+      const bLast = LAST_COURSES.has(bTitle);
+
+      if (aLast && !bLast) return 1;
+      if (!aLast && bLast) return -1;
+
+      return aTitle.localeCompare(bTitle);
+    });
 
     mount.innerHTML = `
       <section class="grid">
@@ -133,8 +161,7 @@ courses.sort((a, b) => {
       <p class="p">Could not load your courses list.</p>
       <ul class="file-list">
         <li>Run <code>npm run build:indexes</code> to generate <code>/data/courses.json</code></li>
-        <li>Ensure you are using a local server (Live Server) and not opening index.html as a file</li>
-        <li>Ensure <code>data/courses.json</code> exists in your project root</li>
+        <li>Ensure you are using a server (not opening the file directly)</li>
       </ul>
       <p class="p" style="color: var(--muted);">Error: ${escapeHtml(String(err.message || err))}</p>
     `;
@@ -148,46 +175,47 @@ courses.sort((a, b) => {
  * - /course/<slug>/<year>/<type>
  */
 async function renderCourse(slug, yearFilter = null, typeFilter = null) {
-  // Temporary meta until we load real course title
   setMeta({
     title: `${slug} FRQs | APFRQs`,
     description: `Free-response questions and scoring guidelines for ${slug}, organized by year.`,
   });
 
-  const typeLabel = typeFilter ? prettyTypeLabel(typeFilter) : null;
-
   app.innerHTML = `
-  <div class="breadcrumbs">
-    <a class="link" href="/" data-link>Home</a>
-    <span> / </span>
-    <span>${escapeHtml(slug)}</span>
-  </div>
+    <div class="breadcrumbs">
+      <a class="link" href="/" data-link>Home</a>
+      <span> / </span>
+      <span>${escapeHtml(slug)}</span>
+    </div>
 
-  <section class="card">
-    <h1 class="h1">${escapeHtml(slug)}</h1>
+    <section class="card">
+      <h1 class="h1">${escapeHtml(slug)}</h1>
 
-    <p class="p seo-blurb">
-      This page contains archived AP ${escapeHtml(slug)} free-response questions,
-      scoring guidelines, and related exam materials from past years, including
-      resources that are no longer prominently linked on the College Board website.
-    </p>
+      <p class="p seo-blurb">
+        This page contains archived ${escapeHtml(slug)} free-response questions,
+        scoring guidelines, and related exam materials from past years, including
+        resources that are no longer prominently linked on the College Board website.
+      </p>
 
-    <div id="course-content" style="margin-top: 14px;"></div>
-  </section>
-`;
+      <div id="course-content" style="margin-top: 14px;"></div>
+    </section>
+  `;
 
   const mount = document.getElementById("course-content");
 
   try {
-    const res = await fetch(`/data/course-${encodeURIComponent(slug)}.json`, { cache: "no-store" });
-    if (!res.ok) throw new Error(`Failed to load course index: ${res.status}`);
-    const index = await res.json();
+    const encodedSlug = encodeURIComponent(slug);
+
+    // Try multiple possible filenames to survive encoding edge cases.
+    const index = await fetchJsonFirstOk([
+      `/data/course-${encodedSlug}.json`, // normal (encoded)
+      `/data/course-${slug}.json`, // fallback (browser will encode spaces)
+      `/data/course-${encodedSlug.replace(/%20/g, "+")}.json`, // rare plus-encoding
+    ]);
 
     const h1 = app.querySelector("h1.h1");
     const courseTitle = COURSE_TITLE_OVERRIDES[index.title] ?? index.title ?? slug;
     if (h1) h1.textContent = courseTitle;
 
-    // SEO meta, now that we know the real title
     const titleParts = [
       courseTitle,
       yearFilter ? String(yearFilter) : null,
@@ -196,7 +224,9 @@ async function renderCourse(slug, yearFilter = null, typeFilter = null) {
 
     setMeta({
       title: `${titleParts.join(" ")} | APFRQs`,
-      description: `${courseTitle}${yearFilter ? ` ${yearFilter}` : ""} ${typeFilter ? prettyTypeLabel(typeFilter) : "free-response questions, scoring guidelines, and related resources"}, organized by year.`,
+      description: `${courseTitle}${yearFilter ? ` ${yearFilter}` : ""} ${
+        typeFilter ? prettyTypeLabel(typeFilter) : "free-response questions, scoring guidelines, and related resources"
+      }, organized by year.`,
     });
 
     const yearsAll = index.years || [];
@@ -213,11 +243,9 @@ async function renderCourse(slug, yearFilter = null, typeFilter = null) {
 
     const html = years
       .map((y) => {
-        // Start with all files, optionally filter by type route
         let files = [...(y.files || [])];
         if (typeFilter) files = files.filter((f) => fileTypeFromName(f.name) === typeFilter);
 
-        // Order files: FRQ first, then Scoring Guidelines, then other predictable ordering.
         const orderedFiles = files.sort((a, b) => {
           const aName = (a.name || "").toLowerCase();
           const bName = (b.name || "").toLowerCase();
@@ -244,7 +272,6 @@ async function renderCourse(slug, yearFilter = null, typeFilter = null) {
           })
           .join("");
 
-        // If a type filter is active, we probably don't want nested details for one year
         if (yearFilter && typeFilter) {
           return `
             <ul class="file-list">
@@ -254,26 +281,25 @@ async function renderCourse(slug, yearFilter = null, typeFilter = null) {
         }
 
         return `
-  <details class="details">
-    <summary class="summary">${escapeHtml(y.year)}</summary>
+          <details class="details">
+            <summary class="summary">${escapeHtml(y.year)}</summary>
 
-    <!-- SEO internal link for this year -->
-    <a
-      href="/course/${encodeURIComponent(slug)}/${encodeURIComponent(y.year)}"
-      data-link
-      class="seo-link"
-    >
-      ${escapeHtml(courseTitle)} ${escapeHtml(y.year)} FRQs
-    </a>
+            <a
+              href="/course/${encodeURIComponent(slug)}/${encodeURIComponent(y.year)}"
+              data-link
+              class="seo-link"
+            >
+              ${escapeHtml(courseTitle)} ${escapeHtml(y.year)} FRQs
+            </a>
 
-    <ul class="file-list">
-      ${
-        filesHtml ||
-        `<li class="p" style="color: var(--muted);">No allowed files found in this year folder.</li>`
-      }
-    </ul>
-  </details>
-`;
+            <ul class="file-list">
+              ${
+                filesHtml ||
+                `<li class="p" style="color: var(--muted);">No allowed files found in this year folder.</li>`
+              }
+            </ul>
+          </details>
+        `;
       })
       .join("");
 
@@ -282,41 +308,23 @@ async function renderCourse(slug, yearFilter = null, typeFilter = null) {
     mount.innerHTML = `
       <p class="p">Could not load this course index.</p>
       <ul class="file-list">
-        <li>Confirm the course exists at <code>/data/course-${escapeHtml(slug)}.json</code></li>
-        <li>Run <code>npm run build:indexes</code> to regenerate indexes</li>
+        <li>Confirm the course index exists in <code>/data/</code> as <code>course-...json</code></li>
+        <li>Run <code>npm run build:indexes</code> and push the updated <code>data/</code> folder</li>
       </ul>
       <p class="p" style="color: var(--muted);">Error: ${escapeHtml(String(err.message || err))}</p>
     `;
   }
 }
 
-// Remove the final file extension from a filename (e.g., ".pdf")
-function stripExtension(filename) {
-  const name = String(filename || "");
-  return name.replace(/\.[^/.]+$/, "");
-}
-
-// Simple HTML escaping for file names
-function escapeHtml(str) {
-  return String(str)
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#039;");
-}
-
 // ---------- Router ----------
-
 const routes = [{ path: "/", render: renderHome }];
 
 function matchRoute(pathname) {
-  // Static routes
   for (const r of routes) {
     if (r.path === pathname) return { route: r, params: {} };
   }
 
-  // Dynamic: /course/<slug>[/<year>[/<type>]]
+  // /course/<slug>[/<year>[/<type>]]
   const m = pathname.match(/^\/course\/([^/]+)(?:\/(\d{4})(?:\/([^/]+))?)?$/);
   if (m) {
     const slug = decodeURIComponent(m[1]);
@@ -333,11 +341,7 @@ function router() {
   const matched = matchRoute(pathname);
 
   if (!matched) {
-    setMeta({
-      title: "404 | APFRQs",
-      description: "Page not found.",
-    });
-
+    setMeta({ title: "404 | APFRQs", description: "Page not found." });
     app.innerHTML = `
       <section class="card">
         <h1 class="h1">404</h1>
@@ -347,16 +351,15 @@ function router() {
     `;
     return;
   }
+
   setCanonical(window.location.origin + window.location.pathname);
   matched.route.render();
 }
 
-// Intercept clicks on links with data-link for SPA navigation
 document.addEventListener("click", (e) => {
   const link = e.target.closest("a[data-link]");
   if (!link) return;
 
-  // Only handle left-click with no modifier keys
   if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
 
   const url = new URL(link.href, window.location.href);
@@ -366,8 +369,6 @@ document.addEventListener("click", (e) => {
   navigateTo(url.pathname);
 });
 
-// Handle back/forward navigation
 window.addEventListener("popstate", router);
 
-// Initial render
 router();
