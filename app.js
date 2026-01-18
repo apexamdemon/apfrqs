@@ -1,4 +1,5 @@
 const app = document.getElementById("app");
+
 function setMeta({ title, description }) {
   document.title = title;
 
@@ -10,32 +11,59 @@ function setMeta({ title, description }) {
   }
   desc.content = description;
 }
+
+// Works on GitHub Pages + custom domain + local dev
+// If you ever move to a subpath, this still resolves correctly.
 const BASE_URL = new URL(".", window.location.href).pathname;
-// These are COURSE title overrides (not file overrides).
-// Key must match the course title as it appears in data/courses.json.
+
+// COURSE title overrides (not file overrides).
 const COURSE_TITLE_OVERRIDES = {
   "AP Physics 1 Algebra-Based": "AP Physics 1",
   "AP Physics 2 Algebra-Based": "AP Physics 2",
   "AP Physics C Electricity and Magnetism": "AP Physics C: Electricity and Magnetism",
   "AP Physics C Mechanics": "AP Physics C: Mechanics",
   "AP Comparative Government and Politics": "AP Comparative Government & Politics",
-  "AP World History Modern": "AP World History"
+  "AP World History Modern": "AP World History",
 };
 
 function navigateTo(path) {
-  // Hash routing: never hits GitHub Pages server for routes
-  window.location.hash = path;
+  history.pushState(null, "", path);
+  router();
 }
 
-/**
- * HOME: loads the course list from /data/courses.json
- * and links to /course/<slug> for every class.
- */
+// ---------- SEO helpers ----------
+function prettyTypeLabel(type) {
+  const map = {
+    "frq": "Free-Response Questions (FRQs)",
+    "scoring-guidelines": "Scoring Guidelines",
+    "chief-reader-report": "Chief Reader Report",
+    "scoring-statistics": "Scoring Statistics",
+    "scoring-distribution": "Scoring Distribution",
+    "sample-responses": "Sample Responses",
+    "other": "Resources",
+  };
+  return map[type] || "Resources";
+}
+
+function fileTypeFromName(name) {
+  const n = (name || "").toLowerCase();
+  if (n.includes("free-response questions") || n.includes("free response questions")) return "frq";
+  if (n.includes("scoring guidelines")) return "scoring-guidelines";
+  if (n.includes("chief reader report") || n.includes("chief-reader report")) return "chief-reader-report";
+  if (n.includes("scoring statistics")) return "scoring-statistics";
+  if (n.includes("scoring distribution") || n.includes("score distributions") || n.includes("scoring distributions")) return "scoring-distribution";
+  if (n.includes("sample")) return "sample-responses";
+  return "other";
+}
+
+// ---------- Pages ----------
+
 async function renderHome() {
   setMeta({
-  title: "AP FRQ Archive | Free Response Questions",
-  description: "Browse AP exam free-response questions, scoring guidelines, and sample responses by course and year."
+    title: "AP FRQ Archive | Free Response Questions",
+    description: "Browse AP exam free-response questions, scoring guidelines, and sample responses by course and year.",
   });
+
   app.innerHTML = `
     <section class="card">
       <h1 class="h1">AP Exam FRQ Archive</h1>
@@ -63,7 +91,7 @@ async function renderHome() {
             const title = COURSE_TITLE_OVERRIDES[c.title] ?? c.title;
             return `
               <div class="card course-card">
-                <a class="course-title-link" href="#/course/${encodeURIComponent(c.slug)}" data-link>
+                <a class="course-title-link" href="/course/${encodeURIComponent(c.slug)}" data-link>
                   ${escapeHtml(title)}
                 </a>
               </div>
@@ -86,24 +114,36 @@ async function renderHome() {
 }
 
 /**
- * ONE course page for ALL classes.
- * Loads /data/course-<slug>.json and shows year dropdowns + files.
+ * Course page for:
+ * - /course/<slug>
+ * - /course/<slug>/<year>
+ * - /course/<slug>/<year>/<type>
  */
-async function renderCourse(slug) {
+async function renderCourse(slug, yearFilter = null, typeFilter = null) {
+  // Temporary meta until we load real course title
   setMeta({
-  title: `${slug} FRQs | Free Response Questions & Scoring Guidelines`,
-  description: `Free-response questions and scoring guidelines for ${slug}, organized by year.`
+    title: `${slug} FRQs | APFRQs`,
+    description: `Free-response questions and scoring guidelines for ${slug}, organized by year.`,
   });
+
+  const typeLabel = typeFilter ? prettyTypeLabel(typeFilter) : null;
+
   app.innerHTML = `
     <div class="breadcrumbs">
-      ${escapeHtml(slug)}
+      <a class="link" href="/" data-link>Home</a>
+      <span> / </span>
+      <span>${escapeHtml(slug)}</span>
+      ${yearFilter ? `<span> / </span><span>${escapeHtml(yearFilter)}</span>` : ""}
+      ${typeLabel ? `<span> / </span><span>${escapeHtml(typeLabel)}</span>` : ""}
     </div>
 
     <section class="card">
       <h1 class="h1">${escapeHtml(slug)}</h1>
+      ${typeLabel ? `<p class="p">${escapeHtml(typeLabel)}${yearFilter ? ` (${escapeHtml(yearFilter)})` : ""}</p>` : ""}
       <div id="course-content" style="margin-top: 14px;"></div>
     </section>
   `;
+
   const mount = document.getElementById("course-content");
 
   try {
@@ -111,26 +151,42 @@ async function renderCourse(slug) {
     if (!res.ok) throw new Error(`Failed to load course index: ${res.status}`);
     const index = await res.json();
 
-    // Use overridden course title (if needed)
     const h1 = app.querySelector("h1.h1");
-    if (h1 && index.title) {
-    const courseTitle = COURSE_TITLE_OVERRIDES[index.title] ?? index.title;
-    h1.textContent = courseTitle;
+    const courseTitle = COURSE_TITLE_OVERRIDES[index.title] ?? index.title ?? slug;
+    if (h1) h1.textContent = courseTitle;
+
+    // SEO meta, now that we know the real title
+    const titleParts = [
+      courseTitle,
+      yearFilter ? String(yearFilter) : null,
+      typeFilter ? prettyTypeLabel(typeFilter) : "FRQs & Scoring Materials",
+    ].filter(Boolean);
 
     setMeta({
-      title: `${courseTitle} FRQs | Free Response Questions & Scoring Guidelines`,
-      description: `All ${courseTitle} free-response questions, scoring guidelines, and sample responses organized by year.`
+      title: `${titleParts.join(" ")} | APFRQs`,
+      description: `${courseTitle}${yearFilter ? ` ${yearFilter}` : ""} ${typeFilter ? prettyTypeLabel(typeFilter) : "free-response questions, scoring guidelines, and related resources"}, organized by year.`,
     });
-}
-    if (!index.years || index.years.length === 0) {
-      mount.innerHTML = `<p class="p">No years found. Confirm your folder is <code>/courses/${escapeHtml(slug)}/YYYY/...</code></p>`;
+
+    const yearsAll = index.years || [];
+    if (yearsAll.length === 0) {
+      mount.innerHTML = `<p class="p">No years found for this course.</p>`;
       return;
     }
 
-    const html = index.years
+    const years = yearsAll.filter((y) => !yearFilter || String(y.year) === String(yearFilter));
+    if (years.length === 0) {
+      mount.innerHTML = `<p class="p">No matching year found.</p>`;
+      return;
+    }
+
+    const html = years
       .map((y) => {
-        // Order files: Free-Response Questions first, then Scoring Guidelines, then everything else.
-        const orderedFiles = [...(y.files || [])].sort((a, b) => {
+        // Start with all files, optionally filter by type route
+        let files = [...(y.files || [])];
+        if (typeFilter) files = files.filter((f) => fileTypeFromName(f.name) === typeFilter);
+
+        // Order files: FRQ first, then Scoring Guidelines, then other predictable ordering.
+        const orderedFiles = files.sort((a, b) => {
           const aName = (a.name || "").toLowerCase();
           const bName = (b.name || "").toLowerCase();
 
@@ -146,28 +202,30 @@ async function renderCourse(slug) {
           const ra = rank(aName);
           const rb = rank(bName);
           if (ra !== rb) return ra - rb;
-
-          // Tie-breaker: alphabetical so order is stable/predictable
           return aName.localeCompare(bName);
         });
 
         const filesHtml = orderedFiles
           .map((f) => {
-            const text = stripExtension(f.name); // show the filename exactly as you named it
-            return `<li><a class="link" href="${f.url}" target="_blank" rel="noopener">${escapeHtml(
-              text
-            )}</a></li>`;
+            const text = stripExtension(f.name);
+            return `<li><a class="link" href="${f.url}" target="_blank" rel="noopener">${escapeHtml(text)}</a></li>`;
           })
           .join("");
 
+        // If a type filter is active, we probably don't want nested details for one year
+        if (yearFilter && typeFilter) {
+          return `
+            <ul class="file-list">
+              ${filesHtml || `<li class="p" style="color: var(--muted);">No matching files found.</li>`}
+            </ul>
+          `;
+        }
+
         return `
-          <details class="details">
+          <details class="details" ${yearFilter ? "open" : ""}>
             <summary class="summary">${escapeHtml(y.year)}</summary>
             <ul class="file-list">
-              ${
-                filesHtml ||
-                `<li class="p" style="color: var(--muted);">No allowed files found in this year folder.</li>`
-              }
+              ${filesHtml || `<li class="p" style="color: var(--muted);">No allowed files found in this year folder.</li>`}
             </ul>
           </details>
         `;
@@ -179,20 +237,20 @@ async function renderCourse(slug) {
     mount.innerHTML = `
       <p class="p">Could not load this course index.</p>
       <ul class="file-list">
-        <li>Confirm the course folder exists at <code>/courses/${escapeHtml(slug)}/YYYY/...</code></li>
-        <li>Run <code>npm run build:indexes</code> to generate <code>/data/course-${escapeHtml(slug)}.json</code></li>
-        <li>Ensure you are using a local server (Live Server) and not opening index.html as a file</li>
+        <li>Confirm the course exists at <code>/data/course-${escapeHtml(slug)}.json</code></li>
+        <li>Run <code>npm run build:indexes</code> to regenerate indexes</li>
       </ul>
       <p class="p" style="color: var(--muted);">Error: ${escapeHtml(String(err.message || err))}</p>
     `;
   }
 }
+
 // Remove the final file extension from a filename (e.g., ".pdf")
 function stripExtension(filename) {
   const name = String(filename || "");
-  // removes the last ".something" at the end (pdf, docx, etc.)
   return name.replace(/\.[^/.]+$/, "");
 }
+
 // Simple HTML escaping for file names
 function escapeHtml(str) {
   return String(str)
@@ -203,11 +261,8 @@ function escapeHtml(str) {
     .replaceAll("'", "&#039;");
 }
 
-/**
- * ROUTES:
- * - only "/" is static now
- * - "/course/<slug>" is dynamic (for ALL classes)
- */
+// ---------- Router ----------
+
 const routes = [{ path: "/", render: renderHome }];
 
 function matchRoute(pathname) {
@@ -216,28 +271,33 @@ function matchRoute(pathname) {
     if (r.path === pathname) return { route: r, params: {} };
   }
 
-  // Dynamic: /course/<slug>
-  const m = pathname.match(/^\/course\/([^/]+)$/);
+  // Dynamic: /course/<slug>[/<year>[/<type>]]
+  const m = pathname.match(/^\/course\/([^/]+)(?:\/(\d{4})(?:\/([^/]+))?)?$/);
   if (m) {
     const slug = decodeURIComponent(m[1]);
-    return { route: { render: () => renderCourse(slug) }, params: { slug } };
+    const year = m[2] ? decodeURIComponent(m[2]) : null;
+    const type = m[3] ? decodeURIComponent(m[3]) : null;
+    return { route: { render: () => renderCourse(slug, year, type) }, params: { slug, year, type } };
   }
 
   return null;
 }
 
 function router() {
-  const pathname = window.location.hash.startsWith("#")
-  ? (window.location.hash.slice(1) || "/")
-  : "/";
+  const pathname = window.location.pathname;
   const matched = matchRoute(pathname);
 
   if (!matched) {
+    setMeta({
+      title: "404 | APFRQs",
+      description: "Page not found.",
+    });
+
     app.innerHTML = `
       <section class="card">
         <h1 class="h1">404</h1>
         <p class="p">Page not found.</p>
-        <a class="link" href="#/" data-link>Go Home</a>
+        <a class="link" href="/" data-link>Go Home</a>
       </section>
     `;
     return;
@@ -254,24 +314,15 @@ document.addEventListener("click", (e) => {
   // Only handle left-click with no modifier keys
   if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
 
-  // If it's an in-page hash route like "#/course/...", let the browser set hash
-  const href = link.getAttribute("href") || "";
-  if (href.startsWith("#")) {
-    e.preventDefault();
-    // Set the hash route (without the leading "#")
-    navigateTo(href.slice(1) || "/");
-    return;
-  }
-
-  // Otherwise fall back to same-origin pathname handling
   const url = new URL(link.href, window.location.href);
   if (url.origin !== window.location.origin) return;
 
   e.preventDefault();
   navigateTo(url.pathname);
 });
+
 // Handle back/forward navigation
-window.addEventListener("hashchange", router);
+window.addEventListener("popstate", router);
 
 // Initial render
 router();
