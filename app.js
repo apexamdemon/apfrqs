@@ -1,5 +1,5 @@
 const app = document.getElementById("app");
-
+const BASE_URL = new URL(".", window.location.href).pathname;
 // These are COURSE title overrides (not file overrides).
 // Key must match the course title as it appears in data/courses.json.
 const COURSE_TITLE_OVERRIDES = {
@@ -31,7 +31,7 @@ async function renderHome() {
   const mount = document.getElementById("home-courses");
 
   try {
-    const res = await fetch("data/courses.json", { cache: "no-store" });
+    const res = await fetch(`${BASE_URL}data/courses.json`, { cache: "no-store" });
     if (!res.ok) throw new Error(`Failed to load courses list: ${res.status}`);
     const data = await res.json();
 
@@ -88,7 +88,7 @@ async function renderCourse(slug) {
   const mount = document.getElementById("course-content");
 
   try {
-    const res = await fetch(`data/course-${encodeURIComponent(slug)}.json`, { cache: "no-store" });
+    const res = await fetch(`${BASE_URL}data/course-${encodeURIComponent(slug)}.json`, { cache: "no-store" });
     if (!res.ok) throw new Error(`Failed to load course index: ${res.status}`);
     const index = await res.json();
 
@@ -249,21 +249,4 @@ document.addEventListener("click", (e) => {
 window.addEventListener("hashchange", router);
 
 // Initial render
-app.innerHTML = `
-  <section class="card">
-    <h1 class="h1">Loading…</h1>
-    <p class="p" style="color: var(--muted);">Initializing application.</p>
-  </section>
-`;
-
-try {
-  router();
-} catch (e) {
-  app.innerHTML = `
-    <section class="card">
-      <h1 class="h1">App crashed</h1>
-      <p class="p">There is a JavaScript error preventing the site from loading.</p>
-      <pre style="white-space: pre-wrap; color: var(--muted);">${escapeHtml(String(e && e.stack ? e.stack : e))}</pre>
-    </section>
-  `;
-}
+router();
