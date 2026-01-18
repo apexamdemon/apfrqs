@@ -14,7 +14,7 @@ function setMeta({ title, description }) {
 
 // Works on GitHub Pages + custom domain + local dev
 // If you ever move to a subpath, this still resolves correctly.
-const BASE_URL = new URL(".", window.location.href).pathname;
+const BASE_URL = "/";
 
 // COURSE title overrides (not file overrides).
 const COURSE_TITLE_OVERRIDES = {
@@ -83,7 +83,7 @@ async function renderHome() {
   const mount = document.getElementById("home-courses");
 
   try {
-    const res = await fetch(`${BASE_URL}data/courses.json`, { cache: "no-store" });
+    const res = await fetch(`/data/courses.json`, { cache: "no-store" });
     if (!res.ok) throw new Error(`Failed to load courses list: ${res.status}`);
     const data = await res.json();
 
@@ -179,7 +179,7 @@ async function renderCourse(slug, yearFilter = null, typeFilter = null) {
   const mount = document.getElementById("course-content");
 
   try {
-    const res = await fetch(`${BASE_URL}data/course-${encodeURIComponent(slug)}.json`, { cache: "no-store" });
+    const res = await fetch(`/data/course-${encodeURIComponent(slug)}.json`, { cache: "no-store" });
     if (!res.ok) throw new Error(`Failed to load course index: ${res.status}`);
     const index = await res.json();
 
