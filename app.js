@@ -12,8 +12,8 @@ const COURSE_TITLE_OVERRIDES = {
 };
 
 function navigateTo(path) {
-  history.pushState(null, "", path);
-  router();
+  // Hash routing: never hits GitHub Pages server for routes
+  window.location.hash = path;
 }
 
 /**
@@ -31,7 +31,7 @@ async function renderHome() {
   const mount = document.getElementById("home-courses");
 
   try {
-    const res = await fetch("/data/courses.json", { cache: "no-store" });
+    const res = await fetch("data/courses.json", { cache: "no-store" });
     if (!res.ok) throw new Error(`Failed to load courses list: ${res.status}`);
     const data = await res.json();
 
@@ -48,7 +48,7 @@ async function renderHome() {
             const title = COURSE_TITLE_OVERRIDES[c.title] ?? c.title;
             return `
               <div class="card course-card">
-                <a class="course-title-link" href="/course/${encodeURIComponent(c.slug)}" data-link>
+                <a class="course-title-link" href="#/course/${encodeURIComponent(c.slug)}" data-link>
                   ${escapeHtml(title)}
                 </a>
               </div>
@@ -77,7 +77,7 @@ async function renderHome() {
 async function renderCourse(slug) {
   app.innerHTML = `
     <div class="breadcrumbs">
-      <a class="link" href="/" data-link>Home</a> / ${escapeHtml(slug)}
+      <a class="link" href="#/" data-link>Home</a> / ${escapeHtml(slug)}
     </div>
 
     <section class="card">
@@ -85,11 +85,10 @@ async function renderCourse(slug) {
       <div id="course-content" style="margin-top: 14px;"></div>
     </section>
   `;
-
   const mount = document.getElementById("course-content");
 
   try {
-    const res = await fetch(`/data/course-${encodeURIComponent(slug)}.json`, { cache: "no-store" });
+    const res = await fetch(`data/course-${encodeURIComponent(slug)}.json`, { cache: "no-store" });
     if (!res.ok) throw new Error(`Failed to load course index: ${res.status}`);
     const index = await res.json();
 
@@ -203,7 +202,9 @@ function matchRoute(pathname) {
 }
 
 function router() {
-  const pathname = window.location.pathname;
+  const pathname = window.location.hash.startsWith("#")
+  ? (window.location.hash.slice(1) || "/")
+  : "/";
   const matched = matchRoute(pathname);
 
   if (!matched) {
@@ -235,7 +236,7 @@ document.addEventListener("click", (e) => {
 });
 
 // Handle back/forward navigation
-window.addEventListener("popstate", router);
+window.addEventListener("hashchange", router);
 
 // Initial render
 router();
