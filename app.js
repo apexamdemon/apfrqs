@@ -1,4 +1,15 @@
 const app = document.getElementById("app");
+function setMeta({ title, description }) {
+  document.title = title;
+
+  let desc = document.querySelector('meta[name="description"]');
+  if (!desc) {
+    desc = document.createElement("meta");
+    desc.name = "description";
+    document.head.appendChild(desc);
+  }
+  desc.content = description;
+}
 const BASE_URL = new URL(".", window.location.href).pathname;
 // These are COURSE title overrides (not file overrides).
 // Key must match the course title as it appears in data/courses.json.
@@ -21,6 +32,10 @@ function navigateTo(path) {
  * and links to /course/<slug> for every class.
  */
 async function renderHome() {
+  setMeta({
+  title: "AP FRQ Archive | Free Response Questions by Year",
+  description: "Browse AP exam free-response questions, scoring guidelines, and sample responses by course and year."
+  });
   app.innerHTML = `
     <section class="card">
       <h1 class="h1">AP FRQ Archive</h1>
@@ -75,6 +90,10 @@ async function renderHome() {
  * Loads /data/course-<slug>.json and shows year dropdowns + files.
  */
 async function renderCourse(slug) {
+  setMeta({
+  title: `${slug} FRQs | Free Response Questions`,
+  description: `Free-response questions and scoring guidelines for ${slug}, organized by year.`
+  });
   app.innerHTML = `
     <div class="breadcrumbs">
       <a class="link" href="#/" data-link>Home</a> / ${escapeHtml(slug)}
@@ -95,9 +114,14 @@ async function renderCourse(slug) {
     // Use overridden course title (if needed)
     const h1 = app.querySelector("h1.h1");
     if (h1 && index.title) {
-      h1.textContent = COURSE_TITLE_OVERRIDES[index.title] ?? index.title;
-    }
+    const courseTitle = COURSE_TITLE_OVERRIDES[index.title] ?? index.title;
+    h1.textContent = courseTitle;
 
+    setMeta({
+      title: `${courseTitle} FRQs | Free Response Questions & Scoring`,
+      description: `All ${courseTitle} free-response questions, scoring guidelines, and sample responses organized by year.`
+    });
+}
     if (!index.years || index.years.length === 0) {
       mount.innerHTML = `<p class="p">No years found. Confirm your folder is <code>/courses/${escapeHtml(slug)}/YYYY/...</code></p>`;
       return;
