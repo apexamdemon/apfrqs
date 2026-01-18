@@ -38,7 +38,7 @@ async function renderHome() {
   });
   app.innerHTML = `
     <section class="card">
-      <h1 class="h1">AP exam FRQ Archive</h1>
+      <h1 class="h1">AP Exam FRQ Archive</h1>
       <div id="home-courses" style="margin-top: 14px;"></div>
     </section>
   `;
@@ -96,7 +96,7 @@ async function renderCourse(slug) {
   });
   app.innerHTML = `
     <div class="breadcrumbs">
-      <a class="link" href="#/" data-link>Home</a> / ${escapeHtml(slug)}
+      ${escapeHtml(slug)}
     </div>
 
     <section class="card">
