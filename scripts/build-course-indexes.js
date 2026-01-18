@@ -9,6 +9,7 @@ import path from "path";
 const PROJECT_ROOT = process.cwd();
 const COURSES_DIR = path.join(PROJECT_ROOT, "courses");
 const OUTPUT_DIR = path.join(PROJECT_ROOT, "data");
+const R2_PUBLIC_BASE = "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev";
 
 const ALLOWED_EXT = new Set([
   ".pdf",
@@ -47,7 +48,7 @@ function buildCourseIndex(courseSlug) {
     })
     .sort((a, b) => Number(b) - Number(a));
 
-  const basePath = `/courses/${encodeURIComponent(courseSlug)}`;
+  const basePath = `${R2_PUBLIC_BASE}/courses/${encodeURIComponent(courseSlug)}`;
 
   const index = {
     slug: courseSlug,

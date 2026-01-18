@@ -1,47 +1,47 @@
 {
   "slug": "AP Computer Science A",
   "title": "AP Computer Science A",
-  "basePath": "/courses/AP%20Computer%20Science%20A",
-  "generatedAt": "2026-01-18T06:46:05.544Z",
+  "basePath": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A",
+  "generatedAt": "2026-01-18T07:17:30.033Z",
   "years": [
     {
       "year": "2025",
       "files": [
         {
           "name": "Chief Reader Report.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2025/Chief%20Reader%20Report.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2025/Chief%20Reader%20Report.pdf"
         },
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2025/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2025/Free-Response%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2025/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2025/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2025/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2025/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2025/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2025/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2025/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2025/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Score Distributions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2025/Score%20Distributions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2025/Score%20Distributions.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2025/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2025/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Scoring Statistics.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2025/Scoring%20Statistics.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2025/Scoring%20Statistics.pdf"
         }
       ]
     },
@@ -50,39 +50,39 @@
       "files": [
         {
           "name": "Chief Reader Report.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2024/Chief%20Reader%20Report.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2024/Chief%20Reader%20Report.pdf"
         },
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2024/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2024/Free-Response%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2024/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2024/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2024/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2024/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2024/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2024/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2024/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2024/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Score Distributions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2024/Score%20Distributions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2024/Score%20Distributions.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2024/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2024/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Scoring Statistics.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2024/Scoring%20Statistics.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2024/Scoring%20Statistics.pdf"
         }
       ]
     },
@@ -91,39 +91,39 @@
       "files": [
         {
           "name": "Chief Reader Report.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2023/Chief%20Reader%20Report.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2023/Chief%20Reader%20Report.pdf"
         },
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2023/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2023/Free-Response%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2023/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2023/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2023/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2023/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2023/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2023/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2023/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2023/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Score Distributions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2023/Score%20Distributions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2023/Score%20Distributions.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2023/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2023/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Scoring Statistics.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2023/Scoring%20Statistics.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2023/Scoring%20Statistics.pdf"
         }
       ]
     },
@@ -132,39 +132,39 @@
       "files": [
         {
           "name": "Chief Reader Report.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2022/Chief%20Reader%20Report.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2022/Chief%20Reader%20Report.pdf"
         },
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2022/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2022/Free-Response%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2022/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2022/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2022/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2022/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2022/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2022/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2022/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2022/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Score Distributions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2022/Score%20Distributions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2022/Score%20Distributions.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2022/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2022/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Scoring Statistics.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2022/Scoring%20Statistics.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2022/Scoring%20Statistics.pdf"
         }
       ]
     },
@@ -173,39 +173,39 @@
       "files": [
         {
           "name": "Chief Reader Report.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2021/Chief%20Reader%20Report.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2021/Chief%20Reader%20Report.pdf"
         },
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2021/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2021/Free-Response%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2021/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2021/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2021/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2021/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2021/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2021/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2021/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2021/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Scoring Distribution.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2021/Scoring%20Distribution.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2021/Scoring%20Distribution.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2021/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2021/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Scoring Statistics.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2021/Scoring%20Statistics.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2021/Scoring%20Statistics.pdf"
         }
       ]
     },
@@ -214,39 +214,39 @@
       "files": [
         {
           "name": "Chief Reader Report.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2019/Chief%20Reader%20Report.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2019/Chief%20Reader%20Report.pdf"
         },
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2019/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2019/Free-Response%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2019/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2019/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2019/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2019/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2019/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2019/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2019/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2019/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Scoring Distribution.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2019/Scoring%20Distribution.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2019/Scoring%20Distribution.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2019/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2019/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Scoring Statistics.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2019/Scoring%20Statistics.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2019/Scoring%20Statistics.pdf"
         }
       ]
     },
@@ -255,39 +255,39 @@
       "files": [
         {
           "name": "Chief Reader Report.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2018/Chief%20Reader%20Report.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2018/Chief%20Reader%20Report.pdf"
         },
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2018/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2018/Free-Response%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2018/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2018/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2018/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2018/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2018/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2018/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2018/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2018/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Scoring Distributions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2018/Scoring%20Distributions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2018/Scoring%20Distributions.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2018/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2018/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Scoring Statistics.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2018/Scoring%20Statistics.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2018/Scoring%20Statistics.pdf"
         }
       ]
     },
@@ -296,39 +296,39 @@
       "files": [
         {
           "name": "Chief Reader Report.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2017/Chief%20Reader%20Report.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2017/Chief%20Reader%20Report.pdf"
         },
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2017/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2017/Free-Response%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2017/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2017/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2017/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2017/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2017/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2017/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2017/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2017/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Scoring Distributions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2017/Scoring%20Distributions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2017/Scoring%20Distributions.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2017/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2017/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Scoring Statistics.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2017/Scoring%20Statistics.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2017/Scoring%20Statistics.pdf"
         }
       ]
     },
@@ -337,39 +337,39 @@
       "files": [
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2016/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2016/Free-Response%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2016/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2016/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2016/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2016/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2016/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2016/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2016/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2016/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Score Distributions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2016/Score%20Distributions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2016/Score%20Distributions.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2016/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2016/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Scoring Statistics.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2016/Scoring%20Statistics.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2016/Scoring%20Statistics.pdf"
         },
         {
           "name": "Student Performance Q&A.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2016/Student%20Performance%20Q%26A.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2016/Student%20Performance%20Q%26A.pdf"
         }
       ]
     },
@@ -378,39 +378,39 @@
       "files": [
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2015/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2015/Free-Response%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2015/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2015/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2015/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2015/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2015/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2015/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2015/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2015/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Score Distributions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2015/Score%20Distributions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2015/Score%20Distributions.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2015/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2015/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Scoring Statistics.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2015/Scoring%20Statistics.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2015/Scoring%20Statistics.pdf"
         },
         {
           "name": "Student Performance Q&A.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2015/Student%20Performance%20Q%26A.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2015/Student%20Performance%20Q%26A.pdf"
         }
       ]
     },
@@ -419,39 +419,39 @@
       "files": [
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2014/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2014/Free-Response%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2014/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2014/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2014/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2014/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2014/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2014/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2014/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2014/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Score Distributions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2014/Score%20Distributions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2014/Score%20Distributions.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2014/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2014/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Scoring Statistics.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2014/Scoring%20Statistics.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2014/Scoring%20Statistics.pdf"
         },
         {
           "name": "Student Performance Q&A.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2014/Student%20Performance%20Q%26A.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2014/Student%20Performance%20Q%26A.pdf"
         }
       ]
     },
@@ -460,39 +460,39 @@
       "files": [
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2013/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2013/Free-Response%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2013/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2013/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2013/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2013/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2013/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2013/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2013/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2013/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Score Distributions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2013/Score%20Distributions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2013/Score%20Distributions.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2013/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2013/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Scoring Statistics.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2013/Scoring%20Statistics.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2013/Scoring%20Statistics.pdf"
         },
         {
           "name": "Student Performance Q&A.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2013/Student%20Performance%20Q%26A.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2013/Student%20Performance%20Q%26A.pdf"
         }
       ]
     },
@@ -501,39 +501,39 @@
       "files": [
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2012/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2012/Free-Response%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2012/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2012/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2012/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2012/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2012/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2012/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2012/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2012/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Score Distributions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2012/Score%20Distributions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2012/Score%20Distributions.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2012/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2012/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Scoring Statistics.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2012/Scoring%20Statistics.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2012/Scoring%20Statistics.pdf"
         },
         {
           "name": "Student Performance Q&A.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2012/Student%20Performance%20Q%26A.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2012/Student%20Performance%20Q%26A.pdf"
         }
       ]
     },
@@ -542,39 +542,39 @@
       "files": [
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2011/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2011/Free-Response%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2011/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2011/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2011/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2011/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2011/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2011/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2011/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2011/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Score Distributions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2011/Score%20Distributions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2011/Score%20Distributions.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2011/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2011/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Scoring Statistics.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2011/Scoring%20Statistics.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2011/Scoring%20Statistics.pdf"
         },
         {
           "name": "Student Performance Q&A.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2011/Student%20Performance%20Q%26A.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2011/Student%20Performance%20Q%26A.pdf"
         }
       ]
     },
@@ -583,39 +583,39 @@
       "files": [
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2010/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2010/Free-Response%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2010/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2010/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2010/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2010/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2010/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2010/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2010/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2010/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Score Distributions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2010/Score%20Distributions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2010/Score%20Distributions.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2010/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2010/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Scoring Statistics.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2010/Scoring%20Statistics.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2010/Scoring%20Statistics.pdf"
         },
         {
           "name": "Student Performance Q&A.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2010/Student%20Performance%20Q%26A.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2010/Student%20Performance%20Q%26A.pdf"
         }
       ]
     },
@@ -624,43 +624,43 @@
       "files": [
         {
           "name": "29 Canonical Solutions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2009/29%20Canonical%20Solutions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2009/29%20Canonical%20Solutions.pdf"
         },
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2009/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2009/Free-Response%20Questions.pdf"
         },
         {
           "name": "Grade Distributions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2009/Grade%20Distributions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2009/Grade%20Distributions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2009/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2009/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2009/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2009/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2009/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2009/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2009/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2009/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2009/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2009/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Scoring Statistics.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2009/Scoring%20Statistics.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2009/Scoring%20Statistics.pdf"
         },
         {
           "name": "Student Performance Q&A.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2009/Student%20Performance%20Q%26A.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2009/Student%20Performance%20Q%26A.pdf"
         }
       ]
     },
@@ -669,39 +669,39 @@
       "files": [
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2008/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2008/Free-Response%20Questions.pdf"
         },
         {
           "name": "Grade Distributions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2008/Grade%20Distributions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2008/Grade%20Distributions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2008/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2008/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2008/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2008/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2008/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2008/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2008/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2008/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2008/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2008/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Scoring Statistics.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2008/Scoring%20Statistics.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2008/Scoring%20Statistics.pdf"
         },
         {
           "name": "Student Performance Q&A.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2008/Student%20Performance%20Q%26A.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2008/Student%20Performance%20Q%26A.pdf"
         }
       ]
     },
@@ -710,31 +710,31 @@
       "files": [
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2007/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2007/Free-Response%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2007/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2007/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2007/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2007/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2007/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2007/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2007/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2007/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2007/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2007/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Student Performance Q&A.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2007/Student%20Performance%20Q%26A.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2007/Student%20Performance%20Q%26A.pdf"
         }
       ]
     },
@@ -743,31 +743,31 @@
       "files": [
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2006/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2006/Free-Response%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2006/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2006/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2006/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2006/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2006/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2006/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2006/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2006/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2006/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2006/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Student Performance Q&A.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2006/Student%20Performance%20Q%26A.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2006/Student%20Performance%20Q%26A.pdf"
         }
       ]
     },
@@ -776,23 +776,23 @@
       "files": [
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2005/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2005/Free-Response%20Questions.pdf"
         },
         {
           "name": "Sample Response.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2005/Sample%20Response.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2005/Sample%20Response.pdf"
         },
         {
           "name": "Scoring Commentary.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2005/Scoring%20Commentary.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2005/Scoring%20Commentary.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2005/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2005/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Student Performance Q&A.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2005/Student%20Performance%20Q%26A.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2005/Student%20Performance%20Q%26A.pdf"
         }
       ]
     },
@@ -801,35 +801,35 @@
       "files": [
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2004/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2004/Free-Response%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2004/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2004/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2004/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2004/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2004/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2004/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2004/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2004/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Scoring Commentary.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2004/Scoring%20Commentary.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2004/Scoring%20Commentary.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2004/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2004/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Student Performance Q&A.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2004/Student%20Performance%20Q%26A.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2004/Student%20Performance%20Q%26A.pdf"
         }
       ]
     },
@@ -838,35 +838,35 @@
       "files": [
         {
           "name": "Free-Response Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2003/Free-Response%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2003/Free-Response%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2003/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2003/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2003/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2003/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2003/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2003/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2003/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2003/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Scoring Commentary.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2003/Scoring%20Commentary.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2003/Scoring%20Commentary.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2003/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2003/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Student Performance Q&A.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2003/Student%20Performance%20Q%26A.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2003/Student%20Performance%20Q%26A.pdf"
         }
       ]
     },
@@ -875,35 +875,35 @@
       "files": [
         {
           "name": "All Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2002/All%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2002/All%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2002/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2002/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2002/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2002/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2002/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2002/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2002/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2002/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Scoring Commentary.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2002/Scoring%20Commentary.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2002/Scoring%20Commentary.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2002/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2002/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Student Performance Q&A.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2002/Student%20Performance%20Q%26A.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2002/Student%20Performance%20Q%26A.pdf"
         }
       ]
     },
@@ -912,35 +912,35 @@
       "files": [
         {
           "name": "All Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2001/All%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2001/All%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2001/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2001/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2001/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2001/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2001/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2001/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2001/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2001/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Scoring Commentary.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2001/Scoring%20Commentary.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2001/Scoring%20Commentary.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2001/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2001/Scoring%20Guidelines.pdf"
         },
         {
           "name": "Student Performance Q&A.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2001/Student%20Performance%20Q%26A.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2001/Student%20Performance%20Q%26A.pdf"
         }
       ]
     },
@@ -949,31 +949,31 @@
       "files": [
         {
           "name": "All Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2000/All%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2000/All%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2000/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2000/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2000/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2000/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2000/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2000/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2000/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2000/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Scoring Commentary.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2000/Scoring%20Commentary.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2000/Scoring%20Commentary.pdf"
         },
         {
           "name": "Scoring Guidelines.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/2000/Scoring%20Guidelines.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/2000/Scoring%20Guidelines.pdf"
         }
       ]
     },
@@ -982,27 +982,27 @@
       "files": [
         {
           "name": "All Questions.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/1999/All%20Questions.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/1999/All%20Questions.pdf"
         },
         {
           "name": "Sample Responses Q1.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/1999/Sample%20Responses%20Q1.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/1999/Sample%20Responses%20Q1.pdf"
         },
         {
           "name": "Sample Responses Q2.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/1999/Sample%20Responses%20Q2.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/1999/Sample%20Responses%20Q2.pdf"
         },
         {
           "name": "Sample Responses Q3.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/1999/Sample%20Responses%20Q3.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/1999/Sample%20Responses%20Q3.pdf"
         },
         {
           "name": "Sample Responses Q4.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/1999/Sample%20Responses%20Q4.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/1999/Sample%20Responses%20Q4.pdf"
         },
         {
           "name": "Student Performance Q&A.pdf",
-          "url": "/courses/AP%20Computer%20Science%20A/1999/Student%20Performance%20Q%26A.pdf"
+          "url": "https://pub-309627a4b35a4d56b9c2c5dc71e64ebf.r2.dev/courses/AP%20Computer%20Science%20A/1999/Student%20Performance%20Q%26A.pdf"
         }
       ]
     }
