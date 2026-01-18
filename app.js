@@ -38,7 +38,7 @@ async function renderHome() {
   });
   app.innerHTML = `
     <section class="card">
-      <h1 class="h1">AP FRQ Archive</h1>
+      <h1 class="h1">AP exam FRQ Archive</h1>
       <div id="home-courses" style="margin-top: 14px;"></div>
     </section>
   `;
@@ -138,8 +138,9 @@ async function renderCourse(slug) {
             if (name.includes("free-response questions") || name.includes("free response questions")) return 0;
             if (name.includes("scoring guidelines")) return 1;
             if (name.includes("scoring")) return 2;
-            if (name.includes("sample")) return 4;
-            return 3;
+            if (name.includes("score")) return 3;
+            if (name.includes("sample")) return 5;
+            return 4;
           };
 
           const ra = rank(aName);
