@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta
       name="description"
-      content="Free AP exam FRQs, scoring guidelines, and sample responses organized by course and year. Includes removed and pre-2023 materials."
+      content="AP exam FRQs, scoring guidelines, and other materials organized by course and year. Includes removed and pre-2023 materials."
     />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
@@ -29,7 +29,15 @@
       name="twitter:description"
       content="Free AP exam FRQs, scoring guidelines, and sample responses organized by course and year. Includes removed and pre-2023 materials."
     />
-
+    <script>
+  (function () {
+    var params = new URLSearchParams(window.location.search);
+    var p = params.get("p");
+    if (p) {
+      history.replaceState(null, "", decodeURIComponent(p));
+    }
+  })();
+</script>
     <link rel="stylesheet" href="/styles.css" />
   </head>
   <body>

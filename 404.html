@@ -1,12 +1,25 @@
 <!doctype html>
-<html>
+<html lang="en">
   <head>
-    <meta charset="utf-8" />
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Redirecting…</title>
     <script>
-      // Redirect /whatever back into the SPA as /?p=/whatever
-      var path = location.pathname + location.search + location.hash;
-      location.replace("/?p=" + encodeURIComponent(path));
+      (function () {
+        // Keep the original path + query + hash
+        var path = window.location.pathname + window.location.search + window.location.hash;
+
+        // If it's a course route, preserve it. Otherwise send home.
+        // (You can broaden this later if you add more routes.)
+        var isCourse = window.location.pathname.startsWith("/course/");
+
+        // Redirect to home, carrying the desired path in ?p=
+        // Your index.html should read ?p= and restore it.
+        var target = "/?p=" + encodeURIComponent(isCourse ? path : "/");
+
+        window.location.replace(target);
+      })();
     </script>
   </head>
   <body></body>
