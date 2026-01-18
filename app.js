@@ -212,7 +212,7 @@ function router() {
       <section class="card">
         <h1 class="h1">404</h1>
         <p class="p">Page not found.</p>
-        <a class="link" href="/" data-link>Go Home</a>
+        <a class="link" href="#/" data-link>Go Home</a>
       </section>
     `;
     return;
@@ -226,15 +226,25 @@ document.addEventListener("click", (e) => {
   const link = e.target.closest("a[data-link]");
   if (!link) return;
 
-  // Only handle same-origin, left-click, no modifier keys
-  const url = new URL(link.href);
-  if (url.origin !== window.location.origin) return;
+  // Only handle left-click with no modifier keys
   if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+
+  // If it's an in-page hash route like "#/course/...", let the browser set hash
+  const href = link.getAttribute("href") || "";
+  if (href.startsWith("#")) {
+    e.preventDefault();
+    // Set the hash route (without the leading "#")
+    navigateTo(href.slice(1) || "/");
+    return;
+  }
+
+  // Otherwise fall back to same-origin pathname handling
+  const url = new URL(link.href, window.location.href);
+  if (url.origin !== window.location.origin) return;
 
   e.preventDefault();
   navigateTo(url.pathname);
 });
-
 // Handle back/forward navigation
 window.addEventListener("hashchange", router);
 
