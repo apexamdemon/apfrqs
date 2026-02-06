@@ -1,0 +1,19 @@
+{
+  "subject": "AP Environmental Science",
+  "year": "2000",
+  "question_number": 3,
+  "frq_pages_0based": [
+    3
+  ],
+  "scoring_pages_0based": [
+    3,
+    4,
+    7,
+    8,
+    9
+  ],
+  "question_type": "Environmental analysis",
+  "units": [
+    "Unit 2: The Living World: Biodiversity"
+  ]
+}

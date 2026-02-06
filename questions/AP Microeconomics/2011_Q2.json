@@ -1,0 +1,19 @@
+{
+  "subject": "AP Microeconomics",
+  "year": "2011",
+  "set": null,
+  "question_key": "Q2",
+  "question_type": null,
+  "frq_pages_0based": [
+    2
+  ],
+  "scoring_pages_0based": [
+    3
+  ],
+  "units": [
+    "Unit 3: Production, Cost, and the Perfect Competition Model",
+    "Unit 4: Imperfect Competition",
+    "Unit 5: Factor Markets",
+    "Unit 6: Market Failure and the Role of Government"
+  ]
+}

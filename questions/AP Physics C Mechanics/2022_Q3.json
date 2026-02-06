@@ -1,0 +1,20 @@
+{
+  "subject": "AP Physics C: Mechanics",
+  "year": "2022",
+  "question_number": 3,
+  "frq_pages_0based": [
+    12,
+    13,
+    14,
+    15
+  ],
+  "scoring_pages_0based": [
+    6,
+    8,
+    10
+  ],
+  "question_type": "Mathematical routines",
+  "units": [
+    "Unit 5: Torque and Rotational Dynamics"
+  ]
+}

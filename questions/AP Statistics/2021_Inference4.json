@@ -1,0 +1,21 @@
+{
+  "subject": "AP Statistics",
+  "year": "2021",
+  "set": null,
+  "question_key": "Inference4",
+  "question_type": "Inference",
+  "frq_pages_0based": [
+    9,
+    10,
+    11
+  ],
+  "scoring_pages_0based": [
+    16,
+    22,
+    23
+  ],
+  "units": [
+    "Unit 6: Inference for Categorical Data: Proportions",
+    "Unit 1: One-Variable Data"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "subject": "AP Physics 1",
+  "year": "2022",
+  "question_number": 5,
+  "frq_pages_0based": [
+    14,
+    15,
+    16
+  ],
+  "scoring_pages_0based": [
+    9,
+    10
+  ],
+  "question_type": "Translation between representations",
+  "units": [
+    "Unit 3: Work, Energy, and Power"
+  ]
+}

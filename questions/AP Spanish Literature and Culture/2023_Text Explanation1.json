@@ -1,0 +1,25 @@
+{
+  "subject": "AP Spanish Literature and Culture",
+  "year": "2023",
+  "set": null,
+  "question_key": "Text Explanation1",
+  "question_type": "Text Explanation",
+  "frq_pages_0based": [
+    1,
+    2
+  ],
+  "scoring_pages_0based": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    18,
+    22,
+    23
+  ],
+  "units": [
+    "Unit 3: El siglo XVII",
+    "Unit 5: La Generaci\u00f3n del 98 y el Modernismo"
+  ]
+}

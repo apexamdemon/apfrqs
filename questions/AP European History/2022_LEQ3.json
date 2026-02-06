@@ -1,0 +1,23 @@
+{
+  "subject": "AP European History",
+  "year": "2022",
+  "set": null,
+  "question_key": "LEQ3",
+  "question_type": "LEQ",
+  "frq_pages_0based": [
+    12
+  ],
+  "scoring_pages_0based": [
+    10,
+    23,
+    26,
+    28,
+    32
+  ],
+  "units": [
+    "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+    "Unit 6: Industrialization and Its Effects",
+    "Unit 7: 19th-Century Perspectives and Political Developments",
+    "Unit 8: 20th-Century Global Conflicts"
+  ]
+}

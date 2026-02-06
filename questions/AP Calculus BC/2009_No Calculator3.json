@@ -1,0 +1,19 @@
+{
+  "subject": "AP Calculus BC",
+  "year": "2009",
+  "set": null,
+  "question_key": "No Calculator3",
+  "question_type": "No Calculator",
+  "frq_pages_0based": [
+    3,
+    4
+  ],
+  "scoring_pages_0based": [],
+  "units": [
+    "Unit 5: Analytical Applications of Differentiation",
+    "Unit 6: Integration and Accumulation of Change",
+    "Unit 7: Differential Equations",
+    "Unit 9: Parametric Equations, Polar Coordinates, and Vector-Valued Functions",
+    "Unit 10: Infinite Sequences and Series"
+  ]
+}

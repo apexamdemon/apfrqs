@@ -1,0 +1,18 @@
+{
+  "subject": "AP World History",
+  "year": "2025",
+  "set": 2,
+  "question_key": "LEQ2",
+  "frq_pages_0based": [
+    11
+  ],
+  "scoring_pages_0based": [
+    20
+  ],
+  "question_type": "LEQ",
+  "units": [
+    "Unit 4: Transoceanic Interconnections",
+    "Unit 5: Revolutions",
+    "Unit 7: Global Conflict"
+  ]
+}

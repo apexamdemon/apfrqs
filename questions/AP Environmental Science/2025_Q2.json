@@ -1,0 +1,17 @@
+{
+  "subject": "AP Environmental Science",
+  "year": "2025",
+  "question_number": 2,
+  "frq_pages_0based": [
+    7
+  ],
+  "scoring_pages_0based": [
+    3
+  ],
+  "question_type": "Environmental analysis",
+  "units": [
+    "Unit 4: Earth Systems and Resources",
+    "Unit 7: Atmospheric Pollution",
+    "Unit 1: The Living World: Ecosystems"
+  ]
+}

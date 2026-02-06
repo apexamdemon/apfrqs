@@ -1,0 +1,24 @@
+{
+  "subject": "AP European History",
+  "year": "2021",
+  "set": null,
+  "question_key": "LEQ3",
+  "question_type": "LEQ",
+  "frq_pages_0based": [
+    3,
+    11
+  ],
+  "scoring_pages_0based": [
+    10,
+    24,
+    31,
+    32
+  ],
+  "units": [
+    "Unit 1: Renaissance and Exploration",
+    "Unit 2: Age of Reformation",
+    "Unit 4: Scientific, Philosophical, and Political Developments",
+    "Unit 8: 20th-Century Global Conflicts",
+    "Unit 9: Cold War and Contemporary Europe"
+  ]
+}

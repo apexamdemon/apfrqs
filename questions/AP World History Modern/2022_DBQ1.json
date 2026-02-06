@@ -1,0 +1,39 @@
+{
+  "subject": "AP World History",
+  "year": "2022",
+  "set": null,
+  "question_key": "DBQ1",
+  "frq_pages_0based": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "scoring_pages_0based": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    19,
+    20,
+    21,
+    26,
+    28,
+    29,
+    30,
+    31
+  ],
+  "question_type": "DBQ",
+  "units": [
+    "Unit 6: Consequences of Industrialization"
+  ]
+}

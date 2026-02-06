@@ -1,0 +1,21 @@
+{
+  "subject": "AP Physics C: Mechanics",
+  "year": "2023",
+  "question_number": 1,
+  "frq_pages_0based": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "scoring_pages_0based": [
+    1,
+    5
+  ],
+  "question_type": "Translation between representations",
+  "units": [
+    "Unit 3: Work, Energy, and Power",
+    "Unit 4: Linear Momentum"
+  ]
+}

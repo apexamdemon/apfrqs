@@ -1,0 +1,16 @@
+{
+  "subject": "AP Statistics",
+  "year": "2025",
+  "set": null,
+  "question_key": "Inference6",
+  "question_type": "Inference",
+  "frq_pages_0based": [
+    8,
+    9
+  ],
+  "scoring_pages_0based": [],
+  "units": [
+    "Unit 3: Collecting Data",
+    "Unit 7: Inference for Quantitative Data: Means"
+  ]
+}

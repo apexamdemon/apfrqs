@@ -1,0 +1,36 @@
+{
+  "subject": "AP United States History",
+  "year": "2025",
+  "question": 1,
+  "frq_pages": [
+    2,
+    3,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "scoring_pages": [
+    1,
+    2,
+    8,
+    9,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    20,
+    23,
+    24,
+    34
+  ],
+  "question_type": "DBQ",
+  "units": [
+    "Period 7: 1890\u20131945",
+    "Period 8: 1945\u20131980"
+  ]
+}

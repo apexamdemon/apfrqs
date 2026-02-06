@@ -1,0 +1,24 @@
+{
+  "subject": "AP European History",
+  "year": "2023",
+  "set": 2,
+  "question_key": "LEQ3",
+  "question_type": "LEQ",
+  "frq_pages_0based": [
+    11
+  ],
+  "scoring_pages_0based": [
+    23,
+    24,
+    25,
+    26,
+    27,
+    32,
+    33
+  ],
+  "units": [
+    "Unit 2: Age of Reformation",
+    "Unit 6: Industrialization and Its Effects",
+    "Unit 8: 20th-Century Global Conflicts"
+  ]
+}

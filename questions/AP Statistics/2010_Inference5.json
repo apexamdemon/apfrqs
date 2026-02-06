@@ -1,0 +1,24 @@
+{
+  "subject": "AP Statistics",
+  "year": "2010",
+  "set": null,
+  "question_key": "Inference5",
+  "question_type": "Inference",
+  "frq_pages_0based": [
+    8,
+    9
+  ],
+  "scoring_pages_0based": [
+    12,
+    13,
+    14,
+    15
+  ],
+  "units": [
+    "Unit 1: One-Variable Data",
+    "Unit 3: Collecting Data",
+    "Unit 4: Probability, Random Variables, and Probability Distributions",
+    "Unit 5: Sampling Distributions",
+    "Unit 7: Inference for Quantitative Data: Means"
+  ]
+}

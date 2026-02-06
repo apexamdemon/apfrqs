@@ -1,0 +1,18 @@
+{
+  "subject": "AP World History",
+  "year": "2017",
+  "set": null,
+  "question_key": "SAQ4",
+  "frq_pages_0based": [
+    5,
+    6
+  ],
+  "scoring_pages_0based": [
+    8,
+    9
+  ],
+  "question_type": "SAQ",
+  "units": [
+    "Unit 9: Globalization"
+  ]
+}

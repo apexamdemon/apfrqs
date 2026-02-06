@@ -1,0 +1,20 @@
+{
+  "subject": "AP Environmental Science",
+  "year": "2024",
+  "question_number": 2,
+  "frq_pages_0based": [
+    3,
+    4
+  ],
+  "scoring_pages_0based": [
+    4,
+    6
+  ],
+  "question_type": "Environmental analysis",
+  "units": [
+    "Unit 3: Populations",
+    "Unit 5: Land and Water Use",
+    "Unit 8: Aquatic and Terrestrial Pollution",
+    "Unit 9: Global Change"
+  ]
+}

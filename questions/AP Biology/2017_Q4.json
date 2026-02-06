@@ -1,0 +1,16 @@
+{
+  "subject": "AP Biology",
+  "year": "2017",
+  "question_number": 4,
+  "frq_pages_0based": [
+    6
+  ],
+  "scoring_pages_0based": [
+    6,
+    7
+  ],
+  "question_type": "Scientific investigation",
+  "units": [
+    "Unit 8: Ecology"
+  ]
+}

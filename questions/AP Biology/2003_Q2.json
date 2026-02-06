@@ -1,0 +1,18 @@
+{
+  "subject": "AP Biology",
+  "year": "2003",
+  "question_number": 2,
+  "frq_pages_0based": [
+    2
+  ],
+  "scoring_pages_0based": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "question_type": "Conceptual analysis",
+  "units": [
+    "Unit 4: Cell Communication and Cell Cycle"
+  ]
+}

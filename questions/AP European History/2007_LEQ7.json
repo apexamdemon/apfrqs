@@ -1,0 +1,21 @@
+{
+  "subject": "AP European History",
+  "year": "2007",
+  "set": null,
+  "question_key": "LEQ7",
+  "question_type": "LEQ",
+  "frq_pages_0based": [
+    9
+  ],
+  "scoring_pages_0based": [
+    28,
+    29,
+    31,
+    33
+  ],
+  "units": [
+    "Unit 2: Age of Reformation",
+    "Unit 3: Absolutism and Constitutionalism",
+    "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century"
+  ]
+}

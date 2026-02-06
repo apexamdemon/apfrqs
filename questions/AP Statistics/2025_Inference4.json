@@ -1,0 +1,22 @@
+{
+  "subject": "AP Statistics",
+  "year": "2025",
+  "set": null,
+  "question_key": "Inference4",
+  "question_type": "Inference",
+  "frq_pages_0based": [
+    6,
+    7
+  ],
+  "scoring_pages_0based": [
+    17,
+    18,
+    19,
+    23
+  ],
+  "units": [
+    "Unit 4: Probability, Random Variables, and Probability Distributions",
+    "Unit 6: Inference for Categorical Data: Proportions",
+    "Unit 7: Inference for Quantitative Data: Means"
+  ]
+}

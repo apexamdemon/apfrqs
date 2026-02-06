@@ -1,0 +1,18 @@
+{
+  "subject": "AP World History",
+  "year": "2024",
+  "set": 1,
+  "question_key": "SAQ3",
+  "frq_pages_0based": [
+    3
+  ],
+  "scoring_pages_0based": [
+    5,
+    6
+  ],
+  "question_type": "SAQ",
+  "units": [
+    "Unit 4: Transoceanic Interconnections",
+    "Unit 6: Consequences of Industrialization"
+  ]
+}

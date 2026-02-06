@@ -1,0 +1,18 @@
+{
+  "subject": "AP Calculus AB",
+  "year": "2001",
+  "set": null,
+  "question_key": "No Calculator6",
+  "question_type": "No Calculator",
+  "frq_pages_0based": [
+    4
+  ],
+  "scoring_pages_0based": [
+    6
+  ],
+  "units": [
+    "Unit 5: Analytical Applications of Differentiation",
+    "Unit 6: Integration and Accumulation of Change",
+    "Unit 7: Differential Equations"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "subject": "AP European History",
+  "year": "2003",
+  "set": null,
+  "question_key": "LEQ2",
+  "question_type": "LEQ",
+  "frq_pages_0based": [
+    7
+  ],
+  "scoring_pages_0based": [
+    2
+  ],
+  "units": [
+    "Unit 1: Renaissance and Exploration",
+    "Unit 3: Absolutism and Constitutionalism",
+    "Unit 6: Industrialization and Its Effects"
+  ]
+}

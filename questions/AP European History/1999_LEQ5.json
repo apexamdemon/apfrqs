@@ -1,0 +1,20 @@
+{
+  "subject": "AP European History",
+  "year": "1999",
+  "set": null,
+  "question_key": "LEQ5",
+  "question_type": "LEQ",
+  "frq_pages_0based": [
+    11
+  ],
+  "scoring_pages_0based": [
+    10,
+    11
+  ],
+  "units": [
+    "Unit 2: Age of Reformation",
+    "Unit 3: Absolutism and Constitutionalism",
+    "Unit 7: 19th-Century Perspectives and Political Developments",
+    "Unit 8: 20th-Century Global Conflicts"
+  ]
+}

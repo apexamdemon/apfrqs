@@ -1,0 +1,21 @@
+{
+  "subject": "AP Computer Science A",
+  "year": "2001",
+  "set": null,
+  "question_key": "2D Array4",
+  "question_type": "2D Array",
+  "frq_pages_0based": [
+    13,
+    14,
+    15
+  ],
+  "scoring_pages_0based": [
+    4,
+    5
+  ],
+  "units": [
+    "Unit 1: Using Objects and Methods",
+    "Unit 2: Selection and Iteration",
+    "Unit 4: Data Collections"
+  ]
+}

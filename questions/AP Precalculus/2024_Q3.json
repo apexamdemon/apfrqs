@@ -1,0 +1,22 @@
+{
+  "subject": "AP Precalculus",
+  "year": "2024",
+  "set": null,
+  "question_key": "Q3",
+  "question_type": null,
+  "frq_pages_0based": [
+    6,
+    7,
+    8
+  ],
+  "scoring_pages_0based": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "units": [
+    "Unit 2: Exponential and Logarithmic Functions",
+    "Unit 3: Trigonometric and Polar Functions"
+  ]
+}

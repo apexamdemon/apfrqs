@@ -1,0 +1,19 @@
+{
+  "subject": "AP English Literature and Composition",
+  "year": "2008",
+  "set": null,
+  "question_key": "Prose Analysis2",
+  "question_type": "Prose Analysis",
+  "frq_pages_0based": [
+    2,
+    3
+  ],
+  "scoring_pages_0based": [
+    2
+  ],
+  "units": [
+    "Unit 1: Claims and Evidence",
+    "Unit 4: Methods of Argument Development",
+    "Unit 8: Style and Rhetorical Effect"
+  ]
+}

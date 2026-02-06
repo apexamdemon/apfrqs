@@ -1,0 +1,21 @@
+{
+  "subject": "AP Statistics",
+  "year": "2008",
+  "set": null,
+  "question_key": "Inference4",
+  "question_type": "Inference",
+  "frq_pages_0based": [
+    9,
+    10
+  ],
+  "scoring_pages_0based": [
+    10,
+    12
+  ],
+  "units": [
+    "Unit 2: Two-Variable Data",
+    "Unit 5: Sampling Distributions",
+    "Unit 6: Inference for Categorical Data: Proportions",
+    "Unit 8: Inference for Categorical Data: Chi-Square"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "subject": "AP European History",
+  "year": "2022",
+  "set": null,
+  "question_key": "DBQ1",
+  "question_type": "DBQ",
+  "frq_pages_0based": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "scoring_pages_0based": [
+    9,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    25,
+    31,
+    33
+  ],
+  "units": [
+    "Unit 2: Age of Reformation",
+    "Unit 3: Absolutism and Constitutionalism"
+  ]
+}

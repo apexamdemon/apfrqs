@@ -1,0 +1,22 @@
+{
+  "subject": "AP Statistics",
+  "year": "2022",
+  "set": null,
+  "question_key": "Probability and Sampling Distributions3",
+  "question_type": "Probability and Sampling Distributions",
+  "frq_pages_0based": [
+    7,
+    8,
+    9
+  ],
+  "scoring_pages_0based": [
+    12,
+    15,
+    16,
+    17
+  ],
+  "units": [
+    "Unit 4: Probability, Random Variables, and Probability Distributions",
+    "Unit 6: Inference for Categorical Data: Proportions"
+  ]
+}

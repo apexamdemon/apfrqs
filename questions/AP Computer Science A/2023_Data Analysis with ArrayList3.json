@@ -1,0 +1,27 @@
+{
+  "subject": "AP Computer Science A",
+  "year": "2023",
+  "set": null,
+  "question_key": "Data Analysis with ArrayList3",
+  "question_type": "Data Analysis with ArrayList",
+  "frq_pages_0based": [
+    6,
+    7,
+    10,
+    11,
+    12,
+    13
+  ],
+  "scoring_pages_0based": [
+    13,
+    14,
+    15,
+    16
+  ],
+  "units": [
+    "Unit 1: Using Objects and Methods",
+    "Unit 2: Selection and Iteration",
+    "Unit 3: Class Creation",
+    "Unit 4: Data Collections"
+  ]
+}

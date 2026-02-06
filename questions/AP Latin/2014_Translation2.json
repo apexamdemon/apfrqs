@@ -1,0 +1,16 @@
+{
+  "subject": "AP Latin",
+  "year": "2014",
+  "set": null,
+  "question_key": "Translation2",
+  "question_type": "Translation",
+  "frq_pages_0based": [
+    3,
+    4
+  ],
+  "scoring_pages_0based": [
+    3,
+    4
+  ],
+  "units": []
+}

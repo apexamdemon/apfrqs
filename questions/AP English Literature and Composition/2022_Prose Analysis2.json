@@ -1,0 +1,24 @@
+{
+  "subject": "AP English Literature and Composition",
+  "year": "2022",
+  "set": null,
+  "question_key": "Prose Analysis2",
+  "question_type": "Prose Analysis",
+  "frq_pages_0based": [
+    2,
+    4
+  ],
+  "scoring_pages_0based": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "units": [
+    "Unit 1: Claims and Evidence",
+    "Unit 4: Methods of Argument Development",
+    "Unit 5: Precision and Rhetorical Choices",
+    "Unit 7: Complexity of Arguments",
+    "Unit 8: Style and Rhetorical Effect"
+  ]
+}

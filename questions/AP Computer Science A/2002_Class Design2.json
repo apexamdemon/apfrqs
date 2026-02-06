@@ -1,0 +1,21 @@
+{
+  "subject": "AP Computer Science A",
+  "year": "2002",
+  "set": null,
+  "question_key": "Class Design2",
+  "question_type": "Class Design",
+  "frq_pages_0based": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "scoring_pages_0based": [
+    2
+  ],
+  "units": [
+    "Unit 1: Using Objects and Methods",
+    "Unit 2: Selection and Iteration",
+    "Unit 4: Data Collections"
+  ]
+}

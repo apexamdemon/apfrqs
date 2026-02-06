@@ -1,0 +1,18 @@
+{
+  "subject": "AP Biology",
+  "year": "2000",
+  "question_number": 3,
+  "frq_pages_0based": [
+    2
+  ],
+  "scoring_pages_0based": [
+    5,
+    8
+  ],
+  "question_type": "Conceptual analysis",
+  "units": [
+    "Unit 2: Cells",
+    "Unit 6: Gene Expression and Regulation",
+    "Unit 8: Ecology"
+  ]
+}

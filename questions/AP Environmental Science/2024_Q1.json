@@ -1,0 +1,20 @@
+{
+  "subject": "AP Environmental Science",
+  "year": "2024",
+  "question_number": 1,
+  "frq_pages_0based": [
+    1,
+    2
+  ],
+  "scoring_pages_0based": [
+    1,
+    2,
+    3,
+    5
+  ],
+  "question_type": "Investigative Design,",
+  "units": [
+    "Unit 1: The Living World: Ecosystems",
+    "Unit 8: Aquatic and Terrestrial Pollution"
+  ]
+}

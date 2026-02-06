@@ -1,0 +1,19 @@
+{
+  "subject": "AP English Literature and Composition",
+  "year": "2014",
+  "set": null,
+  "question_key": "Literary Argument3",
+  "question_type": "Literary Argument",
+  "frq_pages_0based": [
+    3
+  ],
+  "scoring_pages_0based": [
+    4,
+    5
+  ],
+  "units": [
+    "Unit 1: Claims and Evidence",
+    "Unit 2: Organization and Audience",
+    "Unit 4: Methods of Argument Development"
+  ]
+}

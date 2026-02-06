@@ -1,0 +1,21 @@
+{
+  "subject": "AP Macroeconomics",
+  "year": "2024",
+  "set": 1,
+  "question_key": "Q1",
+  "question_type": null,
+  "frq_pages_0based": [
+    2,
+    3
+  ],
+  "scoring_pages_0based": [
+    1,
+    2,
+    3
+  ],
+  "units": [
+    "Unit 2: Economic Indicators and the Business Cycle",
+    "Unit 3: National Income and Price Determination",
+    "Unit 4: Financial Sector"
+  ]
+}

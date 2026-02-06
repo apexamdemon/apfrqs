@@ -1,0 +1,26 @@
+{
+  "subject": "AP Statistics",
+  "year": "2002",
+  "set": null,
+  "question_key": "Inference6",
+  "question_type": "Inference",
+  "frq_pages_0based": [
+    9,
+    10,
+    11,
+    13
+  ],
+  "scoring_pages_0based": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "units": [
+    "Unit 6: Inference for Categorical Data: Proportions"
+  ]
+}

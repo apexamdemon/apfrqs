@@ -1,0 +1,20 @@
+{
+  "subject": "AP Macroeconomics",
+  "year": "2003",
+  "set": null,
+  "question_key": "Q3",
+  "question_type": null,
+  "frq_pages_0based": [
+    2
+  ],
+  "scoring_pages_0based": [
+    6,
+    7
+  ],
+  "units": [
+    "Unit 2: Economic Indicators and the Business Cycle",
+    "Unit 3: National Income and Price Determination",
+    "Unit 4: Financial Sector",
+    "Unit 6: Open Economy International Trade and Finance"
+  ]
+}

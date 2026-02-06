@@ -1,0 +1,29 @@
+{
+  "subject": "AP United States History",
+  "year": "2023",
+  "question": 2,
+  "frq_pages": [
+    3,
+    4,
+    12
+  ],
+  "scoring_pages": [
+    4,
+    5,
+    11,
+    12,
+    19,
+    20,
+    22,
+    23,
+    25,
+    28,
+    30,
+    32
+  ],
+  "question_type": "SAQ",
+  "units": [
+    "Period 6: 1865\u20131898",
+    "Period 7: 1890\u20131945"
+  ]
+}

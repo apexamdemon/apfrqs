@@ -1,0 +1,41 @@
+{
+  "subject": "AP United States History",
+  "year": "2016",
+  "question": 1,
+  "frq_pages": [
+    1,
+    2,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "scoring_pages": [
+    1,
+    2,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "question_type": "DBQ",
+  "units": [
+    "Period 8: 1945\u20131980"
+  ]
+}

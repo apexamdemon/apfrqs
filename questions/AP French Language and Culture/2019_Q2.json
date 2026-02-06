@@ -1,0 +1,21 @@
+{
+  "subject": "AP French Language and Culture",
+  "year": "2019",
+  "set": null,
+  "question_key": "Q2",
+  "question_type": null,
+  "frq_pages_0based": [
+    3,
+    4,
+    5,
+    8
+  ],
+  "scoring_pages_0based": [
+    2,
+    3
+  ],
+  "units": [
+    "Unit 4: How Science and Technology Affect Our Lives",
+    "Unit 6: Environmental, Political, and Societal Challenges"
+  ]
+}

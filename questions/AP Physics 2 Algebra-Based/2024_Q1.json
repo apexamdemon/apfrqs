@@ -1,0 +1,17 @@
+{
+  "subject": "AP Physics 2",
+  "year": "2024",
+  "question_number": 1,
+  "frq_pages_0based": [
+    4,
+    5
+  ],
+  "scoring_pages_0based": [
+    1,
+    3
+  ],
+  "question_type": "Qualitative/quantitative translation",
+  "units": [
+    "Unit 15: Modern Physics"
+  ]
+}

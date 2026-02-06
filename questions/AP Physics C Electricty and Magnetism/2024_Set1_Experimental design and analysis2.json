@@ -1,0 +1,22 @@
+{
+  "subject": "AP Physics C: Electricity and Magnetism",
+  "year": "2024",
+  "set": 1,
+  "question_key": "Experimental design and analysis2",
+  "question_type": "Experimental design and analysis",
+  "frq_pages_0based": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "scoring_pages_0based": [
+    6,
+    7
+  ],
+  "units": [
+    "Unit 11: Electric Circuits",
+    "Unit 12: Magnetic Fields and Electromagnetism",
+    "Unit 13: Electromagnetic Induction"
+  ]
+}

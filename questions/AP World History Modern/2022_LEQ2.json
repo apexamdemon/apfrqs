@@ -1,0 +1,19 @@
+{
+  "subject": "AP World History",
+  "year": "2022",
+  "set": null,
+  "question_key": "LEQ2",
+  "frq_pages_0based": [
+    11
+  ],
+  "scoring_pages_0based": [
+    17,
+    18
+  ],
+  "question_type": "LEQ",
+  "units": [
+    "Unit 1: The Global Tapestry",
+    "Unit 4: Transoceanic Interconnections",
+    "Unit 9: Globalization"
+  ]
+}

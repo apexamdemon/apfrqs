@@ -1,0 +1,21 @@
+{
+  "subject": "AP Microeconomics",
+  "year": "2022",
+  "set": 2,
+  "question_key": "Q1",
+  "question_type": null,
+  "frq_pages_0based": [
+    2,
+    3
+  ],
+  "scoring_pages_0based": [
+    1,
+    2,
+    3
+  ],
+  "units": [
+    "Unit 2: Supply and Demand",
+    "Unit 3: Production, Cost, and the Perfect Competition Model",
+    "Unit 6: Market Failure and the Role of Government"
+  ]
+}

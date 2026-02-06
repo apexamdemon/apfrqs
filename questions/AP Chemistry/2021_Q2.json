@@ -1,0 +1,22 @@
+{
+  "subject": "AP Chemistry",
+  "year": "2021",
+  "question_number": 2,
+  "frq_pages_0based": [
+    7,
+    8,
+    9
+  ],
+  "scoring_pages_0based": [
+    3,
+    4
+  ],
+  "question_type": null,
+  "units": [
+    "Unit 1: Atomic Structure and Properties",
+    "Unit 2: Compound Structure and Properties",
+    "Unit 3: Properties of Substances and Mixtures",
+    "Unit 6: Thermochemistry",
+    "Unit 7: Equilibrium"
+  ]
+}

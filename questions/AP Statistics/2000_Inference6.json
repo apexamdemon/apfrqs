@@ -1,0 +1,20 @@
+{
+  "subject": "AP Statistics",
+  "year": "2000",
+  "set": null,
+  "question_key": "Inference6",
+  "question_type": "Inference",
+  "frq_pages_0based": [
+    13,
+    14,
+    17
+  ],
+  "scoring_pages_0based": [
+    15
+  ],
+  "units": [
+    "Unit 6: Inference for Categorical Data: Proportions",
+    "Unit 4: Probability, Random Variables, and Probability Distributions",
+    "Unit 2: Two-Variable Data"
+  ]
+}

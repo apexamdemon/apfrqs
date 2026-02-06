@@ -1,0 +1,20 @@
+{
+  "subject": "AP English Language and Composition",
+  "year": "2010",
+  "set": null,
+  "question_key": "Argumentative3",
+  "question_type": "Argumentative",
+  "frq_pages_0based": [
+    9
+  ],
+  "scoring_pages_0based": [
+    5,
+    6
+  ],
+  "units": [
+    "Unit 1: Claims and Evidence",
+    "Unit 3: Perspectives and Counterarguments",
+    "Unit 4: Methods of Argument Development",
+    "Unit 7: Complexity of Arguments"
+  ]
+}

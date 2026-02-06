@@ -1,0 +1,23 @@
+{
+  "subject": "AP World History",
+  "year": "2024",
+  "set": 1,
+  "question_key": "LEQ4",
+  "frq_pages_0based": [
+    11
+  ],
+  "scoring_pages_0based": [
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "question_type": "LEQ",
+  "units": [
+    "Unit 2: Networks of Exchange",
+    "Unit 6: Consequences of Industrialization"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "subject": "AP Art History",
+  "year": "2017",
+  "set": null,
+  "question_key": "Visual and Contexual Analysis2",
+  "question_type": "Visual and Contexual Analysis",
+  "frq_pages_0based": [
+    4,
+    5
+  ],
+  "scoring_pages_0based": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42
+  ],
+  "units": [
+    "Unit 7: West and Central Asia, 500 BCE\u20131980 CE",
+    "Unit 8: South, East, and Southeast Asia, 300 BCE\u20131980 CE",
+    "Unit 2: Ancient Mediterranean, 3500 BCE\u2013300 CE"
+  ]
+}

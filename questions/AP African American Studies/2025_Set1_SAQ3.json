@@ -1,0 +1,19 @@
+{
+  "subject": "AP African American Studies",
+  "year": "2025",
+  "set": 1,
+  "question_key": "SAQ3",
+  "question_type": "SAQ",
+  "frq_pages_0based": [
+    6,
+    7
+  ],
+  "scoring_pages_0based": [
+    7,
+    8
+  ],
+  "units": [
+    "Unit 1: Origins of the African Diaspora (~900 BCE\u201316th century)",
+    "Unit 3: The Practice of Freedom (1865\u20131940s)"
+  ]
+}

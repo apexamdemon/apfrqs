@@ -1,0 +1,22 @@
+{
+  "subject": "AP European History",
+  "year": "2006",
+  "set": null,
+  "question_key": "LEQ6",
+  "question_type": "LEQ",
+  "frq_pages_0based": [
+    8
+  ],
+  "scoring_pages_0based": [
+    26,
+    27,
+    28,
+    29
+  ],
+  "units": [
+    "Unit 3: Absolutism and Constitutionalism",
+    "Unit 7: 19th-Century Perspectives and Political Developments",
+    "Unit 8: 20th-Century Global Conflicts",
+    "Unit 9: Cold War and Contemporary Europe"
+  ]
+}

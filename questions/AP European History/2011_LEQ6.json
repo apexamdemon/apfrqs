@@ -1,0 +1,20 @@
+{
+  "subject": "AP European History",
+  "year": "2011",
+  "set": null,
+  "question_key": "LEQ6",
+  "question_type": "LEQ",
+  "frq_pages_0based": [
+    8
+  ],
+  "scoring_pages_0based": [
+    22,
+    23,
+    25
+  ],
+  "units": [
+    "Unit 6: Industrialization and Its Effects",
+    "Unit 8: 20th-Century Global Conflicts",
+    "Unit 9: Cold War and Contemporary Europe"
+  ]
+}

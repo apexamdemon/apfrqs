@@ -1,0 +1,20 @@
+{
+  "subject": "AP Calculus BC",
+  "year": "2018",
+  "set": null,
+  "question_key": "No Calculator5",
+  "question_type": "No Calculator",
+  "frq_pages_0based": [
+    5,
+    6
+  ],
+  "scoring_pages_0based": [
+    5
+  ],
+  "units": [
+    "Unit 4: Contextual Applications of Differentiation",
+    "Unit 8: Applications of Integration",
+    "Unit 9: Parametric Equations, Polar Coordinates, and Vector-Valued Functions",
+    "Unit 10: Infinite Sequences and Series"
+  ]
+}

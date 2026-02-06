@@ -1,0 +1,20 @@
+{
+  "subject": "AP Chemistry",
+  "year": "2018",
+  "question_number": 2,
+  "frq_pages_0based": [
+    6
+  ],
+  "scoring_pages_0based": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "question_type": null,
+  "units": [
+    "Unit 2: Compound Structure and Properties",
+    "Unit 7: Equilibrium",
+    "Unit 9: Thermodynamics and Electrochemistry"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "subject": "AP African American Studies",
+  "year": "2025",
+  "set": 1,
+  "question_key": "SAQ1",
+  "question_type": "SAQ",
+  "frq_pages_0based": [
+    4,
+    5
+  ],
+  "scoring_pages_0based": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "units": [
+    "Unit 2: Freedom, Enslavement, and Resistance (16th century\u20131865)",
+    "Unit 3: The Practice of Freedom (1865\u20131940s)"
+  ]
+}

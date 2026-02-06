@@ -1,0 +1,19 @@
+{
+  "subject": "AP Environmental Science",
+  "year": "2002",
+  "question_number": 3,
+  "frq_pages_0based": [
+    2
+  ],
+  "scoring_pages_0based": [
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "question_type": "Quantitative environmental analysis",
+  "units": [
+    "Unit 8: Aquatic and Terrestrial Pollution"
+  ]
+}

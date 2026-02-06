@@ -1,0 +1,28 @@
+{
+  "subject": "AP United States History",
+  "year": "2018",
+  "question": 4,
+  "frq_pages": [
+    3,
+    4,
+    11
+  ],
+  "scoring_pages": [
+    11,
+    12,
+    13,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "question_type": "SAQ",
+  "units": [
+    "Period 1: 1491\u20131607",
+    "Period 2: 1607\u20131754"
+  ]
+}

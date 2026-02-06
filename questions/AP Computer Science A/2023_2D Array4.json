@@ -1,0 +1,24 @@
+{
+  "subject": "AP Computer Science A",
+  "year": "2023",
+  "set": null,
+  "question_key": "2D Array4",
+  "question_type": "2D Array",
+  "frq_pages_0based": [
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "scoring_pages_0based": [
+    17,
+    18,
+    19
+  ],
+  "units": [
+    "Unit 1: Using Objects and Methods",
+    "Unit 2: Selection and Iteration",
+    "Unit 4: Data Collections"
+  ]
+}

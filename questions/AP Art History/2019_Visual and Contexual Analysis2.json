@@ -1,0 +1,24 @@
+{
+  "subject": "AP Art History",
+  "year": "2019",
+  "set": null,
+  "question_key": "Visual and Contexual Analysis2",
+  "question_type": "Visual and Contexual Analysis",
+  "frq_pages_0based": [
+    4,
+    5
+  ],
+  "scoring_pages_0based": [
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "units": [
+    "Unit 4: Later Europe and Americas, 1750\u20131980 CE",
+    "Unit 3: Early Europe and Colonial Americas, 200\u20131750 CE"
+  ]
+}

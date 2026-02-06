@@ -1,0 +1,16 @@
+{
+  "subject": "AP Chemistry",
+  "year": "2017",
+  "question_number": 5,
+  "frq_pages_0based": [
+    10
+  ],
+  "scoring_pages_0based": [
+    11,
+    12
+  ],
+  "question_type": null,
+  "units": [
+    "Unit 6: Thermochemistry"
+  ]
+}

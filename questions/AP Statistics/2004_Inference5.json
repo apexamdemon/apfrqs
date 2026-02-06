@@ -1,0 +1,22 @@
+{
+  "subject": "AP Statistics",
+  "year": "2004",
+  "set": null,
+  "question_key": "Inference5",
+  "question_type": "Inference",
+  "frq_pages_0based": [
+    8,
+    9
+  ],
+  "scoring_pages_0based": [
+    16,
+    17,
+    18,
+    19
+  ],
+  "units": [
+    "Unit 3: Collecting Data",
+    "Unit 7: Inference for Quantitative Data: Means",
+    "Unit 8: Inference for Categorical Data: Chi-Square"
+  ]
+}

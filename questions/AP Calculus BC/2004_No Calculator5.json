@@ -1,0 +1,20 @@
+{
+  "subject": "AP Calculus BC",
+  "year": "2004",
+  "set": null,
+  "question_key": "No Calculator5",
+  "question_type": "No Calculator",
+  "frq_pages_0based": [
+    4,
+    5
+  ],
+  "scoring_pages_0based": [
+    5
+  ],
+  "units": [
+    "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+    "Unit 5: Analytical Applications of Differentiation",
+    "Unit 7: Differential Equations",
+    "Unit 10: Infinite Sequences and Series"
+  ]
+}

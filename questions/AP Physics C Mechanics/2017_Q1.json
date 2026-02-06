@@ -1,0 +1,17 @@
+{
+  "subject": "AP Physics C: Mechanics",
+  "year": "2017",
+  "question_number": 1,
+  "frq_pages_0based": [
+    4
+  ],
+  "scoring_pages_0based": [
+    2,
+    3,
+    4
+  ],
+  "question_type": "Translation between representations",
+  "units": [
+    "Unit 2: Force and Translational Dynamics"
+  ]
+}

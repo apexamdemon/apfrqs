@@ -1,0 +1,21 @@
+{
+  "subject": "AP Macroeconomics",
+  "year": "2008",
+  "set": null,
+  "question_key": "Q2",
+  "question_type": null,
+  "frq_pages_0based": [
+    1,
+    2
+  ],
+  "scoring_pages_0based": [
+    3
+  ],
+  "units": [
+    "Unit 1: Basic Economic Concepts",
+    "Unit 3: National Income and Price Determination",
+    "Unit 4: Financial Sector",
+    "Unit 5: Long-Run Consequences of Stabilization Policies",
+    "Unit 6: Open Economy International Trade and Finance"
+  ]
+}

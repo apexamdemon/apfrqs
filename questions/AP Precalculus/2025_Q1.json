@@ -1,0 +1,19 @@
+{
+  "subject": "AP Precalculus",
+  "year": "2025",
+  "set": null,
+  "question_key": "Q1",
+  "question_type": null,
+  "frq_pages_0based": [
+    2,
+    3
+  ],
+  "scoring_pages_0based": [
+    1,
+    2,
+    3
+  ],
+  "units": [
+    "Unit 1: Polynomial and Rational Functions"
+  ]
+}

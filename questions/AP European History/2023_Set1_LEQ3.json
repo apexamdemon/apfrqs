@@ -1,0 +1,27 @@
+{
+  "subject": "AP European History",
+  "year": "2023",
+  "set": 1,
+  "question_key": "LEQ3",
+  "question_type": "LEQ",
+  "frq_pages_0based": [
+    11
+  ],
+  "scoring_pages_0based": [
+    15,
+    19,
+    20,
+    21,
+    24,
+    25,
+    26,
+    27,
+    33,
+    35
+  ],
+  "units": [
+    "Unit 2: Age of Reformation",
+    "Unit 7: 19th-Century Perspectives and Political Developments",
+    "Unit 8: 20th-Century Global Conflicts"
+  ]
+}

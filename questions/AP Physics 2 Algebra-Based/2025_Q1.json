@@ -1,0 +1,19 @@
+{
+  "subject": "AP Physics 2",
+  "year": "2025",
+  "question_number": 1,
+  "frq_pages_0based": [
+    2,
+    3,
+    4,
+    6
+  ],
+  "scoring_pages_0based": [
+    1
+  ],
+  "question_type": "Translation between representations",
+  "units": [
+    "Unit 12: Magnetism and Electromagnetism",
+    "Unit 9: Thermodynamics"
+  ]
+}

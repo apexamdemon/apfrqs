@@ -1,0 +1,21 @@
+{
+  "subject": "AP Statistics",
+  "year": "2019",
+  "set": null,
+  "question_key": "Probability and Sampling Distributions5",
+  "question_type": "Probability and Sampling Distributions",
+  "frq_pages_0based": [
+    10,
+    11
+  ],
+  "scoring_pages_0based": [
+    23,
+    24,
+    25
+  ],
+  "units": [
+    "Unit 1: One-Variable Data",
+    "Unit 3: Collecting Data",
+    "Unit 5: Sampling Distributions"
+  ]
+}

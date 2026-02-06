@@ -1,0 +1,31 @@
+{
+  "subject": "AP Art History",
+  "year": "2018",
+  "set": null,
+  "question_key": "Comparison1",
+  "question_type": "Comparison",
+  "frq_pages_0based": [
+    2,
+    3,
+    4
+  ],
+  "scoring_pages_0based": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "units": [
+    "Unit 2: Ancient Mediterranean, 3500 BCE\u2013300 CE",
+    "Unit 10: Global Contemporary, 1980 CE to Present"
+  ]
+}

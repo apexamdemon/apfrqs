@@ -1,0 +1,24 @@
+{
+  "subject": "AP World History",
+  "year": "2017",
+  "set": null,
+  "question_key": "DBQ1",
+  "frq_pages_0based": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "scoring_pages_0based": [
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "question_type": "DBQ",
+  "units": []
+}

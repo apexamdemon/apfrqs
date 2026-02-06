@@ -1,0 +1,20 @@
+{
+  "subject": "AP Statistics",
+  "year": "1998",
+  "set": null,
+  "question_key": "Data Exploration4",
+  "question_type": "Data Exploration",
+  "frq_pages_0based": [
+    8,
+    9
+  ],
+  "scoring_pages_0based": [
+    6,
+    7
+  ],
+  "units": [
+    "Unit 2: Two-Variable Data",
+    "Unit 3: Collecting Data",
+    "Unit 6: Inference for Categorical Data: Proportions"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "subject": "AP Physics C: Mechanics",
+  "year": "2004",
+  "question_number": 1,
+  "frq_pages_0based": [
+    4
+  ],
+  "scoring_pages_0based": [
+    2,
+    3
+  ],
+  "question_type": "Mathematical routines",
+  "units": [
+    "Unit 2: Force and Translational Dynamics",
+    "Unit 3: Work, Energy, and Power",
+    "Unit 4: Linear Momentum"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "subject": "AP Environmental Science",
+  "year": "2009",
+  "question_number": 2,
+  "frq_pages_0based": [
+    2
+  ],
+  "scoring_pages_0based": [
+    6,
+    7,
+    8
+  ],
+  "question_type": "Quantitative environmental analysis",
+  "units": [
+    "Unit 6: Energy Resources and Consumption",
+    "Unit 9: Global Change",
+    "Unit 8: Aquatic and Terrestrial Pollution"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "subject": "AP European History",
+  "year": "2023",
+  "set": 2,
+  "question_key": "DBQ1",
+  "question_type": "DBQ",
+  "frq_pages_0based": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "scoring_pages_0based": [
+    9,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    20
+  ],
+  "units": [
+    "Unit 4: Scientific, Philosophical, and Political Developments",
+    "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century"
+  ]
+}

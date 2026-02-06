@@ -1,0 +1,19 @@
+{
+  "subject": "AP Statistics",
+  "year": "2018",
+  "set": null,
+  "question_key": "Inference6",
+  "question_type": "Inference",
+  "frq_pages_0based": [
+    10
+  ],
+  "scoring_pages_0based": [
+    24,
+    25,
+    26
+  ],
+  "units": [
+    "Unit 5: Sampling Distributions",
+    "Unit 7: Inference for Quantitative Data: Means"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "subject": "AP Environmental Science",
+  "year": "2022",
+  "question_number": 2,
+  "frq_pages_0based": [
+    3,
+    4
+  ],
+  "scoring_pages_0based": [
+    4,
+    7
+  ],
+  "question_type": "Environmental analysis",
+  "units": [
+    "Unit 4: Earth Systems and Resources",
+    "Unit 5: Land and Water Use",
+    "Unit 7: Atmospheric Pollution"
+  ]
+}

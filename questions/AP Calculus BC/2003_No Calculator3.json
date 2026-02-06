@@ -1,0 +1,21 @@
+{
+  "subject": "AP Calculus BC",
+  "year": "2003",
+  "set": null,
+  "question_key": "No Calculator3",
+  "question_type": "No Calculator",
+  "frq_pages_0based": [
+    3,
+    4
+  ],
+  "scoring_pages_0based": [
+    3
+  ],
+  "units": [
+    "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+    "Unit 5: Analytical Applications of Differentiation",
+    "Unit 6: Integration and Accumulation of Change",
+    "Unit 8: Applications of Integration",
+    "Unit 9: Parametric Equations, Polar Coordinates, and Vector-Valued Functions"
+  ]
+}

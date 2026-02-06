@@ -1,0 +1,23 @@
+{
+  "subject": "AP Psychology",
+  "year": "2025",
+  "set": 1,
+  "question_key": "EBQ2",
+  "question_type": "EBQ",
+  "frq_pages_0based": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "scoring_pages_0based": [
+    7,
+    8,
+    9
+  ],
+  "units": [
+    "Unit 4: Social Psychology and Personality"
+  ]
+}

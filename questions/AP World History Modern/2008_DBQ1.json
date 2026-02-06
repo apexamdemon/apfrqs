@@ -1,0 +1,25 @@
+{
+  "subject": "AP World History",
+  "year": "2008",
+  "set": null,
+  "question_key": "DBQ1",
+  "frq_pages_0based": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "scoring_pages_0based": [
+    1,
+    2
+  ],
+  "question_type": "DBQ",
+  "units": [
+    "Unit 6: Consequences of Industrialization",
+    "Unit 7: Global Conflict",
+    "Unit 8: Cold War and Decolonization",
+    "Unit 9: Globalization"
+  ]
+}

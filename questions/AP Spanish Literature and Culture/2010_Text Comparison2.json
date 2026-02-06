@@ -1,0 +1,20 @@
+{
+  "subject": "AP Spanish Literature and Culture",
+  "year": "2010",
+  "set": null,
+  "question_key": "Text Comparison2",
+  "question_type": "Text Comparison",
+  "frq_pages_0based": [
+    1,
+    2
+  ],
+  "scoring_pages_0based": [
+    4,
+    5
+  ],
+  "units": [
+    "Unit 5: La Generaci\u00f3n del 98 y el Modernismo",
+    "Unit 6: Teatro y poes\u00eda del siglo XX",
+    "Unit 7: El Boom latinoamericano"
+  ]
+}

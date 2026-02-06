@@ -1,0 +1,16 @@
+{
+  "subject": "AP Biology",
+  "year": "2001",
+  "question_number": 3,
+  "frq_pages_0based": [
+    2
+  ],
+  "scoring_pages_0based": [
+    4,
+    5
+  ],
+  "question_type": "Experimental analysis with graphing",
+  "units": [
+    "Unit 8: Ecology"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "subject": "AP Chemistry",
+  "year": "2017",
+  "question_number": 6,
+  "frq_pages_0based": [
+    11
+  ],
+  "scoring_pages_0based": [
+    13
+  ],
+  "question_type": null,
+  "units": [
+    "Unit 2: Compound Structure and Properties",
+    "Unit 7: Equilibrium"
+  ]
+}

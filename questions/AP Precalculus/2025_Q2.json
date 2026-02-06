@@ -1,0 +1,22 @@
+{
+  "subject": "AP Precalculus",
+  "year": "2025",
+  "set": null,
+  "question_key": "Q2",
+  "question_type": null,
+  "frq_pages_0based": [
+    3,
+    5
+  ],
+  "scoring_pages_0based": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "units": [
+    "Unit 1: Polynomial and Rational Functions",
+    "Unit 3: Trigonometric and Polar Functions"
+  ]
+}

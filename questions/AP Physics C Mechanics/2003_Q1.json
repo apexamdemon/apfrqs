@@ -1,0 +1,18 @@
+{
+  "subject": "AP Physics C: Mechanics",
+  "year": "2003",
+  "question_number": 1,
+  "frq_pages_0based": [
+    4
+  ],
+  "scoring_pages_0based": [
+    1,
+    2,
+    3
+  ],
+  "question_type": "Mathematical routines",
+  "units": [
+    "Unit 1: Kinematics",
+    "Unit 3: Work, Energy, and Power"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "subject": "AP Physics 2",
+  "year": "2021",
+  "question_number": 3,
+  "frq_pages_0based": [
+    9,
+    10,
+    11
+  ],
+  "scoring_pages_0based": [
+    5
+  ],
+  "question_type": "Qualitative/quantitative translation",
+  "units": [
+    "Unit 12: Magnetism and Electromagnetism",
+    "Unit 11: Electric Circuits"
+  ]
+}

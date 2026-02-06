@@ -1,0 +1,16 @@
+{
+  "subject": "AP Physics C: Mechanics",
+  "year": "2006",
+  "question_number": 2,
+  "frq_pages_0based": [
+    5
+  ],
+  "scoring_pages_0based": [
+    6,
+    7
+  ],
+  "question_type": "Translation between representations",
+  "units": [
+    "Unit 3: Work, Energy, and Power"
+  ]
+}

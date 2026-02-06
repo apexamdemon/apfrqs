@@ -1,0 +1,19 @@
+{
+  "subject": "AP Microeconomics",
+  "year": "1999",
+  "set": null,
+  "question_key": "Q3",
+  "question_type": null,
+  "frq_pages_0based": [
+    2
+  ],
+  "scoring_pages_0based": [
+    6,
+    7
+  ],
+  "units": [
+    "Unit 1: Basic Economic Concepts",
+    "Unit 3: Production, Cost, and the Perfect Competition Model",
+    "Unit 4: Imperfect Competition"
+  ]
+}

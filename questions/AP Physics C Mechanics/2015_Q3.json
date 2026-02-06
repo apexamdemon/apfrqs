@@ -1,0 +1,18 @@
+{
+  "subject": "AP Physics C: Mechanics",
+  "year": "2015",
+  "question_number": 3,
+  "frq_pages_0based": [
+    7,
+    8
+  ],
+  "scoring_pages_0based": [
+    7,
+    8,
+    9
+  ],
+  "question_type": "Translation between representations",
+  "units": [
+    "Unit 5: Torque and Rotational Dynamics"
+  ]
+}

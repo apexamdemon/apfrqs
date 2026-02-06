@@ -1,0 +1,18 @@
+{
+  "subject": "AP Physics C: Mechanics",
+  "year": "2025",
+  "question_number": 3,
+  "frq_pages_0based": [
+    8,
+    9,
+    10
+  ],
+  "scoring_pages_0based": [
+    6
+  ],
+  "question_type": "Experimental design",
+  "units": [
+    "Unit 1: Kinematics",
+    "Unit 2: Force and Translational Dynamics"
+  ]
+}

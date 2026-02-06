@@ -1,0 +1,20 @@
+{
+  "subject": "AP English Language and Composition",
+  "year": "2006",
+  "set": null,
+  "question_key": "Rhetorical Analysis1",
+  "question_type": "Rhetorical Analysis",
+  "frq_pages_0based": [
+    1,
+    2
+  ],
+  "scoring_pages_0based": [
+    1,
+    2
+  ],
+  "units": [
+    "Unit 4: Methods of Argument Development",
+    "Unit 5: Precision and Rhetorical Choices",
+    "Unit 8: Style and Rhetorical Effect"
+  ]
+}

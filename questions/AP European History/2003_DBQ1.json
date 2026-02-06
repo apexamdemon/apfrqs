@@ -1,0 +1,21 @@
+{
+  "subject": "AP European History",
+  "year": "2003",
+  "set": null,
+  "question_key": "DBQ1",
+  "question_type": "DBQ",
+  "frq_pages_0based": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    7
+  ],
+  "scoring_pages_0based": [
+    1
+  ],
+  "units": [
+    "Unit 8: 20th-Century Global Conflicts"
+  ]
+}

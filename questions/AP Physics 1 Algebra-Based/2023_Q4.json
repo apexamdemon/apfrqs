@@ -1,0 +1,18 @@
+{
+  "subject": "AP Physics 1",
+  "year": "2023",
+  "question_number": 4,
+  "frq_pages_0based": [
+    12,
+    13
+  ],
+  "scoring_pages_0based": [
+    14,
+    15
+  ],
+  "question_type": "Qualitative/quantitative translation",
+  "units": [
+    "Unit 5: Torque and Rotational Dynamics",
+    "Unit 6: Energy and Momentum of Rotating Systems"
+  ]
+}

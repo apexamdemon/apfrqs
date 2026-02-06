@@ -1,0 +1,21 @@
+{
+  "subject": "AP Statistics",
+  "year": "2024",
+  "set": null,
+  "question_key": "Probability and Sampling Distributions5",
+  "question_type": "Probability and Sampling Distributions",
+  "frq_pages_0based": [
+    10,
+    11,
+    12
+  ],
+  "scoring_pages_0based": [
+    22,
+    23
+  ],
+  "units": [
+    "Unit 4: Probability, Random Variables, and Probability Distributions",
+    "Unit 8: Inference for Categorical Data: Chi-Square",
+    "Unit 7: Inference for Quantitative Data: Means"
+  ]
+}

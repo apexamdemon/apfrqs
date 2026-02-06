@@ -1,0 +1,17 @@
+{
+  "subject": "AP Biology",
+  "year": "2019",
+  "question_number": 6,
+  "frq_pages_0based": [
+    10,
+    11
+  ],
+  "scoring_pages_0based": [
+    9
+  ],
+  "question_type": "Experimental analysis",
+  "units": [
+    "Unit 2: Cells",
+    "Unit 5: Heredity"
+  ]
+}

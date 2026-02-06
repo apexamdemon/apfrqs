@@ -1,0 +1,25 @@
+{
+  "subject": "AP World History",
+  "year": "2024",
+  "set": 2,
+  "question_key": "LEQ4",
+  "frq_pages_0based": [
+    11
+  ],
+  "scoring_pages_0based": [
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "question_type": "LEQ",
+  "units": [
+    "Unit 1: The Global Tapestry",
+    "Unit 3: Land-Based Empires",
+    "Unit 5: Revolutions",
+    "Unit 9: Globalization"
+  ]
+}

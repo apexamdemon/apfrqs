@@ -1,0 +1,25 @@
+{
+  "subject": "AP Art History",
+  "year": "2024",
+  "set": null,
+  "question_key": "Comparison1",
+  "question_type": "Comparison",
+  "frq_pages_0based": [
+    2,
+    4
+  ],
+  "scoring_pages_0based": [
+    1,
+    2,
+    3,
+    5,
+    11
+  ],
+  "units": [
+    "Unit 2: Ancient Mediterranean, 3500 BCE\u2013300 CE",
+    "Unit 3: Early Europe and Colonial Americas, 200\u20131750 CE",
+    "Unit 4: Later Europe and Americas, 1750\u20131980 CE",
+    "Unit 5: Indigenous Americas, 1000 BCE\u20131980 CE",
+    "Unit 10: Global Contemporary, 1980 CE to Present"
+  ]
+}

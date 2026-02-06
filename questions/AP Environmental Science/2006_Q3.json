@@ -1,0 +1,19 @@
+{
+  "subject": "AP Environmental Science",
+  "year": "2006",
+  "question_number": 3,
+  "frq_pages_0based": [
+    3
+  ],
+  "scoring_pages_0based": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "question_type": "Environmental analysis",
+  "units": [
+    "Unit 5: Land and Water Use",
+    "Unit 8: Aquatic and Terrestrial Pollution"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "subject": "AP Physics 1",
+  "year": "2019",
+  "question_number": 3,
+  "frq_pages_0based": [
+    7,
+    8
+  ],
+  "scoring_pages_0based": [
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "question_type": "Experimental design",
+  "units": [
+    "Unit 3: Work, Energy, and Power",
+    "Unit 1: Kinematics"
+  ]
+}

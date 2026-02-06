@@ -1,0 +1,22 @@
+{
+  "subject": "AP European History",
+  "year": "2024",
+  "set": 2,
+  "question_key": "LEQ3",
+  "question_type": "LEQ",
+  "frq_pages_0based": [
+    11
+  ],
+  "scoring_pages_0based": [
+    18,
+    20,
+    21,
+    24,
+    25
+  ],
+  "units": [
+    "Unit 1: Renaissance and Exploration",
+    "Unit 3: Absolutism and Constitutionalism",
+    "Unit 7: 19th-Century Perspectives and Political Developments"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "subject": "AP Biology",
+  "year": "2000",
+  "question_number": 1,
+  "frq_pages_0based": [
+    1
+  ],
+  "scoring_pages_0based": [
+    1,
+    3,
+    14
+  ],
+  "question_type": "Experimental analysis with graphing",
+  "units": [
+    "Unit 3: Cellular Energetics",
+    "Unit 4: Cell Communication and Cell Cycle"
+  ]
+}

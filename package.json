@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build:indexes": "node scripts/build-course-indexes.js"
+    "build:indexes": "node scripts/build-course-indexes.js",
+    "build:question:indexes": "node scripts/build-course-indexes.js && node scripts/build-question-indexes.js"
   }
 }

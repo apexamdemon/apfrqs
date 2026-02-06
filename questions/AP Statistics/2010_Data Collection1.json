@@ -1,0 +1,21 @@
+{
+  "subject": "AP Statistics",
+  "year": "2010",
+  "set": null,
+  "question_key": "Data Collection1",
+  "question_type": "Data Collection",
+  "frq_pages_0based": [
+    5,
+    6,
+    7
+  ],
+  "scoring_pages_0based": [
+    1
+  ],
+  "units": [
+    "Unit 2: Two-Variable Data",
+    "Unit 3: Collecting Data",
+    "Unit 5: Sampling Distributions",
+    "Unit 6: Inference for Categorical Data: Proportions"
+  ]
+}

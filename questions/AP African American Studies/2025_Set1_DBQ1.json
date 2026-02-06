@@ -1,0 +1,24 @@
+{
+  "subject": "AP African American Studies",
+  "year": "2025",
+  "set": 1,
+  "question_key": "DBQ1",
+  "question_type": "DBQ",
+  "frq_pages_0based": [
+    2,
+    4
+  ],
+  "scoring_pages_0based": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "units": [
+    "Unit 2: Freedom, Enslavement, and Resistance (16th century\u20131865)",
+    "Unit 4: Movements and Debates (1940s\u20132000s)"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "subject": "AP Macroeconomics",
+  "year": "2002",
+  "set": null,
+  "question_key": "Q3",
+  "question_type": null,
+  "frq_pages_0based": [
+    2
+  ],
+  "scoring_pages_0based": [
+    6,
+    7
+  ],
+  "units": [
+    "Unit 3: National Income and Price Determination",
+    "Unit 5: Long-Run Consequences of Stabilization Policies",
+    "Unit 6: Open Economy International Trade and Finance"
+  ]
+}

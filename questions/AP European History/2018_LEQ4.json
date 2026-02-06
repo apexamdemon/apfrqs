@@ -1,0 +1,32 @@
+{
+  "subject": "AP European History",
+  "year": "2018",
+  "set": null,
+  "question_key": "LEQ4",
+  "question_type": "LEQ",
+  "frq_pages_0based": [
+    10
+  ],
+  "scoring_pages_0based": [
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55
+  ],
+  "units": [
+    "Unit 1: Renaissance and Exploration",
+    "Unit 3: Absolutism and Constitutionalism",
+    "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+    "Unit 7: 19th-Century Perspectives and Political Developments",
+    "Unit 8: 20th-Century Global Conflicts",
+    "Unit 9: Cold War and Contemporary Europe"
+  ]
+}

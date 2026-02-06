@@ -1,0 +1,24 @@
+{
+  "subject": "AP European History",
+  "year": "2006",
+  "set": null,
+  "question_key": "LEQ4",
+  "question_type": "LEQ",
+  "frq_pages_0based": [
+    7,
+    8
+  ],
+  "scoring_pages_0based": [
+    17,
+    18,
+    19
+  ],
+  "units": [
+    "Unit 1: Renaissance and Exploration",
+    "Unit 2: Age of Reformation",
+    "Unit 3: Absolutism and Constitutionalism",
+    "Unit 7: 19th-Century Perspectives and Political Developments",
+    "Unit 8: 20th-Century Global Conflicts",
+    "Unit 9: Cold War and Contemporary Europe"
+  ]
+}

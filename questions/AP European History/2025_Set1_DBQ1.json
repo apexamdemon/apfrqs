@@ -1,0 +1,32 @@
+{
+  "subject": "AP European History",
+  "year": "2025",
+  "set": 1,
+  "question_key": "DBQ1",
+  "question_type": "DBQ",
+  "frq_pages_0based": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "scoring_pages_0based": [
+    9,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    20,
+    33,
+    34,
+    35,
+    36
+  ],
+  "units": [
+    "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century"
+  ]
+}

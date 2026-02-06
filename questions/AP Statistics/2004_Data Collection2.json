@@ -1,0 +1,19 @@
+{
+  "subject": "AP Statistics",
+  "year": "2004",
+  "set": null,
+  "question_key": "Data Collection2",
+  "question_type": "Data Collection",
+  "frq_pages_0based": [
+    6,
+    7
+  ],
+  "scoring_pages_0based": [
+    5,
+    6
+  ],
+  "units": [
+    "Unit 3: Collecting Data",
+    "Unit 4: Probability, Random Variables, and Probability Distributions"
+  ]
+}

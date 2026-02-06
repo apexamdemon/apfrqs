@@ -1,0 +1,20 @@
+{
+  "subject": "AP Calculus AB",
+  "year": "2025",
+  "set": null,
+  "question_key": "No Calculator6",
+  "question_type": "No Calculator",
+  "frq_pages_0based": [
+    8
+  ],
+  "scoring_pages_0based": [
+    23,
+    24,
+    25,
+    26
+  ],
+  "units": [
+    "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+    "Unit 4: Contextual Applications of Differentiation"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "subject": "AP World History",
+  "year": "2011",
+  "set": null,
+  "question_key": "LEQ3",
+  "frq_pages_0based": [
+    9
+  ],
+  "scoring_pages_0based": [
+    6,
+    7
+  ],
+  "question_type": "LEQ",
+  "units": [
+    "Unit 1: The Global Tapestry"
+  ]
+}

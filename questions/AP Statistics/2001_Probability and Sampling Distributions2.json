@@ -1,0 +1,18 @@
+{
+  "subject": "AP Statistics",
+  "year": "2001",
+  "set": null,
+  "question_key": "Probability and Sampling Distributions2",
+  "question_type": "Probability and Sampling Distributions",
+  "frq_pages_0based": [
+    6
+  ],
+  "scoring_pages_0based": [
+    3,
+    4,
+    5
+  ],
+  "units": [
+    "Unit 4: Probability, Random Variables, and Probability Distributions"
+  ]
+}

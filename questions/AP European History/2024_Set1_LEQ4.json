@@ -1,0 +1,21 @@
+{
+  "subject": "AP European History",
+  "year": "2024",
+  "set": 1,
+  "question_key": "LEQ4",
+  "question_type": "LEQ",
+  "frq_pages_0based": [
+    3,
+    5,
+    11
+  ],
+  "scoring_pages_0based": [
+    31
+  ],
+  "units": [
+    "Unit 1: Renaissance and Exploration",
+    "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+    "Unit 8: 20th-Century Global Conflicts",
+    "Unit 9: Cold War and Contemporary Europe"
+  ]
+}

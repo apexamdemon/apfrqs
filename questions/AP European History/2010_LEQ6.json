@@ -1,0 +1,18 @@
+{
+  "subject": "AP European History",
+  "year": "2010",
+  "set": null,
+  "question_key": "LEQ6",
+  "question_type": "LEQ",
+  "frq_pages_0based": [
+    9
+  ],
+  "scoring_pages_0based": [
+    10
+  ],
+  "units": [
+    "Unit 4: Scientific, Philosophical, and Political Developments",
+    "Unit 7: 19th-Century Perspectives and Political Developments",
+    "Unit 9: Cold War and Contemporary Europe"
+  ]
+}

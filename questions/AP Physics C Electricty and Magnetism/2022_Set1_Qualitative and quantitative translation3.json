@@ -1,0 +1,21 @@
+{
+  "subject": "AP Physics C: Electricity and Magnetism",
+  "year": "2022",
+  "set": 1,
+  "question_key": "Qualitative and quantitative translation3",
+  "question_type": "Qualitative and quantitative translation",
+  "frq_pages_0based": [
+    10,
+    11,
+    12
+  ],
+  "scoring_pages_0based": [
+    9,
+    11
+  ],
+  "units": [
+    "Unit 11: Electric Circuits",
+    "Unit 12: Magnetic Fields and Electromagnetism",
+    "Unit 13: Electromagnetic Induction"
+  ]
+}

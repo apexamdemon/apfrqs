@@ -1,0 +1,20 @@
+{
+  "subject": "AP Macroeconomics",
+  "year": "2025",
+  "set": 1,
+  "question_key": "Q1",
+  "question_type": null,
+  "frq_pages_0based": [
+    2,
+    3
+  ],
+  "scoring_pages_0based": [
+    1
+  ],
+  "units": [
+    "Unit 3: National Income and Price Determination",
+    "Unit 4: Financial Sector",
+    "Unit 5: Long-Run Consequences of Stabilization Policies",
+    "Unit 6: Open Economy International Trade and Finance"
+  ]
+}

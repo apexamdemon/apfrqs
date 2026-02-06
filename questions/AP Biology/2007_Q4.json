@@ -1,0 +1,16 @@
+{
+  "subject": "AP Biology",
+  "year": "2007",
+  "question_number": 4,
+  "frq_pages_0based": [
+    3
+  ],
+  "scoring_pages_0based": [
+    8,
+    9
+  ],
+  "question_type": "Scientific investigation",
+  "units": [
+    "Unit 6: Gene Expression and Regulation"
+  ]
+}

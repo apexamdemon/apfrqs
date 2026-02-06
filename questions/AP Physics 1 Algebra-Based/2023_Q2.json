@@ -1,0 +1,19 @@
+{
+  "subject": "AP Physics 1",
+  "year": "2023",
+  "question_number": 2,
+  "frq_pages_0based": [
+    6,
+    7,
+    8
+  ],
+  "scoring_pages_0based": [
+    3,
+    9
+  ],
+  "question_type": "Experimental design",
+  "units": [
+    "Unit 1: Kinematics",
+    "Unit 2: Force and Translational Dynamics"
+  ]
+}

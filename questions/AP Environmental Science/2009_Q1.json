@@ -1,0 +1,20 @@
+{
+  "subject": "AP Environmental Science",
+  "year": "2009",
+  "question_number": 1,
+  "frq_pages_0based": [
+    1
+  ],
+  "scoring_pages_0based": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "question_type": "Environmental analysis",
+  "units": [
+    "Unit 7: Atmospheric Pollution",
+    "Unit 1: The Living World: Ecosystems"
+  ]
+}

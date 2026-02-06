@@ -1,0 +1,21 @@
+{
+  "subject": "AP Calculus BC",
+  "year": "2005",
+  "set": null,
+  "question_key": "Calculator2",
+  "question_type": "Calculator",
+  "frq_pages_0based": [
+    2,
+    3
+  ],
+  "scoring_pages_0based": [
+    2
+  ],
+  "units": [
+    "Unit 2: Differentiation: Definition and Fundamental Properties",
+    "Unit 5: Analytical Applications of Differentiation",
+    "Unit 6: Integration and Accumulation of Change",
+    "Unit 8: Applications of Integration",
+    "Unit 9: Parametric Equations, Polar Coordinates, and Vector-Valued Functions"
+  ]
+}

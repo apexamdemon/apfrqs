@@ -1,0 +1,18 @@
+{
+  "subject": "AP Physics 2",
+  "year": "2018",
+  "question_number": 1,
+  "frq_pages_0based": [
+    4,
+    5
+  ],
+  "scoring_pages_0based": [
+    2,
+    3,
+    4
+  ],
+  "question_type": "Qualitative/quantitative translation",
+  "units": [
+    "Unit 12: Magnetism and Electromagnetism"
+  ]
+}

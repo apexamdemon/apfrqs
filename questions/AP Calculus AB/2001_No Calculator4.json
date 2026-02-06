@@ -1,0 +1,19 @@
+{
+  "subject": "AP Calculus AB",
+  "year": "2001",
+  "set": null,
+  "question_key": "No Calculator4",
+  "question_type": "No Calculator",
+  "frq_pages_0based": [
+    4
+  ],
+  "scoring_pages_0based": [
+    4
+  ],
+  "units": [
+    "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+    "Unit 5: Analytical Applications of Differentiation",
+    "Unit 6: Integration and Accumulation of Change",
+    "Unit 7: Differential Equations"
+  ]
+}

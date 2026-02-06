@@ -1,0 +1,22 @@
+{
+  "subject": "AP Psychology",
+  "year": "2025",
+  "set": 2,
+  "question_key": "AAQ2",
+  "question_type": "AAQ",
+  "frq_pages_0based": [
+    4,
+    5
+  ],
+  "scoring_pages_0based": [
+    2,
+    3,
+    4,
+    6,
+    7,
+    10
+  ],
+  "units": [
+    "Unit 4: Social Psychology and Personality"
+  ]
+}

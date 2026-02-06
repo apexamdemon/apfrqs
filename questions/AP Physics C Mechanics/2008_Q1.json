@@ -1,0 +1,18 @@
+{
+  "subject": "AP Physics C: Mechanics",
+  "year": "2008",
+  "question_number": 1,
+  "frq_pages_0based": [
+    4,
+    5
+  ],
+  "scoring_pages_0based": [
+    2,
+    3,
+    4
+  ],
+  "question_type": "Mathematical routines",
+  "units": [
+    "Unit 2: Force and Translational Dynamics"
+  ]
+}

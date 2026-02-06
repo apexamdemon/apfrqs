@@ -1,0 +1,19 @@
+{
+  "subject": "AP Statistics",
+  "year": "2016",
+  "set": null,
+  "question_key": "Probability and Sampling Distributions4",
+  "question_type": "Probability and Sampling Distributions",
+  "frq_pages_0based": [
+    8,
+    9
+  ],
+  "scoring_pages_0based": [
+    10,
+    11
+  ],
+  "units": [
+    "Unit 4: Probability, Random Variables, and Probability Distributions",
+    "Unit 6: Inference for Categorical Data: Proportions"
+  ]
+}

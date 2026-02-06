@@ -1,0 +1,21 @@
+{
+  "subject": "AP Environmental Science",
+  "year": "2010",
+  "question_number": 1,
+  "frq_pages_0based": [
+    1,
+    2
+  ],
+  "scoring_pages_0based": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "question_type": "Environmental analysis",
+  "units": [
+    "Unit 7: Atmospheric Pollution",
+    "Unit 9: Global Change"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "subject": "AP Physics C: Mechanics",
+  "year": "2017",
+  "question_number": 3,
+  "frq_pages_0based": [
+    9
+  ],
+  "scoring_pages_0based": [
+    8,
+    9,
+    10
+  ],
+  "question_type": "Mathematical routines",
+  "units": [
+    "Unit 3: Work, Energy, and Power",
+    "Unit 5: Torque and Rotational Dynamics"
+  ]
+}

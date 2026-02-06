@@ -1,0 +1,17 @@
+{
+  "subject": "AP Physics C: Mechanics",
+  "year": "2005",
+  "question_number": 3,
+  "frq_pages_0based": [
+    6
+  ],
+  "scoring_pages_0based": [
+    7,
+    8
+  ],
+  "question_type": "Mathematical routines",
+  "units": [
+    "Unit 4: Linear Momentum",
+    "Unit 5: Torque and Rotational Dynamics"
+  ]
+}

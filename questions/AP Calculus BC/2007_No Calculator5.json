@@ -1,0 +1,21 @@
+{
+  "subject": "AP Calculus BC",
+  "year": "2007",
+  "set": null,
+  "question_key": "No Calculator5",
+  "question_type": "No Calculator",
+  "frq_pages_0based": [
+    4,
+    5
+  ],
+  "scoring_pages_0based": [
+    5
+  ],
+  "units": [
+    "Unit 2: Differentiation: Definition and Fundamental Properties",
+    "Unit 4: Contextual Applications of Differentiation",
+    "Unit 5: Analytical Applications of Differentiation",
+    "Unit 6: Integration and Accumulation of Change",
+    "Unit 10: Infinite Sequences and Series"
+  ]
+}

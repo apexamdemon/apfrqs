@@ -1,0 +1,20 @@
+{
+  "subject": "AP World History",
+  "year": "2025",
+  "set": 1,
+  "question_key": "LEQ2",
+  "frq_pages_0based": [
+    12
+  ],
+  "scoring_pages_0based": [
+    20,
+    21
+  ],
+  "question_type": "LEQ",
+  "units": [
+    "Unit 1: The Global Tapestry",
+    "Unit 4: Transoceanic Interconnections",
+    "Unit 7: Global Conflict",
+    "Unit 8: Cold War and Decolonization"
+  ]
+}

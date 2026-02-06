@@ -1,0 +1,14 @@
+{
+  "subject": "AP Physics 1",
+  "year": "2025",
+  "question_number": 6,
+  "frq_pages_0based": [
+    11
+  ],
+  "scoring_pages_0based": [],
+  "question_type": "Qualitative/quantitative translation",
+  "units": [
+    "Unit 2: Force and Translational Dynamics",
+    "Unit 8: Fluids"
+  ]
+}

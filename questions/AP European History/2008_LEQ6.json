@@ -1,0 +1,22 @@
+{
+  "subject": "AP European History",
+  "year": "2008",
+  "set": null,
+  "question_key": "LEQ6",
+  "question_type": "LEQ",
+  "frq_pages_0based": [
+    8
+  ],
+  "scoring_pages_0based": [
+    25,
+    26,
+    27,
+    30,
+    31
+  ],
+  "units": [
+    "Unit 4: Scientific, Philosophical, and Political Developments",
+    "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+    "Unit 7: 19th-Century Perspectives and Political Developments"
+  ]
+}

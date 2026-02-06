@@ -1,0 +1,18 @@
+{
+  "subject": "AP Environmental Science",
+  "year": "2016",
+  "question_number": 3,
+  "frq_pages_0based": [
+    2,
+    4
+  ],
+  "scoring_pages_0based": [
+    6,
+    7
+  ],
+  "question_type": "Environmental analysis",
+  "units": [
+    "Unit 3: Populations",
+    "Unit 5: Land and Water Use"
+  ]
+}

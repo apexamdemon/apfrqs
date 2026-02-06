@@ -1,0 +1,20 @@
+{
+  "subject": "AP Spanish Literature and Culture",
+  "year": "2025",
+  "set": null,
+  "question_key": "Text Explanation1",
+  "question_type": "Text Explanation",
+  "frq_pages_0based": [
+    1,
+    2
+  ],
+  "scoring_pages_0based": [
+    1,
+    2,
+    3,
+    13
+  ],
+  "units": [
+    "Unit 6: Teatro y poes\u00eda del siglo XX"
+  ]
+}

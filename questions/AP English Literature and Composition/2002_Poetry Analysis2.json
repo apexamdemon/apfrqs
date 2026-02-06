@@ -1,0 +1,23 @@
+{
+  "subject": "AP English Literature and Composition",
+  "year": "2002",
+  "set": null,
+  "question_key": "Poetry Analysis2",
+  "question_type": "Poetry Analysis",
+  "frq_pages_0based": [
+    3,
+    4,
+    5
+  ],
+  "scoring_pages_0based": [
+    3,
+    4
+  ],
+  "units": [
+    "Unit 1: Claims and Evidence",
+    "Unit 5: Precision and Rhetorical Choices",
+    "Unit 6: Position, Perspective, and Bias",
+    "Unit 7: Complexity of Arguments",
+    "Unit 8: Style and Rhetorical Effect"
+  ]
+}

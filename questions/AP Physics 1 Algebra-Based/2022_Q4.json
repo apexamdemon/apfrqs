@@ -1,0 +1,17 @@
+{
+  "subject": "AP Physics 1",
+  "year": "2022",
+  "question_number": 4,
+  "frq_pages_0based": [
+    12,
+    13
+  ],
+  "scoring_pages_0based": [
+    8
+  ],
+  "question_type": "Translation between representations",
+  "units": [
+    "Unit 4: Linear Momentum",
+    "Unit 1: Kinematics"
+  ]
+}

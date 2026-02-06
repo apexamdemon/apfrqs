@@ -1,0 +1,16 @@
+{
+  "subject": "AP Chemistry",
+  "year": "2022",
+  "question_number": 5,
+  "frq_pages_0based": [
+    16,
+    17
+  ],
+  "scoring_pages_0based": [
+    8
+  ],
+  "question_type": null,
+  "units": [
+    "Unit 5: Kinetics"
+  ]
+}

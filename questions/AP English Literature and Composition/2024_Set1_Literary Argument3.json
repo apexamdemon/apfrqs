@@ -1,0 +1,21 @@
+{
+  "subject": "AP English Literature and Composition",
+  "year": "2024",
+  "set": 1,
+  "question_key": "Literary Argument3",
+  "question_type": "Literary Argument",
+  "frq_pages_0based": [
+    5
+  ],
+  "scoring_pages_0based": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "units": [
+    "Unit 1: Claims and Evidence",
+    "Unit 4: Methods of Argument Development",
+    "Unit 8: Style and Rhetorical Effect"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "subject": "AP World History",
+  "year": "2024",
+  "set": 1,
+  "question_key": "SAQ2",
+  "frq_pages_0based": [
+    2,
+    3
+  ],
+  "scoring_pages_0based": [
+    3,
+    4
+  ],
+  "question_type": "SAQ",
+  "units": [
+    "Unit 7: Global Conflict"
+  ]
+}

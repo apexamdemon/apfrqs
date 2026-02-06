@@ -1,0 +1,18 @@
+{
+  "subject": "AP Environmental Science",
+  "year": "2016",
+  "question_number": 4,
+  "frq_pages_0based": [
+    5
+  ],
+  "scoring_pages_0based": [
+    8,
+    9
+  ],
+  "question_type": "Environmental analysis",
+  "units": [
+    "Unit 1: The Living World: Ecosystems",
+    "Unit 5: Land and Water Use",
+    "Unit 9: Global Change"
+  ]
+}

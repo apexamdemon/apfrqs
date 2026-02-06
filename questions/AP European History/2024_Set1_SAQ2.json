@@ -1,0 +1,21 @@
+{
+  "subject": "AP European History",
+  "year": "2024",
+  "set": 1,
+  "question_key": "SAQ2",
+  "question_type": "SAQ",
+  "frq_pages_0based": [
+    2,
+    3
+  ],
+  "scoring_pages_0based": [
+    3,
+    4
+  ],
+  "units": [
+    "Unit 1: Renaissance and Exploration",
+    "Unit 7: 19th-Century Perspectives and Political Developments",
+    "Unit 8: 20th-Century Global Conflicts",
+    "Unit 9: Cold War and Contemporary Europe"
+  ]
+}

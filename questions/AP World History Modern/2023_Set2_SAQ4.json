@@ -1,0 +1,21 @@
+{
+  "subject": "AP World History",
+  "year": "2023",
+  "set": 2,
+  "question_key": "SAQ4",
+  "frq_pages_0based": [
+    3,
+    5
+  ],
+  "scoring_pages_0based": [
+    6,
+    7
+  ],
+  "question_type": "SAQ",
+  "units": [
+    "Unit 4: Transoceanic Interconnections",
+    "Unit 6: Consequences of Industrialization",
+    "Unit 7: Global Conflict",
+    "Unit 8: Cold War and Decolonization"
+  ]
+}

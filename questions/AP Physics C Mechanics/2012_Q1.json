@@ -1,0 +1,20 @@
+{
+  "subject": "AP Physics C: Mechanics",
+  "year": "2012",
+  "question_number": 1,
+  "frq_pages_0based": [
+    4,
+    5
+  ],
+  "scoring_pages_0based": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "question_type": "Translation between representations",
+  "units": [
+    "Unit 1: Kinematics",
+    "Unit 7: Oscillations"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "subject": "AP Art History",
+  "year": "2019",
+  "set": null,
+  "question_key": "Comparison1",
+  "question_type": "Comparison",
+  "frq_pages_0based": [
+    2,
+    3,
+    4
+  ],
+  "scoring_pages_0based": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "units": [
+    "Unit 2: Ancient Mediterranean, 3500 BCE\u2013300 CE",
+    "Unit 4: Later Europe and Americas, 1750\u20131980 CE",
+    "Unit 6: Africa, 1100\u20131980 CE",
+    "Unit 8: South, East, and Southeast Asia, 300 BCE\u20131980 CE"
+  ]
+}

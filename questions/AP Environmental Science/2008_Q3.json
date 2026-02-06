@@ -1,0 +1,21 @@
+{
+  "subject": "AP Environmental Science",
+  "year": "2008",
+  "question_number": 3,
+  "frq_pages_0based": [
+    2,
+    4
+  ],
+  "scoring_pages_0based": [
+    10,
+    11,
+    12,
+    13
+  ],
+  "question_type": "Quantitative environmental analysis",
+  "units": [
+    "Unit 6: Energy Resources and Consumption",
+    "Unit 5: Land and Water Use",
+    "Unit 9: Global Change"
+  ]
+}

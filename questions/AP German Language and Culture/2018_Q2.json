@@ -1,0 +1,22 @@
+{
+  "subject": "AP German Language and Culture",
+  "year": "2018",
+  "set": null,
+  "question_key": "Q2",
+  "question_type": null,
+  "frq_pages_0based": [
+    3,
+    4,
+    6,
+    9
+  ],
+  "scoring_pages_0based": [
+    3,
+    4
+  ],
+  "units": [
+    "Unit 2: The Influence of Language and Culture on Identity",
+    "Unit 5: Factors That Impact the Quality of Life",
+    "Unit 6: Environmental, Political, and Societal Challenges"
+  ]
+}

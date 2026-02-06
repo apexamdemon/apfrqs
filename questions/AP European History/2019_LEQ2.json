@@ -1,0 +1,26 @@
+{
+  "subject": "AP European History",
+  "year": "2019",
+  "set": null,
+  "question_key": "LEQ2",
+  "question_type": "LEQ",
+  "frq_pages_0based": [
+    9
+  ],
+  "scoring_pages_0based": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "units": [
+    "Unit 3: Absolutism and Constitutionalism",
+    "Unit 6: Industrialization and Its Effects",
+    "Unit 8: 20th-Century Global Conflicts"
+  ]
+}

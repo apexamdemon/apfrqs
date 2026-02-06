@@ -1,0 +1,20 @@
+{
+  "subject": "AP Spanish Literature and Culture",
+  "year": "2017",
+  "set": null,
+  "question_key": "Text and Art Comparison2",
+  "question_type": "Text and Art Comparison",
+  "frq_pages_0based": [
+    3,
+    4,
+    5
+  ],
+  "scoring_pages_0based": [
+    3
+  ],
+  "units": [
+    "Unit 1: La \u00e9poca medieval",
+    "Unit 4: La literatura rom\u00e1ntica, realista y naturalista",
+    "Unit 8: Escritores contempor\u00e1neos de Estados Unidos, y Espa\u00f1a"
+  ]
+}

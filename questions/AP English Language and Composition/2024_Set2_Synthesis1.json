@@ -1,0 +1,30 @@
+{
+  "subject": "AP English Language and Composition",
+  "year": "2024",
+  "set": 2,
+  "question_key": "Synthesis1",
+  "question_type": "Synthesis",
+  "frq_pages_0based": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "scoring_pages_0based": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "units": [
+    "Unit 1: Claims and Evidence",
+    "Unit 4: Methods of Argument Development",
+    "Unit 9: Synthesis of Multiple Perspectives"
+  ]
+}

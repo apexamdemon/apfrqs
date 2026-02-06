@@ -1,0 +1,20 @@
+{
+  "subject": "AP Environmental Science",
+  "year": "2012",
+  "question_number": 2,
+  "frq_pages_0based": [
+    2
+  ],
+  "scoring_pages_0based": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "question_type": "Quantitative environmental analysis",
+  "units": [
+    "Unit 1: The Living World: Ecosystems",
+    "Unit 5: Land and Water Use"
+  ]
+}

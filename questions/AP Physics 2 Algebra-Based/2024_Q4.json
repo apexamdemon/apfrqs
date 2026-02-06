@@ -1,0 +1,19 @@
+{
+  "subject": "AP Physics 2",
+  "year": "2024",
+  "question_number": 4,
+  "frq_pages_0based": [
+    13,
+    14,
+    15
+  ],
+  "scoring_pages_0based": [
+    12,
+    14
+  ],
+  "question_type": "Mathematical routines",
+  "units": [
+    "Unit 10: Electric Force, Field, and Potential",
+    "Unit 12: Magnetism and Electromagnetism"
+  ]
+}

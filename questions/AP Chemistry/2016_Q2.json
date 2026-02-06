@@ -1,0 +1,18 @@
+{
+  "subject": "AP Chemistry",
+  "year": "2016",
+  "question_number": 2,
+  "frq_pages_0based": [
+    6
+  ],
+  "scoring_pages_0based": [
+    3,
+    4
+  ],
+  "question_type": null,
+  "units": [
+    "Unit 4: Chemical Reactions",
+    "Unit 6: Thermochemistry",
+    "Unit 8: Acids and Bases"
+  ]
+}
