@@ -3,10 +3,12 @@
   "question_types": [
     "Interpersonal Speaking",
     "Interpersonal Writing",
-    "Presentational Speaking"
+    "Presentational Speaking",
+    "Presentational Writing"
   ],
   "units": [
     "Unit 1: Families in Different Societies",
+    "Unit 1: Families in Different SocietiesUnit 2: The Influence of Language and Culture on Identity",
     "Unit 2: The Influence of Language and Culture on Identity",
     "Unit 3: Influences of Beauty and Art",
     "Unit 4: How Science and Technology Affect Our Lives",
@@ -15,11 +17,229 @@
   ],
   "questions": [
     {
-      "year": 2019,
+      "year": 2025,
       "question_type": "Interpersonal Speaking",
+      "units": [
+        "Unit 1: Families in Different SocietiesUnit 2: The Influence of Language and Culture on Identity",
+        "Unit 5: Factors That Impact the Quality of Life"
+      ],
+      "file_base": "2025_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Italian Language and Culture/2025_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Interpersonal Writing",
+      "units": [
+        "Unit 3: Influences of Beauty and Art",
+        "Unit 4: How Science and Technology Affect Our Lives"
+      ],
+      "file_base": "2025_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Italian Language and Culture/2025_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Presentational Speaking",
+      "units": [
+        "Unit 5: Factors That Impact the Quality of Life"
+      ],
+      "file_base": "2025_Presentational Speaking4",
+      "question_pdf": "/questions/AP Italian Language and Culture/2025_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Presentational Writing",
       "units": [
         "Unit 5: Factors That Impact the Quality of Life",
         "Unit 6: Environmental, Political, and Societal Challenges"
+      ],
+      "file_base": "2025_Presentational Writing2",
+      "question_pdf": "/questions/AP Italian Language and Culture/2025_Presentational Writing2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Interpersonal Speaking",
+      "units": [
+        "Unit 1: Families in Different SocietiesUnit 2: The Influence of Language and Culture on Identity",
+        "Unit 3: Influences of Beauty and Art"
+      ],
+      "file_base": "2024_Interpersonal Speaking1",
+      "question_pdf": "/questions/AP Italian Language and Culture/2024_Interpersonal Speaking1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Interpersonal Speaking",
+      "units": [
+        "Unit 3: Influences of Beauty and Art",
+        "Unit 6: Environmental, Political, and Societal Challenges"
+      ],
+      "file_base": "2024_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Italian Language and Culture/2024_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Interpersonal Writing",
+      "units": [
+        "Unit 1: Families in Different SocietiesUnit 2: The Influence of Language and Culture on Identity",
+        "Unit 6: Environmental, Political, and Societal Challenges"
+      ],
+      "file_base": "2024_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Italian Language and Culture/2024_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Presentational Speaking",
+      "units": [
+        "Unit 1: Families in Different SocietiesUnit 2: The Influence of Language and Culture on Identity"
+      ],
+      "file_base": "2024_Presentational Speaking4",
+      "question_pdf": "/questions/AP Italian Language and Culture/2024_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Presentational Writing",
+      "units": [
+        "Unit 4: How Science and Technology Affect Our Lives",
+        "Unit 6: Environmental, Political, and Societal Challenges"
+      ],
+      "file_base": "2024_Presentational Writing2",
+      "question_pdf": "/questions/AP Italian Language and Culture/2024_Presentational Writing2.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Interpersonal Speaking",
+      "units": [
+        "Unit 3: Influences of Beauty and Art",
+        "Unit 5: Factors That Impact the Quality of Life"
+      ],
+      "file_base": "2023_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Italian Language and Culture/2023_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Interpersonal Writing",
+      "units": [
+        "Unit 1: Families in Different SocietiesUnit 2: The Influence of Language and Culture on Identity",
+        "Unit 4: How Science and Technology Affect Our Lives",
+        "Unit 6: Environmental, Political, and Societal Challenges"
+      ],
+      "file_base": "2023_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Italian Language and Culture/2023_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Presentational Speaking",
+      "units": [
+        "Unit 1: Families in Different SocietiesUnit 2: The Influence of Language and Culture on Identity",
+        "Unit 5: Factors That Impact the Quality of Life"
+      ],
+      "file_base": "2023_Presentational Speaking4",
+      "question_pdf": "/questions/AP Italian Language and Culture/2023_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Presentational Writing",
+      "units": [
+        "Unit 4: How Science and Technology Affect Our Lives",
+        "Unit 6: Environmental, Political, and Societal Challenges"
+      ],
+      "file_base": "2023_Presentational Writing2",
+      "question_pdf": "/questions/AP Italian Language and Culture/2023_Presentational Writing2.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Presentational Writing",
+      "units": [
+        "Unit 5: Factors That Impact the Quality of Life"
+      ],
+      "file_base": "2023_Presentational Writing4",
+      "question_pdf": "/questions/AP Italian Language and Culture/2023_Presentational Writing4.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Interpersonal Speaking",
+      "units": [
+        "Unit 1: Families in Different SocietiesUnit 2: The Influence of Language and Culture on Identity",
+        "Unit 3: Influences of Beauty and Art",
+        "Unit 5: Factors That Impact the Quality of Life",
+        "Unit 6: Environmental, Political, and Societal Challenges"
+      ],
+      "file_base": "2022_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Italian Language and Culture/2022_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Interpersonal Writing",
+      "units": [
+        "Unit 1: Families in Different SocietiesUnit 2: The Influence of Language and Culture on Identity"
+      ],
+      "file_base": "2022_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Italian Language and Culture/2022_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Interpersonal Writing",
+      "units": [
+        "Unit 1: Families in Different SocietiesUnit 2: The Influence of Language and Culture on Identity",
+        "Unit 4: How Science and Technology Affect Our Lives",
+        "Unit 6: Environmental, Political, and Societal Challenges"
+      ],
+      "file_base": "2022_Interpersonal Writing3",
+      "question_pdf": "/questions/AP Italian Language and Culture/2022_Interpersonal Writing3.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Presentational Speaking",
+      "units": [
+        "Unit 1: Families in Different SocietiesUnit 2: The Influence of Language and Culture on Identity",
+        "Unit 5: Factors That Impact the Quality of Life"
+      ],
+      "file_base": "2022_Presentational Speaking4",
+      "question_pdf": "/questions/AP Italian Language and Culture/2022_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Presentational Writing",
+      "units": [
+        "Unit 4: How Science and Technology Affect Our Lives",
+        "Unit 6: Environmental, Political, and Societal Challenges"
+      ],
+      "file_base": "2022_Presentational Writing2",
+      "question_pdf": "/questions/AP Italian Language and Culture/2022_Presentational Writing2.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Interpersonal Speaking",
+      "units": [],
+      "file_base": "2021_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Italian Language and Culture/2021_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Interpersonal Writing",
+      "units": [],
+      "file_base": "2021_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Italian Language and Culture/2021_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Presentational Speaking",
+      "units": [],
+      "file_base": "2021_Presentational Speaking4",
+      "question_pdf": "/questions/AP Italian Language and Culture/2021_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Presentational Writing",
+      "units": [],
+      "file_base": "2021_Presentational Writing2",
+      "question_pdf": "/questions/AP Italian Language and Culture/2021_Presentational Writing2.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Interpersonal Speaking",
+      "units": [
+        "Unit 1: Families in Different SocietiesUnit 2: The Influence of Language and Culture on Identity",
+        "Unit 5: Factors That Impact the Quality of Life"
       ],
       "file_base": "2019_Interpersonal Speaking3",
       "question_pdf": "/questions/AP Italian Language and Culture/2019_Interpersonal Speaking3.pdf"
@@ -28,8 +248,7 @@
       "year": 2019,
       "question_type": "Interpersonal Writing",
       "units": [
-        "Unit 1: Families in Different Societies",
-        "Unit 5: Factors That Impact the Quality of Life"
+        "Unit 1: Families in Different SocietiesUnit 2: The Influence of Language and Culture on Identity"
       ],
       "file_base": "2019_Interpersonal Writing1",
       "question_pdf": "/questions/AP Italian Language and Culture/2019_Interpersonal Writing1.pdf"
@@ -46,9 +265,19 @@
     },
     {
       "year": 2019,
+      "question_type": "Presentational Writing",
+      "units": [
+        "Unit 4: How Science and Technology Affect Our Lives",
+        "Unit 5: Factors That Impact the Quality of Life"
+      ],
+      "file_base": "2019_Presentational Writing2",
+      "question_pdf": "/questions/AP Italian Language and Culture/2019_Presentational Writing2.pdf"
+    },
+    {
+      "year": 2019,
       "question_type": null,
       "units": [
-        "Unit 1: Families in Different Societies",
+        "Unit 1: Families in Different SocietiesUnit 2: The Influence of Language and Culture on Identity",
         "Unit 4: How Science and Technology Affect Our Lives",
         "Unit 5: Factors That Impact the Quality of Life"
       ],

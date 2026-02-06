@@ -1,572 +1,1014 @@
 {
   "course": "AP Physics C Electricity and Magnetism",
   "question_types": [
-    "Experimental design",
+    "Experimental design and analysis",
     "Mathematical routines",
-    "Qualitative/quantitative translation",
+    "Qualitative and quantitative translation",
     "Translation between representations"
   ],
-  "units": [],
+  "units": [
+    "Unit 10: Conductors and Capacitors",
+    "Unit 11: Electric Circuits",
+    "Unit 12: Magnetic Fields and Electromagnetism",
+    "Unit 13: Electromagnetic Induction",
+    "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential"
+  ],
   "questions": [
     {
       "year": 2025,
+      "question_type": "Experimental design and analysis",
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism"
+      ],
+      "file_base": "2025_Experimental design and analysis3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2025_Experimental design and analysis3.pdf"
+    },
+    {
+      "year": 2025,
       "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2025_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2025_Q1.pdf"
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2025_Mathematical routines1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2025_Mathematical routines1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 12: Magnetic Fields and Electromagnetism"
+      ],
+      "file_base": "2025_Qualitative and quantitative translation4",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2025_Qualitative and quantitative translation4.pdf"
     },
     {
       "year": 2025,
       "question_type": "Translation between representations",
-      "units": [],
-      "file_base": "2025_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2025_Q2.pdf"
-    },
-    {
-      "year": 2025,
-      "question_type": "Experimental design",
-      "units": [],
-      "file_base": "2025_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2025_Q3.pdf"
-    },
-    {
-      "year": 2025,
-      "question_type": "Qualitative/quantitative translation",
-      "units": [],
-      "file_base": "2025_Q4",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2025_Q4.pdf"
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2025_Translation between representations2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2025_Translation between representations2.pdf"
     },
     {
       "year": 2024,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2024_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2024_Q1.pdf"
+      "question_type": "Experimental design and analysis",
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2024_Set1_Experimental design and analysis2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2024_Set1_Experimental design and analysis2.pdf"
     },
     {
       "year": 2024,
-      "question_type": "Experimental design",
-      "units": [],
-      "file_base": "2024_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2024_Q2.pdf"
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2024_Set1_Qualitative and quantitative translation3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2024_Set1_Qualitative and quantitative translation3.pdf"
     },
     {
       "year": 2024,
       "question_type": "Translation between representations",
-      "units": [],
-      "file_base": "2024_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2024_Q3.pdf"
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential"
+      ],
+      "file_base": "2024_Set1_Translation between representations1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2024_Set1_Translation between representations1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Experimental design and analysis",
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2024_Set2_Experimental design and analysis2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2024_Set2_Experimental design and analysis2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Mathematical routines",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential"
+      ],
+      "file_base": "2024_Set2_Mathematical routines1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2024_Set2_Mathematical routines1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2024_Set2_Qualitative and quantitative translation3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2024_Set2_Qualitative and quantitative translation3.pdf"
     },
     {
       "year": 2023,
-      "question_type": "Experimental design",
-      "units": [],
-      "file_base": "2023_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2023_Q1.pdf"
+      "question_type": "Experimental design and analysis",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors"
+      ],
+      "file_base": "2023_Set1_Experimental design and analysis1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2023_Set1_Experimental design and analysis1.pdf"
     },
     {
       "year": 2023,
       "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2023_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2023_Q2.pdf"
+      "units": [
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2023_Set1_Mathematical routines3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2023_Set1_Mathematical routines3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2023_Set1_Qualitative and quantitative translation2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2023_Set1_Qualitative and quantitative translation2.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Experimental design and analysis",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors"
+      ],
+      "file_base": "2023_Set2_Experimental design and analysis1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2023_Set2_Experimental design and analysis1.pdf"
     },
     {
       "year": 2023,
       "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2023_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2023_Q3.pdf"
+      "units": [
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2023_Set2_Mathematical routines3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2023_Set2_Mathematical routines3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2023_Set2_Qualitative and quantitative translation2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2023_Set2_Qualitative and quantitative translation2.pdf"
     },
     {
       "year": 2022,
       "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2022_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2022_Q1.pdf"
+      "units": [
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2022_Set1_Mathematical routines2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2022_Set1_Mathematical routines2.pdf"
     },
     {
       "year": 2022,
-      "question_type": "Experimental design",
-      "units": [],
-      "file_base": "2022_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2022_Q2.pdf"
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2022_Set1_Qualitative and quantitative translation1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2022_Set1_Qualitative and quantitative translation1.pdf"
     },
     {
       "year": 2022,
-      "question_type": "Qualitative/quantitative translation",
-      "units": [],
-      "file_base": "2022_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2022_Q3.pdf"
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2022_Set1_Qualitative and quantitative translation3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2022_Set1_Qualitative and quantitative translation3.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Mathematical routines",
+      "units": [
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2022_Set2_Mathematical routines2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2022_Set2_Mathematical routines2.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors"
+      ],
+      "file_base": "2022_Set2_Qualitative and quantitative translation1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2022_Set2_Qualitative and quantitative translation1.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2022_Set2_Qualitative and quantitative translation3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2022_Set2_Qualitative and quantitative translation3.pdf"
     },
     {
       "year": 2021,
-      "question_type": "Qualitative/quantitative translation",
-      "units": [],
-      "file_base": "2021_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2021_Q1.pdf"
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2021_Qualitative and quantitative translation1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2021_Qualitative and quantitative translation1.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2021_Qualitative and quantitative translation3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2021_Qualitative and quantitative translation3.pdf"
     },
     {
       "year": 2021,
       "question_type": "Translation between representations",
-      "units": [],
-      "file_base": "2021_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2021_Q2.pdf"
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2021_Translation between representations2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2021_Translation between representations2.pdf"
     },
     {
-      "year": 2021,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2021_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2021_Q3.pdf"
+      "year": 2019,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2019_Set1_Qualitative and quantitative translation1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2019_Set1_Qualitative and quantitative translation1.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2019_Set1_Qualitative and quantitative translation3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2019_Set1_Qualitative and quantitative translation3.pdf"
     },
     {
       "year": 2019,
       "question_type": "Translation between representations",
-      "units": [],
-      "file_base": "2019_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2019_Q1.pdf"
+      "units": [
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2019_Set1_Translation between representations2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2019_Set1_Translation between representations2.pdf"
     },
     {
       "year": 2019,
       "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2019_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2019_Q2.pdf"
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2019_Set2_Mathematical routines1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2019_Set2_Mathematical routines1.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 12: Magnetic Fields and Electromagnetism"
+      ],
+      "file_base": "2019_Set2_Qualitative and quantitative translation3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2019_Set2_Qualitative and quantitative translation3.pdf"
     },
     {
       "year": 2019,
       "question_type": "Translation between representations",
-      "units": [],
-      "file_base": "2019_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2019_Q3.pdf"
-    },
-    {
-      "year": 2019,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2019_Q5",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2019_Q5.pdf"
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 12: Magnetic Fields and Electromagnetism"
+      ],
+      "file_base": "2019_Set2_Translation between representations2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2019_Set2_Translation between representations2.pdf"
     },
     {
       "year": 2018,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2018_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2018_Q1.pdf"
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors"
+      ],
+      "file_base": "2018_Qualitative and quantitative translation1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2018_Qualitative and quantitative translation1.pdf"
     },
     {
       "year": 2018,
-      "question_type": "Experimental design",
-      "units": [],
-      "file_base": "2018_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2018_Q2.pdf"
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2018_Qualitative and quantitative translation3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2018_Qualitative and quantitative translation3.pdf"
     },
     {
       "year": 2018,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2018_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2018_Q3.pdf"
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism"
+      ],
+      "file_base": "2018_Translation between representations2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2018_Translation between representations2.pdf"
     },
     {
       "year": 2017,
-      "question_type": "Qualitative/quantitative translation",
-      "units": [],
-      "file_base": "2017_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2017_Q1.pdf"
+      "question_type": "Experimental design and analysis",
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism"
+      ],
+      "file_base": "2017_Experimental design and analysis3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2017_Experimental design and analysis3.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Mathematical routines",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2017_Mathematical routines1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2017_Mathematical routines1.pdf"
     },
     {
       "year": 2017,
       "question_type": "Translation between representations",
-      "units": [],
-      "file_base": "2017_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2017_Q2.pdf"
-    },
-    {
-      "year": 2017,
-      "question_type": "Experimental design",
-      "units": [],
-      "file_base": "2017_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2017_Q3.pdf"
+      "units": [
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism"
+      ],
+      "file_base": "2017_Translation between representations2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2017_Translation between representations2.pdf"
     },
     {
       "year": 2016,
-      "question_type": "Qualitative/quantitative translation",
-      "units": [],
-      "file_base": "2016_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2016_Q1.pdf"
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2016_Qualitative and quantitative translation1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2016_Qualitative and quantitative translation1.pdf"
     },
     {
       "year": 2016,
-      "question_type": "Qualitative/quantitative translation",
-      "units": [],
-      "file_base": "2016_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2016_Q2.pdf"
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2016_Qualitative and quantitative translation2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2016_Qualitative and quantitative translation2.pdf"
     },
     {
       "year": 2016,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2016_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2016_Q3.pdf"
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2016_Qualitative and quantitative translation3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2016_Qualitative and quantitative translation3.pdf"
     },
     {
       "year": 2015,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2015_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2015_Q1.pdf"
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2015_Qualitative and quantitative translation3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2015_Qualitative and quantitative translation3.pdf"
     },
     {
       "year": 2015,
-      "question_type": "Experimental design",
-      "units": [],
-      "file_base": "2015_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2015_Q2.pdf"
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2015_Translation between representations1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2015_Translation between representations1.pdf"
     },
     {
       "year": 2015,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2015_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2015_Q3.pdf"
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2015_Translation between representations2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2015_Translation between representations2.pdf"
     },
     {
       "year": 2014,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2014_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2014_Q1.pdf"
-    },
-    {
-      "year": 2014,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2014_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2014_Q2.pdf"
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2014_Qualitative and quantitative translation2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2014_Qualitative and quantitative translation2.pdf"
     },
     {
       "year": 2014,
       "question_type": "Translation between representations",
-      "units": [],
-      "file_base": "2014_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2014_Q3.pdf"
+      "units": [
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2014_Translation between representations1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2014_Translation between representations1.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential"
+      ],
+      "file_base": "2014_Translation between representations3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2014_Translation between representations3.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Experimental design and analysis",
+      "units": [
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2013_Experimental design and analysis2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2013_Experimental design and analysis2.pdf"
     },
     {
       "year": 2013,
       "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2013_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2013_Q1.pdf"
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2013_Mathematical routines3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2013_Mathematical routines3.pdf"
     },
     {
       "year": 2013,
-      "question_type": "Experimental design",
-      "units": [],
-      "file_base": "2013_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2013_Q2.pdf"
-    },
-    {
-      "year": 2013,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2013_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2013_Q3.pdf"
-    },
-    {
-      "year": 2012,
-      "question_type": "Translation between representations",
-      "units": [],
-      "file_base": "2012_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2012_Q1.pdf"
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2013_Qualitative and quantitative translation1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2013_Qualitative and quantitative translation1.pdf"
     },
     {
       "year": 2012,
       "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2012_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2012_Q2.pdf"
+      "units": [
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2012_Mathematical routines3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2012_Mathematical routines3.pdf"
     },
     {
       "year": 2012,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2012_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2012_Q3.pdf"
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2012_Qualitative and quantitative translation1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2012_Qualitative and quantitative translation1.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2012_Translation between representations2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2012_Translation between representations2.pdf"
     },
     {
       "year": 2011,
-      "question_type": "Qualitative/quantitative translation",
-      "units": [],
-      "file_base": "2011_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2011_Q1.pdf"
+      "question_type": "Mathematical routines",
+      "units": [
+        "Unit 12: Magnetic Fields and Electromagnetism"
+      ],
+      "file_base": "2011_Mathematical routines3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2011_Mathematical routines3.pdf"
     },
     {
       "year": 2011,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2011_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2011_Q2.pdf"
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2011_Qualitative and quantitative translation1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2011_Qualitative and quantitative translation1.pdf"
     },
     {
       "year": 2011,
       "question_type": "Translation between representations",
-      "units": [],
-      "file_base": "2011_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2011_Q3.pdf"
-    },
-    {
-      "year": 2010,
-      "question_type": "Qualitative/quantitative translation",
-      "units": [],
-      "file_base": "2010_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2010_Q1.pdf"
+      "units": [
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2011_Translation between representations2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2011_Translation between representations2.pdf"
     },
     {
       "year": 2010,
       "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2010_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2010_Q2.pdf"
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2010_Mathematical routines2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2010_Mathematical routines2.pdf"
     },
     {
       "year": 2010,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2010_Qualitative and quantitative translation1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2010_Qualitative and quantitative translation1.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2010_Qualitative and quantitative translation3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2010_Qualitative and quantitative translation3.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2009_Qualitative and quantitative translation2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2009_Qualitative and quantitative translation2.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2009_Qualitative and quantitative translation3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2009_Qualitative and quantitative translation3.pdf"
+    },
+    {
+      "year": 2009,
       "question_type": "Translation between representations",
-      "units": [],
-      "file_base": "2010_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2010_Q3.pdf"
-    },
-    {
-      "year": 2009,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2009_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2009_Q1.pdf"
-    },
-    {
-      "year": 2009,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2009_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2009_Q2.pdf"
-    },
-    {
-      "year": 2009,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2009_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2009_Q3.pdf"
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism"
+      ],
+      "file_base": "2009_Translation between representations1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2009_Translation between representations1.pdf"
     },
     {
       "year": 2008,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2008_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2008_Q1.pdf"
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2008_Qualitative and quantitative translation1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2008_Qualitative and quantitative translation1.pdf"
     },
     {
       "year": 2008,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2008_Qualitative and quantitative translation2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2008_Qualitative and quantitative translation2.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2008_Qualitative and quantitative translation3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2008_Qualitative and quantitative translation3.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2007_Qualitative and quantitative translation2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2007_Qualitative and quantitative translation2.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2007_Qualitative and quantitative translation3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2007_Qualitative and quantitative translation3.pdf"
+    },
+    {
+      "year": 2007,
       "question_type": "Translation between representations",
-      "units": [],
-      "file_base": "2008_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2008_Q2.pdf"
-    },
-    {
-      "year": 2008,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2008_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2008_Q3.pdf"
-    },
-    {
-      "year": 2007,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2007_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2007_Q1.pdf"
-    },
-    {
-      "year": 2007,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2007_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2007_Q2.pdf"
-    },
-    {
-      "year": 2007,
-      "question_type": "Qualitative/quantitative translation",
-      "units": [],
-      "file_base": "2007_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2007_Q3.pdf"
-    },
-    {
-      "year": 2006,
-      "question_type": "Qualitative/quantitative translation",
-      "units": [],
-      "file_base": "2006_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2006_Q1.pdf"
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2007_Translation between representations1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2007_Translation between representations1.pdf"
     },
     {
       "year": 2006,
       "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2006_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2006_Q2.pdf"
+      "units": [
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism"
+      ],
+      "file_base": "2006_Mathematical routines2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2006_Mathematical routines2.pdf"
     },
     {
       "year": 2006,
-      "question_type": "Qualitative/quantitative translation",
-      "units": [],
-      "file_base": "2006_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2006_Q3.pdf"
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2006_Qualitative and quantitative translation1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2006_Qualitative and quantitative translation1.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2006_Qualitative and quantitative translation3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2006_Qualitative and quantitative translation3.pdf"
     },
     {
       "year": 2005,
-      "question_type": "Qualitative/quantitative translation",
-      "units": [],
-      "file_base": "2005_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2005_Q1.pdf"
+      "question_type": "Experimental design and analysis",
+      "units": [
+        "Unit 12: Magnetic Fields and Electromagnetism"
+      ],
+      "file_base": "2005_Experimental design and analysis3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2005_Experimental design and analysis3.pdf"
     },
     {
       "year": 2005,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2005_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2005_Q2.pdf"
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2005_Qualitative and quantitative translation2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2005_Qualitative and quantitative translation2.pdf"
     },
     {
       "year": 2005,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2005_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2005_Q3.pdf"
-    },
-    {
-      "year": 2004,
-      "question_type": "Qualitative/quantitative translation",
-      "units": [],
-      "file_base": "2004_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2004_Q1.pdf"
-    },
-    {
-      "year": 2004,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2004_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2004_Q2.pdf"
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 11: Electric Circuits",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2005_Translation between representations1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2005_Translation between representations1.pdf"
     },
     {
       "year": 2004,
       "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2004_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2004_Q3.pdf"
+      "units": [
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2004_Mathematical routines2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2004_Mathematical routines2.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2004_Qualitative and quantitative translation3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2004_Qualitative and quantitative translation3.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2004_Qualitative and quantitative translation6",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2004_Qualitative and quantitative translation6.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2004_Translation between representations1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2004_Translation between representations1.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 10: Conductors and Capacitors"
+      ],
+      "file_base": "2004_Translation between representations5",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2004_Translation between representations5.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "Experimental design and analysis",
+      "units": [
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism"
+      ],
+      "file_base": "2003_Experimental design and analysis2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2003_Experimental design and analysis2.pdf"
     },
     {
       "year": 2003,
       "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2003_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2003_Q1.pdf"
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2003_Mathematical routines1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2003_Mathematical routines1.pdf"
     },
     {
       "year": 2003,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2003_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2003_Q2.pdf"
-    },
-    {
-      "year": 2003,
-      "question_type": "Qualitative/quantitative translation",
-      "units": [],
-      "file_base": "2003_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2003_Q3.pdf"
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2003_Qualitative and quantitative translation3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2003_Qualitative and quantitative translation3.pdf"
     },
     {
       "year": 2002,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2002_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2002_Q1.pdf"
+      "question_type": "Experimental design and analysis",
+      "units": [
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism"
+      ],
+      "file_base": "2002_Experimental design and analysis2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2002_Experimental design and analysis2.pdf"
     },
     {
       "year": 2002,
-      "question_type": "Qualitative/quantitative translation",
-      "units": [],
-      "file_base": "2002_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2002_Q2.pdf"
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2002_Qualitative and quantitative translation1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2002_Qualitative and quantitative translation1.pdf"
     },
     {
       "year": 2002,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2002_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2002_Q3.pdf"
-    },
-    {
-      "year": 2001,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2001_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2001_Q1.pdf"
-    },
-    {
-      "year": 2001,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2001_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2001_Q2.pdf"
-    },
-    {
-      "year": 2001,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2001_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2001_Q3.pdf"
-    },
-    {
-      "year": 2000,
-      "question_type": "Qualitative/quantitative translation",
-      "units": [],
-      "file_base": "2000_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2000_Q1.pdf"
-    },
-    {
-      "year": 2000,
       "question_type": "Translation between representations",
-      "units": [],
-      "file_base": "2000_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2000_Q2.pdf"
+      "units": [
+        "Unit 12: Magnetic Fields and Electromagnetism",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2002_Translation between representations3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2002_Translation between representations3.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2001_Qualitative and quantitative translation1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2001_Qualitative and quantitative translation1.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism"
+      ],
+      "file_base": "2001_Qualitative and quantitative translation3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2001_Qualitative and quantitative translation3.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits",
+        "Unit 12: Magnetic Fields and Electromagnetism"
+      ],
+      "file_base": "2001_Translation between representations2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2001_Translation between representations2.pdf"
     },
     {
       "year": 2000,
       "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "2000_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2000_Q3.pdf"
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors"
+      ],
+      "file_base": "2000_Mathematical routines3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2000_Mathematical routines3.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "2000_Qualitative and quantitative translation1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2000_Qualitative and quantitative translation1.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors"
+      ],
+      "file_base": "2000_Qualitative and quantitative translation2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/2000_Qualitative and quantitative translation2.pdf"
     },
     {
       "year": 1999,
       "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "1999_Q1",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/1999_Q1.pdf"
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 10: Conductors and Capacitors",
+        "Unit 11: Electric Circuits",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "1999_Mathematical routines1",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/1999_Mathematical routines1.pdf"
     },
     {
       "year": 1999,
-      "question_type": "Qualitative/quantitative translation",
-      "units": [],
-      "file_base": "1999_Q2",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/1999_Q2.pdf"
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential",
+        "Unit 11: Electric Circuits",
+        "Unit 13: Electromagnetic Induction"
+      ],
+      "file_base": "1999_Qualitative and quantitative translation2",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/1999_Qualitative and quantitative translation2.pdf"
     },
     {
       "year": 1999,
-      "question_type": "Mathematical routines",
-      "units": [],
-      "file_base": "1999_Q3",
-      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/1999_Q3.pdf"
+      "question_type": "Qualitative and quantitative translation",
+      "units": [
+        "Unit 8: Electric Charges, Fields, and Gauss’s Law,Unit 9: Electric Potential"
+      ],
+      "file_base": "1999_Qualitative and quantitative translation3",
+      "question_pdf": "/questions/AP Physics C Electricity and Magnetism/1999_Qualitative and quantitative translation3.pdf"
     }
   ]
 }
