@@ -1,0 +1,490 @@
+{
+  "course": "AP Physics 1 Algebra-Based",
+  "question_types": [
+    "Experimental design",
+    "Mathematical routines",
+    "Qualitative/quantitative translation",
+    "Translation between representations"
+  ],
+  "units": [
+    "Unit 1: Kinematics",
+    "Unit 2: Force and Translational Dynamics",
+    "Unit 3: Work, Energy, and Power",
+    "Unit 4: Linear Momentum",
+    "Unit 5: Torque and Rotational Dynamics",
+    "Unit 6: Energy and Momentum of Rotating Systems",
+    "Unit 7: Oscillations",
+    "Unit 8: Fluids"
+  ],
+  "questions": [
+    {
+      "year": 2025,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 4: Linear Momentum"
+      ],
+      "file_base": "2025_Q1",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2025_Q1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 3: Work, Energy, and Power"
+      ],
+      "file_base": "2025_Q2",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2025_Q2.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Experimental design",
+      "units": [
+        "Unit 5: Torque and Rotational Dynamics"
+      ],
+      "file_base": "2025_Q3",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2025_Q3.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 2: Force and Translational Dynamics",
+        "Unit 8: Fluids"
+      ],
+      "file_base": "2025_Q4",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2025_Q4.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 2: Force and Translational Dynamics",
+        "Unit 8: Fluids"
+      ],
+      "file_base": "2025_Q6",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2025_Q6.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 3: Work, Energy, and Power",
+        "Unit 2: Force and Translational Dynamics"
+      ],
+      "file_base": "2024_Q1",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2024_Q1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Experimental design",
+      "units": [
+        "Unit 3: Work, Energy, and Power"
+      ],
+      "file_base": "2024_Q2",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2024_Q2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 5: Torque and Rotational Dynamics"
+      ],
+      "file_base": "2024_Q3",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2024_Q3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 1: Kinematics",
+        "Unit 7: Oscillations"
+      ],
+      "file_base": "2024_Q4",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2024_Q4.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 4: Linear Momentum"
+      ],
+      "file_base": "2024_Q5",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2024_Q5.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 3: Work, Energy, and Power",
+        "Unit 7: Oscillations"
+      ],
+      "file_base": "2023_Q1",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2023_Q1.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Experimental design",
+      "units": [
+        "Unit 1: Kinematics",
+        "Unit 2: Force and Translational Dynamics"
+      ],
+      "file_base": "2023_Q2",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2023_Q2.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 2: Force and Translational Dynamics"
+      ],
+      "file_base": "2023_Q3",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2023_Q3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 5: Torque and Rotational Dynamics",
+        "Unit 6: Energy and Momentum of Rotating Systems"
+      ],
+      "file_base": "2023_Q4",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2023_Q4.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 5: Torque and Rotational Dynamics"
+      ],
+      "file_base": "2023_Q5",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2023_Q5.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 2: Force and Translational Dynamics",
+        "Unit 3: Work, Energy, and Power"
+      ],
+      "file_base": "2022_Q1",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2022_Q1.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 2: Force and Translational Dynamics"
+      ],
+      "file_base": "2022_Q2",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2022_Q2.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Experimental design",
+      "units": [
+        "Unit 3: Work, Energy, and Power",
+        "Unit 6: Energy and Momentum of Rotating Systems"
+      ],
+      "file_base": "2022_Q3",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2022_Q3.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 4: Linear Momentum",
+        "Unit 1: Kinematics"
+      ],
+      "file_base": "2022_Q4",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2022_Q4.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 3: Work, Energy, and Power"
+      ],
+      "file_base": "2022_Q5",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2022_Q5.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 1: Kinematics",
+        "Unit 2: Force and Translational Dynamics"
+      ],
+      "file_base": "2021_Q1",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2021_Q1.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Experimental design",
+      "units": [
+        "Unit 2: Force and Translational Dynamics"
+      ],
+      "file_base": "2021_Q2",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2021_Q2.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Mathematical routines",
+      "units": [
+        "Unit 2: Force and Translational Dynamics",
+        "Unit 4: Linear Momentum"
+      ],
+      "file_base": "2021_Q3",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2021_Q3.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 3: Work, Energy, and Power"
+      ],
+      "file_base": "2021_Q4",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2021_Q4.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 5: Torque and Rotational Dynamics"
+      ],
+      "file_base": "2021_Q5",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2021_Q5.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 4: Linear Momentum",
+        "Unit 5: Torque and Rotational Dynamics"
+      ],
+      "file_base": "2019_Q1",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2019_Q1.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 2: Force and Translational Dynamics"
+      ],
+      "file_base": "2019_Q2",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2019_Q2.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Experimental design",
+      "units": [
+        "Unit 3: Work, Energy, and Power",
+        "Unit 1: Kinematics"
+      ],
+      "file_base": "2019_Q3",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2019_Q3.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 3: Work, Energy, and Power"
+      ],
+      "file_base": "2019_Q4",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2019_Q4.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Mathematical routines",
+      "units": [
+        "Unit 7: Oscillations"
+      ],
+      "file_base": "2019_Q5",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2019_Q5.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 2: Force and Translational Dynamics"
+      ],
+      "file_base": "2018_Q1",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2018_Q1.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Experimental design",
+      "units": [
+        "Unit 2: Force and Translational Dynamics"
+      ],
+      "file_base": "2018_Q2",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2018_Q2.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 5: Torque and Rotational Dynamics"
+      ],
+      "file_base": "2018_Q3",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2018_Q3.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 1: Kinematics"
+      ],
+      "file_base": "2018_Q4",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2018_Q4.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 7: Oscillations"
+      ],
+      "file_base": "2018_Q5",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2018_Q5.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 2: Force and Translational Dynamics"
+      ],
+      "file_base": "2017_Q1",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2017_Q1.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Experimental design",
+      "units": [
+        "Unit 2: Force and Translational Dynamics"
+      ],
+      "file_base": "2017_Q2",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2017_Q2.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 5: Torque and Rotational Dynamics",
+        "Unit 6: Energy and Momentum of Rotating Systems"
+      ],
+      "file_base": "2017_Q3",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2017_Q3.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 1: Kinematics",
+        "Unit 3: Work, Energy, and Power"
+      ],
+      "file_base": "2017_Q4",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2017_Q4.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 1: Kinematics"
+      ],
+      "file_base": "2017_Q5",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2017_Q5.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 2: Force and Translational Dynamics",
+        "Unit 3: Work, Energy, and Power"
+      ],
+      "file_base": "2016_Q1",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2016_Q1.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Experimental design",
+      "units": [
+        "Unit 4: Linear Momentum"
+      ],
+      "file_base": "2016_Q2",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2016_Q2.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 1: Kinematics",
+        "Unit 2: Force and Translational Dynamics"
+      ],
+      "file_base": "2016_Q3",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2016_Q3.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 2: Force and Translational Dynamics"
+      ],
+      "file_base": "2016_Q4",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2016_Q4.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 7: Oscillations"
+      ],
+      "file_base": "2016_Q5",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2016_Q5.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 2: Force and Translational Dynamics"
+      ],
+      "file_base": "2015_Q1",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2015_Q1.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Experimental design",
+      "units": [
+        "Unit 2: Force and Translational Dynamics"
+      ],
+      "file_base": "2015_Q2",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2015_Q2.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 3: Work, Energy, and Power"
+      ],
+      "file_base": "2015_Q3",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2015_Q3.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 1: Kinematics",
+        "Unit 2: Force and Translational Dynamics"
+      ],
+      "file_base": "2015_Q4",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2015_Q4.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 7: Oscillations"
+      ],
+      "file_base": "2015_Q5",
+      "question_pdf": "/questions/AP Physics 1 Algebra-Based/2015_Q5.pdf"
+    }
+  ]
+}

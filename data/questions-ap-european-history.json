@@ -1,0 +1,2362 @@
+{
+  "course": "AP European History",
+  "question_types": [
+    "DBQ",
+    "LEQ",
+    "SAQ"
+  ],
+  "units": [
+    "Unit 1: Renaissance and Exploration",
+    "Unit 2: Age of Reformation",
+    "Unit 3: Absolutism and Constitutionalism",
+    "Unit 4: Scientific, Philosophical, and Political Developments",
+    "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+    "Unit 6: Industrialization and Its Effects",
+    "Unit 7: 19th-Century Perspectives and Political Developments",
+    "Unit 8: 20th-Century Global Conflicts",
+    "Unit 9: Cold War and Contemporary Europe"
+  ],
+  "questions": [
+    {
+      "year": 2025,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century"
+      ],
+      "file_base": "2025_Set1_DBQ1",
+      "question_pdf": "/questions/AP European History/2025_Set1_DBQ1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2025_Set1_LEQ2",
+      "question_pdf": "/questions/AP European History/2025_Set1_LEQ2.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2025_Set1_LEQ3",
+      "question_pdf": "/questions/AP European History/2025_Set1_LEQ3.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2025_Set1_LEQ4",
+      "question_pdf": "/questions/AP European History/2025_Set1_LEQ4.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2025_Set1_SAQ1",
+      "question_pdf": "/questions/AP European History/2025_Set1_SAQ1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2025_Set1_SAQ2",
+      "question_pdf": "/questions/AP European History/2025_Set1_SAQ2.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2025_Set1_SAQ3",
+      "question_pdf": "/questions/AP European History/2025_Set1_SAQ3.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 6: Industrialization and Its Effects"
+      ],
+      "file_base": "2025_Set1_SAQ4",
+      "question_pdf": "/questions/AP European History/2025_Set1_SAQ4.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2025_Set2_DBQ1",
+      "question_pdf": "/questions/AP European History/2025_Set2_DBQ1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2025_Set2_LEQ2",
+      "question_pdf": "/questions/AP European History/2025_Set2_LEQ2.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2025_Set2_LEQ3",
+      "question_pdf": "/questions/AP European History/2025_Set2_LEQ3.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2025_Set2_LEQ4",
+      "question_pdf": "/questions/AP European History/2025_Set2_LEQ4.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 2: Age of Reformation"
+      ],
+      "file_base": "2025_Set2_SAQ1",
+      "question_pdf": "/questions/AP European History/2025_Set2_SAQ1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2025_Set2_SAQ2",
+      "question_pdf": "/questions/AP European History/2025_Set2_SAQ2.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2025_Set2_SAQ3",
+      "question_pdf": "/questions/AP European History/2025_Set2_SAQ3.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2025_Set2_SAQ4",
+      "question_pdf": "/questions/AP European History/2025_Set2_SAQ4.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2024_Set1_DBQ1",
+      "question_pdf": "/questions/AP European History/2024_Set1_DBQ1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2024_Set1_LEQ2",
+      "question_pdf": "/questions/AP European History/2024_Set1_LEQ2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2024_Set1_LEQ3",
+      "question_pdf": "/questions/AP European History/2024_Set1_LEQ3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2024_Set1_LEQ4",
+      "question_pdf": "/questions/AP European History/2024_Set1_LEQ4.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2024_Set1_SAQ1",
+      "question_pdf": "/questions/AP European History/2024_Set1_SAQ1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2024_Set1_SAQ2",
+      "question_pdf": "/questions/AP European History/2024_Set1_SAQ2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2024_Set2_DBQ1",
+      "question_pdf": "/questions/AP European History/2024_Set2_DBQ1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2024_Set2_LEQ2",
+      "question_pdf": "/questions/AP European History/2024_Set2_LEQ2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2024_Set2_LEQ3",
+      "question_pdf": "/questions/AP European History/2024_Set2_LEQ3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2024_Set2_LEQ4",
+      "question_pdf": "/questions/AP European History/2024_Set2_LEQ4.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2024_Set2_SAQ1",
+      "question_pdf": "/questions/AP European History/2024_Set2_SAQ1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2024_Set2_SAQ2",
+      "question_pdf": "/questions/AP European History/2024_Set2_SAQ2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2024_Set2_SAQ3",
+      "question_pdf": "/questions/AP European History/2024_Set2_SAQ3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2024_Set2_SAQ4",
+      "question_pdf": "/questions/AP European History/2024_Set2_SAQ4.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2023_Set1_DBQ1",
+      "question_pdf": "/questions/AP European History/2023_Set1_DBQ1.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2023_Set1_LEQ2",
+      "question_pdf": "/questions/AP European History/2023_Set1_LEQ2.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2023_Set1_LEQ3",
+      "question_pdf": "/questions/AP European History/2023_Set1_LEQ3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2023_Set1_LEQ4",
+      "question_pdf": "/questions/AP European History/2023_Set1_LEQ4.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century"
+      ],
+      "file_base": "2023_Set1_SAQ1",
+      "question_pdf": "/questions/AP European History/2023_Set1_SAQ1.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2023_Set1_SAQ2",
+      "question_pdf": "/questions/AP European History/2023_Set1_SAQ2.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2023_Set1_SAQ3",
+      "question_pdf": "/questions/AP European History/2023_Set1_SAQ3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2023_Set1_SAQ4",
+      "question_pdf": "/questions/AP European History/2023_Set1_SAQ4.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century"
+      ],
+      "file_base": "2023_Set2_DBQ1",
+      "question_pdf": "/questions/AP European History/2023_Set2_DBQ1.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2023_Set2_LEQ2",
+      "question_pdf": "/questions/AP European History/2023_Set2_LEQ2.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2023_Set2_LEQ3",
+      "question_pdf": "/questions/AP European History/2023_Set2_LEQ3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2023_Set2_LEQ4",
+      "question_pdf": "/questions/AP European History/2023_Set2_LEQ4.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 4: Scientific, Philosophical, and Political Developments"
+      ],
+      "file_base": "2023_Set2_SAQ1",
+      "question_pdf": "/questions/AP European History/2023_Set2_SAQ1.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2023_Set2_SAQ2",
+      "question_pdf": "/questions/AP European History/2023_Set2_SAQ2.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2023_Set2_SAQ3",
+      "question_pdf": "/questions/AP European History/2023_Set2_SAQ3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2023_Set2_SAQ4",
+      "question_pdf": "/questions/AP European History/2023_Set2_SAQ4.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 3: Absolutism and Constitutionalism"
+      ],
+      "file_base": "2022_DBQ1",
+      "question_pdf": "/questions/AP European History/2022_DBQ1.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2022_LEQ2",
+      "question_pdf": "/questions/AP European History/2022_LEQ2.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2022_LEQ3",
+      "question_pdf": "/questions/AP European History/2022_LEQ3.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2022_LEQ4",
+      "question_pdf": "/questions/AP European History/2022_LEQ4.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 6: Industrialization and Its Effects"
+      ],
+      "file_base": "2022_SAQ1",
+      "question_pdf": "/questions/AP European History/2022_SAQ1.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2022_SAQ2",
+      "question_pdf": "/questions/AP European History/2022_SAQ2.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2022_SAQ3",
+      "question_pdf": "/questions/AP European History/2022_SAQ3.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2022_SAQ4",
+      "question_pdf": "/questions/AP European History/2022_SAQ4.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2021_DBQ1",
+      "question_pdf": "/questions/AP European History/2021_DBQ1.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2021_LEQ2",
+      "question_pdf": "/questions/AP European History/2021_LEQ2.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2021_LEQ3",
+      "question_pdf": "/questions/AP European History/2021_LEQ3.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2021_LEQ4",
+      "question_pdf": "/questions/AP European History/2021_LEQ4.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century"
+      ],
+      "file_base": "2021_SAQ1",
+      "question_pdf": "/questions/AP European History/2021_SAQ1.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 2: Age of Reformation",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2021_SAQ2",
+      "question_pdf": "/questions/AP European History/2021_SAQ2.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 2: Age of Reformation"
+      ],
+      "file_base": "2019_DBQ1",
+      "question_pdf": "/questions/AP European History/2019_DBQ1.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2019_LEQ2",
+      "question_pdf": "/questions/AP European History/2019_LEQ2.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2019_LEQ3",
+      "question_pdf": "/questions/AP European History/2019_LEQ3.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2019_LEQ4",
+      "question_pdf": "/questions/AP European History/2019_LEQ4.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2019_SAQ1",
+      "question_pdf": "/questions/AP European History/2019_SAQ1.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2019_SAQ2",
+      "question_pdf": "/questions/AP European History/2019_SAQ2.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 6: Industrialization and Its Effects"
+      ],
+      "file_base": "2019_SAQ3",
+      "question_pdf": "/questions/AP European History/2019_SAQ3.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 6: Industrialization and Its Effects"
+      ],
+      "file_base": "2019_SAQ4",
+      "question_pdf": "/questions/AP European History/2019_SAQ4.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 3: Absolutism and Constitutionalism"
+      ],
+      "file_base": "2018_DBQ1",
+      "question_pdf": "/questions/AP European History/2018_DBQ1.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2018_LEQ2",
+      "question_pdf": "/questions/AP European History/2018_LEQ2.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2018_LEQ3",
+      "question_pdf": "/questions/AP European History/2018_LEQ3.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2018_LEQ4",
+      "question_pdf": "/questions/AP European History/2018_LEQ4.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2018_SAQ1",
+      "question_pdf": "/questions/AP European History/2018_SAQ1.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2018_SAQ2",
+      "question_pdf": "/questions/AP European History/2018_SAQ2.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2018_SAQ3",
+      "question_pdf": "/questions/AP European History/2018_SAQ3.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2018_SAQ4",
+      "question_pdf": "/questions/AP European History/2018_SAQ4.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 4: Scientific, Philosophical, and Political Developments"
+      ],
+      "file_base": "2017_DBQ1",
+      "question_pdf": "/questions/AP European History/2017_DBQ1.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 6: Industrialization and Its Effects"
+      ],
+      "file_base": "2017_LEQ2",
+      "question_pdf": "/questions/AP European History/2017_LEQ2.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2017_LEQ3",
+      "question_pdf": "/questions/AP European History/2017_LEQ3.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 6: Industrialization and Its Effects"
+      ],
+      "file_base": "2017_SAQ1",
+      "question_pdf": "/questions/AP European History/2017_SAQ1.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2017_SAQ2",
+      "question_pdf": "/questions/AP European History/2017_SAQ2.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2017_SAQ3",
+      "question_pdf": "/questions/AP European History/2017_SAQ3.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments"
+      ],
+      "file_base": "2017_SAQ4",
+      "question_pdf": "/questions/AP European History/2017_SAQ4.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2016_DBQ1",
+      "question_pdf": "/questions/AP European History/2016_DBQ1.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2016_LEQ2",
+      "question_pdf": "/questions/AP European History/2016_LEQ2.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2016_LEQ3",
+      "question_pdf": "/questions/AP European History/2016_LEQ3.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 2: Age of Reformation"
+      ],
+      "file_base": "2016_SAQ1",
+      "question_pdf": "/questions/AP European History/2016_SAQ1.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 6: Industrialization and Its Effects"
+      ],
+      "file_base": "2016_SAQ2",
+      "question_pdf": "/questions/AP European History/2016_SAQ2.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects"
+      ],
+      "file_base": "2016_SAQ3",
+      "question_pdf": "/questions/AP European History/2016_SAQ3.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2016_SAQ4",
+      "question_pdf": "/questions/AP European History/2016_SAQ4.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2015_DBQ1",
+      "question_pdf": "/questions/AP European History/2015_DBQ1.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2015_LEQ2",
+      "question_pdf": "/questions/AP European History/2015_LEQ2.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2015_LEQ3",
+      "question_pdf": "/questions/AP European History/2015_LEQ3.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2015_LEQ4",
+      "question_pdf": "/questions/AP European History/2015_LEQ4.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 4: Scientific, Philosophical, and Political Developments"
+      ],
+      "file_base": "2015_LEQ5",
+      "question_pdf": "/questions/AP European History/2015_LEQ5.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 4: Scientific, Philosophical, and Political Developments"
+      ],
+      "file_base": "2015_LEQ6",
+      "question_pdf": "/questions/AP European History/2015_LEQ6.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 4: Scientific, Philosophical, and Political Developments"
+      ],
+      "file_base": "2015_LEQ7",
+      "question_pdf": "/questions/AP European History/2015_LEQ7.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2014_DBQ1",
+      "question_pdf": "/questions/AP European History/2014_DBQ1.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 4: Scientific, Philosophical, and Political Developments"
+      ],
+      "file_base": "2014_LEQ2",
+      "question_pdf": "/questions/AP European History/2014_LEQ2.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 4: Scientific, Philosophical, and Political Developments"
+      ],
+      "file_base": "2014_LEQ3",
+      "question_pdf": "/questions/AP European History/2014_LEQ3.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2014_LEQ4",
+      "question_pdf": "/questions/AP European History/2014_LEQ4.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2014_LEQ5",
+      "question_pdf": "/questions/AP European History/2014_LEQ5.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2014_LEQ6",
+      "question_pdf": "/questions/AP European History/2014_LEQ6.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2014_LEQ7",
+      "question_pdf": "/questions/AP European History/2014_LEQ7.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 2: Age of Reformation"
+      ],
+      "file_base": "2013_DBQ1",
+      "question_pdf": "/questions/AP European History/2013_DBQ1.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2013_LEQ2",
+      "question_pdf": "/questions/AP European History/2013_LEQ2.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2013_LEQ3",
+      "question_pdf": "/questions/AP European History/2013_LEQ3.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2013_LEQ4",
+      "question_pdf": "/questions/AP European History/2013_LEQ4.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2013_LEQ5",
+      "question_pdf": "/questions/AP European History/2013_LEQ5.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2013_LEQ6",
+      "question_pdf": "/questions/AP European History/2013_LEQ6.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2013_LEQ7",
+      "question_pdf": "/questions/AP European History/2013_LEQ7.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2012_DBQ1",
+      "question_pdf": "/questions/AP European History/2012_DBQ1.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century"
+      ],
+      "file_base": "2012_LEQ2",
+      "question_pdf": "/questions/AP European History/2012_LEQ2.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century"
+      ],
+      "file_base": "2012_LEQ3",
+      "question_pdf": "/questions/AP European History/2012_LEQ3.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2012_LEQ4",
+      "question_pdf": "/questions/AP European History/2012_LEQ4.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2012_LEQ5",
+      "question_pdf": "/questions/AP European History/2012_LEQ5.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2012_LEQ6",
+      "question_pdf": "/questions/AP European History/2012_LEQ6.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2012_LEQ7",
+      "question_pdf": "/questions/AP European History/2012_LEQ7.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 2: Age of Reformation"
+      ],
+      "file_base": "2011_DBQ1",
+      "question_pdf": "/questions/AP European History/2011_DBQ1.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century"
+      ],
+      "file_base": "2011_LEQ2",
+      "question_pdf": "/questions/AP European History/2011_LEQ2.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2011_LEQ3",
+      "question_pdf": "/questions/AP European History/2011_LEQ3.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2011_LEQ4",
+      "question_pdf": "/questions/AP European History/2011_LEQ4.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2011_LEQ5",
+      "question_pdf": "/questions/AP European History/2011_LEQ5.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2011_LEQ6",
+      "question_pdf": "/questions/AP European History/2011_LEQ6.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2011_LEQ7",
+      "question_pdf": "/questions/AP European History/2011_LEQ7.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2010_DBQ1",
+      "question_pdf": "/questions/AP European History/2010_DBQ1.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 4: Scientific, Philosophical, and Political Developments"
+      ],
+      "file_base": "2010_LEQ2",
+      "question_pdf": "/questions/AP European History/2010_LEQ2.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 2: Age of Reformation",
+        "Unit 1: Renaissance and Exploration"
+      ],
+      "file_base": "2010_LEQ3",
+      "question_pdf": "/questions/AP European History/2010_LEQ3.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2010_LEQ4",
+      "question_pdf": "/questions/AP European History/2010_LEQ4.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2010_LEQ5",
+      "question_pdf": "/questions/AP European History/2010_LEQ5.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2010_LEQ6",
+      "question_pdf": "/questions/AP European History/2010_LEQ6.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2010_LEQ7",
+      "question_pdf": "/questions/AP European History/2010_LEQ7.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2009_DBQ1",
+      "question_pdf": "/questions/AP European History/2009_DBQ1.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 9: Cold War and Contemporary Europe",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 4: Scientific, Philosophical, and Political Developments"
+      ],
+      "file_base": "2009_LEQ2",
+      "question_pdf": "/questions/AP European History/2009_LEQ2.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 9: Cold War and Contemporary Europe",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 4: Scientific, Philosophical, and Political Developments"
+      ],
+      "file_base": "2009_LEQ3",
+      "question_pdf": "/questions/AP European History/2009_LEQ3.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2009_LEQ4",
+      "question_pdf": "/questions/AP European History/2009_LEQ4.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 4: Scientific, Philosophical, and Political Developments"
+      ],
+      "file_base": "2009_LEQ5",
+      "question_pdf": "/questions/AP European History/2009_LEQ5.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 4: Scientific, Philosophical, and Political Developments"
+      ],
+      "file_base": "2009_LEQ6",
+      "question_pdf": "/questions/AP European History/2009_LEQ6.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 4: Scientific, Philosophical, and Political Developments"
+      ],
+      "file_base": "2009_LEQ7",
+      "question_pdf": "/questions/AP European History/2009_LEQ7.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 2: Age of Reformation"
+      ],
+      "file_base": "2008_DBQ1",
+      "question_pdf": "/questions/AP European History/2008_DBQ1.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2008_LEQ2",
+      "question_pdf": "/questions/AP European History/2008_LEQ2.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2008_LEQ3",
+      "question_pdf": "/questions/AP European History/2008_LEQ3.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2008_LEQ4",
+      "question_pdf": "/questions/AP European History/2008_LEQ4.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2008_LEQ5",
+      "question_pdf": "/questions/AP European History/2008_LEQ5.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2008_LEQ6",
+      "question_pdf": "/questions/AP European History/2008_LEQ6.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century"
+      ],
+      "file_base": "2008_LEQ7",
+      "question_pdf": "/questions/AP European History/2008_LEQ7.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation"
+      ],
+      "file_base": "2007_DBQ1",
+      "question_pdf": "/questions/AP European History/2007_DBQ1.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2007_LEQ2",
+      "question_pdf": "/questions/AP European History/2007_LEQ2.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2007_LEQ3",
+      "question_pdf": "/questions/AP European History/2007_LEQ3.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 2: Age of Reformation",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century"
+      ],
+      "file_base": "2007_LEQ4",
+      "question_pdf": "/questions/AP European History/2007_LEQ4.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century"
+      ],
+      "file_base": "2007_LEQ5",
+      "question_pdf": "/questions/AP European History/2007_LEQ5.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century"
+      ],
+      "file_base": "2007_LEQ6",
+      "question_pdf": "/questions/AP European History/2007_LEQ6.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century"
+      ],
+      "file_base": "2007_LEQ7",
+      "question_pdf": "/questions/AP European History/2007_LEQ7.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2006_DBQ1",
+      "question_pdf": "/questions/AP European History/2006_DBQ1.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2006_LEQ2",
+      "question_pdf": "/questions/AP European History/2006_LEQ2.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2006_LEQ3",
+      "question_pdf": "/questions/AP European History/2006_LEQ3.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2006_LEQ4",
+      "question_pdf": "/questions/AP European History/2006_LEQ4.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2006_LEQ5",
+      "question_pdf": "/questions/AP European History/2006_LEQ5.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2006_LEQ6",
+      "question_pdf": "/questions/AP European History/2006_LEQ6.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2006_LEQ7",
+      "question_pdf": "/questions/AP European History/2006_LEQ7.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2005_DBQ1",
+      "question_pdf": "/questions/AP European History/2005_DBQ1.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation"
+      ],
+      "file_base": "2005_LEQ2",
+      "question_pdf": "/questions/AP European History/2005_LEQ2.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation"
+      ],
+      "file_base": "2005_LEQ3",
+      "question_pdf": "/questions/AP European History/2005_LEQ3.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2005_LEQ4",
+      "question_pdf": "/questions/AP European History/2005_LEQ4.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 3: Absolutism and Constitutionalism"
+      ],
+      "file_base": "2005_LEQ5",
+      "question_pdf": "/questions/AP European History/2005_LEQ5.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2005_LEQ6",
+      "question_pdf": "/questions/AP European History/2005_LEQ6.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 3: Absolutism and Constitutionalism"
+      ],
+      "file_base": "2005_LEQ7",
+      "question_pdf": "/questions/AP European History/2005_LEQ7.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation"
+      ],
+      "file_base": "2004_DBQ1",
+      "question_pdf": "/questions/AP European History/2004_DBQ1.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2004_LEQ2",
+      "question_pdf": "/questions/AP European History/2004_LEQ2.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2004_LEQ3",
+      "question_pdf": "/questions/AP European History/2004_LEQ3.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2004_LEQ4",
+      "question_pdf": "/questions/AP European History/2004_LEQ4.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2004_LEQ5",
+      "question_pdf": "/questions/AP European History/2004_LEQ5.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2004_LEQ6",
+      "question_pdf": "/questions/AP European History/2004_LEQ6.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2004_LEQ7",
+      "question_pdf": "/questions/AP European History/2004_LEQ7.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2003_DBQ1",
+      "question_pdf": "/questions/AP European History/2003_DBQ1.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 6: Industrialization and Its Effects"
+      ],
+      "file_base": "2003_LEQ2",
+      "question_pdf": "/questions/AP European History/2003_LEQ2.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 1: Renaissance and Exploration"
+      ],
+      "file_base": "2003_LEQ3",
+      "question_pdf": "/questions/AP European History/2003_LEQ3.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 1: Renaissance and Exploration",
+        "Unit 9: Cold War and Contemporary Europe",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century"
+      ],
+      "file_base": "2003_LEQ4",
+      "question_pdf": "/questions/AP European History/2003_LEQ4.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 9: Cold War and Contemporary Europe",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century"
+      ],
+      "file_base": "2003_LEQ5",
+      "question_pdf": "/questions/AP European History/2003_LEQ5.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 9: Cold War and Contemporary Europe",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 4: Scientific, Philosophical, and Political Developments"
+      ],
+      "file_base": "2003_LEQ6",
+      "question_pdf": "/questions/AP European History/2003_LEQ6.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2003_LEQ7",
+      "question_pdf": "/questions/AP European History/2003_LEQ7.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2002_DBQ1",
+      "question_pdf": "/questions/AP European History/2002_DBQ1.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2002_LEQ2",
+      "question_pdf": "/questions/AP European History/2002_LEQ2.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2002_LEQ3",
+      "question_pdf": "/questions/AP European History/2002_LEQ3.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2002_LEQ4",
+      "question_pdf": "/questions/AP European History/2002_LEQ4.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 9: Cold War and Contemporary Europe",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2002_LEQ5",
+      "question_pdf": "/questions/AP European History/2002_LEQ5.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2002_LEQ6",
+      "question_pdf": "/questions/AP European History/2002_LEQ6.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2002_LEQ7",
+      "question_pdf": "/questions/AP European History/2002_LEQ7.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2001_DBQ1",
+      "question_pdf": "/questions/AP European History/2001_DBQ1.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 6: Industrialization and Its Effects"
+      ],
+      "file_base": "2001_LEQ2",
+      "question_pdf": "/questions/AP European History/2001_LEQ2.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation"
+      ],
+      "file_base": "2001_LEQ3",
+      "question_pdf": "/questions/AP European History/2001_LEQ3.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2001_LEQ4",
+      "question_pdf": "/questions/AP European History/2001_LEQ4.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 9: Cold War and Contemporary Europe",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2001_LEQ5",
+      "question_pdf": "/questions/AP European History/2001_LEQ5.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2001_LEQ6",
+      "question_pdf": "/questions/AP European History/2001_LEQ6.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 9: Cold War and Contemporary Europe",
+        "Unit 5: Conflict, Crisis, and Reaction in the Late 18th Century",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "2001_LEQ7",
+      "question_pdf": "/questions/AP European History/2001_LEQ7.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation"
+      ],
+      "file_base": "2000_DBQ1",
+      "question_pdf": "/questions/AP European History/2000_DBQ1.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2000_LEQ2",
+      "question_pdf": "/questions/AP European History/2000_LEQ2.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 9: Cold War and Contemporary Europe",
+        "Unit 2: Age of Reformation",
+        "Unit 6: Industrialization and Its Effects"
+      ],
+      "file_base": "2000_LEQ3",
+      "question_pdf": "/questions/AP European History/2000_LEQ3.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "2000_LEQ4",
+      "question_pdf": "/questions/AP European History/2000_LEQ4.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2000_LEQ5",
+      "question_pdf": "/questions/AP European History/2000_LEQ5.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2000_LEQ6",
+      "question_pdf": "/questions/AP European History/2000_LEQ6.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 4: Scientific, Philosophical, and Political Developments",
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "2000_LEQ7",
+      "question_pdf": "/questions/AP European History/2000_LEQ7.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 7: 19th-Century Perspectives and Political Developments"
+      ],
+      "file_base": "1999_DBQ1",
+      "question_pdf": "/questions/AP European History/1999_DBQ1.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "1999_LEQ3",
+      "question_pdf": "/questions/AP European History/1999_LEQ3.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 1: Renaissance and Exploration",
+        "Unit 2: Age of Reformation",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts",
+        "Unit 9: Cold War and Contemporary Europe"
+      ],
+      "file_base": "1999_LEQ4",
+      "question_pdf": "/questions/AP European History/1999_LEQ4.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 2: Age of Reformation",
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "1999_LEQ5",
+      "question_pdf": "/questions/AP European History/1999_LEQ5.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 2: Age of Reformation",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "1999_LEQ6",
+      "question_pdf": "/questions/AP European History/1999_LEQ6.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "LEQ",
+      "units": [
+        "Unit 3: Absolutism and Constitutionalism",
+        "Unit 2: Age of Reformation",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 8: 20th-Century Global Conflicts"
+      ],
+      "file_base": "1999_LEQ7",
+      "question_pdf": "/questions/AP European History/1999_LEQ7.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 6: Industrialization and Its Effects",
+        "Unit 7: 19th-Century Perspectives and Political Developments",
+        "Unit 3: Absolutism and Constitutionalism"
+      ],
+      "file_base": "1999_SAQ2",
+      "question_pdf": "/questions/AP European History/1999_SAQ2.pdf"
+    }
+  ]
+}

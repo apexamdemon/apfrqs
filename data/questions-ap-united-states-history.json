@@ -1,0 +1,437 @@
+{
+  "course": "AP United States History",
+  "question_types": [
+    "DBQ",
+    "LEQ",
+    "SAQ"
+  ],
+  "units": [
+    "Period 1: 1491–1607",
+    "Period 2: 1607–1754",
+    "Period 3: 1754–1800",
+    "Period 4: 1800–1848",
+    "Period 5: 1844–1877",
+    "Period 6: 1865–1898",
+    "Period 7: 1890–1945",
+    "Period 8: 1945–1980",
+    "Period 9: 1980–Present"
+  ],
+  "questions": [
+    {
+      "year": 2025,
+      "question_type": "DBQ",
+      "units": [
+        "Period 7: 1890–1945",
+        "Period 8: 1945–1980"
+      ],
+      "file_base": "2025_Q1",
+      "question_pdf": "/questions/AP United States History/2025_Q1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "SAQ",
+      "units": [
+        "Period 4: 1800–1848",
+        "Period 5: 1844–1877"
+      ],
+      "file_base": "2025_Q2",
+      "question_pdf": "/questions/AP United States History/2025_Q2.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "SAQ",
+      "units": [
+        "Period 2: 1607–1754",
+        "Period 3: 1754–1800",
+        "Period 5: 1844–1877",
+        "Period 6: 1865–1898",
+        "Period 7: 1890–1945"
+      ],
+      "file_base": "2025_Q3",
+      "question_pdf": "/questions/AP United States History/2025_Q3.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "DBQ",
+      "units": [
+        "Period 7: 1890–1945",
+        "Period 8: 1945–1980"
+      ],
+      "file_base": "2025_Q4",
+      "question_pdf": "/questions/AP United States History/2025_Q4.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "SAQ",
+      "units": [
+        "Period 4: 1800–1848",
+        "Period 7: 1890–1945",
+        "Period 8: 1945–1980"
+      ],
+      "file_base": "2024_Q1",
+      "question_pdf": "/questions/AP United States History/2024_Q1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "LEQ",
+      "units": [
+        "Period 1: 1491–1607",
+        "Period 2: 1607–1754",
+        "Period 4: 1800–1848",
+        "Period 8: 1945–1980"
+      ],
+      "file_base": "2024_Q2",
+      "question_pdf": "/questions/AP United States History/2024_Q2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "SAQ",
+      "units": [
+        "Period 3: 1754–1800",
+        "Period 8: 1945–1980",
+        "Period 9: 1980–Present"
+      ],
+      "file_base": "2024_Q3",
+      "question_pdf": "/questions/AP United States History/2024_Q3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "LEQ",
+      "units": [
+        "Period 1: 1491–1607",
+        "Period 2: 1607–1754",
+        "Period 3: 1754–1800",
+        "Period 4: 1800–1848",
+        "Period 8: 1945–1980"
+      ],
+      "file_base": "2024_Q4",
+      "question_pdf": "/questions/AP United States History/2024_Q4.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "DBQ",
+      "units": [
+        "Period 4: 1800–1848",
+        "Period 5: 1844–1877"
+      ],
+      "file_base": "2023_Q1",
+      "question_pdf": "/questions/AP United States History/2023_Q1.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "SAQ",
+      "units": [
+        "Period 6: 1865–1898",
+        "Period 7: 1890–1945"
+      ],
+      "file_base": "2023_Q2",
+      "question_pdf": "/questions/AP United States History/2023_Q2.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "SAQ",
+      "units": [
+        "Period 2: 1607–1754",
+        "Period 3: 1754–1800",
+        "Period 6: 1865–1898"
+      ],
+      "file_base": "2023_Q3",
+      "question_pdf": "/questions/AP United States History/2023_Q3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "LEQ",
+      "units": [
+        "Period 2: 1607–1754",
+        "Period 3: 1754–1800",
+        "Period 5: 1844–1877",
+        "Period 6: 1865–1898",
+        "Period 8: 1945–1980",
+        "Period 9: 1980–Present"
+      ],
+      "file_base": "2023_Q4",
+      "question_pdf": "/questions/AP United States History/2023_Q4.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "DBQ",
+      "units": [
+        "Period 4: 1800–1848",
+        "Period 5: 1844–1877"
+      ],
+      "file_base": "2022_Q1",
+      "question_pdf": "/questions/AP United States History/2022_Q1.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "SAQ",
+      "units": [
+        "Period 3: 1754–1800",
+        "Period 4: 1800–1848",
+        "Period 5: 1844–1877"
+      ],
+      "file_base": "2022_Q2",
+      "question_pdf": "/questions/AP United States History/2022_Q2.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "SAQ",
+      "units": [
+        "Period 1: 1491–1607",
+        "Period 2: 1607–1754",
+        "Period 6: 1865–1898",
+        "Period 7: 1890–1945"
+      ],
+      "file_base": "2022_Q3",
+      "question_pdf": "/questions/AP United States History/2022_Q3.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "LEQ",
+      "units": [
+        "Period 2: 1607–1754",
+        "Period 6: 1865–1898",
+        "Period 7: 1890–1945",
+        "Period 8: 1945–1980"
+      ],
+      "file_base": "2022_Q4",
+      "question_pdf": "/questions/AP United States History/2022_Q4.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "DBQ",
+      "units": [
+        "Period 8: 1945–1980"
+      ],
+      "file_base": "2021_Q1",
+      "question_pdf": "/questions/AP United States History/2021_Q1.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "SAQ",
+      "units": [
+        "Period 7: 1890–1945",
+        "Period 8: 1945–1980"
+      ],
+      "file_base": "2021_Q2",
+      "question_pdf": "/questions/AP United States History/2021_Q2.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "SAQ",
+      "units": [
+        "Period 3: 1754–1800",
+        "Period 4: 1800–1848"
+      ],
+      "file_base": "2021_Q3",
+      "question_pdf": "/questions/AP United States History/2021_Q3.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "SAQ",
+      "units": [
+        "Period 3: 1754–1800",
+        "Period 4: 1800–1848",
+        "Period 6: 1865–1898"
+      ],
+      "file_base": "2021_Q4",
+      "question_pdf": "/questions/AP United States History/2021_Q4.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "DBQ",
+      "units": [
+        "Period 7: 1890–1945"
+      ],
+      "file_base": "2019_Q1",
+      "question_pdf": "/questions/AP United States History/2019_Q1.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "LEQ",
+      "units": [
+        "Period 3: 1754–1800",
+        "Period 4: 1800–1848",
+        "Period 5: 1844–1877",
+        "Period 8: 1945–1980"
+      ],
+      "file_base": "2019_Q2",
+      "question_pdf": "/questions/AP United States History/2019_Q2.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "SAQ",
+      "units": [
+        "Period 2: 1607–1754",
+        "Period 7: 1890–1945",
+        "Period 8: 1945–1980"
+      ],
+      "file_base": "2019_Q3",
+      "question_pdf": "/questions/AP United States History/2019_Q3.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "SAQ",
+      "units": [
+        "Period 2: 1607–1754"
+      ],
+      "file_base": "2019_Q4",
+      "question_pdf": "/questions/AP United States History/2019_Q4.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "DBQ",
+      "units": [
+        "Period 6: 1865–1898",
+        "Period 7: 1890–1945"
+      ],
+      "file_base": "2018_Q1",
+      "question_pdf": "/questions/AP United States History/2018_Q1.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "SAQ",
+      "units": [
+        "Period 7: 1890–1945"
+      ],
+      "file_base": "2018_Q2",
+      "question_pdf": "/questions/AP United States History/2018_Q2.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "SAQ",
+      "units": [
+        "Period 1: 1491–1607",
+        "Period 2: 1607–1754"
+      ],
+      "file_base": "2018_Q3",
+      "question_pdf": "/questions/AP United States History/2018_Q3.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "SAQ",
+      "units": [
+        "Period 1: 1491–1607",
+        "Period 2: 1607–1754"
+      ],
+      "file_base": "2018_Q4",
+      "question_pdf": "/questions/AP United States History/2018_Q4.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "SAQ",
+      "units": [
+        "Period 3: 1754–1800",
+        "Period 6: 1865–1898",
+        "Period 7: 1890–1945"
+      ],
+      "file_base": "2017_Q1",
+      "question_pdf": "/questions/AP United States History/2017_Q1.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "SAQ",
+      "units": [
+        "Period 7: 1890–1945"
+      ],
+      "file_base": "2017_Q2",
+      "question_pdf": "/questions/AP United States History/2017_Q2.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "LEQ",
+      "units": [
+        "Period 4: 1800–1848",
+        "Period 7: 1890–1945"
+      ],
+      "file_base": "2017_Q3",
+      "question_pdf": "/questions/AP United States History/2017_Q3.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "DBQ",
+      "units": [
+        "Period 8: 1945–1980"
+      ],
+      "file_base": "2017_Q4",
+      "question_pdf": "/questions/AP United States History/2017_Q4.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "DBQ",
+      "units": [
+        "Period 8: 1945–1980"
+      ],
+      "file_base": "2016_Q1",
+      "question_pdf": "/questions/AP United States History/2016_Q1.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "SAQ",
+      "units": [
+        "Period 1: 1491–1607",
+        "Period 2: 1607–1754"
+      ],
+      "file_base": "2016_Q2",
+      "question_pdf": "/questions/AP United States History/2016_Q2.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "SAQ",
+      "units": [
+        "Period 6: 1865–1898"
+      ],
+      "file_base": "2016_Q3",
+      "question_pdf": "/questions/AP United States History/2016_Q3.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "DBQ",
+      "units": [
+        "Period 7: 1890–1945",
+        "Period 8: 1945–1980"
+      ],
+      "file_base": "2016_Q4",
+      "question_pdf": "/questions/AP United States History/2016_Q4.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "DBQ",
+      "units": [
+        "Period 8: 1945–1980",
+        "Period 9: 1980–Present"
+      ],
+      "file_base": "2015_Q1",
+      "question_pdf": "/questions/AP United States History/2015_Q1.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "SAQ",
+      "units": [
+        "Period 7: 1890–1945"
+      ],
+      "file_base": "2015_Q2",
+      "question_pdf": "/questions/AP United States History/2015_Q2.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "LEQ",
+      "units": [
+        "Period 3: 1754–1800",
+        "Period 5: 1844–1877"
+      ],
+      "file_base": "2015_Q3",
+      "question_pdf": "/questions/AP United States History/2015_Q3.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "DBQ",
+      "units": [
+        "Period 8: 1945–1980",
+        "Period 9: 1980–Present"
+      ],
+      "file_base": "2015_Q4",
+      "question_pdf": "/questions/AP United States History/2015_Q4.pdf"
+    }
+  ]
+}

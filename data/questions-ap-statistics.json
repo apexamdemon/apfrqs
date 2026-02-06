@@ -1,0 +1,1753 @@
+{
+  "course": "AP Statistics",
+  "question_types": [
+    "Data Collection",
+    "Data Exploration",
+    "Inference",
+    "Probability and Sampling Distributions"
+  ],
+  "units": [
+    "Unit 1: One-Variable Data",
+    "Unit 2: Two-Variable Data",
+    "Unit 3: Collecting Data",
+    "Unit 4: Probability, Random Variables, and Probability Distributions",
+    "Unit 5: Sampling Distributions",
+    "Unit 6: Inference for Categorical Data: Proportions",
+    "Unit 7: Inference for Quantitative Data: Means",
+    "Unit 8: Inference for Categorical Data: Chi-Square",
+    "Unit 9: Inference for Quantitative Data: Slopes"
+  ],
+  "questions": [
+    {
+      "year": 2025,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "2025_Data Collection2",
+      "question_pdf": "/questions/AP Statistics/2025_Data Collection2.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 3: Collecting Data"
+      ],
+      "file_base": "2025_Data Exploration1",
+      "question_pdf": "/questions/AP Statistics/2025_Data Exploration1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Inference",
+      "units": [
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2025_Inference4",
+      "question_pdf": "/questions/AP Statistics/2025_Inference4.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Inference",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2025_Inference5",
+      "question_pdf": "/questions/AP Statistics/2025_Inference5.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Inference",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2025_Inference6",
+      "question_pdf": "/questions/AP Statistics/2025_Inference6.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 5: Sampling Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2025_Probability and Sampling Distributions3",
+      "question_pdf": "/questions/AP Statistics/2025_Probability and Sampling Distributions3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2024_Data Collection3",
+      "question_pdf": "/questions/AP Statistics/2024_Data Collection3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 2: Two-Variable Data",
+        "Unit 3: Collecting Data"
+      ],
+      "file_base": "2024_Data Exploration2",
+      "question_pdf": "/questions/AP Statistics/2024_Data Exploration2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Inference",
+      "units": [
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 2: Two-Variable Data"
+      ],
+      "file_base": "2024_Inference1",
+      "question_pdf": "/questions/AP Statistics/2024_Inference1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Inference",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2024_Inference6",
+      "question_pdf": "/questions/AP Statistics/2024_Inference6.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 2: Two-Variable Data"
+      ],
+      "file_base": "2024_Probability and Sampling Distributions4",
+      "question_pdf": "/questions/AP Statistics/2024_Probability and Sampling Distributions4.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 8: Inference for Categorical Data: Chi-Square",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2024_Probability and Sampling Distributions5",
+      "question_pdf": "/questions/AP Statistics/2024_Probability and Sampling Distributions5.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "2023_Data Collection2",
+      "question_pdf": "/questions/AP Statistics/2023_Data Collection2.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 3: Collecting Data"
+      ],
+      "file_base": "2023_Data Exploration1",
+      "question_pdf": "/questions/AP Statistics/2023_Data Exploration1.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 9: Inference for Quantitative Data: Slopes"
+      ],
+      "file_base": "2023_Data Exploration5",
+      "question_pdf": "/questions/AP Statistics/2023_Data Exploration5.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Inference",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 7: Inference for Quantitative Data: Means",
+        "Unit 2: Two-Variable Data"
+      ],
+      "file_base": "2023_Inference4",
+      "question_pdf": "/questions/AP Statistics/2023_Inference4.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2023_Probability and Sampling Distributions3",
+      "question_pdf": "/questions/AP Statistics/2023_Probability and Sampling Distributions3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 5: Sampling Distributions"
+      ],
+      "file_base": "2023_Probability and Sampling Distributions6",
+      "question_pdf": "/questions/AP Statistics/2023_Probability and Sampling Distributions6.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "2022_Data Collection2",
+      "question_pdf": "/questions/AP Statistics/2022_Data Collection2.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 3: Collecting Data"
+      ],
+      "file_base": "2022_Data Exploration1",
+      "question_pdf": "/questions/AP Statistics/2022_Data Exploration1.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Inference",
+      "units": [
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2022_Inference4",
+      "question_pdf": "/questions/AP Statistics/2022_Inference4.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Inference",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 5: Sampling Distributions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2022_Inference5",
+      "question_pdf": "/questions/AP Statistics/2022_Inference5.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Inference",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2022_Inference6",
+      "question_pdf": "/questions/AP Statistics/2022_Inference6.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2022_Probability and Sampling Distributions3",
+      "question_pdf": "/questions/AP Statistics/2022_Probability and Sampling Distributions3.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2021_Data Collection2",
+      "question_pdf": "/questions/AP Statistics/2021_Data Collection2.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 3: Collecting Data"
+      ],
+      "file_base": "2021_Data Exploration1",
+      "question_pdf": "/questions/AP Statistics/2021_Data Exploration1.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 2: Two-Variable Data",
+        "Unit 3: Collecting Data"
+      ],
+      "file_base": "2021_Data Exploration6",
+      "question_pdf": "/questions/AP Statistics/2021_Data Exploration6.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Inference",
+      "units": [
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 1: One-Variable Data"
+      ],
+      "file_base": "2021_Inference4",
+      "question_pdf": "/questions/AP Statistics/2021_Inference4.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2021_Probability and Sampling Distributions3",
+      "question_pdf": "/questions/AP Statistics/2021_Probability and Sampling Distributions3.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 8: Inference for Categorical Data: Chi-Square"
+      ],
+      "file_base": "2021_Probability and Sampling Distributions5",
+      "question_pdf": "/questions/AP Statistics/2021_Probability and Sampling Distributions5.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "2019_Data Collection2",
+      "question_pdf": "/questions/AP Statistics/2019_Data Collection2.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 3: Collecting Data"
+      ],
+      "file_base": "2019_Data Exploration1",
+      "question_pdf": "/questions/AP Statistics/2019_Data Exploration1.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Inference",
+      "units": [
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2019_Inference4",
+      "question_pdf": "/questions/AP Statistics/2019_Inference4.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2019_Probability and Sampling Distributions3",
+      "question_pdf": "/questions/AP Statistics/2019_Probability and Sampling Distributions3.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 5: Sampling Distributions"
+      ],
+      "file_base": "2019_Probability and Sampling Distributions5",
+      "question_pdf": "/questions/AP Statistics/2019_Probability and Sampling Distributions5.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 5: Sampling Distributions"
+      ],
+      "file_base": "2019_Probability and Sampling Distributions6",
+      "question_pdf": "/questions/AP Statistics/2019_Probability and Sampling Distributions6.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2018_Data Exploration1",
+      "question_pdf": "/questions/AP Statistics/2018_Data Exploration1.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 5: Sampling Distributions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2018_Data Exploration5",
+      "question_pdf": "/questions/AP Statistics/2018_Data Exploration5.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Inference",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2018_Inference2",
+      "question_pdf": "/questions/AP Statistics/2018_Inference2.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Inference",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2018_Inference4",
+      "question_pdf": "/questions/AP Statistics/2018_Inference4.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Inference",
+      "units": [
+        "Unit 5: Sampling Distributions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2018_Inference6",
+      "question_pdf": "/questions/AP Statistics/2018_Inference6.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2018_Probability and Sampling Distributions3",
+      "question_pdf": "/questions/AP Statistics/2018_Probability and Sampling Distributions3.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2017_Data Exploration1",
+      "question_pdf": "/questions/AP Statistics/2017_Data Exploration1.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 8: Inference for Categorical Data: Chi-Square"
+      ],
+      "file_base": "2017_Data Exploration4",
+      "question_pdf": "/questions/AP Statistics/2017_Data Exploration4.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Inference",
+      "units": [
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "2017_Inference2",
+      "question_pdf": "/questions/AP Statistics/2017_Inference2.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Inference",
+      "units": [
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 8: Inference for Categorical Data: Chi-Square"
+      ],
+      "file_base": "2017_Inference5",
+      "question_pdf": "/questions/AP Statistics/2017_Inference5.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "2017_Probability and Sampling Distributions3",
+      "question_pdf": "/questions/AP Statistics/2017_Probability and Sampling Distributions3.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "2017_Probability and Sampling Distributions6",
+      "question_pdf": "/questions/AP Statistics/2017_Probability and Sampling Distributions6.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "2016_Data Collection3",
+      "question_pdf": "/questions/AP Statistics/2016_Data Collection3.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 8: Inference for Categorical Data: Chi-Square"
+      ],
+      "file_base": "2016_Data Exploration1",
+      "question_pdf": "/questions/AP Statistics/2016_Data Exploration1.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 9: Inference for Quantitative Data: Slopes"
+      ],
+      "file_base": "2016_Data Exploration6",
+      "question_pdf": "/questions/AP Statistics/2016_Data Exploration6.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Inference",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 8: Inference for Categorical Data: Chi-Square"
+      ],
+      "file_base": "2016_Inference2",
+      "question_pdf": "/questions/AP Statistics/2016_Inference2.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Inference",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 9: Inference for Quantitative Data: Slopes"
+      ],
+      "file_base": "2016_Inference5",
+      "question_pdf": "/questions/AP Statistics/2016_Inference5.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2016_Probability and Sampling Distributions4",
+      "question_pdf": "/questions/AP Statistics/2016_Probability and Sampling Distributions4.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 5: Sampling Distributions"
+      ],
+      "file_base": "2015_Data Collection6",
+      "question_pdf": "/questions/AP Statistics/2015_Data Collection6.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2015_Data Exploration1",
+      "question_pdf": "/questions/AP Statistics/2015_Data Exploration1.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 3: Collecting Data"
+      ],
+      "file_base": "2015_Data Exploration5",
+      "question_pdf": "/questions/AP Statistics/2015_Data Exploration5.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Inference",
+      "units": [
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "2015_Inference2",
+      "question_pdf": "/questions/AP Statistics/2015_Inference2.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Inference",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2015_Inference4",
+      "question_pdf": "/questions/AP Statistics/2015_Inference4.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2015_Probability and Sampling Distributions3",
+      "question_pdf": "/questions/AP Statistics/2015_Probability and Sampling Distributions3.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2014_Data Collection4",
+      "question_pdf": "/questions/AP Statistics/2014_Data Collection4.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 5: Sampling Distributions",
+        "Unit 8: Inference for Categorical Data: Chi-Square"
+      ],
+      "file_base": "2014_Data Exploration1",
+      "question_pdf": "/questions/AP Statistics/2014_Data Exploration1.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 2: Two-Variable Data"
+      ],
+      "file_base": "2014_Data Exploration6",
+      "question_pdf": "/questions/AP Statistics/2014_Data Exploration6.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Inference",
+      "units": [
+        "Unit 7: Inference for Quantitative Data: Means",
+        "Unit 2: Two-Variable Data"
+      ],
+      "file_base": "2014_Inference5",
+      "question_pdf": "/questions/AP Statistics/2014_Inference5.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 5: Sampling Distributions"
+      ],
+      "file_base": "2014_Probability and Sampling Distributions2",
+      "question_pdf": "/questions/AP Statistics/2014_Probability and Sampling Distributions2.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 5: Sampling Distributions"
+      ],
+      "file_base": "2014_Probability and Sampling Distributions3",
+      "question_pdf": "/questions/AP Statistics/2014_Probability and Sampling Distributions3.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "2013_Data Collection2",
+      "question_pdf": "/questions/AP Statistics/2013_Data Collection2.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 1: One-Variable Data"
+      ],
+      "file_base": "2013_Data Exploration6",
+      "question_pdf": "/questions/AP Statistics/2013_Data Exploration6.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Inference",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2013_Inference1",
+      "question_pdf": "/questions/AP Statistics/2013_Inference1.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Inference",
+      "units": [
+        "Unit 8: Inference for Categorical Data: Chi-Square",
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 3: Collecting Data"
+      ],
+      "file_base": "2013_Inference4",
+      "question_pdf": "/questions/AP Statistics/2013_Inference4.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Inference",
+      "units": [
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 5: Sampling Distributions",
+        "Unit 3: Collecting Data",
+        "Unit 1: One-Variable Data",
+        "Unit 2: Two-Variable Data"
+      ],
+      "file_base": "2013_Inference5",
+      "question_pdf": "/questions/AP Statistics/2013_Inference5.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 8: Inference for Categorical Data: Chi-Square"
+      ],
+      "file_base": "2013_Probability and Sampling Distributions3",
+      "question_pdf": "/questions/AP Statistics/2013_Probability and Sampling Distributions3.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 5: Sampling Distributions"
+      ],
+      "file_base": "2012_Data Exploration1",
+      "question_pdf": "/questions/AP Statistics/2012_Data Exploration1.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Inference",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 7: Inference for Quantitative Data: Means",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2012_Inference3",
+      "question_pdf": "/questions/AP Statistics/2012_Inference3.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Inference",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2012_Inference4",
+      "question_pdf": "/questions/AP Statistics/2012_Inference4.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Inference",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 5: Sampling Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2012_Inference5",
+      "question_pdf": "/questions/AP Statistics/2012_Inference5.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 5: Sampling Distributions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2012_Probability and Sampling Distributions2",
+      "question_pdf": "/questions/AP Statistics/2012_Probability and Sampling Distributions2.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 5: Sampling Distributions"
+      ],
+      "file_base": "2012_Probability and Sampling Distributions6",
+      "question_pdf": "/questions/AP Statistics/2012_Probability and Sampling Distributions6.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2011_Data Collection3",
+      "question_pdf": "/questions/AP Statistics/2011_Data Collection3.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 2: Two-Variable Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "2011_Data Exploration1",
+      "question_pdf": "/questions/AP Statistics/2011_Data Exploration1.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Inference",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 7: Inference for Quantitative Data: Means",
+        "Unit 9: Inference for Quantitative Data: Slopes"
+      ],
+      "file_base": "2011_Inference4",
+      "question_pdf": "/questions/AP Statistics/2011_Inference4.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Inference",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 9: Inference for Quantitative Data: Slopes",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2011_Inference5",
+      "question_pdf": "/questions/AP Statistics/2011_Inference5.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Inference",
+      "units": [
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2011_Inference6",
+      "question_pdf": "/questions/AP Statistics/2011_Inference6.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "2011_Probability and Sampling Distributions2",
+      "question_pdf": "/questions/AP Statistics/2011_Probability and Sampling Distributions2.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 5: Sampling Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2010_Data Collection1",
+      "question_pdf": "/questions/AP Statistics/2010_Data Collection1.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 5: Sampling Distributions"
+      ],
+      "file_base": "2010_Data Exploration6",
+      "question_pdf": "/questions/AP Statistics/2010_Data Exploration6.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Inference",
+      "units": [
+        "Unit 5: Sampling Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 3: Collecting Data",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2010_Inference3",
+      "question_pdf": "/questions/AP Statistics/2010_Inference3.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Inference",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 5: Sampling Distributions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2010_Inference5",
+      "question_pdf": "/questions/AP Statistics/2010_Inference5.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 5: Sampling Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2010_Probability and Sampling Distributions2",
+      "question_pdf": "/questions/AP Statistics/2010_Probability and Sampling Distributions2.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2010_Probability and Sampling Distributions4",
+      "question_pdf": "/questions/AP Statistics/2010_Probability and Sampling Distributions4.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 5: Sampling Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 7: Inference for Quantitative Data: Means",
+        "Unit 8: Inference for Categorical Data: Chi-Square"
+      ],
+      "file_base": "2009_Data Collection3",
+      "question_pdf": "/questions/AP Statistics/2009_Data Collection3.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 5: Sampling Distributions",
+        "Unit 8: Inference for Categorical Data: Chi-Square"
+      ],
+      "file_base": "2009_Data Exploration1",
+      "question_pdf": "/questions/AP Statistics/2009_Data Exploration1.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Inference",
+      "units": [
+        "Unit 7: Inference for Quantitative Data: Means",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2009_Inference4",
+      "question_pdf": "/questions/AP Statistics/2009_Inference4.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Inference",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2009_Inference5",
+      "question_pdf": "/questions/AP Statistics/2009_Inference5.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Inference",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 5: Sampling Distributions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2009_Inference6",
+      "question_pdf": "/questions/AP Statistics/2009_Inference6.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 5: Sampling Distributions",
+        "Unit 8: Inference for Categorical Data: Chi-Square"
+      ],
+      "file_base": "2009_Probability and Sampling Distributions2",
+      "question_pdf": "/questions/AP Statistics/2009_Probability and Sampling Distributions2.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "2008_Data Collection2",
+      "question_pdf": "/questions/AP Statistics/2008_Data Collection2.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 2: Two-Variable Data",
+        "Unit 3: Collecting Data"
+      ],
+      "file_base": "2008_Data Exploration1",
+      "question_pdf": "/questions/AP Statistics/2008_Data Exploration1.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Inference",
+      "units": [
+        "Unit 7: Inference for Quantitative Data: Means",
+        "Unit 9: Inference for Quantitative Data: Slopes"
+      ],
+      "file_base": "2008_Inference3",
+      "question_pdf": "/questions/AP Statistics/2008_Inference3.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Inference",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 5: Sampling Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 8: Inference for Categorical Data: Chi-Square"
+      ],
+      "file_base": "2008_Inference4",
+      "question_pdf": "/questions/AP Statistics/2008_Inference4.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Inference",
+      "units": [
+        "Unit 8: Inference for Categorical Data: Chi-Square",
+        "Unit 7: Inference for Quantitative Data: Means",
+        "Unit 3: Collecting Data"
+      ],
+      "file_base": "2008_Inference5",
+      "question_pdf": "/questions/AP Statistics/2008_Inference5.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Inference",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2008_Inference6",
+      "question_pdf": "/questions/AP Statistics/2008_Inference6.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 2: Two-Variable Data",
+        "Unit 5: Sampling Distributions"
+      ],
+      "file_base": "2008_Probability and Sampling Distributions3",
+      "question_pdf": "/questions/AP Statistics/2008_Probability and Sampling Distributions3.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 5: Sampling Distributions"
+      ],
+      "file_base": "2007_Data Collection2",
+      "question_pdf": "/questions/AP Statistics/2007_Data Collection2.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Inference",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 5: Sampling Distributions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2007_Inference1",
+      "question_pdf": "/questions/AP Statistics/2007_Inference1.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Inference",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2007_Inference4",
+      "question_pdf": "/questions/AP Statistics/2007_Inference4.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Inference",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 9: Inference for Quantitative Data: Slopes"
+      ],
+      "file_base": "2007_Inference5",
+      "question_pdf": "/questions/AP Statistics/2007_Inference5.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Inference",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 9: Inference for Quantitative Data: Slopes"
+      ],
+      "file_base": "2007_Inference6",
+      "question_pdf": "/questions/AP Statistics/2007_Inference6.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 5: Sampling Distributions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2007_Probability and Sampling Distributions3",
+      "question_pdf": "/questions/AP Statistics/2007_Probability and Sampling Distributions3.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 5: Sampling Distributions"
+      ],
+      "file_base": "2006_Data Collection5",
+      "question_pdf": "/questions/AP Statistics/2006_Data Collection5.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 2: Two-Variable Data",
+        "Unit 9: Inference for Quantitative Data: Slopes"
+      ],
+      "file_base": "2006_Data Exploration1",
+      "question_pdf": "/questions/AP Statistics/2006_Data Exploration1.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 9: Inference for Quantitative Data: Slopes",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 5: Sampling Distributions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2006_Data Exploration2",
+      "question_pdf": "/questions/AP Statistics/2006_Data Exploration2.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Inference",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 5: Sampling Distributions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2006_Inference4",
+      "question_pdf": "/questions/AP Statistics/2006_Inference4.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Inference",
+      "units": [
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 5: Sampling Distributions"
+      ],
+      "file_base": "2006_Inference6",
+      "question_pdf": "/questions/AP Statistics/2006_Inference6.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 5: Sampling Distributions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2006_Probability and Sampling Distributions3",
+      "question_pdf": "/questions/AP Statistics/2006_Probability and Sampling Distributions3.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2005_Data Collection5",
+      "question_pdf": "/questions/AP Statistics/2005_Data Collection5.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 5: Sampling Distributions"
+      ],
+      "file_base": "2005_Data Exploration1",
+      "question_pdf": "/questions/AP Statistics/2005_Data Exploration1.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Inference",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 3: Collecting Data"
+      ],
+      "file_base": "2005_Inference3",
+      "question_pdf": "/questions/AP Statistics/2005_Inference3.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Inference",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 9: Inference for Quantitative Data: Slopes"
+      ],
+      "file_base": "2005_Inference4",
+      "question_pdf": "/questions/AP Statistics/2005_Inference4.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Inference",
+      "units": [
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2005_Inference6",
+      "question_pdf": "/questions/AP Statistics/2005_Inference6.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 5: Sampling Distributions"
+      ],
+      "file_base": "2005_Probability and Sampling Distributions2",
+      "question_pdf": "/questions/AP Statistics/2005_Probability and Sampling Distributions2.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "2004_Data Collection2",
+      "question_pdf": "/questions/AP Statistics/2004_Data Collection2.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2004_Data Exploration1",
+      "question_pdf": "/questions/AP Statistics/2004_Data Exploration1.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Inference",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 7: Inference for Quantitative Data: Means",
+        "Unit 8: Inference for Categorical Data: Chi-Square"
+      ],
+      "file_base": "2004_Inference5",
+      "question_pdf": "/questions/AP Statistics/2004_Inference5.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Inference",
+      "units": [
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2004_Inference6",
+      "question_pdf": "/questions/AP Statistics/2004_Inference6.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "2004_Probability and Sampling Distributions3",
+      "question_pdf": "/questions/AP Statistics/2004_Probability and Sampling Distributions3.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 8: Inference for Categorical Data: Chi-Square"
+      ],
+      "file_base": "2004_Probability and Sampling Distributions4",
+      "question_pdf": "/questions/AP Statistics/2004_Probability and Sampling Distributions4.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 8: Inference for Categorical Data: Chi-Square"
+      ],
+      "file_base": "2003_Data Collection4",
+      "question_pdf": "/questions/AP Statistics/2003_Data Collection4.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2003_Data Exploration1",
+      "question_pdf": "/questions/AP Statistics/2003_Data Exploration1.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "Inference",
+      "units": [
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2003_Inference2",
+      "question_pdf": "/questions/AP Statistics/2003_Inference2.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "Inference",
+      "units": [
+        "Unit 8: Inference for Categorical Data: Chi-Square",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "2003_Inference5",
+      "question_pdf": "/questions/AP Statistics/2003_Inference5.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 3: Collecting Data"
+      ],
+      "file_base": "2003_Probability and Sampling Distributions3",
+      "question_pdf": "/questions/AP Statistics/2003_Probability and Sampling Distributions3.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2003_Probability and Sampling Distributions6",
+      "question_pdf": "/questions/AP Statistics/2003_Probability and Sampling Distributions6.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "2002_Data Collection2",
+      "question_pdf": "/questions/AP Statistics/2002_Data Collection2.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2002_Data Exploration4",
+      "question_pdf": "/questions/AP Statistics/2002_Data Exploration4.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Inference",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2002_Inference1",
+      "question_pdf": "/questions/AP Statistics/2002_Inference1.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Inference",
+      "units": [
+        "Unit 7: Inference for Quantitative Data: Means",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2002_Inference5",
+      "question_pdf": "/questions/AP Statistics/2002_Inference5.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Inference",
+      "units": [
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2002_Inference6",
+      "question_pdf": "/questions/AP Statistics/2002_Inference6.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "2002_Probability and Sampling Distributions3",
+      "question_pdf": "/questions/AP Statistics/2002_Probability and Sampling Distributions3.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2001_Data Collection4",
+      "question_pdf": "/questions/AP Statistics/2001_Data Collection4.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "2001_Data Exploration1",
+      "question_pdf": "/questions/AP Statistics/2001_Data Exploration1.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Inference",
+      "units": [
+        "Unit 7: Inference for Quantitative Data: Means",
+        "Unit 9: Inference for Quantitative Data: Slopes"
+      ],
+      "file_base": "2001_Inference5",
+      "question_pdf": "/questions/AP Statistics/2001_Inference5.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Inference",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 9: Inference for Quantitative Data: Slopes"
+      ],
+      "file_base": "2001_Inference6",
+      "question_pdf": "/questions/AP Statistics/2001_Inference6.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "2001_Probability and Sampling Distributions2",
+      "question_pdf": "/questions/AP Statistics/2001_Probability and Sampling Distributions2.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "2001_Probability and Sampling Distributions3",
+      "question_pdf": "/questions/AP Statistics/2001_Probability and Sampling Distributions3.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "2000_Data Collection5",
+      "question_pdf": "/questions/AP Statistics/2000_Data Collection5.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2000_Data Exploration1",
+      "question_pdf": "/questions/AP Statistics/2000_Data Exploration1.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2000_Data Exploration3",
+      "question_pdf": "/questions/AP Statistics/2000_Data Exploration3.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Inference",
+      "units": [
+        "Unit 7: Inference for Quantitative Data: Means",
+        "Unit 8: Inference for Categorical Data: Chi-Square"
+      ],
+      "file_base": "2000_Inference2",
+      "question_pdf": "/questions/AP Statistics/2000_Inference2.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Inference",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 7: Inference for Quantitative Data: Means"
+      ],
+      "file_base": "2000_Inference4",
+      "question_pdf": "/questions/AP Statistics/2000_Inference4.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Inference",
+      "units": [
+        "Unit 6: Inference for Categorical Data: Proportions",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 2: Two-Variable Data"
+      ],
+      "file_base": "2000_Inference6",
+      "question_pdf": "/questions/AP Statistics/2000_Inference6.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 8: Inference for Categorical Data: Chi-Square",
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "1999_Data Collection3",
+      "question_pdf": "/questions/AP Statistics/1999_Data Collection3.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 8: Inference for Categorical Data: Chi-Square",
+        "Unit 7: Inference for Quantitative Data: Means",
+        "Unit 3: Collecting Data"
+      ],
+      "file_base": "1999_Data Exploration1",
+      "question_pdf": "/questions/AP Statistics/1999_Data Exploration1.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "Inference",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 8: Inference for Categorical Data: Chi-Square"
+      ],
+      "file_base": "1999_Inference2",
+      "question_pdf": "/questions/AP Statistics/1999_Inference2.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "Inference",
+      "units": [
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "1999_Inference6",
+      "question_pdf": "/questions/AP Statistics/1999_Inference6.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "1999_Probability and Sampling Distributions4",
+      "question_pdf": "/questions/AP Statistics/1999_Probability and Sampling Distributions4.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "1999_Probability and Sampling Distributions5",
+      "question_pdf": "/questions/AP Statistics/1999_Probability and Sampling Distributions5.pdf"
+    },
+    {
+      "year": 1998,
+      "question_type": "Data Collection",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 8: Inference for Categorical Data: Chi-Square",
+        "Unit 2: Two-Variable Data",
+        "Unit 9: Inference for Quantitative Data: Slopes"
+      ],
+      "file_base": "1998_Data Collection3",
+      "question_pdf": "/questions/AP Statistics/1998_Data Collection3.pdf"
+    },
+    {
+      "year": 1998,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 1: One-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 8: Inference for Categorical Data: Chi-Square"
+      ],
+      "file_base": "1998_Data Exploration2",
+      "question_pdf": "/questions/AP Statistics/1998_Data Exploration2.pdf"
+    },
+    {
+      "year": 1998,
+      "question_type": "Data Exploration",
+      "units": [
+        "Unit 2: Two-Variable Data",
+        "Unit 3: Collecting Data",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "1998_Data Exploration4",
+      "question_pdf": "/questions/AP Statistics/1998_Data Exploration4.pdf"
+    },
+    {
+      "year": 1998,
+      "question_type": "Inference",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions",
+        "Unit 6: Inference for Categorical Data: Proportions"
+      ],
+      "file_base": "1998_Inference5",
+      "question_pdf": "/questions/AP Statistics/1998_Inference5.pdf"
+    },
+    {
+      "year": 1998,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 5: Sampling Distributions",
+        "Unit 1: One-Variable Data",
+        "Unit 2: Two-Variable Data"
+      ],
+      "file_base": "1998_Probability and Sampling Distributions1",
+      "question_pdf": "/questions/AP Statistics/1998_Probability and Sampling Distributions1.pdf"
+    },
+    {
+      "year": 1998,
+      "question_type": "Probability and Sampling Distributions",
+      "units": [
+        "Unit 3: Collecting Data",
+        "Unit 4: Probability, Random Variables, and Probability Distributions"
+      ],
+      "file_base": "1998_Probability and Sampling Distributions6",
+      "question_pdf": "/questions/AP Statistics/1998_Probability and Sampling Distributions6.pdf"
+    }
+  ]
+}

@@ -1,0 +1,1329 @@
+{
+  "course": "AP Computer Science A",
+  "question_types": [
+    "2D Array",
+    "Class Design",
+    "Data Analysis with ArrayList",
+    "Methods and Control Structures"
+  ],
+  "units": [
+    "Unit 1: Using Objects and Methods",
+    "Unit 2: Selection and Iteration",
+    "Unit 3: Class Creation",
+    "Unit 4: Data Collections"
+  ],
+  "questions": [
+    {
+      "year": 2025,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2025_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2025_2D Array4.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation"
+      ],
+      "file_base": "2025_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2025_Class Design2.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2025_Class Design3",
+      "question_pdf": "/questions/AP Computer Science A/2025_Class Design3.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Data Analysis with ArrayList",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2025_Data Analysis with ArrayList3",
+      "question_pdf": "/questions/AP Computer Science A/2025_Data Analysis with ArrayList3.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation"
+      ],
+      "file_base": "2025_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2025_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2024_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2024_2D Array4.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2024_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2024_Class Design2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Data Analysis with ArrayList",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2024_Data Analysis with ArrayList3",
+      "question_pdf": "/questions/AP Computer Science A/2024_Data Analysis with ArrayList3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation"
+      ],
+      "file_base": "2024_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2024_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation"
+      ],
+      "file_base": "2024_Methods and Control Structures3",
+      "question_pdf": "/questions/AP Computer Science A/2024_Methods and Control Structures3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2023_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2023_2D Array4.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 3: Class Creation",
+        "Unit 2: Selection and Iteration"
+      ],
+      "file_base": "2023_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2023_Class Design2.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Data Analysis with ArrayList",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2023_Data Analysis with ArrayList3",
+      "question_pdf": "/questions/AP Computer Science A/2023_Data Analysis with ArrayList3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration"
+      ],
+      "file_base": "2023_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2023_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2022_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2022_2D Array4.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 3: Class Creation",
+        "Unit 2: Selection and Iteration",
+        "Unit 1: Using Objects and Methods"
+      ],
+      "file_base": "2022_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2022_Class Design2.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Data Analysis with ArrayList",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2022_Data Analysis with ArrayList3",
+      "question_pdf": "/questions/AP Computer Science A/2022_Data Analysis with ArrayList3.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration"
+      ],
+      "file_base": "2022_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2022_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2021_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2021_2D Array4.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation"
+      ],
+      "file_base": "2021_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2021_Class Design2.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Data Analysis with ArrayList",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2021_Data Analysis with ArrayList3",
+      "question_pdf": "/questions/AP Computer Science A/2021_Data Analysis with ArrayList3.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation"
+      ],
+      "file_base": "2021_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2021_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2019_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2019_2D Array4.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation"
+      ],
+      "file_base": "2019_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2019_Class Design2.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Data Analysis with ArrayList",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2019_Data Analysis with ArrayList3",
+      "question_pdf": "/questions/AP Computer Science A/2019_Data Analysis with ArrayList3.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration"
+      ],
+      "file_base": "2019_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2019_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": null,
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2019_Q3",
+      "question_pdf": "/questions/AP Computer Science A/2019_Q3.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2018_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2018_2D Array4.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2018_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2018_Class Design2.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2018_Class Design3",
+      "question_pdf": "/questions/AP Computer Science A/2018_Class Design3.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Data Analysis with ArrayList",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2018_Data Analysis with ArrayList3",
+      "question_pdf": "/questions/AP Computer Science A/2018_Data Analysis with ArrayList3.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation"
+      ],
+      "file_base": "2018_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2018_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2017_2D Array3",
+      "question_pdf": "/questions/AP Computer Science A/2017_2D Array3.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2017_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2017_2D Array4.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation"
+      ],
+      "file_base": "2017_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2017_Class Design2.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2017_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2017_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation"
+      ],
+      "file_base": "2017_Methods and Control Structures3",
+      "question_pdf": "/questions/AP Computer Science A/2017_Methods and Control Structures3.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2016_2D Array3",
+      "question_pdf": "/questions/AP Computer Science A/2016_2D Array3.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2016_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2016_2D Array4.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 3: Class Creation"
+      ],
+      "file_base": "2016_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2016_Class Design2.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation"
+      ],
+      "file_base": "2016_Class Design3",
+      "question_pdf": "/questions/AP Computer Science A/2016_Class Design3.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Data Analysis with ArrayList",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2016_Data Analysis with ArrayList3",
+      "question_pdf": "/questions/AP Computer Science A/2016_Data Analysis with ArrayList3.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Data Analysis with ArrayList",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2016_Data Analysis with ArrayList4",
+      "question_pdf": "/questions/AP Computer Science A/2016_Data Analysis with ArrayList4.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2016_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2016_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2015_2D Array1",
+      "question_pdf": "/questions/AP Computer Science A/2015_2D Array1.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2015_2D Array3",
+      "question_pdf": "/questions/AP Computer Science A/2015_2D Array3.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2015_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2015_2D Array4.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2015_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2015_Class Design2.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2015_Class Design4",
+      "question_pdf": "/questions/AP Computer Science A/2015_Class Design4.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Data Analysis with ArrayList",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2015_Data Analysis with ArrayList3",
+      "question_pdf": "/questions/AP Computer Science A/2015_Data Analysis with ArrayList3.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2015_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2015_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2014_2D Array3",
+      "question_pdf": "/questions/AP Computer Science A/2014_2D Array3.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2014_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2014_2D Array4.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2014_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2014_Class Design2.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 3: Class Creation"
+      ],
+      "file_base": "2014_Class Design4",
+      "question_pdf": "/questions/AP Computer Science A/2014_Class Design4.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2014_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2014_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2013_2D Array3",
+      "question_pdf": "/questions/AP Computer Science A/2013_2D Array3.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2013_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2013_2D Array4.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2013_Class Design3",
+      "question_pdf": "/questions/AP Computer Science A/2013_Class Design3.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Data Analysis with ArrayList",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2013_Data Analysis with ArrayList3",
+      "question_pdf": "/questions/AP Computer Science A/2013_Data Analysis with ArrayList3.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2013_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2013_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2013_Methods and Control Structures2",
+      "question_pdf": "/questions/AP Computer Science A/2013_Methods and Control Structures2.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2012_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2012_2D Array4.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2012_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2012_Class Design2.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Data Analysis with ArrayList",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2012_Data Analysis with ArrayList3",
+      "question_pdf": "/questions/AP Computer Science A/2012_Data Analysis with ArrayList3.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2012_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2012_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2012_Methods and Control Structures3",
+      "question_pdf": "/questions/AP Computer Science A/2012_Methods and Control Structures3.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2011_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2011_2D Array4.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2011_Class Design3",
+      "question_pdf": "/questions/AP Computer Science A/2011_Class Design3.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2011_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2011_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2011_Methods and Control Structures2",
+      "question_pdf": "/questions/AP Computer Science A/2011_Methods and Control Structures2.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2010_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2010_Class Design2.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2010_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2010_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2010_Methods and Control Structures4",
+      "question_pdf": "/questions/AP Computer Science A/2010_Methods and Control Structures4.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": null,
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2010_Q3",
+      "question_pdf": "/questions/AP Computer Science A/2010_Q3.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2009_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2009_2D Array4.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 3: Class Creation",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2009_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2009_Class Design2.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Data Analysis with ArrayList",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2009_Data Analysis with ArrayList3",
+      "question_pdf": "/questions/AP Computer Science A/2009_Data Analysis with ArrayList3.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2009_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2009_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2009_Methods and Control Structures3",
+      "question_pdf": "/questions/AP Computer Science A/2009_Methods and Control Structures3.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2008_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2008_Class Design2.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 3: Class Creation"
+      ],
+      "file_base": "2008_Class Design4",
+      "question_pdf": "/questions/AP Computer Science A/2008_Class Design4.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Data Analysis with ArrayList",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2008_Data Analysis with ArrayList3",
+      "question_pdf": "/questions/AP Computer Science A/2008_Data Analysis with ArrayList3.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration"
+      ],
+      "file_base": "2008_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2008_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2008_Methods and Control Structures2",
+      "question_pdf": "/questions/AP Computer Science A/2008_Methods and Control Structures2.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2007_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2007_2D Array4.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation"
+      ],
+      "file_base": "2007_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2007_Class Design2.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2007_Class Design4",
+      "question_pdf": "/questions/AP Computer Science A/2007_Class Design4.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Data Analysis with ArrayList",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2007_Data Analysis with ArrayList3",
+      "question_pdf": "/questions/AP Computer Science A/2007_Data Analysis with ArrayList3.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2007_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2007_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration"
+      ],
+      "file_base": "2006_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2006_2D Array4.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation"
+      ],
+      "file_base": "2006_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2006_Class Design2.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2006_Class Design3",
+      "question_pdf": "/questions/AP Computer Science A/2006_Class Design3.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2006_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2006_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation"
+      ],
+      "file_base": "2005_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2005_Class Design2.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation"
+      ],
+      "file_base": "2005_Class Design3",
+      "question_pdf": "/questions/AP Computer Science A/2005_Class Design3.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2005_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2005_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2005_Methods and Control Structures4",
+      "question_pdf": "/questions/AP Computer Science A/2005_Methods and Control Structures4.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2004_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2004_2D Array4.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2004_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2004_Class Design2.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2004_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2004_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2004_Methods and Control Structures3",
+      "question_pdf": "/questions/AP Computer Science A/2004_Methods and Control Structures3.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2003_2D Array3",
+      "question_pdf": "/questions/AP Computer Science A/2003_2D Array3.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2003_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2003_2D Array4.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2003_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2003_Class Design2.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2003_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2003_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2002_2D Array3",
+      "question_pdf": "/questions/AP Computer Science A/2002_2D Array3.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2002_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2002_2D Array4.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2002_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2002_Class Design2.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2002_Class Design3",
+      "question_pdf": "/questions/AP Computer Science A/2002_Class Design3.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2002_Class Design4",
+      "question_pdf": "/questions/AP Computer Science A/2002_Class Design4.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2002_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2002_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2001_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2001_2D Array4.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2001_Class Design2",
+      "question_pdf": "/questions/AP Computer Science A/2001_Class Design2.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Class Design",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 3: Class Creation"
+      ],
+      "file_base": "2001_Class Design3",
+      "question_pdf": "/questions/AP Computer Science A/2001_Class Design3.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2001_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2001_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "2D Array",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2000_2D Array4",
+      "question_pdf": "/questions/AP Computer Science A/2000_2D Array4.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 2: Selection and Iteration",
+        "Unit 3: Class Creation",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2000_Methods and Control Structures1",
+      "question_pdf": "/questions/AP Computer Science A/2000_Methods and Control Structures1.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration"
+      ],
+      "file_base": "2000_Methods and Control Structures2",
+      "question_pdf": "/questions/AP Computer Science A/2000_Methods and Control Structures2.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Methods and Control Structures",
+      "units": [
+        "Unit 1: Using Objects and Methods",
+        "Unit 2: Selection and Iteration",
+        "Unit 4: Data Collections"
+      ],
+      "file_base": "2000_Methods and Control Structures3",
+      "question_pdf": "/questions/AP Computer Science A/2000_Methods and Control Structures3.pdf"
+    }
+  ]
+}

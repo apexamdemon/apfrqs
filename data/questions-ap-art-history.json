@@ -1,0 +1,532 @@
+{
+  "course": "AP Art History",
+  "question_types": [
+    "Attribution",
+    "Comparison",
+    "Contexual Analysis",
+    "Continuity and Change",
+    "Visual Analysis",
+    "Visual and Contexual Analysis"
+  ],
+  "units": [
+    "Unit 10: Global Contemporary, 1980 CE to Present",
+    "Unit 2: Ancient Mediterranean, 3500 BCE–300 CE",
+    "Unit 3: Early Europe and Colonial Americas, 200–1750 CE",
+    "Unit 4: Later Europe and Americas, 1750–1980 CE",
+    "Unit 5: Indigenous Americas, 1000 BCE–1980 CE",
+    "Unit 6: Africa, 1100–1980 CE",
+    "Unit 7: West and Central Asia, 500 BCE–1980 CE",
+    "Unit 8: South, East, and Southeast Asia, 300 BCE–1980 CE"
+  ],
+  "questions": [
+    {
+      "year": 2025,
+      "question_type": "Attribution",
+      "units": [
+        "Unit 5: Indigenous Americas, 1000 BCE–1980 CE",
+        "Unit 2: Ancient Mediterranean, 3500 BCE–300 CE"
+      ],
+      "file_base": "2025_Attribution5",
+      "question_pdf": "/questions/AP Art History/2025_Attribution5.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Comparison",
+      "units": [
+        "Unit 3: Early Europe and Colonial Americas, 200–1750 CE",
+        "Unit 4: Later Europe and Americas, 1750–1980 CE",
+        "Unit 7: West and Central Asia, 500 BCE–1980 CE",
+        "Unit 8: South, East, and Southeast Asia, 300 BCE–1980 CE",
+        "Unit 10: Global Contemporary, 1980 CE to Present"
+      ],
+      "file_base": "2025_Comparison1",
+      "question_pdf": "/questions/AP Art History/2025_Comparison1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Continuity and Change",
+      "units": [
+        "Unit 2: Ancient Mediterranean, 3500 BCE–300 CE"
+      ],
+      "file_base": "2025_Continuity and Change6",
+      "question_pdf": "/questions/AP Art History/2025_Continuity and Change6.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 10: Global Contemporary, 1980 CE to Present",
+        "Unit 4: Later Europe and Americas, 1750–1980 CE"
+      ],
+      "file_base": "2025_Visual and Contexual Analysis2",
+      "question_pdf": "/questions/AP Art History/2025_Visual and Contexual Analysis2.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 4: Later Europe and Americas, 1750–1980 CE",
+        "Unit 8: South, East, and Southeast Asia, 300 BCE–1980 CE"
+      ],
+      "file_base": "2025_Visual and Contexual Analysis3",
+      "question_pdf": "/questions/AP Art History/2025_Visual and Contexual Analysis3.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 8: South, East, and Southeast Asia, 300 BCE–1980 CE",
+        "Unit 5: Indigenous Americas, 1000 BCE–1980 CE"
+      ],
+      "file_base": "2025_Visual and Contexual Analysis4",
+      "question_pdf": "/questions/AP Art History/2025_Visual and Contexual Analysis4.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Attribution",
+      "units": [
+        "Unit 2: Ancient Mediterranean, 3500 BCE–300 CE",
+        "Unit 5: Indigenous Americas, 1000 BCE–1980 CE"
+      ],
+      "file_base": "2024_Attribution5",
+      "question_pdf": "/questions/AP Art History/2024_Attribution5.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Comparison",
+      "units": [
+        "Unit 2: Ancient Mediterranean, 3500 BCE–300 CE",
+        "Unit 3: Early Europe and Colonial Americas, 200–1750 CE",
+        "Unit 4: Later Europe and Americas, 1750–1980 CE",
+        "Unit 5: Indigenous Americas, 1000 BCE–1980 CE",
+        "Unit 10: Global Contemporary, 1980 CE to Present"
+      ],
+      "file_base": "2024_Comparison1",
+      "question_pdf": "/questions/AP Art History/2024_Comparison1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Contexual Analysis",
+      "units": [
+        "Unit 4: Later Europe and Americas, 1750–1980 CE",
+        "Unit 10: Global Contemporary, 1980 CE to Present"
+      ],
+      "file_base": "2024_Contexual Analysis2",
+      "question_pdf": "/questions/AP Art History/2024_Contexual Analysis2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Continuity and Change",
+      "units": [
+        "Unit 5: Indigenous Americas, 1000 BCE–1980 CE"
+      ],
+      "file_base": "2024_Continuity and Change6",
+      "question_pdf": "/questions/AP Art History/2024_Continuity and Change6.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 8: South, East, and Southeast Asia, 300 BCE–1980 CE",
+        "Unit 10: Global Contemporary, 1980 CE to Present"
+      ],
+      "file_base": "2024_Visual and Contexual Analysis3",
+      "question_pdf": "/questions/AP Art History/2024_Visual and Contexual Analysis3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 8: South, East, and Southeast Asia, 300 BCE–1980 CE",
+        "Unit 2: Ancient Mediterranean, 3500 BCE–300 CE"
+      ],
+      "file_base": "2024_Visual and Contexual Analysis4",
+      "question_pdf": "/questions/AP Art History/2024_Visual and Contexual Analysis4.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Attribution",
+      "units": [
+        "Unit 10: Global Contemporary, 1980 CE to Present",
+        "Unit 4: Later Europe and Americas, 1750–1980 CE"
+      ],
+      "file_base": "2023_Attribution5",
+      "question_pdf": "/questions/AP Art History/2023_Attribution5.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Comparison",
+      "units": [
+        "Unit 3: Early Europe and Colonial Americas, 200–1750 CE",
+        "Unit 8: South, East, and Southeast Asia, 300 BCE–1980 CE",
+        "Unit 5: Indigenous Americas, 1000 BCE–1980 CE",
+        "Unit 6: Africa, 1100–1980 CE"
+      ],
+      "file_base": "2023_Comparison1",
+      "question_pdf": "/questions/AP Art History/2023_Comparison1.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Visual Analysis",
+      "units": [
+        "Unit 3: Early Europe and Colonial Americas, 200–1750 CE",
+        "Unit 8: South, East, and Southeast Asia, 300 BCE–1980 CE",
+        "Unit 5: Indigenous Americas, 1000 BCE–1980 CE"
+      ],
+      "file_base": "2023_Visual Analysis1",
+      "question_pdf": "/questions/AP Art History/2023_Visual Analysis1.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 6: Africa, 1100–1980 CE",
+        "Unit 8: South, East, and Southeast Asia, 300 BCE–1980 CE"
+      ],
+      "file_base": "2023_Visual and Contexual Analysis2",
+      "question_pdf": "/questions/AP Art History/2023_Visual and Contexual Analysis2.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 2: Ancient Mediterranean, 3500 BCE–300 CE",
+        "Unit 8: South, East, and Southeast Asia, 300 BCE–1980 CE"
+      ],
+      "file_base": "2023_Visual and Contexual Analysis3",
+      "question_pdf": "/questions/AP Art History/2023_Visual and Contexual Analysis3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 2: Ancient Mediterranean, 3500 BCE–300 CE",
+        "Unit 10: Global Contemporary, 1980 CE to Present"
+      ],
+      "file_base": "2023_Visual and Contexual Analysis4",
+      "question_pdf": "/questions/AP Art History/2023_Visual and Contexual Analysis4.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 4: Later Europe and Americas, 1750–1980 CE"
+      ],
+      "file_base": "2023_Visual and Contexual Analysis6",
+      "question_pdf": "/questions/AP Art History/2023_Visual and Contexual Analysis6.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Attribution",
+      "units": [
+        "Unit 5: Indigenous Americas, 1000 BCE–1980 CE",
+        "Unit 2: Ancient Mediterranean, 3500 BCE–300 CE"
+      ],
+      "file_base": "2022_Attribution5",
+      "question_pdf": "/questions/AP Art History/2022_Attribution5.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Comparison",
+      "units": [
+        "Unit 3: Early Europe and Colonial Americas, 200–1750 CE",
+        "Unit 4: Later Europe and Americas, 1750–1980 CE",
+        "Unit 7: West and Central Asia, 500 BCE–1980 CE",
+        "Unit 8: South, East, and Southeast Asia, 300 BCE–1980 CE"
+      ],
+      "file_base": "2022_Comparison1",
+      "question_pdf": "/questions/AP Art History/2022_Comparison1.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Continuity and Change",
+      "units": [
+        "Unit 2: Ancient Mediterranean, 3500 BCE–300 CE"
+      ],
+      "file_base": "2022_Continuity and Change6",
+      "question_pdf": "/questions/AP Art History/2022_Continuity and Change6.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 4: Later Europe and Americas, 1750–1980 CE",
+        "Unit 3: Early Europe and Colonial Americas, 200–1750 CE",
+        "Unit 10: Global Contemporary, 1980 CE to Present"
+      ],
+      "file_base": "2022_Visual and Contexual Analysis2",
+      "question_pdf": "/questions/AP Art History/2022_Visual and Contexual Analysis2.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 3: Early Europe and Colonial Americas, 200–1750 CE"
+      ],
+      "file_base": "2022_Visual and Contexual Analysis3",
+      "question_pdf": "/questions/AP Art History/2022_Visual and Contexual Analysis3.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 10: Global Contemporary, 1980 CE to Present",
+        "Unit 5: Indigenous Americas, 1000 BCE–1980 CE"
+      ],
+      "file_base": "2022_Visual and Contexual Analysis4",
+      "question_pdf": "/questions/AP Art History/2022_Visual and Contexual Analysis4.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Attribution",
+      "units": [
+        "Unit 6: Africa, 1100–1980 CE",
+        "Unit 10: Global Contemporary, 1980 CE to Present"
+      ],
+      "file_base": "2021_Attribution5",
+      "question_pdf": "/questions/AP Art History/2021_Attribution5.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Comparison",
+      "units": [
+        "Unit 4: Later Europe and Americas, 1750–1980 CE",
+        "Unit 5: Indigenous Americas, 1000 BCE–1980 CE",
+        "Unit 8: South, East, and Southeast Asia, 300 BCE–1980 CE"
+      ],
+      "file_base": "2021_Comparison1",
+      "question_pdf": "/questions/AP Art History/2021_Comparison1.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Continuity and Change",
+      "units": [
+        "Unit 10: Global Contemporary, 1980 CE to Present"
+      ],
+      "file_base": "2021_Continuity and Change6",
+      "question_pdf": "/questions/AP Art History/2021_Continuity and Change6.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 2: Ancient Mediterranean, 3500 BCE–300 CE",
+        "Unit 4: Later Europe and Americas, 1750–1980 CE",
+        "Unit 8: South, East, and Southeast Asia, 300 BCE–1980 CE"
+      ],
+      "file_base": "2021_Visual and Contexual Analysis2",
+      "question_pdf": "/questions/AP Art History/2021_Visual and Contexual Analysis2.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 2: Ancient Mediterranean, 3500 BCE–300 CE",
+        "Unit 3: Early Europe and Colonial Americas, 200–1750 CE"
+      ],
+      "file_base": "2021_Visual and Contexual Analysis3",
+      "question_pdf": "/questions/AP Art History/2021_Visual and Contexual Analysis3.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 3: Early Europe and Colonial Americas, 200–1750 CE",
+        "Unit 6: Africa, 1100–1980 CE"
+      ],
+      "file_base": "2021_Visual and Contexual Analysis4",
+      "question_pdf": "/questions/AP Art History/2021_Visual and Contexual Analysis4.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 10: Global Contemporary, 1980 CE to Present"
+      ],
+      "file_base": "2021_Visual and Contexual Analysis6",
+      "question_pdf": "/questions/AP Art History/2021_Visual and Contexual Analysis6.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Attribution",
+      "units": [
+        "Unit 10: Global Contemporary, 1980 CE to Present",
+        "Unit 6: Africa, 1100–1980 CE"
+      ],
+      "file_base": "2019_Attribution5",
+      "question_pdf": "/questions/AP Art History/2019_Attribution5.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Comparison",
+      "units": [
+        "Unit 2: Ancient Mediterranean, 3500 BCE–300 CE",
+        "Unit 4: Later Europe and Americas, 1750–1980 CE",
+        "Unit 6: Africa, 1100–1980 CE",
+        "Unit 8: South, East, and Southeast Asia, 300 BCE–1980 CE"
+      ],
+      "file_base": "2019_Comparison1",
+      "question_pdf": "/questions/AP Art History/2019_Comparison1.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Contexual Analysis",
+      "units": [
+        "Unit 8: South, East, and Southeast Asia, 300 BCE–1980 CE",
+        "Unit 10: Global Contemporary, 1980 CE to Present"
+      ],
+      "file_base": "2019_Contexual Analysis4",
+      "question_pdf": "/questions/AP Art History/2019_Contexual Analysis4.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Continuity and Change",
+      "units": [
+        "Unit 6: Africa, 1100–1980 CE"
+      ],
+      "file_base": "2019_Continuity and Change6",
+      "question_pdf": "/questions/AP Art History/2019_Continuity and Change6.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 4: Later Europe and Americas, 1750–1980 CE",
+        "Unit 3: Early Europe and Colonial Americas, 200–1750 CE"
+      ],
+      "file_base": "2019_Visual and Contexual Analysis2",
+      "question_pdf": "/questions/AP Art History/2019_Visual and Contexual Analysis2.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 3: Early Europe and Colonial Americas, 200–1750 CE",
+        "Unit 8: South, East, and Southeast Asia, 300 BCE–1980 CE"
+      ],
+      "file_base": "2019_Visual and Contexual Analysis3",
+      "question_pdf": "/questions/AP Art History/2019_Visual and Contexual Analysis3.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Attribution",
+      "units": [
+        "Unit 3: Early Europe and Colonial Americas, 200–1750 CE",
+        "Unit 4: Later Europe and Americas, 1750–1980 CE"
+      ],
+      "file_base": "2018_Attribution5",
+      "question_pdf": "/questions/AP Art History/2018_Attribution5.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Comparison",
+      "units": [
+        "Unit 2: Ancient Mediterranean, 3500 BCE–300 CE",
+        "Unit 10: Global Contemporary, 1980 CE to Present"
+      ],
+      "file_base": "2018_Comparison1",
+      "question_pdf": "/questions/AP Art History/2018_Comparison1.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 10: Global Contemporary, 1980 CE to Present",
+        "Unit 7: West and Central Asia, 500 BCE–1980 CE"
+      ],
+      "file_base": "2018_Visual and Contexual Analysis2",
+      "question_pdf": "/questions/AP Art History/2018_Visual and Contexual Analysis2.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 7: West and Central Asia, 500 BCE–1980 CE",
+        "Unit 5: Indigenous Americas, 1000 BCE–1980 CE"
+      ],
+      "file_base": "2018_Visual and Contexual Analysis3",
+      "question_pdf": "/questions/AP Art History/2018_Visual and Contexual Analysis3.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 5: Indigenous Americas, 1000 BCE–1980 CE",
+        "Unit 4: Later Europe and Americas, 1750–1980 CE"
+      ],
+      "file_base": "2018_Visual and Contexual Analysis4",
+      "question_pdf": "/questions/AP Art History/2018_Visual and Contexual Analysis4.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 2: Ancient Mediterranean, 3500 BCE–300 CE",
+        "Unit 3: Early Europe and Colonial Americas, 200–1750 CE"
+      ],
+      "file_base": "2018_Visual and Contexual Analysis6",
+      "question_pdf": "/questions/AP Art History/2018_Visual and Contexual Analysis6.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Attribution",
+      "units": [
+        "Unit 6: Africa, 1100–1980 CE",
+        "Unit 4: Later Europe and Americas, 1750–1980 CE"
+      ],
+      "file_base": "2017_Attribution4",
+      "question_pdf": "/questions/AP Art History/2017_Attribution4.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Comparison",
+      "units": [
+        "Unit 3: Early Europe and Colonial Americas, 200–1750 CE",
+        "Unit 7: West and Central Asia, 500 BCE–1980 CE",
+        "Unit 8: South, East, and Southeast Asia, 300 BCE–1980 CE"
+      ],
+      "file_base": "2017_Comparison1",
+      "question_pdf": "/questions/AP Art History/2017_Comparison1.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Continuity and Change",
+      "units": [
+        "Unit 4: Later Europe and Americas, 1750–1980 CE",
+        "Unit 10: Global Contemporary, 1980 CE to Present"
+      ],
+      "file_base": "2017_Continuity and Change6",
+      "question_pdf": "/questions/AP Art History/2017_Continuity and Change6.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 7: West and Central Asia, 500 BCE–1980 CE",
+        "Unit 8: South, East, and Southeast Asia, 300 BCE–1980 CE",
+        "Unit 2: Ancient Mediterranean, 3500 BCE–300 CE"
+      ],
+      "file_base": "2017_Visual and Contexual Analysis2",
+      "question_pdf": "/questions/AP Art History/2017_Visual and Contexual Analysis2.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 2: Ancient Mediterranean, 3500 BCE–300 CE"
+      ],
+      "file_base": "2017_Visual and Contexual Analysis3",
+      "question_pdf": "/questions/AP Art History/2017_Visual and Contexual Analysis3.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Visual and Contexual Analysis",
+      "units": [
+        "Unit 4: Later Europe and Americas, 1750–1980 CE",
+        "Unit 10: Global Contemporary, 1980 CE to Present"
+      ],
+      "file_base": "2017_Visual and Contexual Analysis5",
+      "question_pdf": "/questions/AP Art History/2017_Visual and Contexual Analysis5.pdf"
+    }
+  ]
+}

@@ -1,0 +1,944 @@
+{
+  "course": "AP English Language and Composition",
+  "question_types": [
+    "Argumentative",
+    "Rhetorical Analysis",
+    "Synthesis"
+  ],
+  "units": [
+    "Unit 1: Claims and Evidence",
+    "Unit 2: Organization and Audience",
+    "Unit 3: Perspectives and Counterarguments",
+    "Unit 4: Methods of Argument Development",
+    "Unit 5: Precision and Rhetorical Choices",
+    "Unit 6: Position, Perspective, and Bias",
+    "Unit 7: Complexity of Arguments",
+    "Unit 8: Style and Rhetorical Effect",
+    "Unit 9: Synthesis of Multiple Perspectives"
+  ],
+  "questions": [
+    {
+      "year": 2025,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices"
+      ],
+      "file_base": "2025_Set1_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2025_Set1_Argumentative3.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices"
+      ],
+      "file_base": "2025_Set1_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2025_Set1_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Synthesis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 9: Synthesis of Multiple Perspectives"
+      ],
+      "file_base": "2025_Set1_Synthesis1",
+      "question_pdf": "/questions/AP English Language and Composition/2025_Set1_Synthesis1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 7: Complexity of Arguments"
+      ],
+      "file_base": "2025_Set2_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2025_Set2_Argumentative3.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2025_Set2_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2025_Set2_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Synthesis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 9: Synthesis of Multiple Perspectives"
+      ],
+      "file_base": "2025_Set2_Synthesis1",
+      "question_pdf": "/questions/AP English Language and Composition/2025_Set2_Synthesis1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2024_Set1_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2024_Set1_Argumentative3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2024_Set1_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2024_Set1_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Synthesis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 4: Methods of Argument Development",
+        "Unit 9: Synthesis of Multiple Perspectives"
+      ],
+      "file_base": "2024_Set1_Synthesis1",
+      "question_pdf": "/questions/AP English Language and Composition/2024_Set1_Synthesis1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2024_Set2_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2024_Set2_Argumentative3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2024_Set2_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2024_Set2_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Synthesis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 9: Synthesis of Multiple Perspectives"
+      ],
+      "file_base": "2024_Set2_Synthesis1",
+      "question_pdf": "/questions/AP English Language and Composition/2024_Set2_Synthesis1.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2023_Set1_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2023_Set1_Argumentative3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2023_Set1_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2023_Set1_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Synthesis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 4: Methods of Argument Development",
+        "Unit 9: Synthesis of Multiple Perspectives"
+      ],
+      "file_base": "2023_Set1_Synthesis1",
+      "question_pdf": "/questions/AP English Language and Composition/2023_Set1_Synthesis1.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 6: Position, Perspective, and Bias",
+        "Unit 5: Precision and Rhetorical Choices"
+      ],
+      "file_base": "2023_Set2_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2023_Set2_Argumentative3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2023_Set2_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2023_Set2_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Synthesis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 9: Synthesis of Multiple Perspectives"
+      ],
+      "file_base": "2023_Set2_Synthesis1",
+      "question_pdf": "/questions/AP English Language and Composition/2023_Set2_Synthesis1.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2022_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2022_Argumentative3.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 2: Organization and Audience",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2022_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2022_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Synthesis",
+      "units": [
+        "Unit 9: Synthesis of Multiple Perspectives",
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2022_Synthesis1",
+      "question_pdf": "/questions/AP English Language and Composition/2022_Synthesis1.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices"
+      ],
+      "file_base": "2021_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2021_Argumentative3.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2021_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2021_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Synthesis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 9: Synthesis of Multiple Perspectives"
+      ],
+      "file_base": "2021_Synthesis1",
+      "question_pdf": "/questions/AP English Language and Composition/2021_Synthesis1.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2017_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2017_Argumentative3.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2017_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2017_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Synthesis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 9: Synthesis of Multiple Perspectives"
+      ],
+      "file_base": "2017_Synthesis1",
+      "question_pdf": "/questions/AP English Language and Composition/2017_Synthesis1.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 4: Methods of Argument Development",
+        "Unit 7: Complexity of Arguments"
+      ],
+      "file_base": "2016_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2016_Argumentative3.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2016_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2016_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Synthesis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 9: Synthesis of Multiple Perspectives"
+      ],
+      "file_base": "2016_Synthesis1",
+      "question_pdf": "/questions/AP English Language and Composition/2016_Synthesis1.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2015_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2015_Argumentative3.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2015_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2015_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Synthesis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 9: Synthesis of Multiple Perspectives"
+      ],
+      "file_base": "2015_Synthesis1",
+      "question_pdf": "/questions/AP English Language and Composition/2015_Synthesis1.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2014_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2014_Argumentative3.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2014_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2014_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Synthesis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 9: Synthesis of Multiple Perspectives"
+      ],
+      "file_base": "2014_Synthesis1",
+      "question_pdf": "/questions/AP English Language and Composition/2014_Synthesis1.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2013_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2013_Argumentative3.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices"
+      ],
+      "file_base": "2013_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2013_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Synthesis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 9: Synthesis of Multiple Perspectives"
+      ],
+      "file_base": "2013_Synthesis1",
+      "question_pdf": "/questions/AP English Language and Composition/2013_Synthesis1.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2012_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2012_Argumentative3.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2012_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2012_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Synthesis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 9: Synthesis of Multiple Perspectives"
+      ],
+      "file_base": "2012_Synthesis1",
+      "question_pdf": "/questions/AP English Language and Composition/2012_Synthesis1.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 6: Position, Perspective, and Bias",
+        "Unit 7: Complexity of Arguments"
+      ],
+      "file_base": "2011_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2011_Argumentative3.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 2: Organization and Audience",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2011_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2011_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Synthesis",
+      "units": [
+        "Unit 9: Synthesis of Multiple Perspectives",
+        "Unit 1: Claims and Evidence"
+      ],
+      "file_base": "2011_Synthesis1",
+      "question_pdf": "/questions/AP English Language and Composition/2011_Synthesis1.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 4: Methods of Argument Development",
+        "Unit 7: Complexity of Arguments"
+      ],
+      "file_base": "2010_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2010_Argumentative3.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2010_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2010_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Synthesis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 9: Synthesis of Multiple Perspectives"
+      ],
+      "file_base": "2010_Synthesis1",
+      "question_pdf": "/questions/AP English Language and Composition/2010_Synthesis1.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 7: Complexity of Arguments"
+      ],
+      "file_base": "2009_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2009_Argumentative3.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2009_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2009_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Synthesis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 9: Synthesis of Multiple Perspectives"
+      ],
+      "file_base": "2009_Synthesis1",
+      "question_pdf": "/questions/AP English Language and Composition/2009_Synthesis1.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2008_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2008_Argumentative3.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2008_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2008_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Synthesis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 9: Synthesis of Multiple Perspectives"
+      ],
+      "file_base": "2008_Synthesis1",
+      "question_pdf": "/questions/AP English Language and Composition/2008_Synthesis1.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2007_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2007_Argumentative3.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 4: Methods of Argument Development",
+        "Unit 8: Style and Rhetorical Effect",
+        "Unit 1: Claims and Evidence"
+      ],
+      "file_base": "2007_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2007_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Synthesis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 9: Synthesis of Multiple Perspectives"
+      ],
+      "file_base": "2007_Synthesis1",
+      "question_pdf": "/questions/AP English Language and Composition/2007_Synthesis1.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 4: Methods of Argument Development",
+        "Unit 6: Position, Perspective, and Bias"
+      ],
+      "file_base": "2006_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2006_Argumentative3.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2006_Rhetorical Analysis1",
+      "question_pdf": "/questions/AP English Language and Composition/2006_Rhetorical Analysis1.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2006_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2006_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 4: Methods of Argument Development",
+        "Unit 7: Complexity of Arguments"
+      ],
+      "file_base": "2005_Argumentative1",
+      "question_pdf": "/questions/AP English Language and Composition/2005_Argumentative1.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments"
+      ],
+      "file_base": "2005_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2005_Argumentative3.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect",
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments"
+      ],
+      "file_base": "2005_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2005_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 7: Complexity of Arguments",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2004_Argumentative2",
+      "question_pdf": "/questions/AP English Language and Composition/2004_Argumentative2.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 6: Position, Perspective, and Bias",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2004_Rhetorical Analysis1",
+      "question_pdf": "/questions/AP English Language and Composition/2004_Rhetorical Analysis1.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 6: Position, Perspective, and Bias",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2004_Rhetorical Analysis3",
+      "question_pdf": "/questions/AP English Language and Composition/2004_Rhetorical Analysis3.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2003_Argumentative1",
+      "question_pdf": "/questions/AP English Language and Composition/2003_Argumentative1.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 2: Organization and Audience",
+        "Unit 4: Methods of Argument Development",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2003_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2003_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 2: Organization and Audience",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 6: Position, Perspective, and Bias",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2003_Rhetorical Analysis3",
+      "question_pdf": "/questions/AP English Language and Composition/2003_Rhetorical Analysis3.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 6: Position, Perspective, and Bias",
+        "Unit 7: Complexity of Arguments"
+      ],
+      "file_base": "2002_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2002_Argumentative3.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2002_Rhetorical Analysis1",
+      "question_pdf": "/questions/AP English Language and Composition/2002_Rhetorical Analysis1.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2002_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2002_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 7: Complexity of Arguments"
+      ],
+      "file_base": "2001_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2001_Argumentative3.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2001_Rhetorical Analysis1",
+      "question_pdf": "/questions/AP English Language and Composition/2001_Rhetorical Analysis1.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 8: Style and Rhetorical Effect",
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2001_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2001_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2000_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/2000_Argumentative3.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2000_Rhetorical Analysis1",
+      "question_pdf": "/questions/AP English Language and Composition/2000_Rhetorical Analysis1.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices"
+      ],
+      "file_base": "2000_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/2000_Rhetorical Analysis2.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "Argumentative",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 6: Position, Perspective, and Bias"
+      ],
+      "file_base": "1999_Argumentative3",
+      "question_pdf": "/questions/AP English Language and Composition/1999_Argumentative3.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "1999_Rhetorical Analysis1",
+      "question_pdf": "/questions/AP English Language and Composition/1999_Rhetorical Analysis1.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "Rhetorical Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "1999_Rhetorical Analysis2",
+      "question_pdf": "/questions/AP English Language and Composition/1999_Rhetorical Analysis2.pdf"
+    }
+  ]
+}

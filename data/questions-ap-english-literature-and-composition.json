@@ -1,0 +1,994 @@
+{
+  "course": "AP English Literature and Composition",
+  "question_types": [
+    "Literary Argument",
+    "Poetry Analysis",
+    "Prose Analysis"
+  ],
+  "units": [
+    "Unit 1: Claims and Evidence",
+    "Unit 2: Organization and Audience",
+    "Unit 3: Perspectives and Counterarguments",
+    "Unit 4: Methods of Argument Development",
+    "Unit 5: Precision and Rhetorical Choices",
+    "Unit 6: Position, Perspective, and Bias",
+    "Unit 7: Complexity of Arguments",
+    "Unit 8: Style and Rhetorical Effect"
+  ],
+  "questions": [
+    {
+      "year": 2025,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2025_Set1_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2025_Set1_Literary Argument3.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2025_Set1_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2025_Set1_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2025_Set1_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2025_Set1_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices"
+      ],
+      "file_base": "2025_Set2_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2025_Set2_Literary Argument3.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2025_Set2_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2025_Set2_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2025_Set2_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2025_Set2_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2024_Set1_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2024_Set1_Literary Argument3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2024_Set1_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2024_Set1_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2024_Set1_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2024_Set1_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2024_Set2_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2024_Set2_Literary Argument3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2024_Set2_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2024_Set2_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 6: Position, Perspective, and Bias",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2024_Set2_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2024_Set2_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2023_Set1_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2023_Set1_Literary Argument3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2023_Set1_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2023_Set1_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2023_Set1_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2023_Set1_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 7: Complexity of Arguments"
+      ],
+      "file_base": "2023_Set2_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2023_Set2_Literary Argument3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2023_Set2_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2023_Set2_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2023_Set2_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2023_Set2_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2022_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2022_Literary Argument3.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2022_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2022_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2022_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2022_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2021_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2021_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 6: Position, Perspective, and Bias",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2021_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2021_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2021_Prose Analysis3",
+      "question_pdf": "/questions/AP English Literature and Composition/2021_Prose Analysis3.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 6: Position, Perspective, and Bias",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2019_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2019_Literary Argument3.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2019_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2019_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2019_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2019_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2018_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2018_Literary Argument3.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 2: Organization and Audience",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 6: Position, Perspective, and Bias",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2018_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2018_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 6: Position, Perspective, and Bias",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2018_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2018_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2017_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2017_Literary Argument3.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2017_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2017_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2017_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2017_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2016_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2016_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2016_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2016_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 6: Position, Perspective, and Bias"
+      ],
+      "file_base": "2016_Prose Analysis3",
+      "question_pdf": "/questions/AP English Literature and Composition/2016_Prose Analysis3.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2015_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2015_Literary Argument3.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2015_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2015_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2015_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2015_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2014_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2014_Literary Argument3.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2014_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2014_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2014_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2014_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 2: Organization and Audience",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2013_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2013_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2013_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2013_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 4: Methods of Argument Development",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2013_Prose Analysis3",
+      "question_pdf": "/questions/AP English Literature and Composition/2013_Prose Analysis3.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2012_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2012_Literary Argument3.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2012_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2012_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2012_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2012_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 7: Complexity of Arguments"
+      ],
+      "file_base": "2011_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2011_Literary Argument3.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 2: Organization and Audience",
+        "Unit 6: Position, Perspective, and Bias",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2011_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2011_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2011_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2011_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 7: Complexity of Arguments"
+      ],
+      "file_base": "2010_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2010_Literary Argument3.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 6: Position, Perspective, and Bias",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2010_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2010_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2010_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2010_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2009_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2009_Literary Argument3.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2009_Prose Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2009_Prose Analysis1.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2009_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2009_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2008_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2008_Literary Argument3.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 6: Position, Perspective, and Bias",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2008_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2008_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2008_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2008_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2007_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2007_Literary Argument3.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 4: Methods of Argument Development",
+        "Unit 6: Position, Perspective, and Bias",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2007_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2007_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2007_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2007_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2006_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2006_Literary Argument3.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2006_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2006_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2006_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2006_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2005_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2005_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2005_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2005_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2005_Prose Analysis3",
+      "question_pdf": "/questions/AP English Literature and Composition/2005_Prose Analysis3.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2004_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2004_Literary Argument3.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2004_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2004_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 6: Position, Perspective, and Bias",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2004_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2004_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2003_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2003_Literary Argument3.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2003_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2003_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2003_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2003_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 7: Complexity of Arguments"
+      ],
+      "file_base": "2002_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2002_Literary Argument3.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 6: Position, Perspective, and Bias",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2002_Poetry Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2002_Poetry Analysis2.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2002_Prose Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2002_Prose Analysis1.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Literary Argument",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 3: Perspectives and Counterarguments",
+        "Unit 4: Methods of Argument Development",
+        "Unit 6: Position, Perspective, and Bias"
+      ],
+      "file_base": "2001_Literary Argument3",
+      "question_pdf": "/questions/AP English Literature and Composition/2001_Literary Argument3.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 6: Position, Perspective, and Bias",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2001_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2001_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2001_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2001_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2000_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/2000_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 4: Methods of Argument Development",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "2000_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/2000_Prose Analysis2.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 4: Methods of Argument Development"
+      ],
+      "file_base": "2000_Prose Analysis3",
+      "question_pdf": "/questions/AP English Literature and Composition/2000_Prose Analysis3.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "Poetry Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "1999_Poetry Analysis1",
+      "question_pdf": "/questions/AP English Literature and Composition/1999_Poetry Analysis1.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 5: Precision and Rhetorical Choices",
+        "Unit 7: Complexity of Arguments",
+        "Unit 8: Style and Rhetorical Effect"
+      ],
+      "file_base": "1999_Prose Analysis2",
+      "question_pdf": "/questions/AP English Literature and Composition/1999_Prose Analysis2.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "Prose Analysis",
+      "units": [
+        "Unit 1: Claims and Evidence",
+        "Unit 2: Organization and Audience",
+        "Unit 4: Methods of Argument Development",
+        "Unit 7: Complexity of Arguments"
+      ],
+      "file_base": "1999_Prose Analysis3",
+      "question_pdf": "/questions/AP English Literature and Composition/1999_Prose Analysis3.pdf"
+    }
+  ]
+}

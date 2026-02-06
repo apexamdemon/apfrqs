@@ -1,0 +1,435 @@
+{
+  "course": "AP Spanish Language and Culture",
+  "question_types": [
+    "Interpersonal Speaking",
+    "Interpersonal Writing",
+    "Presentational Speaking",
+    "Presentational Writing"
+  ],
+  "units": [
+    "Unit 1: Basic Economic Concepts",
+    "Unit 4: Financial Sector"
+  ],
+  "questions": [
+    {
+      "year": 2025,
+      "question_type": "Interpersonal Speaking",
+      "units": [],
+      "file_base": "2025_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2025_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Interpersonal Writing",
+      "units": [],
+      "file_base": "2025_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2025_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Presentational Speaking",
+      "units": [],
+      "file_base": "2025_Presentational Speaking4",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2025_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Presentational Writing",
+      "units": [
+        "Unit 1: Basic Economic Concepts"
+      ],
+      "file_base": "2025_Presentational Writing2",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2025_Presentational Writing2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Interpersonal Speaking",
+      "units": [],
+      "file_base": "2024_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2024_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Interpersonal Writing",
+      "units": [],
+      "file_base": "2024_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2024_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Presentational Speaking",
+      "units": [],
+      "file_base": "2024_Presentational Speaking4",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2024_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Presentational Writing",
+      "units": [
+        "Unit 1: Basic Economic Concepts",
+        "Unit 4: Financial Sector"
+      ],
+      "file_base": "2024_Presentational Writing2",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2024_Presentational Writing2.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Interpersonal Speaking",
+      "units": [],
+      "file_base": "2023_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2023_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Interpersonal Writing",
+      "units": [],
+      "file_base": "2023_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2023_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Interpersonal Writing",
+      "units": [],
+      "file_base": "2023_Interpersonal Writing3",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2023_Interpersonal Writing3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Presentational Speaking",
+      "units": [],
+      "file_base": "2023_Presentational Speaking4",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2023_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Presentational Writing",
+      "units": [],
+      "file_base": "2023_Presentational Writing2",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2023_Presentational Writing2.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Interpersonal Speaking",
+      "units": [],
+      "file_base": "2022_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2022_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Interpersonal Writing",
+      "units": [],
+      "file_base": "2022_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2022_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Interpersonal Writing",
+      "units": [],
+      "file_base": "2022_Interpersonal Writing3",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2022_Interpersonal Writing3.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Presentational Speaking",
+      "units": [],
+      "file_base": "2022_Presentational Speaking4",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2022_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Presentational Writing",
+      "units": [],
+      "file_base": "2022_Presentational Writing2",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2022_Presentational Writing2.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Interpersonal Speaking",
+      "units": [],
+      "file_base": "2021_Interpersonal Speaking1",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2021_Interpersonal Speaking1.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Interpersonal Speaking",
+      "units": [],
+      "file_base": "2021_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2021_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Interpersonal Writing",
+      "units": [],
+      "file_base": "2021_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2021_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Presentational Speaking",
+      "units": [],
+      "file_base": "2021_Presentational Speaking4",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2021_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Presentational Writing",
+      "units": [],
+      "file_base": "2021_Presentational Writing2",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2021_Presentational Writing2.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Interpersonal Speaking",
+      "units": [],
+      "file_base": "2019_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2019_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Interpersonal Writing",
+      "units": [],
+      "file_base": "2019_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2019_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Presentational Speaking",
+      "units": [],
+      "file_base": "2019_Presentational Speaking4",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2019_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Presentational Writing",
+      "units": [],
+      "file_base": "2019_Presentational Writing2",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2019_Presentational Writing2.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Interpersonal Speaking",
+      "units": [],
+      "file_base": "2018_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2018_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Interpersonal Writing",
+      "units": [],
+      "file_base": "2018_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2018_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Presentational Speaking",
+      "units": [],
+      "file_base": "2018_Presentational Speaking4",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2018_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Presentational Writing",
+      "units": [],
+      "file_base": "2018_Presentational Writing2",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2018_Presentational Writing2.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": null,
+      "units": [],
+      "file_base": "2018_Q3",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2018_Q3.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Interpersonal Speaking",
+      "units": [],
+      "file_base": "2017_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2017_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Interpersonal Writing",
+      "units": [],
+      "file_base": "2017_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2017_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Presentational Speaking",
+      "units": [],
+      "file_base": "2017_Presentational Speaking4",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2017_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Presentational Writing",
+      "units": [],
+      "file_base": "2017_Presentational Writing2",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2017_Presentational Writing2.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": null,
+      "units": [],
+      "file_base": "2017_Q5",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2017_Q5.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Interpersonal Speaking",
+      "units": [],
+      "file_base": "2016_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2016_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Interpersonal Writing",
+      "units": [],
+      "file_base": "2016_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2016_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Presentational Speaking",
+      "units": [],
+      "file_base": "2016_Presentational Speaking3",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2016_Presentational Speaking3.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Presentational Speaking",
+      "units": [],
+      "file_base": "2016_Presentational Speaking4",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2016_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Presentational Writing",
+      "units": [],
+      "file_base": "2016_Presentational Writing2",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2016_Presentational Writing2.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Interpersonal Speaking",
+      "units": [],
+      "file_base": "2015_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2015_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Interpersonal Writing",
+      "units": [],
+      "file_base": "2015_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2015_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Presentational Speaking",
+      "units": [],
+      "file_base": "2015_Presentational Speaking4",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2015_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Presentational Writing",
+      "units": [
+        "Unit 1: Basic Economic Concepts"
+      ],
+      "file_base": "2015_Presentational Writing2",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2015_Presentational Writing2.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Interpersonal Speaking",
+      "units": [],
+      "file_base": "2014_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2014_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Interpersonal Writing",
+      "units": [],
+      "file_base": "2014_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2014_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Presentational Speaking",
+      "units": [],
+      "file_base": "2014_Presentational Speaking4",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2014_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Presentational Writing",
+      "units": [],
+      "file_base": "2014_Presentational Writing2",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2014_Presentational Writing2.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": null,
+      "units": [],
+      "file_base": "2014_Q2",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2014_Q2.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Interpersonal Speaking",
+      "units": [],
+      "file_base": "2013_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2013_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Interpersonal Writing",
+      "units": [],
+      "file_base": "2013_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2013_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Presentational Speaking",
+      "units": [],
+      "file_base": "2013_Presentational Speaking4",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2013_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Presentational Writing",
+      "units": [],
+      "file_base": "2013_Presentational Writing2",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2013_Presentational Writing2.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Interpersonal Speaking",
+      "units": [],
+      "file_base": "2012_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2012_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Interpersonal Writing",
+      "units": [],
+      "file_base": "2012_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2012_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Presentational Speaking",
+      "units": [],
+      "file_base": "2012_Presentational Speaking2",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2012_Presentational Speaking2.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Presentational Writing",
+      "units": [],
+      "file_base": "2012_Presentational Writing2",
+      "question_pdf": "/questions/AP Spanish Language and Culture/2012_Presentational Writing2.pdf"
+    }
+  ]
+}

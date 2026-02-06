@@ -1,0 +1,347 @@
+{
+  "course": "AP Italian Language and Culture",
+  "question_types": [
+    "Interpersonal Speaking",
+    "Interpersonal Writing",
+    "Presentational Speaking"
+  ],
+  "units": [
+    "Unit 1: Families in Different Societies",
+    "Unit 2: The Influence of Language and Culture on Identity",
+    "Unit 3: Influences of Beauty and Art",
+    "Unit 4: How Science and Technology Affect Our Lives",
+    "Unit 5: Factors That Impact the Quality of Life",
+    "Unit 6: Environmental, Political, and Societal Challenges"
+  ],
+  "questions": [
+    {
+      "year": 2019,
+      "question_type": "Interpersonal Speaking",
+      "units": [
+        "Unit 5: Factors That Impact the Quality of Life",
+        "Unit 6: Environmental, Political, and Societal Challenges"
+      ],
+      "file_base": "2019_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Italian Language and Culture/2019_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Interpersonal Writing",
+      "units": [
+        "Unit 1: Families in Different Societies",
+        "Unit 5: Factors That Impact the Quality of Life"
+      ],
+      "file_base": "2019_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Italian Language and Culture/2019_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Presentational Speaking",
+      "units": [
+        "Unit 5: Factors That Impact the Quality of Life",
+        "Unit 6: Environmental, Political, and Societal Challenges"
+      ],
+      "file_base": "2019_Presentational Speaking4",
+      "question_pdf": "/questions/AP Italian Language and Culture/2019_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": null,
+      "units": [
+        "Unit 1: Families in Different Societies",
+        "Unit 4: How Science and Technology Affect Our Lives",
+        "Unit 5: Factors That Impact the Quality of Life"
+      ],
+      "file_base": "2019_Q2",
+      "question_pdf": "/questions/AP Italian Language and Culture/2019_Q2.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Interpersonal Speaking",
+      "units": [
+        "Unit 1: Families in Different Societies"
+      ],
+      "file_base": "2018_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Italian Language and Culture/2018_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Interpersonal Writing",
+      "units": [
+        "Unit 4: How Science and Technology Affect Our Lives",
+        "Unit 5: Factors That Impact the Quality of Life",
+        "Unit 6: Environmental, Political, and Societal Challenges"
+      ],
+      "file_base": "2018_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Italian Language and Culture/2018_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Presentational Speaking",
+      "units": [
+        "Unit 1: Families in Different Societies"
+      ],
+      "file_base": "2018_Presentational Speaking4",
+      "question_pdf": "/questions/AP Italian Language and Culture/2018_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": null,
+      "units": [
+        "Unit 4: How Science and Technology Affect Our Lives",
+        "Unit 5: Factors That Impact the Quality of Life"
+      ],
+      "file_base": "2018_Q2",
+      "question_pdf": "/questions/AP Italian Language and Culture/2018_Q2.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Interpersonal Speaking",
+      "units": [
+        "Unit 5: Factors That Impact the Quality of Life"
+      ],
+      "file_base": "2017_Interpersonal Speaking2",
+      "question_pdf": "/questions/AP Italian Language and Culture/2017_Interpersonal Speaking2.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Interpersonal Speaking",
+      "units": [
+        "Unit 4: How Science and Technology Affect Our Lives",
+        "Unit 5: Factors That Impact the Quality of Life"
+      ],
+      "file_base": "2017_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Italian Language and Culture/2017_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Interpersonal Writing",
+      "units": [
+        "Unit 1: Families in Different Societies",
+        "Unit 2: The Influence of Language and Culture on Identity"
+      ],
+      "file_base": "2017_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Italian Language and Culture/2017_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Presentational Speaking",
+      "units": [
+        "Unit 4: How Science and Technology Affect Our Lives"
+      ],
+      "file_base": "2017_Presentational Speaking4",
+      "question_pdf": "/questions/AP Italian Language and Culture/2017_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": null,
+      "units": [
+        "Unit 2: The Influence of Language and Culture on Identity",
+        "Unit 5: Factors That Impact the Quality of Life"
+      ],
+      "file_base": "2017_Q2",
+      "question_pdf": "/questions/AP Italian Language and Culture/2017_Q2.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Interpersonal Speaking",
+      "units": [
+        "Unit 3: Influences of Beauty and Art",
+        "Unit 5: Factors That Impact the Quality of Life"
+      ],
+      "file_base": "2016_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Italian Language and Culture/2016_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Interpersonal Writing",
+      "units": [
+        "Unit 1: Families in Different Societies",
+        "Unit 6: Environmental, Political, and Societal Challenges"
+      ],
+      "file_base": "2016_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Italian Language and Culture/2016_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Presentational Speaking",
+      "units": [
+        "Unit 5: Factors That Impact the Quality of Life"
+      ],
+      "file_base": "2016_Presentational Speaking4",
+      "question_pdf": "/questions/AP Italian Language and Culture/2016_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": null,
+      "units": [
+        "Unit 1: Families in Different Societies"
+      ],
+      "file_base": "2016_Q2",
+      "question_pdf": "/questions/AP Italian Language and Culture/2016_Q2.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Interpersonal Speaking",
+      "units": [
+        "Unit 1: Families in Different Societies",
+        "Unit 2: The Influence of Language and Culture on Identity"
+      ],
+      "file_base": "2015_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Italian Language and Culture/2015_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Interpersonal Writing",
+      "units": [
+        "Unit 4: How Science and Technology Affect Our Lives",
+        "Unit 3: Influences of Beauty and Art"
+      ],
+      "file_base": "2015_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Italian Language and Culture/2015_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Presentational Speaking",
+      "units": [
+        "Unit 2: The Influence of Language and Culture on Identity"
+      ],
+      "file_base": "2015_Presentational Speaking4",
+      "question_pdf": "/questions/AP Italian Language and Culture/2015_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": null,
+      "units": [
+        "Unit 3: Influences of Beauty and Art"
+      ],
+      "file_base": "2015_Q2",
+      "question_pdf": "/questions/AP Italian Language and Culture/2015_Q2.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Interpersonal Speaking",
+      "units": [
+        "Unit 1: Families in Different Societies",
+        "Unit 3: Influences of Beauty and Art"
+      ],
+      "file_base": "2014_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Italian Language and Culture/2014_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Interpersonal Writing",
+      "units": [
+        "Unit 2: The Influence of Language and Culture on Identity",
+        "Unit 4: How Science and Technology Affect Our Lives"
+      ],
+      "file_base": "2014_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Italian Language and Culture/2014_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Presentational Speaking",
+      "units": [
+        "Unit 3: Influences of Beauty and Art"
+      ],
+      "file_base": "2014_Presentational Speaking4",
+      "question_pdf": "/questions/AP Italian Language and Culture/2014_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": null,
+      "units": [
+        "Unit 4: How Science and Technology Affect Our Lives",
+        "Unit 3: Influences of Beauty and Art"
+      ],
+      "file_base": "2014_Q2",
+      "question_pdf": "/questions/AP Italian Language and Culture/2014_Q2.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Interpersonal Speaking",
+      "units": [
+        "Unit 1: Families in Different Societies",
+        "Unit 4: How Science and Technology Affect Our Lives"
+      ],
+      "file_base": "2013_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Italian Language and Culture/2013_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Interpersonal Writing",
+      "units": [
+        "Unit 3: Influences of Beauty and Art",
+        "Unit 6: Environmental, Political, and Societal Challenges"
+      ],
+      "file_base": "2013_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Italian Language and Culture/2013_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Presentational Speaking",
+      "units": [
+        "Unit 1: Families in Different Societies"
+      ],
+      "file_base": "2013_Presentational Speaking4",
+      "question_pdf": "/questions/AP Italian Language and Culture/2013_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": null,
+      "units": [
+        "Unit 6: Environmental, Political, and Societal Challenges"
+      ],
+      "file_base": "2013_Q2",
+      "question_pdf": "/questions/AP Italian Language and Culture/2013_Q2.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": null,
+      "units": [
+        "Unit 6: Environmental, Political, and Societal Challenges"
+      ],
+      "file_base": "2013_Q3",
+      "question_pdf": "/questions/AP Italian Language and Culture/2013_Q3.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Interpersonal Speaking",
+      "units": [
+        "Unit 3: Influences of Beauty and Art",
+        "Unit 1: Families in Different Societies"
+      ],
+      "file_base": "2012_Interpersonal Speaking3",
+      "question_pdf": "/questions/AP Italian Language and Culture/2012_Interpersonal Speaking3.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Interpersonal Writing",
+      "units": [
+        "Unit 5: Factors That Impact the Quality of Life",
+        "Unit 6: Environmental, Political, and Societal Challenges"
+      ],
+      "file_base": "2012_Interpersonal Writing1",
+      "question_pdf": "/questions/AP Italian Language and Culture/2012_Interpersonal Writing1.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Presentational Speaking",
+      "units": [
+        "Unit 1: Families in Different Societies"
+      ],
+      "file_base": "2012_Presentational Speaking4",
+      "question_pdf": "/questions/AP Italian Language and Culture/2012_Presentational Speaking4.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": null,
+      "units": [
+        "Unit 5: Factors That Impact the Quality of Life",
+        "Unit 6: Environmental, Political, and Societal Challenges"
+      ],
+      "file_base": "2012_Q2",
+      "question_pdf": "/questions/AP Italian Language and Culture/2012_Q2.pdf"
+    }
+  ]
+}

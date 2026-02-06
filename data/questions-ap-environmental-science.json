@@ -1,0 +1,874 @@
+{
+  "course": "AP Environmental Science",
+  "question_types": [
+    "Environmental analysis",
+    "Investigative Design,",
+    "Quantitative environmental analysis"
+  ],
+  "units": [
+    "Unit 1: The Living World: Ecosystems",
+    "Unit 2: The Living World: Biodiversity",
+    "Unit 3: Populations",
+    "Unit 4: Earth Systems and Resources",
+    "Unit 5: Land and Water Use",
+    "Unit 6: Energy Resources and Consumption",
+    "Unit 7: Atmospheric Pollution",
+    "Unit 8: Aquatic and Terrestrial Pollution",
+    "Unit 9: Global Change"
+  ],
+  "questions": [
+    {
+      "year": 2025,
+      "question_type": "Investigative Design,",
+      "units": [
+        "Unit 1: The Living World: Ecosystems",
+        "Unit 2: The Living World: Biodiversity",
+        "Unit 3: Populations",
+        "Unit 9: Global Change"
+      ],
+      "file_base": "2025_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2025_Q1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 4: Earth Systems and Resources",
+        "Unit 7: Atmospheric Pollution",
+        "Unit 1: The Living World: Ecosystems"
+      ],
+      "file_base": "2025_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2025_Q2.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 7: Atmospheric Pollution",
+        "Unit 6: Energy Resources and Consumption"
+      ],
+      "file_base": "2025_Q3",
+      "question_pdf": "/questions/AP Environmental Science/2025_Q3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Investigative Design,",
+      "units": [
+        "Unit 1: The Living World: Ecosystems",
+        "Unit 8: Aquatic and Terrestrial Pollution"
+      ],
+      "file_base": "2024_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2024_Q1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 3: Populations",
+        "Unit 5: Land and Water Use",
+        "Unit 8: Aquatic and Terrestrial Pollution",
+        "Unit 9: Global Change"
+      ],
+      "file_base": "2024_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2024_Q2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 6: Energy Resources and Consumption",
+        "Unit 9: Global Change"
+      ],
+      "file_base": "2024_Q3",
+      "question_pdf": "/questions/AP Environmental Science/2024_Q3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Investigative Design,",
+      "units": [
+        "Unit 1: The Living World: Ecosystems",
+        "Unit 2: The Living World: Biodiversity",
+        "Unit 3: Populations"
+      ],
+      "file_base": "2023_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2023_Q1.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 1: The Living World: Ecosystems",
+        "Unit 2: The Living World: Biodiversity",
+        "Unit 7: Atmospheric Pollution"
+      ],
+      "file_base": "2023_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2023_Q2.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 4: Earth Systems and Resources",
+        "Unit 6: Energy Resources and Consumption"
+      ],
+      "file_base": "2023_Q3",
+      "question_pdf": "/questions/AP Environmental Science/2023_Q3.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 1: The Living World: Ecosystems",
+        "Unit 8: Aquatic and Terrestrial Pollution"
+      ],
+      "file_base": "2022_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2022_Q1.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 4: Earth Systems and Resources",
+        "Unit 5: Land and Water Use",
+        "Unit 7: Atmospheric Pollution"
+      ],
+      "file_base": "2022_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2022_Q2.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 1: The Living World: Ecosystems",
+        "Unit 4: Earth Systems and Resources",
+        "Unit 6: Energy Resources and Consumption",
+        "Unit 9: Global Change"
+      ],
+      "file_base": "2022_Q3",
+      "question_pdf": "/questions/AP Environmental Science/2022_Q3.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Investigative Design,",
+      "units": [
+        "Unit 6: Energy Resources and Consumption"
+      ],
+      "file_base": "2021_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2021_Q1.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 2: The Living World: Biodiversity",
+        "Unit 5: Land and Water Use"
+      ],
+      "file_base": "2021_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2021_Q2.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 2: The Living World: Biodiversity",
+        "Unit 3: Populations"
+      ],
+      "file_base": "2021_Q3",
+      "question_pdf": "/questions/AP Environmental Science/2021_Q3.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 6: Energy Resources and Consumption",
+        "Unit 5: Land and Water Use"
+      ],
+      "file_base": "2018_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2018_Q1.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 6: Energy Resources and Consumption"
+      ],
+      "file_base": "2018_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2018_Q2.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 1: The Living World: Ecosystems",
+        "Unit 3: Populations",
+        "Unit 9: Global Change"
+      ],
+      "file_base": "2018_Q3",
+      "question_pdf": "/questions/AP Environmental Science/2018_Q3.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 7: Atmospheric Pollution"
+      ],
+      "file_base": "2018_Q4",
+      "question_pdf": "/questions/AP Environmental Science/2018_Q4.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 8: Aquatic and Terrestrial Pollution"
+      ],
+      "file_base": "2017_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2017_Q1.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 3: Populations"
+      ],
+      "file_base": "2017_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2017_Q2.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 1: The Living World: Ecosystems",
+        "Unit 3: Populations"
+      ],
+      "file_base": "2017_Q3",
+      "question_pdf": "/questions/AP Environmental Science/2017_Q3.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 3: Populations",
+        "Unit 5: Land and Water Use"
+      ],
+      "file_base": "2017_Q4",
+      "question_pdf": "/questions/AP Environmental Science/2017_Q4.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 2: The Living World: Biodiversity",
+        "Unit 3: Populations"
+      ],
+      "file_base": "2016_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2016_Q1.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 5: Land and Water Use"
+      ],
+      "file_base": "2016_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2016_Q2.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 3: Populations",
+        "Unit 5: Land and Water Use"
+      ],
+      "file_base": "2016_Q3",
+      "question_pdf": "/questions/AP Environmental Science/2016_Q3.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 1: The Living World: Ecosystems",
+        "Unit 5: Land and Water Use",
+        "Unit 9: Global Change"
+      ],
+      "file_base": "2016_Q4",
+      "question_pdf": "/questions/AP Environmental Science/2016_Q4.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 1: The Living World: Ecosystems",
+        "Unit 3: Populations",
+        "Unit 9: Global Change"
+      ],
+      "file_base": "2015_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2015_Q1.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 5: Land and Water Use",
+        "Unit 8: Aquatic and Terrestrial Pollution"
+      ],
+      "file_base": "2015_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2015_Q2.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 8: Aquatic and Terrestrial Pollution"
+      ],
+      "file_base": "2015_Q3",
+      "question_pdf": "/questions/AP Environmental Science/2015_Q3.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 3: Populations",
+        "Unit 5: Land and Water Use"
+      ],
+      "file_base": "2015_Q4",
+      "question_pdf": "/questions/AP Environmental Science/2015_Q4.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 6: Energy Resources and Consumption",
+        "Unit 8: Aquatic and Terrestrial Pollution"
+      ],
+      "file_base": "2014_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2014_Q1.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 5: Land and Water Use",
+        "Unit 8: Aquatic and Terrestrial Pollution"
+      ],
+      "file_base": "2014_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2014_Q2.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 4: Earth Systems and Resources",
+        "Unit 1: The Living World: Ecosystems"
+      ],
+      "file_base": "2014_Q3",
+      "question_pdf": "/questions/AP Environmental Science/2014_Q3.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 1: The Living World: Ecosystems",
+        "Unit 9: Global Change"
+      ],
+      "file_base": "2014_Q4",
+      "question_pdf": "/questions/AP Environmental Science/2014_Q4.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 8: Aquatic and Terrestrial Pollution",
+        "Unit 1: The Living World: Ecosystems"
+      ],
+      "file_base": "2013_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2013_Q1.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 6: Energy Resources and Consumption",
+        "Unit 9: Global Change"
+      ],
+      "file_base": "2013_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2013_Q2.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 7: Atmospheric Pollution"
+      ],
+      "file_base": "2013_Q3",
+      "question_pdf": "/questions/AP Environmental Science/2013_Q3.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 2: The Living World: Biodiversity"
+      ],
+      "file_base": "2013_Q4",
+      "question_pdf": "/questions/AP Environmental Science/2013_Q4.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 6: Energy Resources and Consumption",
+        "Unit 8: Aquatic and Terrestrial Pollution"
+      ],
+      "file_base": "2012_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2012_Q1.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 1: The Living World: Ecosystems",
+        "Unit 5: Land and Water Use"
+      ],
+      "file_base": "2012_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2012_Q2.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Investigative Design,",
+      "units": [
+        "Unit 5: Land and Water Use"
+      ],
+      "file_base": "2012_Q3",
+      "question_pdf": "/questions/AP Environmental Science/2012_Q3.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 1: The Living World: Ecosystems",
+        "Unit 5: Land and Water Use"
+      ],
+      "file_base": "2012_Q4",
+      "question_pdf": "/questions/AP Environmental Science/2012_Q4.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 1: The Living World: Ecosystems",
+        "Unit 9: Global Change"
+      ],
+      "file_base": "2011_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2011_Q1.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 1: The Living World: Ecosystems",
+        "Unit 2: The Living World: Biodiversity",
+        "Unit 9: Global Change"
+      ],
+      "file_base": "2011_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2011_Q2.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 6: Energy Resources and Consumption",
+        "Unit 7: Atmospheric Pollution"
+      ],
+      "file_base": "2011_Q3",
+      "question_pdf": "/questions/AP Environmental Science/2011_Q3.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 3: Populations",
+        "Unit 5: Land and Water Use"
+      ],
+      "file_base": "2011_Q4",
+      "question_pdf": "/questions/AP Environmental Science/2011_Q4.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 5: Land and Water Use"
+      ],
+      "file_base": "2011_Q6",
+      "question_pdf": "/questions/AP Environmental Science/2011_Q6.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 7: Atmospheric Pollution",
+        "Unit 9: Global Change"
+      ],
+      "file_base": "2010_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2010_Q1.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 1: The Living World: Ecosystems",
+        "Unit 9: Global Change"
+      ],
+      "file_base": "2010_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2010_Q2.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 2: The Living World: Biodiversity"
+      ],
+      "file_base": "2010_Q3",
+      "question_pdf": "/questions/AP Environmental Science/2010_Q3.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 1: The Living World: Ecosystems",
+        "Unit 9: Global Change"
+      ],
+      "file_base": "2010_Q4",
+      "question_pdf": "/questions/AP Environmental Science/2010_Q4.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 7: Atmospheric Pollution",
+        "Unit 1: The Living World: Ecosystems"
+      ],
+      "file_base": "2009_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2009_Q1.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 6: Energy Resources and Consumption",
+        "Unit 9: Global Change",
+        "Unit 8: Aquatic and Terrestrial Pollution"
+      ],
+      "file_base": "2009_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2009_Q2.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 5: Land and Water Use"
+      ],
+      "file_base": "2009_Q4",
+      "question_pdf": "/questions/AP Environmental Science/2009_Q4.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 6: Energy Resources and Consumption"
+      ],
+      "file_base": "2008_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2008_Q1.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 5: Land and Water Use",
+        "Unit 8: Aquatic and Terrestrial Pollution"
+      ],
+      "file_base": "2008_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2008_Q2.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 6: Energy Resources and Consumption",
+        "Unit 5: Land and Water Use",
+        "Unit 9: Global Change"
+      ],
+      "file_base": "2008_Q3",
+      "question_pdf": "/questions/AP Environmental Science/2008_Q3.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 3: Populations",
+        "Unit 2: The Living World: Biodiversity"
+      ],
+      "file_base": "2008_Q4",
+      "question_pdf": "/questions/AP Environmental Science/2008_Q4.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 8: Aquatic and Terrestrial Pollution"
+      ],
+      "file_base": "2007_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2007_Q1.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 6: Energy Resources and Consumption",
+        "Unit 5: Land and Water Use"
+      ],
+      "file_base": "2007_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2007_Q2.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 4: Earth Systems and Resources",
+        "Unit 7: Atmospheric Pollution",
+        "Unit 8: Aquatic and Terrestrial Pollution"
+      ],
+      "file_base": "2007_Q4",
+      "question_pdf": "/questions/AP Environmental Science/2007_Q4.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 6: Energy Resources and Consumption"
+      ],
+      "file_base": "2006_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2006_Q1.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 7: Atmospheric Pollution",
+        "Unit 9: Global Change"
+      ],
+      "file_base": "2006_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2006_Q2.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 5: Land and Water Use",
+        "Unit 8: Aquatic and Terrestrial Pollution"
+      ],
+      "file_base": "2006_Q3",
+      "question_pdf": "/questions/AP Environmental Science/2006_Q3.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 3: Populations",
+        "Unit 2: The Living World: Biodiversity",
+        "Unit 5: Land and Water Use"
+      ],
+      "file_base": "2006_Q4",
+      "question_pdf": "/questions/AP Environmental Science/2006_Q4.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Investigative Design,",
+      "units": [
+        "Unit 3: Populations"
+      ],
+      "file_base": "2005_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2005_Q1.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 5: Land and Water Use",
+        "Unit 6: Energy Resources and Consumption"
+      ],
+      "file_base": "2005_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2005_Q2.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 4: Earth Systems and Resources",
+        "Unit 5: Land and Water Use",
+        "Unit 6: Energy Resources and Consumption",
+        "Unit 9: Global Change"
+      ],
+      "file_base": "2005_Q3",
+      "question_pdf": "/questions/AP Environmental Science/2005_Q3.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 8: Aquatic and Terrestrial Pollution"
+      ],
+      "file_base": "2004_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2004_Q1.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 6: Energy Resources and Consumption",
+        "Unit 9: Global Change"
+      ],
+      "file_base": "2004_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2004_Q2.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 5: Land and Water Use"
+      ],
+      "file_base": "2004_Q4",
+      "question_pdf": "/questions/AP Environmental Science/2004_Q4.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 5: Land and Water Use",
+        "Unit 6: Energy Resources and Consumption"
+      ],
+      "file_base": "2002_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2002_Q1.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 8: Aquatic and Terrestrial Pollution"
+      ],
+      "file_base": "2002_Q3",
+      "question_pdf": "/questions/AP Environmental Science/2002_Q3.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 4: Earth Systems and Resources",
+        "Unit 9: Global Change"
+      ],
+      "file_base": "2002_Q4",
+      "question_pdf": "/questions/AP Environmental Science/2002_Q4.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 6: Energy Resources and Consumption"
+      ],
+      "file_base": "2001_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2001_Q1.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": null,
+      "units": [
+        "Unit 1: The Living World: Ecosystems",
+        "Unit 3: Populations"
+      ],
+      "file_base": "2001_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2001_Q2.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 7: Atmospheric Pollution"
+      ],
+      "file_base": "2001_Q3",
+      "question_pdf": "/questions/AP Environmental Science/2001_Q3.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 8: Aquatic and Terrestrial Pollution"
+      ],
+      "file_base": "2001_Q4",
+      "question_pdf": "/questions/AP Environmental Science/2001_Q4.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Quantitative environmental analysis",
+      "units": [
+        "Unit 7: Atmospheric Pollution",
+        "Unit 6: Energy Resources and Consumption"
+      ],
+      "file_base": "2000_Q1",
+      "question_pdf": "/questions/AP Environmental Science/2000_Q1.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 5: Land and Water Use"
+      ],
+      "file_base": "2000_Q2",
+      "question_pdf": "/questions/AP Environmental Science/2000_Q2.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 2: The Living World: Biodiversity"
+      ],
+      "file_base": "2000_Q3",
+      "question_pdf": "/questions/AP Environmental Science/2000_Q3.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 3: Populations"
+      ],
+      "file_base": "2000_Q4",
+      "question_pdf": "/questions/AP Environmental Science/2000_Q4.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": null,
+      "units": [
+        "Unit 1: The Living World: Ecosystems",
+        "Unit 5: Land and Water Use"
+      ],
+      "file_base": "1999_Q1",
+      "question_pdf": "/questions/AP Environmental Science/1999_Q1.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 7: Atmospheric Pollution"
+      ],
+      "file_base": "1999_Q3",
+      "question_pdf": "/questions/AP Environmental Science/1999_Q3.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "Environmental analysis",
+      "units": [
+        "Unit 5: Land and Water Use",
+        "Unit 8: Aquatic and Terrestrial Pollution"
+      ],
+      "file_base": "1999_Q4",
+      "question_pdf": "/questions/AP Environmental Science/1999_Q4.pdf"
+    }
+  ]
+}

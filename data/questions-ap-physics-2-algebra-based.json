@@ -1,0 +1,387 @@
+{
+  "course": "AP Physics 2 Algebra-Based",
+  "question_types": [
+    "Experimental design",
+    "Mathematical routines",
+    "Qualitative/quantitative translation",
+    "Translation between representations"
+  ],
+  "units": [
+    "Unit 10: Electric Force, Field, and Potential",
+    "Unit 11: Electric Circuits",
+    "Unit 12: Magnetism and Electromagnetism",
+    "Unit 13: Geometric Optics",
+    "Unit 14: Waves, Sound, and Physical Optics",
+    "Unit 15: Modern Physics",
+    "Unit 9: Thermodynamics"
+  ],
+  "questions": [
+    {
+      "year": 2025,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 12: Magnetism and Electromagnetism",
+        "Unit 9: Thermodynamics"
+      ],
+      "file_base": "2025_Q1",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2025_Q1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 9: Thermodynamics"
+      ],
+      "file_base": "2025_Q2",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2025_Q2.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Experimental design",
+      "units": [
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2025_Q3",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2025_Q3.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 14: Waves, Sound, and Physical Optics"
+      ],
+      "file_base": "2025_Q4",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2025_Q4.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 15: Modern Physics"
+      ],
+      "file_base": "2024_Q1",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2024_Q1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Experimental design",
+      "units": [
+        "Unit 9: Thermodynamics"
+      ],
+      "file_base": "2024_Q2",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2024_Q2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2024_Q3",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2024_Q3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Mathematical routines",
+      "units": [
+        "Unit 10: Electric Force, Field, and Potential",
+        "Unit 12: Magnetism and Electromagnetism"
+      ],
+      "file_base": "2024_Q4",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2024_Q4.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 13: Geometric Optics"
+      ],
+      "file_base": "2023_Q1",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2023_Q1.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Experimental design",
+      "units": [
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2023_Q2",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2023_Q2.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 9: Thermodynamics"
+      ],
+      "file_base": "2023_Q3",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2023_Q3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 10: Electric Force, Field, and Potential"
+      ],
+      "file_base": "2023_Q4",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2023_Q4.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 13: Geometric Optics"
+      ],
+      "file_base": "2022_Q1",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2022_Q1.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Experimental design",
+      "units": [
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2022_Q2",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2022_Q2.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Mathematical routines",
+      "units": [
+        "Unit 15: Modern Physics"
+      ],
+      "file_base": "2022_Q3",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2022_Q3.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Mathematical routines",
+      "units": [
+        "Unit 12: Magnetism and Electromagnetism"
+      ],
+      "file_base": "2022_Q4",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2022_Q4.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 9: Thermodynamics"
+      ],
+      "file_base": "2021_Q1",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2021_Q1.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Experimental design",
+      "units": [
+        "Unit 9: Thermodynamics"
+      ],
+      "file_base": "2021_Q2",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2021_Q2.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 12: Magnetism and Electromagnetism",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2021_Q3",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2021_Q3.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 15: Modern Physics"
+      ],
+      "file_base": "2021_Q4",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2021_Q4.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 12: Magnetism and Electromagnetism"
+      ],
+      "file_base": "2019_Q1",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2019_Q1.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2019_Q2",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2019_Q2.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Experimental design",
+      "units": [
+        "Unit 9: Thermodynamics"
+      ],
+      "file_base": "2019_Q3",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2019_Q3.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 9: Thermodynamics"
+      ],
+      "file_base": "2019_Q4",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2019_Q4.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 12: Magnetism and Electromagnetism"
+      ],
+      "file_base": "2018_Q1",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2018_Q1.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Experimental design",
+      "units": [
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2018_Q2",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2018_Q2.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 15: Modern Physics"
+      ],
+      "file_base": "2018_Q3",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2018_Q3.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 13: Geometric Optics",
+        "Unit 14: Waves, Sound, and Physical Optics"
+      ],
+      "file_base": "2018_Q4",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2018_Q4.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 9: Thermodynamics"
+      ],
+      "file_base": "2017_Q1",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2017_Q1.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Experimental design",
+      "units": [
+        "Unit 10: Electric Force, Field, and Potential",
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2017_Q2",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2017_Q2.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 13: Geometric Optics"
+      ],
+      "file_base": "2017_Q3",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2017_Q3.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Mathematical routines",
+      "units": [
+        "Unit 10: Electric Force, Field, and Potential"
+      ],
+      "file_base": "2017_Q4",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2017_Q4.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 9: Thermodynamics"
+      ],
+      "file_base": "2016_Q1",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2016_Q1.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Experimental design",
+      "units": [
+        "Unit 13: Geometric Optics",
+        "Unit 15: Modern Physics"
+      ],
+      "file_base": "2016_Q2",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2016_Q2.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 10: Electric Force, Field, and Potential"
+      ],
+      "file_base": "2016_Q3",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2016_Q3.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Translation between representations",
+      "units": [
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2016_Q4",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2016_Q4.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 13: Geometric Optics"
+      ],
+      "file_base": "2015_Q1",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2015_Q1.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 11: Electric Circuits"
+      ],
+      "file_base": "2015_Q2",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2015_Q2.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Experimental design",
+      "units": [
+        "Unit 9: Thermodynamics"
+      ],
+      "file_base": "2015_Q3",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2015_Q3.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Qualitative/quantitative translation",
+      "units": [
+        "Unit 10: Electric Force, Field, and Potential",
+        "Unit 12: Magnetism and Electromagnetism"
+      ],
+      "file_base": "2015_Q4",
+      "question_pdf": "/questions/AP Physics 2 Algebra-Based/2015_Q4.pdf"
+    }
+  ]
+}

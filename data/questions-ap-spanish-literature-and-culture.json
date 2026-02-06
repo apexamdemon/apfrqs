@@ -1,0 +1,1021 @@
+{
+  "course": "AP Spanish Literature and Culture",
+  "question_types": [
+    "Analysis of a Single Text",
+    "Text Comparison",
+    "Text Explanation",
+    "Text and Art Comparison"
+  ],
+  "units": [
+    "Unit 1: La época medieval",
+    "Unit 2: El siglo XVI",
+    "Unit 3: El siglo XVII",
+    "Unit 4: La literatura romántica, realista y naturalista",
+    "Unit 5: La Generación del 98 y el Modernismo",
+    "Unit 6: Teatro y poesía del siglo XX",
+    "Unit 7: El Boom latinoamericano",
+    "Unit 8: Escritores contemporáneos de Estados Unidos, y España"
+  ],
+  "questions": [
+    {
+      "year": 2025,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 4: La literatura romántica, realista y naturalista",
+        "Unit 5: La Generación del 98 y el Modernismo",
+        "Unit 6: Teatro y poesía del siglo XX"
+      ],
+      "file_base": "2025_Analysis of a Single Text3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2025_Analysis of a Single Text3.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Text and Art Comparison",
+      "units": [
+        "Unit 5: La Generación del 98 y el Modernismo"
+      ],
+      "file_base": "2025_Text and Art Comparison1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2025_Text and Art Comparison1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Text and Art Comparison",
+      "units": [
+        "Unit 6: Teatro y poesía del siglo XX"
+      ],
+      "file_base": "2025_Text and Art Comparison2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2025_Text and Art Comparison2.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Text Comparison",
+      "units": [
+        "Unit 4: La literatura romántica, realista y naturalista",
+        "Unit 5: La Generación del 98 y el Modernismo"
+      ],
+      "file_base": "2025_Text Comparison4",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2025_Text Comparison4.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 6: Teatro y poesía del siglo XX"
+      ],
+      "file_base": "2025_Text Explanation1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2025_Text Explanation1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 5: La Generación del 98 y el Modernismo"
+      ],
+      "file_base": "2025_Text Explanation2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2025_Text Explanation2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 1: La época medieval",
+        "Unit 8: Escritores contemporáneos de Estados Unidos, y España"
+      ],
+      "file_base": "2024_Analysis of a Single Text3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2024_Analysis of a Single Text3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": null,
+      "units": [
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2024_Q2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2024_Q2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Text and Art Comparison",
+      "units": [
+        "Unit 1: La época medieval",
+        "Unit 5: La Generación del 98 y el Modernismo"
+      ],
+      "file_base": "2024_Text and Art Comparison2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2024_Text and Art Comparison2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Text Comparison",
+      "units": [
+        "Unit 7: El Boom latinoamericano",
+        "Unit 8: Escritores contemporáneos de Estados Unidos, y España"
+      ],
+      "file_base": "2024_Text Comparison4",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2024_Text Comparison4.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2024_Text Explanation1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2024_Text Explanation1.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 5: La Generación del 98 y el Modernismo",
+        "Unit 6: Teatro y poesía del siglo XX"
+      ],
+      "file_base": "2023_Analysis of a Single Text3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2023_Analysis of a Single Text3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Text and Art Comparison",
+      "units": [
+        "Unit 5: La Generación del 98 y el Modernismo"
+      ],
+      "file_base": "2023_Text and Art Comparison1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2023_Text and Art Comparison1.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Text and Art Comparison",
+      "units": [
+        "Unit 5: La Generación del 98 y el Modernismo"
+      ],
+      "file_base": "2023_Text and Art Comparison2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2023_Text and Art Comparison2.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Text Comparison",
+      "units": [
+        "Unit 4: La literatura romántica, realista y naturalista",
+        "Unit 6: Teatro y poesía del siglo XX"
+      ],
+      "file_base": "2023_Text Comparison4",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2023_Text Comparison4.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 3: El siglo XVII",
+        "Unit 5: La Generación del 98 y el Modernismo"
+      ],
+      "file_base": "2023_Text Explanation1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2023_Text Explanation1.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 4: La literatura romántica, realista y naturalista"
+      ],
+      "file_base": "2023_Text Explanation2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2023_Text Explanation2.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 7: El Boom latinoamericano",
+        "Unit 8: Escritores contemporáneos de Estados Unidos, y España"
+      ],
+      "file_base": "2022_Analysis of a Single Text3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2022_Analysis of a Single Text3.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Text and Art Comparison",
+      "units": [
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2022_Text and Art Comparison1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2022_Text and Art Comparison1.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Text and Art Comparison",
+      "units": [
+        "Unit 1: La época medieval"
+      ],
+      "file_base": "2022_Text and Art Comparison2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2022_Text and Art Comparison2.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Text Comparison",
+      "units": [
+        "Unit 4: La literatura romántica, realista y naturalista"
+      ],
+      "file_base": "2022_Text Comparison1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2022_Text Comparison1.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Text Comparison",
+      "units": [
+        "Unit 4: La literatura romántica, realista y naturalista",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2022_Text Comparison4",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2022_Text Comparison4.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 1: La época medieval",
+        "Unit 8: Escritores contemporáneos de Estados Unidos, y España"
+      ],
+      "file_base": "2022_Text Explanation1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2022_Text Explanation1.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2021_Analysis of a Single Text3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2021_Analysis of a Single Text3.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Text and Art Comparison",
+      "units": [
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2021_Text and Art Comparison1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2021_Text and Art Comparison1.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Text and Art Comparison",
+      "units": [
+        "Unit 6: Teatro y poesía del siglo XX"
+      ],
+      "file_base": "2021_Text and Art Comparison2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2021_Text and Art Comparison2.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Text Comparison",
+      "units": [
+        "Unit 4: La literatura romántica, realista y naturalista"
+      ],
+      "file_base": "2021_Text Comparison4",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2021_Text Comparison4.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 3: El siglo XVII",
+        "Unit 4: La literatura romántica, realista y naturalista",
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2021_Text Explanation1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2021_Text Explanation1.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 4: La literatura romántica, realista y naturalista"
+      ],
+      "file_base": "2021_Text Explanation2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2021_Text Explanation2.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 5: La Generación del 98 y el Modernismo"
+      ],
+      "file_base": "2019_Analysis of a Single Text3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2019_Analysis of a Single Text3.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Text and Art Comparison",
+      "units": [
+        "Unit 2: El siglo XVI",
+        "Unit 5: La Generación del 98 y el Modernismo"
+      ],
+      "file_base": "2019_Text and Art Comparison2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2019_Text and Art Comparison2.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Text Comparison",
+      "units": [
+        "Unit 5: La Generación del 98 y el Modernismo",
+        "Unit 8: Escritores contemporáneos de Estados Unidos, y España"
+      ],
+      "file_base": "2019_Text Comparison4",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2019_Text Comparison4.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 2: El siglo XVI"
+      ],
+      "file_base": "2019_Text Explanation1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2019_Text Explanation1.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 2: El siglo XVI",
+        "Unit 3: El siglo XVII"
+      ],
+      "file_base": "2018_Analysis of a Single Text3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2018_Analysis of a Single Text3.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Text and Art Comparison",
+      "units": [
+        "Unit 2: El siglo XVI",
+        "Unit 4: La literatura romántica, realista y naturalista"
+      ],
+      "file_base": "2018_Text and Art Comparison2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2018_Text and Art Comparison2.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Text Comparison",
+      "units": [
+        "Unit 3: El siglo XVII"
+      ],
+      "file_base": "2018_Text Comparison4",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2018_Text Comparison4.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 4: La literatura romántica, realista y naturalista"
+      ],
+      "file_base": "2018_Text Explanation1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2018_Text Explanation1.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 1: La época medieval",
+        "Unit 6: Teatro y poesía del siglo XX"
+      ],
+      "file_base": "2017_Analysis of a Single Text3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2017_Analysis of a Single Text3.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Text and Art Comparison",
+      "units": [
+        "Unit 1: La época medieval",
+        "Unit 4: La literatura romántica, realista y naturalista",
+        "Unit 8: Escritores contemporáneos de Estados Unidos, y España"
+      ],
+      "file_base": "2017_Text and Art Comparison2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2017_Text and Art Comparison2.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Text Comparison",
+      "units": [
+        "Unit 6: Teatro y poesía del siglo XX"
+      ],
+      "file_base": "2017_Text Comparison4",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2017_Text Comparison4.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 4: La literatura romántica, realista y naturalista",
+        "Unit 8: Escritores contemporáneos de Estados Unidos, y España"
+      ],
+      "file_base": "2017_Text Explanation1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2017_Text Explanation1.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 6: Teatro y poesía del siglo XX"
+      ],
+      "file_base": "2017_Text Explanation2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2017_Text Explanation2.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 1: La época medieval",
+        "Unit 3: El siglo XVII"
+      ],
+      "file_base": "2016_Analysis of a Single Text3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2016_Analysis of a Single Text3.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Text and Art Comparison",
+      "units": [
+        "Unit 1: La época medieval",
+        "Unit 3: El siglo XVII"
+      ],
+      "file_base": "2016_Text and Art Comparison2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2016_Text and Art Comparison2.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Text Comparison",
+      "units": [
+        "Unit 3: El siglo XVII"
+      ],
+      "file_base": "2016_Text Comparison4",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2016_Text Comparison4.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 3: El siglo XVII",
+        "Unit 5: La Generación del 98 y el Modernismo"
+      ],
+      "file_base": "2016_Text Explanation1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2016_Text Explanation1.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 3: El siglo XVII",
+        "Unit 6: Teatro y poesía del siglo XX"
+      ],
+      "file_base": "2015_Analysis of a Single Text3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2015_Analysis of a Single Text3.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Text and Art Comparison",
+      "units": [
+        "Unit 2: El siglo XVI",
+        "Unit 3: El siglo XVII"
+      ],
+      "file_base": "2015_Text and Art Comparison2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2015_Text and Art Comparison2.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Text Comparison",
+      "units": [
+        "Unit 6: Teatro y poesía del siglo XX"
+      ],
+      "file_base": "2015_Text Comparison4",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2015_Text Comparison4.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 7: El Boom latinoamericano",
+        "Unit 2: El siglo XVI"
+      ],
+      "file_base": "2015_Text Explanation1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2015_Text Explanation1.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 3: El siglo XVII",
+        "Unit 5: La Generación del 98 y el Modernismo"
+      ],
+      "file_base": "2014_Analysis of a Single Text3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2014_Analysis of a Single Text3.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Text and Art Comparison",
+      "units": [
+        "Unit 3: El siglo XVII",
+        "Unit 5: La Generación del 98 y el Modernismo"
+      ],
+      "file_base": "2014_Text and Art Comparison2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2014_Text and Art Comparison2.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Text Comparison",
+      "units": [
+        "Unit 3: El siglo XVII"
+      ],
+      "file_base": "2014_Text Comparison4",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2014_Text Comparison4.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 3: El siglo XVII",
+        "Unit 8: Escritores contemporáneos de Estados Unidos, y España"
+      ],
+      "file_base": "2014_Text Explanation1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2014_Text Explanation1.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 3: El siglo XVII",
+        "Unit 8: Escritores contemporáneos de Estados Unidos, y España"
+      ],
+      "file_base": "2013_Analysis of a Single Text3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2013_Analysis of a Single Text3.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Text and Art Comparison",
+      "units": [
+        "Unit 7: El Boom latinoamericano",
+        "Unit 8: Escritores contemporáneos de Estados Unidos, y España"
+      ],
+      "file_base": "2013_Text and Art Comparison2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2013_Text and Art Comparison2.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Text Comparison",
+      "units": [
+        "Unit 3: El siglo XVII"
+      ],
+      "file_base": "2013_Text Comparison4",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2013_Text Comparison4.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 1: La época medieval",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2013_Text Explanation1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2013_Text Explanation1.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 2: El siglo XVI",
+        "Unit 5: La Generación del 98 y el Modernismo",
+        "Unit 6: Teatro y poesía del siglo XX"
+      ],
+      "file_base": "2012_Analysis of a Single Text1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2012_Analysis of a Single Text1.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2012_Analysis of a Single Text3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2012_Analysis of a Single Text3.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 2: El siglo XVI",
+        "Unit 5: La Generación del 98 y el Modernismo",
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2012_Text Explanation2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2012_Text Explanation2.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 4: La literatura romántica, realista y naturalista",
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2011_Analysis of a Single Text3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2011_Analysis of a Single Text3.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2011_Text Explanation1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2011_Text Explanation1.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2011_Text Explanation2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2011_Text Explanation2.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 2: El siglo XVI",
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2010_Analysis of a Single Text1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2010_Analysis of a Single Text1.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 5: La Generación del 98 y el Modernismo"
+      ],
+      "file_base": "2010_Analysis of a Single Text3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2010_Analysis of a Single Text3.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Text Comparison",
+      "units": [
+        "Unit 5: La Generación del 98 y el Modernismo",
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2010_Text Comparison2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2010_Text Comparison2.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 3: El siglo XVII",
+        "Unit 4: La literatura romántica, realista y naturalista",
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2009_Analysis of a Single Text1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2009_Analysis of a Single Text1.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 3: El siglo XVII",
+        "Unit 4: La literatura romántica, realista y naturalista",
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2009_Text Explanation2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2009_Text Explanation2.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 6: Teatro y poesía del siglo XX"
+      ],
+      "file_base": "2009_Text Explanation3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2009_Text Explanation3.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2008_Text Explanation1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2008_Text Explanation1.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 3: El siglo XVII",
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2008_Text Explanation2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2008_Text Explanation2.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 3: El siglo XVII"
+      ],
+      "file_base": "2008_Text Explanation3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2008_Text Explanation3.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Text Comparison",
+      "units": [
+        "Unit 3: El siglo XVII",
+        "Unit 4: La literatura romántica, realista y naturalista"
+      ],
+      "file_base": "2007_Text Comparison2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2007_Text Comparison2.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 4: La literatura romántica, realista y naturalista",
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2007_Text Explanation1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2007_Text Explanation1.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 3: El siglo XVII"
+      ],
+      "file_base": "2007_Text Explanation3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2007_Text Explanation3.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 5: La Generación del 98 y el Modernismo"
+      ],
+      "file_base": "2006_Analysis of a Single Text3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2006_Analysis of a Single Text3.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Text Comparison",
+      "units": [
+        "Unit 2: El siglo XVI",
+        "Unit 5: La Generación del 98 y el Modernismo",
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2006_Text Comparison2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2006_Text Comparison2.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 2: El siglo XVI",
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2006_Text Explanation1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2006_Text Explanation1.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2005_Analysis of a Single Text3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2005_Analysis of a Single Text3.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 2: El siglo XVI",
+        "Unit 4: La literatura romántica, realista y naturalista",
+        "Unit 5: La Generación del 98 y el Modernismo",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2005_Text Explanation1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2005_Text Explanation1.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 2: El siglo XVI",
+        "Unit 4: La literatura romántica, realista y naturalista",
+        "Unit 5: La Generación del 98 y el Modernismo",
+        "Unit 7: El Boom latinoamericano",
+        "Unit 8: Escritores contemporáneos de Estados Unidos, y España"
+      ],
+      "file_base": "2005_Text Explanation2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2005_Text Explanation2.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 4: La literatura romántica, realista y naturalista"
+      ],
+      "file_base": "2004_Analysis of a Single Text3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2004_Analysis of a Single Text3.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Text Comparison",
+      "units": [
+        "Unit 1: La época medieval",
+        "Unit 3: El siglo XVII",
+        "Unit 4: La literatura romántica, realista y naturalista"
+      ],
+      "file_base": "2004_Text Comparison2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2004_Text Comparison2.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 1: La época medieval",
+        "Unit 3: El siglo XVII",
+        "Unit 4: La literatura romántica, realista y naturalista",
+        "Unit 6: Teatro y poesía del siglo XX"
+      ],
+      "file_base": "2004_Text Explanation1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2004_Text Explanation1.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 2: El siglo XVI",
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2003_Analysis of a Single Text1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2003_Analysis of a Single Text1.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 7: El Boom latinoamericano",
+        "Unit 2: El siglo XVI"
+      ],
+      "file_base": "2003_Analysis of a Single Text3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2003_Analysis of a Single Text3.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 2: El siglo XVI",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2003_Text Explanation2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2003_Text Explanation2.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 5: La Generación del 98 y el Modernismo",
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2002_Analysis of a Single Text1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2002_Analysis of a Single Text1.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 5: La Generación del 98 y el Modernismo",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2002_Text Explanation2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2002_Text Explanation2.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 5: La Generación del 98 y el Modernismo",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2002_Text Explanation3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2002_Text Explanation3.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 5: La Generación del 98 y el Modernismo",
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2001_Analysis of a Single Text1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2001_Analysis of a Single Text1.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 5: La Generación del 98 y el Modernismo",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2001_Text Explanation2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2001_Text Explanation2.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 5: La Generación del 98 y el Modernismo",
+        "Unit 7: El Boom latinoamericano"
+      ],
+      "file_base": "2001_Text Explanation3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2001_Text Explanation3.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 8: Escritores contemporáneos de Estados Unidos, y España"
+      ],
+      "file_base": "2000_Analysis of a Single Text1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2000_Analysis of a Single Text1.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Analysis of a Single Text",
+      "units": [
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 8: Escritores contemporáneos de Estados Unidos, y España"
+      ],
+      "file_base": "2000_Analysis of a Single Text3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2000_Analysis of a Single Text3.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 8: Escritores contemporáneos de Estados Unidos, y España"
+      ],
+      "file_base": "2000_Text Explanation2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/2000_Text Explanation2.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "Text Comparison",
+      "units": [
+        "Unit 5: La Generación del 98 y el Modernismo",
+        "Unit 7: El Boom latinoamericano",
+        "Unit 8: Escritores contemporáneos de Estados Unidos, y España"
+      ],
+      "file_base": "1999_Text Comparison3",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/1999_Text Comparison3.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 5: La Generación del 98 y el Modernismo",
+        "Unit 6: Teatro y poesía del siglo XX",
+        "Unit 7: El Boom latinoamericano",
+        "Unit 8: Escritores contemporáneos de Estados Unidos, y España"
+      ],
+      "file_base": "1999_Text Explanation1",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/1999_Text Explanation1.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "Text Explanation",
+      "units": [
+        "Unit 7: El Boom latinoamericano",
+        "Unit 5: La Generación del 98 y el Modernismo",
+        "Unit 8: Escritores contemporáneos de Estados Unidos, y España"
+      ],
+      "file_base": "1999_Text Explanation2",
+      "question_pdf": "/questions/AP Spanish Literature and Culture/1999_Text Explanation2.pdf"
+    }
+  ]
+}

@@ -1,0 +1,1928 @@
+{
+  "course": "AP Calculus AB",
+  "question_types": [
+    "Calculator",
+    "No Calculator"
+  ],
+  "units": [
+    "Unit 1: Limits and Continuity",
+    "Unit 2: Differentiation: Definition and Fundamental Properties",
+    "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+    "Unit 4: Contextual Applications of Differentiation",
+    "Unit 5: Analytical Applications of Differentiation",
+    "Unit 6: Integration and Accumulation of Change",
+    "Unit 7: Differential Equations",
+    "Unit 8: Applications of Integration"
+  ],
+  "questions": [
+    {
+      "year": 2025,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2025_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2025_Calculator1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2025_Calculator2",
+      "question_pdf": "/questions/AP Calculus AB/2025_Calculator2.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2025_No Calculator3",
+      "question_pdf": "/questions/AP Calculus AB/2025_No Calculator3.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2025_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2025_No Calculator4.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2025_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2025_No Calculator5.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation"
+      ],
+      "file_base": "2025_No Calculator6",
+      "question_pdf": "/questions/AP Calculus AB/2025_No Calculator6.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2024_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2024_Calculator1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2024_Calculator2",
+      "question_pdf": "/questions/AP Calculus AB/2024_Calculator2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2024_No Calculator3",
+      "question_pdf": "/questions/AP Calculus AB/2024_No Calculator3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2024_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2024_No Calculator4.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2024_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2024_No Calculator5.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2024_No Calculator6",
+      "question_pdf": "/questions/AP Calculus AB/2024_No Calculator6.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2023_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2023_Calculator1.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2023_Calculator2",
+      "question_pdf": "/questions/AP Calculus AB/2023_Calculator2.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2023_No Calculator3",
+      "question_pdf": "/questions/AP Calculus AB/2023_No Calculator3.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2023_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2023_No Calculator4.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2023_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2023_No Calculator5.pdf"
+    },
+    {
+      "year": 2023,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation"
+      ],
+      "file_base": "2023_No Calculator6",
+      "question_pdf": "/questions/AP Calculus AB/2023_No Calculator6.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2022_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2022_Calculator1.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2022_Calculator2",
+      "question_pdf": "/questions/AP Calculus AB/2022_Calculator2.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2022_No Calculator3",
+      "question_pdf": "/questions/AP Calculus AB/2022_No Calculator3.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2022_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2022_No Calculator5.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2022_No Calculator6",
+      "question_pdf": "/questions/AP Calculus AB/2022_No Calculator6.pdf"
+    },
+    {
+      "year": 2022,
+      "question_type": null,
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2022_Q4",
+      "question_pdf": "/questions/AP Calculus AB/2022_Q4.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2021_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2021_Calculator1.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2021_Calculator2",
+      "question_pdf": "/questions/AP Calculus AB/2021_Calculator2.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2021_No Calculator3",
+      "question_pdf": "/questions/AP Calculus AB/2021_No Calculator3.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2021_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2021_No Calculator4.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2021_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2021_No Calculator5.pdf"
+    },
+    {
+      "year": 2021,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2021_No Calculator6",
+      "question_pdf": "/questions/AP Calculus AB/2021_No Calculator6.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2019_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2019_Calculator1.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2019_Calculator2",
+      "question_pdf": "/questions/AP Calculus AB/2019_Calculator2.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2019_No Calculator3",
+      "question_pdf": "/questions/AP Calculus AB/2019_No Calculator3.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 7: Differential Equations",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2019_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2019_No Calculator4.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2019_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2019_No Calculator5.pdf"
+    },
+    {
+      "year": 2019,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions"
+      ],
+      "file_base": "2019_No Calculator6",
+      "question_pdf": "/questions/AP Calculus AB/2019_No Calculator6.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2018_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2018_Calculator1.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2018_Calculator2",
+      "question_pdf": "/questions/AP Calculus AB/2018_Calculator2.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2018_No Calculator3",
+      "question_pdf": "/questions/AP Calculus AB/2018_No Calculator3.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2018_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2018_No Calculator4.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2018_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2018_No Calculator5.pdf"
+    },
+    {
+      "year": 2018,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2018_No Calculator6",
+      "question_pdf": "/questions/AP Calculus AB/2018_No Calculator6.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2017_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2017_Calculator1.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2017_Calculator2",
+      "question_pdf": "/questions/AP Calculus AB/2017_Calculator2.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2017_No Calculator3",
+      "question_pdf": "/questions/AP Calculus AB/2017_No Calculator3.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2017_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2017_No Calculator4.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2017_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2017_No Calculator5.pdf"
+    },
+    {
+      "year": 2017,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation"
+      ],
+      "file_base": "2017_No Calculator6",
+      "question_pdf": "/questions/AP Calculus AB/2017_No Calculator6.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2016_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2016_Calculator1.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2016_Calculator2",
+      "question_pdf": "/questions/AP Calculus AB/2016_Calculator2.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2016_No Calculator3",
+      "question_pdf": "/questions/AP Calculus AB/2016_No Calculator3.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2016_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2016_No Calculator4.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2016_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2016_No Calculator5.pdf"
+    },
+    {
+      "year": 2016,
+      "question_type": null,
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2016_Q6",
+      "question_pdf": "/questions/AP Calculus AB/2016_Q6.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2015_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2015_Calculator1.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2015_Calculator2",
+      "question_pdf": "/questions/AP Calculus AB/2015_Calculator2.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2015_No Calculator3",
+      "question_pdf": "/questions/AP Calculus AB/2015_No Calculator3.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2015_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2015_No Calculator4.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2015_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2015_No Calculator5.pdf"
+    },
+    {
+      "year": 2015,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation"
+      ],
+      "file_base": "2015_No Calculator6",
+      "question_pdf": "/questions/AP Calculus AB/2015_No Calculator6.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2014_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2014_Calculator1.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2014_No Calculator3",
+      "question_pdf": "/questions/AP Calculus AB/2014_No Calculator3.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2014_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2014_No Calculator4.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2014_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2014_No Calculator5.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2014_No Calculator6",
+      "question_pdf": "/questions/AP Calculus AB/2014_No Calculator6.pdf"
+    },
+    {
+      "year": 2014,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2014_Q2",
+      "question_pdf": "/questions/AP Calculus AB/2014_Q2.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2013_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2013_Calculator1.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2013_Calculator2",
+      "question_pdf": "/questions/AP Calculus AB/2013_Calculator2.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2013_No Calculator3",
+      "question_pdf": "/questions/AP Calculus AB/2013_No Calculator3.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2013_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2013_No Calculator4.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2013_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2013_No Calculator5.pdf"
+    },
+    {
+      "year": 2013,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2013_No Calculator6",
+      "question_pdf": "/questions/AP Calculus AB/2013_No Calculator6.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2012_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2012_Calculator1.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2012_No Calculator2",
+      "question_pdf": "/questions/AP Calculus AB/2012_No Calculator2.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2012_No Calculator3",
+      "question_pdf": "/questions/AP Calculus AB/2012_No Calculator3.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2012_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2012_No Calculator4.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2012_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2012_No Calculator5.pdf"
+    },
+    {
+      "year": 2012,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2012_No Calculator6",
+      "question_pdf": "/questions/AP Calculus AB/2012_No Calculator6.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2011_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2011_Calculator1.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2011_Calculator2",
+      "question_pdf": "/questions/AP Calculus AB/2011_Calculator2.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2011_No Calculator3",
+      "question_pdf": "/questions/AP Calculus AB/2011_No Calculator3.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2011_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2011_No Calculator5.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 7: Differential Equations",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2011_No Calculator6",
+      "question_pdf": "/questions/AP Calculus AB/2011_No Calculator6.pdf"
+    },
+    {
+      "year": 2011,
+      "question_type": null,
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2011_Q4",
+      "question_pdf": "/questions/AP Calculus AB/2011_Q4.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2010_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2010_Calculator1.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2010_Calculator2",
+      "question_pdf": "/questions/AP Calculus AB/2010_Calculator2.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2010_No Calculator3",
+      "question_pdf": "/questions/AP Calculus AB/2010_No Calculator3.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2010_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2010_No Calculator4.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2010_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2010_No Calculator5.pdf"
+    },
+    {
+      "year": 2010,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2010_No Calculator6",
+      "question_pdf": "/questions/AP Calculus AB/2010_No Calculator6.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2009_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2009_Calculator1.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2009_Calculator2",
+      "question_pdf": "/questions/AP Calculus AB/2009_Calculator2.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2009_Calculator3",
+      "question_pdf": "/questions/AP Calculus AB/2009_Calculator3.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 8: Applications of Integration",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 5: Analytical Applications of Differentiation"
+      ],
+      "file_base": "2009_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2009_No Calculator4.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2009_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2009_No Calculator5.pdf"
+    },
+    {
+      "year": 2009,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2009_No Calculator6",
+      "question_pdf": "/questions/AP Calculus AB/2009_No Calculator6.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2008_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2008_Calculator1.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2008_Calculator2",
+      "question_pdf": "/questions/AP Calculus AB/2008_Calculator2.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2008_No Calculator3",
+      "question_pdf": "/questions/AP Calculus AB/2008_No Calculator3.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2008_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2008_No Calculator4.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2008_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2008_No Calculator5.pdf"
+    },
+    {
+      "year": 2008,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 7: Differential Equations",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 1: Limits and Continuity"
+      ],
+      "file_base": "2008_No Calculator6",
+      "question_pdf": "/questions/AP Calculus AB/2008_No Calculator6.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2007_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2007_Calculator1.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2007_Calculator2",
+      "question_pdf": "/questions/AP Calculus AB/2007_Calculator2.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2007_No Calculator3",
+      "question_pdf": "/questions/AP Calculus AB/2007_No Calculator3.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2007_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2007_No Calculator4.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2007_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2007_No Calculator5.pdf"
+    },
+    {
+      "year": 2007,
+      "question_type": null,
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 5: Analytical Applications of Differentiation"
+      ],
+      "file_base": "2007_Q6",
+      "question_pdf": "/questions/AP Calculus AB/2007_Q6.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2006_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2006_Calculator1.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2006_Calculator2",
+      "question_pdf": "/questions/AP Calculus AB/2006_Calculator2.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2006_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2006_No Calculator4.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2006_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2006_No Calculator5.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 7: Differential Equations",
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions"
+      ],
+      "file_base": "2006_No Calculator6",
+      "question_pdf": "/questions/AP Calculus AB/2006_No Calculator6.pdf"
+    },
+    {
+      "year": 2006,
+      "question_type": null,
+      "units": [
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2006_Q3",
+      "question_pdf": "/questions/AP Calculus AB/2006_Q3.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2005_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2005_Calculator1.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2005_Calculator2",
+      "question_pdf": "/questions/AP Calculus AB/2005_Calculator2.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2005_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2005_No Calculator4.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2005_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2005_No Calculator5.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 7: Differential Equations",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2005_No Calculator6",
+      "question_pdf": "/questions/AP Calculus AB/2005_No Calculator6.pdf"
+    },
+    {
+      "year": 2005,
+      "question_type": null,
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2005_Q3",
+      "question_pdf": "/questions/AP Calculus AB/2005_Q3.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2004_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2004_Calculator1.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2004_Calculator2",
+      "question_pdf": "/questions/AP Calculus AB/2004_Calculator2.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2004_No Calculator3",
+      "question_pdf": "/questions/AP Calculus AB/2004_No Calculator3.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2004_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2004_No Calculator4.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2004_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2004_No Calculator5.pdf"
+    },
+    {
+      "year": 2004,
+      "question_type": null,
+      "units": [
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2004_Q6",
+      "question_pdf": "/questions/AP Calculus AB/2004_Q6.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2003_No Calculator3",
+      "question_pdf": "/questions/AP Calculus AB/2003_No Calculator3.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2003_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2003_No Calculator4.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": null,
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2003_Q1",
+      "question_pdf": "/questions/AP Calculus AB/2003_Q1.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": null,
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2003_Q2",
+      "question_pdf": "/questions/AP Calculus AB/2003_Q2.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": null,
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2003_Q5",
+      "question_pdf": "/questions/AP Calculus AB/2003_Q5.pdf"
+    },
+    {
+      "year": 2003,
+      "question_type": null,
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2003_Q6",
+      "question_pdf": "/questions/AP Calculus AB/2003_Q6.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 4: Contextual Applications of Differentiation"
+      ],
+      "file_base": "2002_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2002_No Calculator4.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": null,
+      "units": [
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2002_Q1",
+      "question_pdf": "/questions/AP Calculus AB/2002_Q1.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": null,
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2002_Q2",
+      "question_pdf": "/questions/AP Calculus AB/2002_Q2.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": null,
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2002_Q3",
+      "question_pdf": "/questions/AP Calculus AB/2002_Q3.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": null,
+      "units": [
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2002_Q5",
+      "question_pdf": "/questions/AP Calculus AB/2002_Q5.pdf"
+    },
+    {
+      "year": 2002,
+      "question_type": null,
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2002_Q6",
+      "question_pdf": "/questions/AP Calculus AB/2002_Q6.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2001_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2001_Calculator1.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2001_Calculator2",
+      "question_pdf": "/questions/AP Calculus AB/2001_Calculator2.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2001_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2001_No Calculator4.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2001_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2001_No Calculator5.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2001_No Calculator6",
+      "question_pdf": "/questions/AP Calculus AB/2001_No Calculator6.pdf"
+    },
+    {
+      "year": 2001,
+      "question_type": null,
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2001_Q3",
+      "question_pdf": "/questions/AP Calculus AB/2001_Q3.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "2000_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/2000_Calculator1.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2000_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/2000_No Calculator4.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2000_No Calculator5",
+      "question_pdf": "/questions/AP Calculus AB/2000_No Calculator5.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2000_No Calculator6",
+      "question_pdf": "/questions/AP Calculus AB/2000_No Calculator6.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": null,
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "2000_Q2",
+      "question_pdf": "/questions/AP Calculus AB/2000_Q2.pdf"
+    },
+    {
+      "year": 2000,
+      "question_type": null,
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "2000_Q3",
+      "question_pdf": "/questions/AP Calculus AB/2000_Q3.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "1999_Calculator1",
+      "question_pdf": "/questions/AP Calculus AB/1999_Calculator1.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "1999_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/1999_No Calculator4.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": null,
+      "units": [
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "1999_Q2",
+      "question_pdf": "/questions/AP Calculus AB/1999_Q2.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": null,
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "1999_Q3",
+      "question_pdf": "/questions/AP Calculus AB/1999_Q3.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": null,
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "1999_Q5",
+      "question_pdf": "/questions/AP Calculus AB/1999_Q5.pdf"
+    },
+    {
+      "year": 1999,
+      "question_type": null,
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 4: Contextual Applications of Differentiation"
+      ],
+      "file_base": "1999_Q6",
+      "question_pdf": "/questions/AP Calculus AB/1999_Q6.pdf"
+    },
+    {
+      "year": 1998,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 2: Differentiation: Definition and Fundamental Properties",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "1998_No Calculator4",
+      "question_pdf": "/questions/AP Calculus AB/1998_No Calculator4.pdf"
+    },
+    {
+      "year": 1998,
+      "question_type": "No Calculator",
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation"
+      ],
+      "file_base": "1998_No Calculator6",
+      "question_pdf": "/questions/AP Calculus AB/1998_No Calculator6.pdf"
+    },
+    {
+      "year": 1998,
+      "question_type": null,
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 8: Applications of Integration"
+      ],
+      "file_base": "1998_Q1",
+      "question_pdf": "/questions/AP Calculus AB/1998_Q1.pdf"
+    },
+    {
+      "year": 1998,
+      "question_type": null,
+      "units": [
+        "Unit 1: Limits and Continuity",
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "1998_Q2",
+      "question_pdf": "/questions/AP Calculus AB/1998_Q2.pdf"
+    },
+    {
+      "year": 1998,
+      "question_type": null,
+      "units": [
+        "Unit 4: Contextual Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change",
+        "Unit 7: Differential Equations"
+      ],
+      "file_base": "1998_Q3",
+      "question_pdf": "/questions/AP Calculus AB/1998_Q3.pdf"
+    },
+    {
+      "year": 1998,
+      "question_type": null,
+      "units": [
+        "Unit 3: Differentiation: Composite, Implicit, and Inverse Functions",
+        "Unit 5: Analytical Applications of Differentiation",
+        "Unit 6: Integration and Accumulation of Change"
+      ],
+      "file_base": "1998_Q5",
+      "question_pdf": "/questions/AP Calculus AB/1998_Q5.pdf"
+    }
+  ]
+}

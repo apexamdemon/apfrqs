@@ -1,0 +1,164 @@
+{
+  "course": "AP African American Studies",
+  "question_types": [
+    "DBQ",
+    "SAQ"
+  ],
+  "units": [
+    "Unit 1: Origins of the African Diaspora (~900 BCE–16th century)",
+    "Unit 2: Freedom, Enslavement, and Resistance (16th century–1865)",
+    "Unit 3: The Practice of Freedom (1865–1940s)",
+    "Unit 4: Movements and Debates (1940s–2000s)"
+  ],
+  "questions": [
+    {
+      "year": 2025,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 2: Freedom, Enslavement, and Resistance (16th century–1865)",
+        "Unit 4: Movements and Debates (1940s–2000s)"
+      ],
+      "file_base": "2025_Set1_DBQ1",
+      "question_pdf": "/questions/AP African American Studies/2025_Set1_DBQ1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 3: The Practice of Freedom (1865–1940s)"
+      ],
+      "file_base": "2025_Set1_DBQ4",
+      "question_pdf": "/questions/AP African American Studies/2025_Set1_DBQ4.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 2: Freedom, Enslavement, and Resistance (16th century–1865)",
+        "Unit 3: The Practice of Freedom (1865–1940s)"
+      ],
+      "file_base": "2025_Set1_SAQ1",
+      "question_pdf": "/questions/AP African American Studies/2025_Set1_SAQ1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 1: Origins of the African Diaspora (~900 BCE–16th century)",
+        "Unit 3: The Practice of Freedom (1865–1940s)",
+        "Unit 4: Movements and Debates (1940s–2000s)"
+      ],
+      "file_base": "2025_Set1_SAQ2",
+      "question_pdf": "/questions/AP African American Studies/2025_Set1_SAQ2.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 1: Origins of the African Diaspora (~900 BCE–16th century)",
+        "Unit 3: The Practice of Freedom (1865–1940s)"
+      ],
+      "file_base": "2025_Set1_SAQ3",
+      "question_pdf": "/questions/AP African American Studies/2025_Set1_SAQ3.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 3: The Practice of Freedom (1865–1940s)",
+        "Unit 4: Movements and Debates (1940s–2000s)"
+      ],
+      "file_base": "2025_Set2_DBQ1",
+      "question_pdf": "/questions/AP African American Studies/2025_Set2_DBQ1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "DBQ",
+      "units": [
+        "Unit 3: The Practice of Freedom (1865–1940s)",
+        "Unit 4: Movements and Debates (1940s–2000s)"
+      ],
+      "file_base": "2025_Set2_DBQ4",
+      "question_pdf": "/questions/AP African American Studies/2025_Set2_DBQ4.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 1: Origins of the African Diaspora (~900 BCE–16th century)",
+        "Unit 2: Freedom, Enslavement, and Resistance (16th century–1865)",
+        "Unit 3: The Practice of Freedom (1865–1940s)",
+        "Unit 4: Movements and Debates (1940s–2000s)"
+      ],
+      "file_base": "2025_Set2_SAQ1",
+      "question_pdf": "/questions/AP African American Studies/2025_Set2_SAQ1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 1: Origins of the African Diaspora (~900 BCE–16th century)",
+        "Unit 2: Freedom, Enslavement, and Resistance (16th century–1865)",
+        "Unit 3: The Practice of Freedom (1865–1940s)"
+      ],
+      "file_base": "2025_Set2_SAQ2",
+      "question_pdf": "/questions/AP African American Studies/2025_Set2_SAQ2.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 2: Freedom, Enslavement, and Resistance (16th century–1865)",
+        "Unit 3: The Practice of Freedom (1865–1940s)"
+      ],
+      "file_base": "2025_Set2_SAQ3",
+      "question_pdf": "/questions/AP African American Studies/2025_Set2_SAQ3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 1: Origins of the African Diaspora (~900 BCE–16th century)",
+        "Unit 2: Freedom, Enslavement, and Resistance (16th century–1865)",
+        "Unit 3: The Practice of Freedom (1865–1940s)",
+        "Unit 4: Movements and Debates (1940s–2000s)"
+      ],
+      "file_base": "2024_SAQ1",
+      "question_pdf": "/questions/AP African American Studies/2024_SAQ1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 1: Origins of the African Diaspora (~900 BCE–16th century)",
+        "Unit 2: Freedom, Enslavement, and Resistance (16th century–1865)",
+        "Unit 4: Movements and Debates (1940s–2000s)"
+      ],
+      "file_base": "2024_SAQ2",
+      "question_pdf": "/questions/AP African American Studies/2024_SAQ2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 1: Origins of the African Diaspora (~900 BCE–16th century)",
+        "Unit 2: Freedom, Enslavement, and Resistance (16th century–1865)",
+        "Unit 3: The Practice of Freedom (1865–1940s)",
+        "Unit 4: Movements and Debates (1940s–2000s)"
+      ],
+      "file_base": "2024_SAQ3",
+      "question_pdf": "/questions/AP African American Studies/2024_SAQ3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": "SAQ",
+      "units": [
+        "Unit 1: Origins of the African Diaspora (~900 BCE–16th century)",
+        "Unit 2: Freedom, Enslavement, and Resistance (16th century–1865)",
+        "Unit 3: The Practice of Freedom (1865–1940s)"
+      ],
+      "file_base": "2024_SAQ4",
+      "question_pdf": "/questions/AP African American Studies/2024_SAQ4.pdf"
+    }
+  ]
+}

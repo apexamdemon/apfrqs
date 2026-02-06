@@ -1,0 +1,90 @@
+{
+  "course": "AP Precalculus",
+  "question_types": [],
+  "units": [
+    "Unit 1: Polynomial and Rational Functions",
+    "Unit 2: Exponential and Logarithmic Functions",
+    "Unit 3: Trigonometric and Polar Functions"
+  ],
+  "questions": [
+    {
+      "year": 2025,
+      "question_type": null,
+      "units": [
+        "Unit 1: Polynomial and Rational Functions"
+      ],
+      "file_base": "2025_Q1",
+      "question_pdf": "/questions/AP Precalculus/2025_Q1.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": null,
+      "units": [
+        "Unit 1: Polynomial and Rational Functions",
+        "Unit 3: Trigonometric and Polar Functions"
+      ],
+      "file_base": "2025_Q2",
+      "question_pdf": "/questions/AP Precalculus/2025_Q2.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": null,
+      "units": [
+        "Unit 2: Exponential and Logarithmic Functions",
+        "Unit 3: Trigonometric and Polar Functions"
+      ],
+      "file_base": "2025_Q3",
+      "question_pdf": "/questions/AP Precalculus/2025_Q3.pdf"
+    },
+    {
+      "year": 2025,
+      "question_type": null,
+      "units": [
+        "Unit 2: Exponential and Logarithmic Functions",
+        "Unit 3: Trigonometric and Polar Functions"
+      ],
+      "file_base": "2025_Q4",
+      "question_pdf": "/questions/AP Precalculus/2025_Q4.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": null,
+      "units": [
+        "Unit 1: Polynomial and Rational Functions",
+        "Unit 2: Exponential and Logarithmic Functions"
+      ],
+      "file_base": "2024_Q1",
+      "question_pdf": "/questions/AP Precalculus/2024_Q1.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": null,
+      "units": [
+        "Unit 2: Exponential and Logarithmic Functions",
+        "Unit 3: Trigonometric and Polar Functions"
+      ],
+      "file_base": "2024_Q2",
+      "question_pdf": "/questions/AP Precalculus/2024_Q2.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": null,
+      "units": [
+        "Unit 2: Exponential and Logarithmic Functions",
+        "Unit 3: Trigonometric and Polar Functions"
+      ],
+      "file_base": "2024_Q3",
+      "question_pdf": "/questions/AP Precalculus/2024_Q3.pdf"
+    },
+    {
+      "year": 2024,
+      "question_type": null,
+      "units": [
+        "Unit 2: Exponential and Logarithmic Functions",
+        "Unit 3: Trigonometric and Polar Functions"
+      ],
+      "file_base": "2024_Q4",
+      "question_pdf": "/questions/AP Precalculus/2024_Q4.pdf"
+    }
+  ]
+}
