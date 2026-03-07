@@ -1,0 +1,18 @@
+{
+  "subject": "AP Human Geography",
+  "year": "2025",
+  "set": 2,
+  "question_key": "Stimulus-Based1",
+  "question_type": "Stimulus-Based",
+  "frq_pages_0based": [
+    4,
+    5
+  ],
+  "scoring_pages_0based": [
+    3
+  ],
+  "units": [
+    "Unit 4: Political Patterns and Processes",
+    "Unit 6: Cities and Urban Land-Use Patterns and Processes"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "subject": "AP Human Geography",
+  "year": "2016",
+  "set": null,
+  "question_key": "Stimulus-Based2",
+  "question_type": "Stimulus-Based",
+  "frq_pages_0based": [
+    2,
+    3
+  ],
+  "scoring_pages_0based": [
+    3,
+    4
+  ],
+  "units": [
+    "Unit 3: Cultural Patterns and Processes",
+    "Unit 4: Political Patterns and Processes",
+    "Unit 5: Agriculture and Rural Land-Use Patterns and Processes"
+  ]
+}

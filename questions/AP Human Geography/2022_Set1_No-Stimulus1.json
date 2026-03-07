@@ -1,0 +1,20 @@
+{
+  "subject": "AP Human Geography",
+  "year": "2022",
+  "set": 1,
+  "question_key": "No-Stimulus1",
+  "question_type": "No-Stimulus",
+  "frq_pages_0based": [
+    1,
+    2
+  ],
+  "scoring_pages_0based": [
+    1,
+    2
+  ],
+  "units": [
+    "Unit 2: Population and Migration Patterns and Processes",
+    "Unit 5: Agriculture and Rural Land-Use Patterns and Processes",
+    "Unit 6: Cities and Urban Land-Use Patterns and Processes"
+  ]
+}

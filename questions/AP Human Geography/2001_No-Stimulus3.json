@@ -1,0 +1,19 @@
+{
+  "subject": "AP Human Geography",
+  "year": "2001",
+  "set": null,
+  "question_key": "No-Stimulus3",
+  "question_type": "No-Stimulus",
+  "frq_pages_0based": [
+    2
+  ],
+  "scoring_pages_0based": [
+    5,
+    6,
+    7
+  ],
+  "units": [
+    "Unit 3: Cultural Patterns and Processes",
+    "Unit 7: Industrial and Economic Development Patterns and Processes"
+  ]
+}

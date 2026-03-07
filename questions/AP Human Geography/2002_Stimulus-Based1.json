@@ -1,0 +1,19 @@
+{
+  "subject": "AP Human Geography",
+  "year": "2002",
+  "set": null,
+  "question_key": "Stimulus-Based1",
+  "question_type": "Stimulus-Based",
+  "frq_pages_0based": [
+    1,
+    2
+  ],
+  "scoring_pages_0based": [
+    2
+  ],
+  "units": [
+    "Unit 4: Political Patterns and Processes",
+    "Unit 3: Cultural Patterns and Processes",
+    "Unit 6: Cities and Urban Land-Use Patterns and Processes"
+  ]
+}

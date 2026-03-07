@@ -1,0 +1,22 @@
+{
+  "subject": "AP Human Geography",
+  "year": "2021",
+  "set": 1,
+  "question_key": "Stimulus-Based2",
+  "question_type": "Stimulus-Based",
+  "frq_pages_0based": [
+    2,
+    3
+  ],
+  "scoring_pages_0based": [
+    3,
+    5,
+    7
+  ],
+  "units": [
+    "Unit 3: Cultural Patterns and Processes",
+    "Unit 4: Political Patterns and Processes",
+    "Unit 6: Cities and Urban Land-Use Patterns and Processes",
+    "Unit 7: Industrial and Economic Development Patterns and Processes"
+  ]
+}

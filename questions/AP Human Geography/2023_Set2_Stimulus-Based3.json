@@ -1,0 +1,25 @@
+{
+  "subject": "AP Human Geography",
+  "year": "2023",
+  "set": 2,
+  "question_key": "Stimulus-Based3",
+  "question_type": "Stimulus-Based",
+  "frq_pages_0based": [
+    3,
+    4
+  ],
+  "scoring_pages_0based": [
+    7,
+    9,
+    10,
+    11,
+    12
+  ],
+  "units": [
+    "Unit 1: Thinking Geographically",
+    "Unit 2: Population and Migration Patterns and Processes",
+    "Unit 3: Cultural Patterns and Processes",
+    "Unit 4: Political Patterns and Processes",
+    "Unit 5: Agriculture and Rural Land-Use Patterns and Processes"
+  ]
+}

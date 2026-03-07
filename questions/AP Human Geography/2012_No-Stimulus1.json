@@ -1,0 +1,18 @@
+{
+  "subject": "AP Human Geography",
+  "year": "2012",
+  "set": null,
+  "question_key": "No-Stimulus1",
+  "question_type": "No-Stimulus",
+  "frq_pages_0based": [
+    1,
+    2
+  ],
+  "scoring_pages_0based": [
+    1
+  ],
+  "units": [
+    "Unit 4: Political Patterns and Processes",
+    "Unit 5: Agriculture and Rural Land-Use Patterns and Processes"
+  ]
+}

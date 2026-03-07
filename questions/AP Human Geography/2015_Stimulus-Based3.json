@@ -1,0 +1,19 @@
+{
+  "subject": "AP Human Geography",
+  "year": "2015",
+  "set": null,
+  "question_key": "Stimulus-Based3",
+  "question_type": "Stimulus-Based",
+  "frq_pages_0based": [
+    2
+  ],
+  "scoring_pages_0based": [
+    5,
+    6,
+    7
+  ],
+  "units": [
+    "Unit 2: Population and Migration Patterns and Processes",
+    "Unit 3: Cultural Patterns and Processes"
+  ]
+}

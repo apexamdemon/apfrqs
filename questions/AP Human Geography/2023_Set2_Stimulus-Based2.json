@@ -1,0 +1,21 @@
+{
+  "subject": "AP Human Geography",
+  "year": "2023",
+  "set": 2,
+  "question_key": "Stimulus-Based2",
+  "question_type": "Stimulus-Based",
+  "frq_pages_0based": [
+    2,
+    3
+  ],
+  "scoring_pages_0based": [
+    5,
+    6,
+    8
+  ],
+  "units": [
+    "Unit 2: Population and Migration Patterns and Processes",
+    "Unit 5: Agriculture and Rural Land-Use Patterns and Processes",
+    "Unit 7: Industrial and Economic Development Patterns and Processes"
+  ]
+}

@@ -1,4 +1,4 @@
-// app.js (drop-in replacement with home search + category filter)
+// app.js (drop-in replacement with working home search + category filter)
 
 const app = document.getElementById("app");
 
@@ -43,7 +43,7 @@ async function fetchJsonFirstOk(urls) {
   throw lastErr || new Error("All JSON fetch attempts failed.");
 }
 
-// COURSE title overrides (not file overrides).
+// COURSE title overrides (display only)
 const COURSE_TITLE_OVERRIDES = {
   "AP Physics 1 Algebra-Based": "AP Physics 1",
   "AP Physics 2 Algebra-Based": "AP Physics 2",
@@ -53,9 +53,9 @@ const COURSE_TITLE_OVERRIDES = {
   "AP World History Modern": "AP World History",
 };
 
-// ---------- HOME CATEGORIES (EDIT THIS MANUALLY) ----------
-// Put course SLUGS exactly as they appear in /data/courses.json (field: c.slug).
-// Add/remove categories and slugs as you want.
+// ---------- HOME CATEGORIES ----------
+// You can keep writing these as hyphen slugs OR full course names.
+// The code below normalizes them before matching.
 const HOME_CATEGORIES = {
   Math: [
     "ap-calculus-ab",
@@ -76,7 +76,7 @@ const HOME_CATEGORIES = {
     "ap-united-states-history",
     "ap-world-history-modern",
     "ap-european-history",
-    "ap-african-american-studies"
+    "ap-african-american-studies",
   ],
   English: [
     "ap-english-language-and-composition",
@@ -165,6 +165,16 @@ function getCourseSlugFromTitle(courseTitle) {
     .replace(/^-+|-+$/g, "");
 }
 
+// Use this for category matching, regardless of how c.slug is stored
+function normalizeCourseKey(value) {
+  return String(value || "")
+    .trim()
+    .toLowerCase()
+    .replace(/&/g, "and")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
 function primaryUnitLabel(units) {
   if (!Array.isArray(units) || units.length === 0) return "Question";
   const u0 = String(units[0] ?? "").trim();
@@ -188,7 +198,6 @@ async function renderHome() {
     description: "Browse AP exam free-response questions, scoring guidelines, and sample responses by course and year.",
   });
 
-  // read initial state from URL (optional but helpful)
   const params = new URLSearchParams(window.location.search);
   const initialQ = params.get("q") || "";
   const initialCat = params.get("cat") || "";
@@ -238,7 +247,6 @@ async function renderHome() {
       return;
     }
 
-    // Put AP 2-D and 3-D Art and Design last
     const LAST_COURSES = new Set(["AP 2-D Art and Design", "AP 3-D Art and Design"]);
 
     const courses = [...coursesRaw].sort((a, b) => {
@@ -254,11 +262,11 @@ async function renderHome() {
       return aTitle.localeCompare(bTitle);
     });
 
-    // Precompute category membership map: slug -> Set(categories)
+    // Build normalized category lookup
     const slugToCats = new Map();
     for (const [cat, slugs] of Object.entries(HOME_CATEGORIES)) {
       for (const s of slugs) {
-        const key = String(s || "").trim();
+        const key = normalizeCourseKey(s);
         if (!key) continue;
         if (!slugToCats.has(key)) slugToCats.set(key, new Set());
         slugToCats.get(key).add(cat);
@@ -267,7 +275,7 @@ async function renderHome() {
 
     function syncHomeUrl() {
       const url = new URL(window.location.href);
-      url.searchParams.delete("view"); // home does not use view
+      url.searchParams.delete("view");
       url.searchParams.delete("type");
       url.searchParams.delete("unit");
       url.searchParams.delete("q");
@@ -309,16 +317,17 @@ async function renderHome() {
       const cat = catSel.value;
 
       const filtered = courses.filter((c) => {
-        const title = (COURSE_TITLE_OVERRIDES[c.title] ?? c.title ?? "").toLowerCase();
-        const slug = String(c.slug || "").toLowerCase();
+        const title = String(COURSE_TITLE_OVERRIDES[c.title] ?? c.title ?? "");
+        const slugRaw = String(c.slug || "");
+        const normalizedCourseKey = normalizeCourseKey(slugRaw || title);
 
         if (q) {
-          const hay = `${title} ${slug}`;
+          const hay = `${title} ${slugRaw}`.toLowerCase();
           if (!hay.includes(q)) return false;
         }
 
         if (cat) {
-          const cats = slugToCats.get(c.slug);
+          const cats = slugToCats.get(normalizedCourseKey);
           if (!cats || !cats.has(cat)) return false;
         }
 
