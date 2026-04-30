@@ -1,4 +1,4 @@
-// app.js (drop-in replacement with working home search + category filter)
+// app.js
 
 const app = document.getElementById("app");
 
@@ -43,7 +43,40 @@ async function fetchJsonFirstOk(urls) {
   throw lastErr || new Error("All JSON fetch attempts failed.");
 }
 
-// COURSE title overrides (display only)
+// ---------- Skeletons ----------
+function homeSkeleton(count = 12) {
+  return `
+    <section class="skeleton-grid" aria-hidden="true">
+      ${Array.from({ length: count })
+        .map(
+          () => `
+            <div class="skeleton-card">
+              <div class="skeleton-line"></div>
+            </div>
+          `
+        )
+        .join("")}
+    </section>
+  `;
+}
+
+function courseSkeleton(count = 6) {
+  return `
+    <div aria-hidden="true">
+      ${Array.from({ length: count })
+        .map(
+          () => `
+            <div class="skeleton-card skeleton-detail">
+              <div class="skeleton-line skeleton-line-wide"></div>
+            </div>
+          `
+        )
+        .join("")}
+    </div>
+  `;
+}
+
+// COURSE title overrides
 const COURSE_TITLE_OVERRIDES = {
   "AP Physics 1 Algebra-Based": "AP Physics 1",
   "AP Physics 2 Algebra-Based": "AP Physics 2",
@@ -54,8 +87,6 @@ const COURSE_TITLE_OVERRIDES = {
 };
 
 // ---------- HOME CATEGORIES ----------
-// You can keep writing these as hyphen slugs OR full course names.
-// The code below normalizes them before matching.
 const HOME_CATEGORIES = {
   Math: [
     "ap-calculus-ab",
@@ -121,23 +152,6 @@ function navigateTo(path) {
   router();
 }
 
-function fileTypeFromName(name) {
-  const n = (name || "").toLowerCase();
-  if (n.includes("free-response questions") || n.includes("free response questions")) return "frq";
-  if (n.includes("scoring guidelines")) return "scoring-guidelines";
-  if (n.includes("chief reader report") || n.includes("chief-reader report")) return "chief-reader-report";
-  if (n.includes("scoring statistics")) return "scoring-statistics";
-  if (
-    n.includes("scoring distribution") ||
-    n.includes("score distributions") ||
-    n.includes("scoring distributions")
-  ) {
-    return "scoring-distribution";
-  }
-  if (n.includes("sample")) return "sample-responses";
-  return "other";
-}
-
 function stripExtension(filename) {
   const name = String(filename || "");
   return name.replace(/\.[^/.]+$/, "");
@@ -156,7 +170,6 @@ function safeText(s) {
   return escapeHtml(String(s ?? ""));
 }
 
-// Must match your build script's slugify
 function getCourseSlugFromTitle(courseTitle) {
   return String(courseTitle || "")
     .toLowerCase()
@@ -165,7 +178,6 @@ function getCourseSlugFromTitle(courseTitle) {
     .replace(/^-+|-+$/g, "");
 }
 
-// Use this for category matching, regardless of how c.slug is stored
 function normalizeCourseKey(value) {
   return String(value || "")
     .trim()
@@ -206,7 +218,7 @@ async function renderHome() {
     <section class="card">
       <h1 class="h1">AP Exam FRQ Archive</h1>
 
-      <div class="home-controls" style="margin-top: 12px;">
+      <div class="home-controls">
         <input
           id="home-search"
           type="text"
@@ -223,8 +235,8 @@ async function renderHome() {
         </select>
       </div>
 
-      <div id="home-count" class="p" style="margin-top: 10px;"></div>
-      <div id="home-courses" style="margin-top: 14px;"></div>
+      <div id="home-count" class="p home-count-placeholder"></div>
+      <div id="home-courses">${homeSkeleton(12)}</div>
     </section>
   `;
 
@@ -262,7 +274,6 @@ async function renderHome() {
       return aTitle.localeCompare(bTitle);
     });
 
-    // Build normalized category lookup
     const slugToCats = new Map();
     for (const [cat, slugs] of Object.entries(HOME_CATEGORIES)) {
       for (const s of slugs) {
@@ -347,7 +358,7 @@ async function renderHome() {
       <p class="p">Could not load your courses list.</p>
       <ul class="file-list">
         <li>Run <code>npm run build:indexes</code> to generate <code>/data/courses.json</code></li>
-        <li>Ensure you are using a server (not opening the file directly)</li>
+        <li>Ensure you are using a server, not opening the file directly</li>
       </ul>
       <p class="p" style="color: var(--muted);">Error: ${escapeHtml(String(err.message || err))}</p>
     `;
@@ -384,7 +395,7 @@ async function renderCourse(slug) {
         scoring guidelines, and related exam materials from past years.
       </p>
 
-      <div id="course-content" style="margin-top: 14px;"></div>
+      <div id="course-content">${courseSkeleton(6)}</div>
     </section>
   `;
 
@@ -489,13 +500,15 @@ function renderCourseByYear({ mount, courseTitle, index }) {
         })
         .join("");
 
-      return `<details class="details">
-        <summary class="summary">${escapeHtml(y.year)}</summary>
-        <div class="seo-link">${escapeHtml(courseTitle)} ${escapeHtml(y.year)} resources</div>
-        <ul class="file-list">
-          ${filesHtml || `<li class="p" style="color: var(--muted);">No files found in this year.</li>`}
-        </ul>
-      </details>`;
+      return `
+        <details class="details">
+          <summary class="summary">${escapeHtml(y.year)}</summary>
+          <div class="seo-link">${escapeHtml(courseTitle)} ${escapeHtml(y.year)} resources</div>
+          <ul class="file-list">
+            ${filesHtml || `<li class="p" style="color: var(--muted);">No files found in this year.</li>`}
+          </ul>
+        </details>
+      `;
     })
     .join("");
 
@@ -562,8 +575,8 @@ async function renderCourseByTopic({ mount, courseTitle, indexTitleForSlug }) {
       <button id="filter-reset" class="tab" type="button">Reset</button>
     </div>
 
-    <div class="p" id="topic-count" style="margin: 6px 0 10px 0;"></div>
-    <div id="topic-results"></div>
+    <div class="p" id="topic-count"></div>
+    <div id="topic-results" class="topic-results-reserved">${courseSkeleton(4)}</div>
   `;
 
   const typeSel = hasTypeFilter ? document.getElementById("filter-type") : null;
@@ -622,7 +635,7 @@ async function renderCourseByTopic({ mount, courseTitle, indexTitleForSlug }) {
             <a class="link" href="${questionUrl}" target="_blank" rel="noopener" style="font-weight: 800;">
               ${safeText(displayTitle)}
             </a>
-            ${units.length ? `<div class="badges" style="margin-top: 10px;">${unitBadges}</div>` : ""}
+            ${units.length ? `<div class="badges">${unitBadges}</div>` : ""}
           </li>
         `;
       })
