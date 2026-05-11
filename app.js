@@ -270,8 +270,7 @@ async function renderHome() {
 
   app.innerHTML = `
     <section class="hero">
-      <div class="kicker">AP FRQ Archive</div>
-      <h1 class="hero-title">Find AP free-response questions fast.</h1>
+      <h1 class="hero-title">AP FRQ Archive.</h1>
       <p class="hero-subtitle">
         Search AP exam FRQs, scoring guidelines, and related materials by course, year, or topic.
       </p>
@@ -282,7 +281,6 @@ async function renderHome() {
           <input
             id="home-search"
             type="text"
-            placeholder="AP Biology, APUSH, Calculus..."
             value="${safeText(initialQ)}"
           />
         </label>
