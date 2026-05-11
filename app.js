@@ -270,7 +270,7 @@ async function renderHome() {
 
   app.innerHTML = `
     <section class="hero">
-      <h1 class="hero-title">AP FRQ Archive.</h1>
+      <h1 class="hero-title">AP FRQ Archive</h1>
       <p class="hero-subtitle">
         Search AP exam FRQs, scoring guidelines, and related materials by course, year, or topic.
       </p>
