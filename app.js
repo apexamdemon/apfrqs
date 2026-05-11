@@ -2,6 +2,52 @@
 
 const app = document.getElementById("app");
 
+// ---------- Theme ----------
+function setupThemeToggle() {
+  const btn = document.getElementById("theme-toggle");
+  if (!btn) return;
+
+  const label = btn.querySelector(".theme-label");
+
+  function getTheme() {
+    return document.documentElement.getAttribute("data-theme") || "light";
+  }
+
+  function paint() {
+    const theme = getTheme();
+    if (label) label.textContent = theme === "dark" ? "Dark" : "Light";
+    btn.setAttribute("aria-label", `Switch to ${theme === "dark" ? "light" : "dark"} mode`);
+  }
+
+  btn.addEventListener("click", () => {
+    const next = getTheme() === "dark" ? "light" : "dark";
+    document.documentElement.setAttribute("data-theme", next);
+    localStorage.setItem("apfrqs-theme", next);
+    paint();
+  });
+
+  paint();
+}
+
+setupThemeToggle();
+
+// ---------- Favorites ----------
+const FAVORITES_KEY = "apfrqs-favorite-courses";
+
+function getFavoriteCourses() {
+  try {
+    const raw = localStorage.getItem(FAVORITES_KEY);
+    const parsed = raw ? JSON.parse(raw) : [];
+    return new Set(Array.isArray(parsed) ? parsed : []);
+  } catch {
+    return new Set();
+  }
+}
+
+function saveFavoriteCourses(favorites) {
+  localStorage.setItem(FAVORITES_KEY, JSON.stringify(Array.from(favorites)));
+}
+
 // ---------- Meta ----------
 function setMeta({ title, description }) {
   document.title = title;
@@ -76,7 +122,7 @@ function courseSkeleton(count = 6) {
   `;
 }
 
-// COURSE title overrides
+// ---------- Course title overrides ----------
 const COURSE_TITLE_OVERRIDES = {
   "AP Physics 1 Algebra-Based": "AP Physics 1",
   "AP Physics 2 Algebra-Based": "AP Physics 2",
@@ -86,7 +132,7 @@ const COURSE_TITLE_OVERRIDES = {
   "AP World History Modern": "AP World History",
 };
 
-// ---------- HOME CATEGORIES ----------
+// ---------- Home categories ----------
 const HOME_CATEGORIES = {
   Math: [
     "ap-calculus-ab",
@@ -203,6 +249,14 @@ function buildQuestionTitle(item) {
   return base.trim() || "Question";
 }
 
+function getCourseCategory(slug) {
+  const normalized = normalizeCourseKey(slug);
+  for (const [cat, slugs] of Object.entries(HOME_CATEGORIES)) {
+    if (slugs.map(normalizeCourseKey).includes(normalized)) return cat;
+  }
+  return "Course";
+}
+
 // ---------- Pages ----------
 async function renderHome() {
   setMeta({
@@ -215,27 +269,45 @@ async function renderHome() {
   const initialCat = params.get("cat") || "";
 
   app.innerHTML = `
-    <section class="card">
-      <h1 class="h1">AP Exam FRQ Archive</h1>
+    <section class="hero">
+      <div class="kicker">AP FRQ Archive</div>
+      <h1 class="hero-title">Find AP free-response questions fast.</h1>
+      <p class="hero-subtitle">
+        Search AP exam FRQs, scoring guidelines, and related materials by course, year, or topic.
+      </p>
 
       <div class="home-controls">
-        <input
-          id="home-search"
-          type="text"
-          placeholder="Search courses"
-          value="${safeText(initialQ)}"
-        />
+        <label class="control-wrap search-wrap" for="home-search">
+          <span class="control-label">Search courses</span>
+          <input
+            id="home-search"
+            type="text"
+            placeholder="AP Biology, APUSH, Calculus..."
+            value="${safeText(initialQ)}"
+          />
+        </label>
 
-        <select id="home-category">
-          <option value="">All categories</option>
-          ${Object.keys(HOME_CATEGORIES)
-            .sort((a, b) => a.localeCompare(b))
-            .map((cat) => `<option value="${safeText(cat)}">${safeText(cat)}</option>`)
-            .join("")}
-        </select>
+        <label class="control-wrap select-wrap" for="home-category">
+          <span class="control-label">Category</span>
+          <select id="home-category">
+            <option value="">All categories</option>
+            ${Object.keys(HOME_CATEGORIES)
+              .sort((a, b) => a.localeCompare(b))
+              .map((cat) => `<option value="${safeText(cat)}">${safeText(cat)}</option>`)
+              .join("")}
+          </select>
+        </label>
+      </div>
+    </section>
+
+    <section class="content-section">
+      <div class="section-heading-row">
+        <div>
+          <h2 class="section-title">Courses</h2>
+          <p id="home-count" class="section-subtitle home-count-placeholder"></p>
+        </div>
       </div>
 
-      <div id="home-count" class="p home-count-placeholder"></div>
       <div id="home-courses">${homeSkeleton(12)}</div>
     </section>
   `;
@@ -274,6 +346,8 @@ async function renderHome() {
       return aTitle.localeCompare(bTitle);
     });
 
+    const favorites = getFavoriteCourses();
+
     const slugToCats = new Map();
     for (const [cat, slugs] of Object.entries(HOME_CATEGORIES)) {
       for (const s of slugs) {
@@ -302,25 +376,89 @@ async function renderHome() {
       history.replaceState(null, "", url.pathname + (next ? "?" + next : ""));
     }
 
+    function sortWithFavorites(list) {
+      return [...list].sort((a, b) => {
+        const aFav = favorites.has(a.slug);
+        const bFav = favorites.has(b.slug);
+
+        if (aFav && !bFav) return -1;
+        if (!aFav && bFav) return 1;
+
+        const aTitle = COURSE_TITLE_OVERRIDES[a.title] ?? a.title;
+        const bTitle = COURSE_TITLE_OVERRIDES[b.title] ?? b.title;
+
+        const aLast = LAST_COURSES.has(aTitle);
+        const bLast = LAST_COURSES.has(bTitle);
+
+        if (aLast && !bLast) return 1;
+        if (!aLast && bLast) return -1;
+
+        return aTitle.localeCompare(bTitle);
+      });
+    }
+
+    function wireFavoriteButtons() {
+      document.querySelectorAll(".favorite-btn").forEach((btn) => {
+        btn.addEventListener("click", (e) => {
+          e.preventDefault();
+          e.stopPropagation();
+
+          const slug = btn.dataset.slug;
+          if (!slug) return;
+
+          if (favorites.has(slug)) {
+            favorites.delete(slug);
+          } else {
+            favorites.add(slug);
+          }
+
+          saveFavoriteCourses(favorites);
+          applyHomeFilters();
+        });
+      });
+    }
+
     function renderGrid(list) {
-      countEl.textContent = `Showing ${list.length} of ${courses.length}`;
+      const sortedList = sortWithFavorites(list);
+      const favoriteCount = sortedList.filter((c) => favorites.has(c.slug)).length;
+
+      countEl.textContent =
+        favoriteCount > 0
+          ? `Showing ${sortedList.length} of ${courses.length} courses. ${favoriteCount} favorited.`
+          : `Showing ${sortedList.length} of ${courses.length} courses`;
 
       mount.innerHTML = `
         <section class="grid">
-          ${list
+          ${sortedList
             .map((c) => {
               const title = COURSE_TITLE_OVERRIDES[c.title] ?? c.title;
+              const category = getCourseCategory(c.slug);
+              const isFavorite = favorites.has(c.slug);
+
               return `
-                <div class="card course-card">
+                <article class="course-card ${isFavorite ? "is-favorite" : ""}">
+                  <button
+                    class="favorite-btn"
+                    type="button"
+                    data-slug="${escapeHtml(c.slug)}"
+                    aria-label="${isFavorite ? "Remove from favorites" : "Add to favorites"}"
+                    title="${isFavorite ? "Remove from favorites" : "Add to favorites"}"
+                  >
+                    ${isFavorite ? "★" : "☆"}
+                  </button>
+
                   <a class="course-title-link" href="/course/${encodeURIComponent(c.slug)}" data-link>
-                    ${escapeHtml(title)}
+                    <span class="course-title">${escapeHtml(title)}</span>
+                    <span class="course-category">${escapeHtml(category)}</span>
                   </a>
-                </div>
+                </article>
               `;
             })
             .join("")}
         </section>
       `;
+
+      wireFavoriteButtons();
     }
 
     function applyHomeFilters() {
@@ -382,17 +520,21 @@ async function renderCourse(slug) {
       <span>${escapeHtml(slug)}</span>
     </div>
 
-    <section class="card">
-      <h1 class="h1">${escapeHtml(slug)}</h1>
+    <section class="card page-card">
+      <div class="course-header">
+        <div>
+          <div class="kicker">Course archive</div>
+          <h1 class="h1">${escapeHtml(slug)}</h1>
+        </div>
+      </div>
 
-      <div class="tabs">
+      <div class="tabs" role="tablist" aria-label="Course view">
         <button class="tab ${activeView === "year" ? "active" : ""}" data-view="year" type="button">By year</button>
         <button class="tab ${activeView === "topic" ? "active" : ""}" data-view="topic" type="button">By topic</button>
       </div>
 
       <p class="p seo-blurb">
-        This page contains archived ${escapeHtml(slug)} free-response questions,
-        scoring guidelines, and related exam materials from past years.
+        Archived ${escapeHtml(slug)} free-response questions, scoring guidelines, and related exam materials.
       </p>
 
       <div id="course-content">${courseSkeleton(6)}</div>
@@ -559,19 +701,29 @@ async function renderCourseByTopic({ mount, courseTitle, indexTitleForSlug }) {
     <div class="filters">
       ${
         hasTypeFilter
-          ? `<select id="filter-type">
-              <option value="">All question types</option>
-              ${uniqueTypes.map((t) => `<option value="${safeText(t)}">${safeText(t)}</option>`).join("")}
-            </select>`
+          ? `<label class="mini-control">
+              <span class="control-label">Type</span>
+              <select id="filter-type">
+                <option value="">All question types</option>
+                ${uniqueTypes.map((t) => `<option value="${safeText(t)}">${safeText(t)}</option>`).join("")}
+              </select>
+            </label>`
           : `<div class="p" style="margin:0; color: var(--muted);">Question types not available for this course</div>`
       }
 
-      <select id="filter-unit">
-        <option value="">All units</option>
-        ${allUnits.map((u) => `<option value="${safeText(u)}">${safeText(u)}</option>`).join("")}
-      </select>
+      <label class="mini-control">
+        <span class="control-label">Unit</span>
+        <select id="filter-unit">
+          <option value="">All units</option>
+          ${allUnits.map((u) => `<option value="${safeText(u)}">${safeText(u)}</option>`).join("")}
+        </select>
+      </label>
 
-      <input id="filter-search" type="text" placeholder="Search year or unit" />
+      <label class="mini-control search-mini">
+        <span class="control-label">Search</span>
+        <input id="filter-search" type="text" placeholder="Search year or unit" />
+      </label>
+
       <button id="filter-reset" class="tab" type="button">Reset</button>
     </div>
 
@@ -642,7 +794,7 @@ async function renderCourseByTopic({ mount, courseTitle, indexTitleForSlug }) {
       .join("");
 
     results.innerHTML = `
-      <ul class="file-list">
+      <ul class="file-list resource-list">
         ${listHtml || `<li class="p" style="color: var(--muted);">No matching questions.</li>`}
       </ul>
     `;
@@ -753,7 +905,7 @@ function router() {
   if (!matched) {
     setMeta({ title: "404 | APFRQs", description: "Page not found." });
     app.innerHTML = `
-      <section class="card">
+      <section class="card page-card">
         <h1 class="h1">404</h1>
         <p class="p">Page not found.</p>
         <a class="link" href="/" data-link>Go Home</a>
