@@ -1,5 +1,3 @@
-// app.js
-
 const app = document.getElementById("app");
 
 // ---------- Theme ----------
@@ -20,9 +18,10 @@ function setupThemeToggle() {
   }
 
   btn.addEventListener("click", () => {
-    const next = getTheme() === "dark" ? "light" : "dark";
-    document.documentElement.setAttribute("data-theme", next);
-    localStorage.setItem("apfrqs-theme", next);
+    const next = getTheme() === "dark" ? "dark" : "light";
+    const actualNext = getTheme() === "dark" ? "light" : "dark";
+    document.documentElement.setAttribute("data-theme", actualNext);
+    localStorage.setItem("apfrqs-theme", actualNext);
     paint();
   });
 
@@ -255,6 +254,118 @@ function getCourseCategory(slug) {
     if (slugs.map(normalizeCourseKey).includes(normalized)) return cat;
   }
   return "Course";
+}
+
+// ---------- Resource grouping ----------
+function normalizeResourceName(file) {
+  return stripExtension(file?.name || file?.url || "").toLowerCase();
+}
+
+function isFrqFile(name) {
+  return (
+    name.includes("free-response questions") ||
+    name.includes("free response questions") ||
+    name.includes("free-response question") ||
+    name.includes("free response question") ||
+    name.includes("all questions") ||
+    name.includes("frq")
+  );
+}
+
+function isScoringGuidelinesFile(name) {
+  return (
+    name.includes("scoring guidelines") ||
+    name.includes("scoring guideline") ||
+    name.includes("scoring guide") ||
+    name.includes("scoring rubric")
+  );
+}
+
+function isSampleResponsesFile(name) {
+  return (
+    name.includes("sample response") ||
+    name.includes("sample responses") ||
+    name.includes("student sample") ||
+    name.includes("student samples") ||
+    name.includes("samples and commentary") ||
+    name.includes("sample") ||
+    /^q\d+\b/.test(name) ||
+    /\bq\d+\b/.test(name)
+  );
+}
+
+function getResourceRank(file) {
+  const name = normalizeResourceName(file);
+
+  if (isFrqFile(name)) return 0;
+  if (isScoringGuidelinesFile(name)) return 1;
+  if (name.includes("chief reader")) return 2;
+  if (name.includes("scoring statistics")) return 3;
+  if (name.includes("score distribution") || name.includes("score distributions")) return 4;
+  if (name.includes("scoring") || name.includes("score")) return 5;
+  if (isSampleResponsesFile(name)) return 6;
+  return 7;
+}
+
+function getResourceBucket(file) {
+  const name = normalizeResourceName(file);
+
+  if (isFrqFile(name) || isScoringGuidelinesFile(name)) return "primary";
+  if (isSampleResponsesFile(name)) return "samples";
+  return "supplemental";
+}
+
+function sortResourceFiles(files) {
+  return [...files].sort((a, b) => {
+    const ra = getResourceRank(a);
+    const rb = getResourceRank(b);
+    if (ra !== rb) return ra - rb;
+
+    const aName = normalizeResourceName(a);
+    const bName = normalizeResourceName(b);
+    return aName.localeCompare(bName);
+  });
+}
+
+function renderResourceLink(file) {
+  const text = stripExtension(file.name);
+  return `<li><a class="link" href="${file.url}" target="_blank" rel="noopener">${escapeHtml(text)}</a></li>`;
+}
+
+function renderPrimaryResources(files) {
+  const filesHtml = sortResourceFiles(files).map(renderResourceLink).join("");
+
+  return `
+    <div class="primary-resources">
+      <div class="primary-resources-header">
+        <h3>FRQs & Scoring Guidelines</h3>
+      </div>
+
+      ${
+        filesHtml
+          ? `<ul class="file-list primary-resource-list">${filesHtml}</ul>`
+          : `<p class="empty-resource">No FRQ or scoring guideline files found for this year.</p>`
+      }
+    </div>
+  `;
+}
+
+function renderDropdownResources({ title, files }) {
+  if (!files.length) return "";
+
+  const filesHtml = sortResourceFiles(files).map(renderResourceLink).join("");
+
+  return `
+    <details class="resource-dropdown">
+      <summary class="resource-dropdown-summary">
+        <span>${escapeHtml(title)}</span>
+        <span class="resource-count">${files.length}</span>
+      </summary>
+      <ul class="file-list dropdown-resource-list">
+        ${filesHtml}
+      </ul>
+    </details>
+  `;
 }
 
 // ---------- Pages ----------
@@ -614,39 +725,45 @@ function renderCourseByYear({ mount, courseTitle, index }) {
     .map((y) => {
       const files = [...(y.files || [])];
 
-      const orderedFiles = files.sort((a, b) => {
-        const aName = (a.name || "").toLowerCase();
-        const bName = (b.name || "").toLowerCase();
+      const grouped = {
+        primary: [],
+        supplemental: [],
+        samples: [],
+      };
 
-        const rank = (name) => {
-          if (name.includes("free-response questions") || name.includes("free response questions")) return 0;
-          if (name.includes("scoring guidelines")) return 1;
-          if (name.includes("scoring")) return 2;
-          if (name.includes("score")) return 3;
-          if (name.includes("sample")) return 5;
-          return 4;
-        };
+      for (const file of files) {
+        grouped[getResourceBucket(file)].push(file);
+      }
 
-        const ra = rank(aName);
-        const rb = rank(bName);
-        if (ra !== rb) return ra - rb;
-        return aName.localeCompare(bName);
-      });
-
-      const filesHtml = orderedFiles
-        .map((f) => {
-          const text = stripExtension(f.name);
-          return `<li><a class="link" href="${f.url}" target="_blank" rel="noopener">${escapeHtml(text)}</a></li>`;
-        })
-        .join("");
+      const totalFiles = files.length;
 
       return `
         <details class="details">
           <summary class="summary">${escapeHtml(y.year)}</summary>
-          <div class="seo-link">${escapeHtml(courseTitle)} ${escapeHtml(y.year)} resources</div>
-          <ul class="file-list">
-            ${filesHtml || `<li class="p" style="color: var(--muted);">No files found in this year.</li>`}
-          </ul>
+          <div class="seo-link">
+            ${escapeHtml(courseTitle)} ${escapeHtml(y.year)} resources
+            ${totalFiles ? ` · ${totalFiles} file${totalFiles === 1 ? "" : "s"}` : ""}
+          </div>
+
+          ${
+            totalFiles
+              ? `<div class="year-resources">
+                  ${renderPrimaryResources(grouped.primary)}
+
+                  <div class="secondary-resource-dropdowns">
+                    ${renderDropdownResources({
+                      title: "Sample Responses",
+                      files: grouped.samples,
+                    })}
+
+                    ${renderDropdownResources({
+                      title: "Reports, Statistics & Other Files",
+                      files: grouped.supplemental,
+                    })}
+                  </div>
+                </div>`
+              : `<p class="p" style="color: var(--muted); margin-top: 14px;">No files found in this year.</p>`
+          }
         </details>
       `;
     })
