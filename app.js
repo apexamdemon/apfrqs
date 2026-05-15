@@ -142,8 +142,8 @@ const HOME_CATEGORIES = {
   Science: [
     "ap-biology",
     "ap-chemistry",
-    "ap-physics-1",
-    "ap-physics-2",
+    "ap-physics-1-algebra-based",
+    "ap-physics-2-algebra-based",
     "ap-physics-c-mechanics",
     "ap-physics-c-electricity-and-magnetism",
     "ap-environmental-science",
@@ -178,6 +178,7 @@ const HOME_CATEGORIES = {
     "ap-italian-language-and-culture",
     "ap-latin",
     "ap-german-language-and-culture",
+    "ap-french-language-and-culture"
   ],
   Arts: [
     "ap-2-d-art-and-design",
